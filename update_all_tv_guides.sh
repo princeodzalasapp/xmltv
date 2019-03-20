@@ -23,6 +23,13 @@ echo -e "\n# Update tv_guide_be.xml\n"
 ./be/tv_grab_be --config-file ./be/tv_grab_be_config.txt --days 7 --ch_prefix "" --ch_postfix "" --output ./tv_guide_be.xml
 
 
+echo -e "\n# Update tv_guide_all.xml\n"
+tv_sort --by-channel --output tv_guide_fr_sorted.xml tv_guide_fr.xml
+tv_sort --by-channel --output tv_guide_be_sorted.xml tv_guide_be.xml
+tv_merge -i tv_guide_fr_sorted.xml -m tv_guide_be_sorted.xml -o tv_guide_all.xml
+rm tv_guide_fr_sorted.xml
+rm tv_guide_be_sorted.xml
+
 now=$(date +"%d/%m/%Y")
 
 git add --all
