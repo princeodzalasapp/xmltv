@@ -19,6 +19,10 @@ echo -e "\n# Update tv_guide_fr.xml\n"
 ./fr/tv_grab_fr --config-file ./fr/tv_grab_fr_config.txt --days 7 --ch_prefix "" --ch_postfix "" --output ./tv_guide_fr.xml
 
 
+echo -e "\n# Update tv_guide_be.xml\n"
+./be/tv_grab_be --config-file ./be/tv_grab_be_config.txt --days 7 --ch_prefix "" --ch_postfix "" --output ./tv_guide_be.xml
+
+
 now=$(date +"%d/%m/%Y")
 
 git add --all
