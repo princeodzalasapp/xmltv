@@ -36,7 +36,7 @@ rm tv_guide_be_sorted.xml
 now=$(date +"%d/%m/%Y")
 
 git add --all
-git commit -m "$Auto update TV guides ($now)"
+git commit -m "Auto update TV guides ($now)"
 git push
 echo -e "\t* Changes have been pushed"
 
