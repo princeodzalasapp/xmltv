@@ -1,0 +1,98 @@
+- Start script at lundi 25 mars 2019, 20:35:59 (UTC+0100)
+- Script directory: /home/admin/xmltv --> Let's move to this directory
+
+- Current workning directory: /home/admin/xmltv
+- To avoid any git conflict we do a force pull first
+
+Récupération de origin
+Depuis https://github.com/Catch-up-TV-and-More/xmltv
+   195bd8d..c2feb9c  master     -> origin/master
+HEAD est maintenant à c2feb9c Fix typo
+
+# Update tv_guide_fr.xml
+
+assuming default UTF-8 encoding for output
+getting listings: ##################################################
+Grabber process finished in 1205 seconds.
+
+# Update tv_guide_be.xml
+
+assuming default UTF-8 encoding for output
+getting listings: ##################################################
+Grabber process finished in 152 seconds.
+
+# Update tv_guide_all.xml
+
+overlapping programmes on channel C34.api.telerama.fr:
+    Zapsport (L'actualité du sport sous forme de zapping)	at 20190326035500 +0100-|20190326040000 +0100
+and Late Football Club	at 20190326035500 +0100-|20190326045500 +0100
+overlapping programmes on channel C459.api.telerama.fr:
+    Cut	at 20190331014400 +0100-|20190331031200 +0200
+and Cut	at 20190331030500 +0200-|20190331033300 +0200
+overlapping programmes on channel C459.api.telerama.fr:
+    Cut	at 20190331030500 +0200-|20190331033300 +0200
+and Cut	at 20190331031200 +0200-|20190331033900 +0200
+overlapping programmes on channel C459.api.telerama.fr:
+    Cut	at 20190331031200 +0200-|20190331033900 +0200
+and Couleurs outremers	at 20190331033300 +0200-|20190331040500 +0200
+overlapping programmes on channel C459.api.telerama.fr:
+    Couleurs outremers	at 20190331033300 +0200-|20190331040500 +0200
+and Cut	at 20190331033900 +0200-|20190331040500 +0200
+overlapping programmes on channel C78.api.telerama.fr:
+    Les Dalton	at 20190325085000 +0100-|20190325085500 +0100
+and Les Dalton	at 20190325085000 +0100-|20190325093000 +0100
+overlapping programmes on channel C78.api.telerama.fr:
+    Les Dalton	at 20190325085000 +0100-|20190325093000 +0100
+and Les Dalton	at 20190325085500 +0100-|20190325090500 +0100
+overlapping programmes on channel C78.api.telerama.fr:
+    Sam le pompier	at 20190325120500 +0100-|20190325121500 +0100
+and Zouzous	at 20190325120500 +0100-|20190325132500 +0100
+overlapping programmes on channel C78.api.telerama.fr:
+    Zouzous	at 20190325120500 +0100-|20190325132500 +0100
+and Sam le pompier	at 20190325121500 +0100-|20190325122500 +0100
+overlapping programmes on channel C78.api.telerama.fr:
+    Titeuf	at 20190325160000 +0100-|20190325161000 +0100
+and Titeuf	at 20190325160000 +0100-|20190325163000 +0100
+overlapping programmes on channel C78.api.telerama.fr:
+    Titeuf	at 20190325160000 +0100-|20190325163000 +0100
+and Titeuf	at 20190325161000 +0100-|20190325161500 +0100
+overlapping programmes on channel C187.api.telerama.fr:
+    Le jour où tout a basculé	at 20190325152500 +0100-|20190325155000 +0100
+and Le jour où tout a basculé	at 20190325153000 +0100-|20190325160000 +0100
+overlapping programmes on channel C187.api.telerama.fr:
+    Le jour où tout a basculé	at 20190325153000 +0100-|20190325160000 +0100
+and Le jour où tout a basculé	at 20190325155000 +0100-|20190325161000 +0100
+overlapping programmes on channel C187.api.telerama.fr:
+    Le jour où tout a basculé	at 20190325155000 +0100-|20190325161000 +0100
+and Le jour où tout a basculé	at 20190325160000 +0100-|20190325162500 +0100
+overlapping programmes on channel C187.api.telerama.fr:
+    Le jour où tout a basculé	at 20190325160000 +0100-|20190325162500 +0100
+and Le jour où tout a basculé	at 20190325161000 +0100-|20190325164000 +0100
+overlapping programmes on channel C187.api.telerama.fr:
+    Le jour où tout a basculé	at 20190325161000 +0100-|20190325164000 +0100
+and Le jour où tout a basculé	at 20190325162500 +0100-|20190325165500 +0100
+overlapping programmes on channel C187.api.telerama.fr:
+    Le jour où tout a basculé	at 20190325162500 +0100-|20190325165500 +0100
+and Le jour où tout a basculé	at 20190325164000 +0100-|20190325170000 +0100
+overlapping programmes on channel C892.api.telerama.fr:
+    Les aventures du Chat Potté	at 20190325182500 +0100-|20190325184900 +0100
+and #danslatoile	at 20190325184800 +0100-|20190325185100 +0100
+overlapping programmes on channel C892.api.telerama.fr:
+    #danslatoile	at 20190325184800 +0100-|20190325185100 +0100
+and #danslatoile	at 20190325184900 +0100-|20190325185100 +0100
+overlapping programmes on channel C892.api.telerama.fr:
+    #danslatoile	at 20190325185100 +0100-|20190325185500 +0100
+and #danslatoile	at 20190325185100 +0100-|20190325185500 +0100
+overlapping programmes on channel C892.api.telerama.fr:
+    Wallons, nous !	at 20190326002000 +0100-|20190326005000 +0100
+and JT traduction gestuelle	at 20190326002500 +0100-|20190326010000 +0100
+overlapping programmes on channel C892.api.telerama.fr:
+    JT traduction gestuelle	at 20190326002500 +0100-|20190326010000 +0100
+and JT traduction gestuelle	at 20190326005000 +0100-|20190326012600 +0100
+overlapping programmes on channel C892.api.telerama.fr:
+    JT traduction gestuelle	at 20190326005000 +0100-|20190326012600 +0100
+and Météo internationale	at 20190326010000 +0100-|20190326010500 +0100
+overlapping programmes on channel C892.api.telerama.fr:
+    Boucle de nuit	at 20190326010500 +0100-|20190326060000 +0100
+and Météo internationale	at 20190326012600 +0100-|20190326013000 +0100
+Writing : 63 channels 15937 programmes 
