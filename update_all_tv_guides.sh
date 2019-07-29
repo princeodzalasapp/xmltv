@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-now2=`date`
-echo -e "- Start script at $now2"
+now=$(date +"%d/%m/%Y")
+echo -e "- Start script at $now"
 
 BASEDIR=$(dirname "$0")
 
@@ -33,7 +33,6 @@ rm tv_guide_fr_sorted.xml
 rm tv_guide_be_sorted.xml
 
 
-now=$(date +"%d/%m/%Y")
 
 git add --all
 git commit -m "Auto update TV guides ($now)"
