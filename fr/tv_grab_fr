@@ -263,6 +263,8 @@ END
 
 use warnings;
 use strict;
+
+use utf8;
 use XMLTV::Version '$Id: tv_grab_fr_telerama,v 1.35 2018/11/08 22:21:00 zubrick Exp $ ';
 #use XMLTV::Capabilities qw/baseline manualconfig cache/;
 use XMLTV::Capabilities qw/baseline manualconfig/;
@@ -287,9 +289,20 @@ use POSIX;
 use Encode;
 #use Encode::Detect;
 use JSON;
-#use Data::Dumper;
+use Data::Dumper;
 use Date::Parse;
 use Digest::HMAC_SHA1 qw(hmac_sha1_hex);
+use open ':std', ':encoding(UTF-8)';
+
+# subs
+sub get_channels( $ );
+sub return_other_channels( );
+sub build_other_channel_filename();
+sub get_more_channel_icon( $ );
+sub process_channel_grid_all_pages( $$$$ );
+sub process_channel_grid_page( $$$$$$ );
+sub debug_print( @ );
+sub get_page( $$ );
 
 #***************************************************************************
 # Main declarations
@@ -346,7 +359,7 @@ $opt_per_weeks = 0;
 $opt_quiet  = 0;
 # The website is able to store at least 11 days from now
 my $default_opt_days = 11;
-$opt_output = '-';              # standard output
+
 GetOptions('days=i'     => \$opt_days,
            'help'         => \$opt_help,
            'output=s'  => \$opt_output,
@@ -467,13 +480,6 @@ if (-e "./logo-path.txt") {
 #***************************************************************************
 # Sub sections
 #***************************************************************************
-sub get_channels( $ );
-sub return_other_channels( );
-sub build_other_channel_filename();
-sub get_more_channel_icon( $ );
-sub process_channel_grid_page( $$$$$ );
-sub debug_print( @ );
-sub get_page( $$ );
 
 sub mkjsonname($$) {
   my ($u, %p) = ($_[0], %{$_[1]});
@@ -537,7 +543,7 @@ sub trim {
 #***************************************************************************
 if ($mode eq 'configure') {
   XMLTV::Config_file::check_no_overwrite($config_file);
-  open(CONF, ">$config_file") or die "Cannot write to $config_file: $!";
+  open(CONF, '>:utf8', $config_file) or die "Cannot write to $config_file: $!";
 
   #my $bar = new XMLTV::ProgressBar('getting channel lists', scalar grep { $_ } @gtwant) if not $opt_quiet;
   my %channels_for;
@@ -665,12 +671,12 @@ if ($mode eq 'grab') {
 #***************************************************************************
 my %w_args;
 if (defined $opt_output) {
-  my $fh = new IO::File(">$opt_output");
+  my $fh = new IO::File("$opt_output",'>:utf8');
   die "cannot write to $opt_output: $!" if not defined $fh;
   $w_args{OUTPUT} = $fh;
 }
 
-$w_args{ENCODING} = 'utf-8';
+$w_args{encoding} = 'UTF-8';
 #$w_args{days} = $opt_days;
 #$w_args{offset} = $opt_offset;
 #$w_args{cutoff} = "000000";
@@ -708,7 +714,6 @@ if ($mode eq 'list-channels') {
     my $ch_xid = $channel_prefix.$ch_did.$channel_postfix;
     $writer->write_channel({ id => $ch_xid,
                              'display-name' => [ [ $channels{$ch_did}{name} ] ],
-                             #                                                                               'icon' => [{src=>$ROOT_URL.$channels{$ch_did}{icon}}] })
                              'icon' => [{src=> $channels{$ch_did}{icon} }] })
       unless $seen{$ch_xid}++;
   }
@@ -726,7 +731,7 @@ die if $mode ne 'grab';
 #***************************************************************************
 # Build the working list of channel name/channel id
 #***************************************************************************
-my (%channels, $chicon, $chid, $chname);
+my (%channels, $chicon, $chid, $chname, $chid_name);
 my $line_num = 1;
 foreach (@config_lines) {
   ++ $line_num;
@@ -735,10 +740,16 @@ foreach (@config_lines) {
   # Here we store the Channel name with the ID in the config file, as the XMLTV id = Website ID
   if (/^channel:?\s+(\S+)\s+([^\#]+);([^\#]+)/) {
     $chid = $1;
-    $chname = $2;
+    $chname = decode('UTF-8',$2);
     $chicon = $3;
     $chname =~ s/\s*$//;
-    $channels{$line_num} = {'chid'=>$chid, 'name'=>$chname, 'icon'=>$chicon};
+    if($chid =~ /(\d+):(.*)/) {
+      $chid = $1;
+      $chid_name = $2;
+    } else {
+      $chid_name = '';
+    }
+    $channels{$line_num} = {'chid'=>$chid, 'name'=>$chname, 'icon'=>$chicon, 'chid_name'=>$chid_name};
   } else {
     warn "$config_file:$line_num: bad line $_\n";
   }
@@ -759,29 +770,21 @@ foreach $ind (sort { $a <=> $b } keys %channels) {
   my $i;
   my $dayoff;
   my $json_name = "";
+  my $chid_name = "";
 
-  $writer->write_channel({ id => $channel_prefix.$chid.$channel_postfix, 'display-name' => [[$channels{$ind}{name}]], 'icon' => [{src=>$channels{$ind}{icon}}]});
+  if($channels{$ind}{chid_name} ne '') {
+    $chid_name = $channels{$ind}{chid_name};
+  } else {
+    $chid_name = $channel_prefix.$chid.$channel_postfix;
+  }
+  $writer->write_channel({ id => $chid_name, 'display-name' => [[$channels{$ind}{name}]], 'icon' => [{src=>$channels{$ind}{icon}}]});
   if ( $opt_per_days ) {
     for ($i=$opt_offset; $i < $opt_offset+$opt_days; $i++ ) {
-      #debug_print( "i: $i\n");
-      $dayoff = strftime("%Y-%m-%d", gmtime(time() + 3600 * 24 * $i));
-      #debug_print( "dayoff  : " . gmtime(time() + 3600 * 24 * $i) ."\n");
-
-      $url = mkurl($CHANNEL_GRID_PAGE, { 'dates' => "$dayoff", 'id_chaines' => "$chid", 'nb_par_page' => "100" });
-      if ($show_url) {
-        print STDERR $url."\n";
-      }
-      if ($save_json) {
-        $json_name = mkjsonname("", { 'dates' => "$dayoff", 'id_chaines' => "$chid" });
-        # debug_print($json_name."\n");
-      }
-
-      push @to_get, [ $url, $chid, $i, $json_name ];
+      push @to_get, [ $chid, $i, $chid_name ];
     }
   } else {
     foreach (@offsets) {
-      #$url = $GRID_BY_CHANNEL . "$chid&h=$_";
-      push @to_get, [ $url, $chid, $_ ];
+      push @to_get, [ $chid, $_, $chid_name ];
     }
   }
 }
@@ -791,8 +794,8 @@ my $bar = new XMLTV::ProgressBar('getting listings', scalar @to_get)  if not $op
 Date_Init('SetDate=now,UTC');
 
 foreach (@to_get) {
-  my ($url, $chid, $slot, $jsname) = @$_;
-  process_channel_grid_page($writer, $chid, $url, $slot, $jsname);
+  my ($chid, $offset, $chid_name) = @$_;
+  process_channel_grid_all_pages($writer, $chid, $offset, $chid_name);
   update $bar if not $opt_quiet;
 }
 
@@ -941,25 +944,68 @@ sub get_page_json( $$ ) {
   return $json_hash;
 }
 
-sub process_channel_grid_page( $$$$$ ) {
-  my ($writer, $chid, $url, $slot, $jsname) = @_;
+sub process_channel_grid_all_pages ( $$$$ ) {
+  # some channels need more than 1 page
+  # ex : channel 483:BabyTV.fr Baby TV;http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/483.png
+  # needs 4 pages ( ~ 340 programmes per day )
+  my ($writer, $chid, $offset, $chid_name) = @_;
+  my $dayoff = strftime("%Y-%m-%d", gmtime(time() + 3600 * 24 * $offset));
+  my ($jsname, $nb);
+  my $page = 1;
+  my $json_name;
+  do {
+    my $url = mkurl($CHANNEL_GRID_PAGE, { 'dates' => $dayoff, 'id_chaines' => $chid, 'page' => $page });
+    if ($show_url) { print STDERR $url."\n"; }
+    if ($save_json) { $jsname = mkjsonname("", { 'dates' => $dayoff, 'id_chaines' => $chid, 'page' => $page }); }
+    $nb = process_channel_grid_page($writer, $chid, $url, $offset, $jsname, $chid_name);
+    $page++;
+  } until ($nb < 100);
+}
+
+sub process_channel_grid_page( $$$$$$ ) {
+  my ($writer, $chid, $url, $slot, $jsname, $chid_name) = @_;
 
   if (!@genres) {
     get_channels("categories.json");
   }
 
   my $json_hash = get_page_json( $url, $jsname );
-  if (!$json_hash->{'status'} || $json_hash->{'status'} != 200) {
-    print STDERR "Status différent de 200, essai de nouveau";
-    $json_hash = get_page_json( $url, $jsname );
+  # no data ?
+  if(!defined $json_hash->{'donnees'}) { return 0; }
+  #print "Getting URL : ".$url."\n";
+  #print Dumper($json_hash->{pagination});
+
+  # flag overlapping
+  # check all, starting at end
+  my $nb = scalar @{ $json_hash->{'donnees'} };
+  my $start = 0;
+  $json_hash->{'donnees'}[$nb-1]{'overlap'} = 0;
+  for (my $i=$nb-1;$i>=1;$i--) {
+    my $stop_prev = $json_hash->{'donnees'}[$i-1]{'horaire'}{'fin'};
+    $stop_prev  =~ tr/:\$\ -//d;
+    if($json_hash->{'donnees'}[$i]{'overlap'} != 1) {
+      $start = $json_hash->{'donnees'}[$i]{'horaire'}{'debut'};
+      $start =~ tr/:\$\ -//d;
+    }
+    if($stop_prev > $start) {
+      $json_hash->{'donnees'}[$i-1]{'overlap'} = 1;
+    } else {
+      $json_hash->{'donnees'}[$i-1]{'overlap'} = 0;
+    }
+  }
+  # if last programme ends >= 06:00:00 flag it
+  # to avoid duplicate between day and day+1
+  if($json_hash->{'donnees'}[$nb-1]{'horaire'}{'fin'} =~ m/(\d+):\d+:\d+$/) {
+    if( $1 >= 6) { $json_hash->{'donnees'}[$nb-1]{'overlap'} = 1; }
   }
 
-  #print "Getting URL : ".$url."\n";
   my @lines = @{ $json_hash->{'donnees'} };
-
   foreach my $line ( @lines ) {
     # debug_print "Found line : " . $line . "\n";
     # print STDERR Dumper($line);
+
+    # skip overlaping and duplicate
+    if($line->{'overlap'}) { next;}
 
     $chid = $line->{'id_chaine'};
 
@@ -995,7 +1041,7 @@ sub process_channel_grid_page( $$$$$ ) {
 
     $startdate = utc_offset( $startdate, "+0100");
     $enddate  = utc_offset( $enddate , "+0100");
-    my %prog = (channel  => $channel_prefix.$chid.$channel_postfix,
+    my %prog = (channel  => $chid_name,
                 title       => [ [ $line->{'titre'} ] ], # lang unknown
                 start       => $startdate,
                 stop         => $enddate
@@ -1084,25 +1130,13 @@ sub process_channel_grid_page( $$$$$ ) {
     }
     $prog{'date'} = $line->{'annee_realisation'} if ($line->{'annee_realisation'});
     $prog{country} = [[$line->{'libelle_nationalite'}]] if ($line->{'libelle_nationalite'});
-    if ($line->{'flags'}{'est_ar16x9'}) {
-      $prog{video}{aspect} = "16:9";
-    } elsif ($line->{'flags'}{'est_ar4x3'}) {
-      $prog{video}{aspect} = "4:3";
-    }
     $prog{'audio'}{stereo} = "bilingual" if ($line->{'flags'}{'est_vm'});
     #$prog{title_orig} = $line->{'titre_original'} if ($line->{'titre_original'});
 
     $crypted = 0 if ($line->{'flags'}{'est_clair'});
     $prog{subtitles} = [ { type => 'onscreen', language => ['fr'] } ] if ($line->{'flags'}{'est_vost'});
-    $prog{video}{quality} = "HDTV" if ($line->{'flags'}{'est_hd'});
     $prog{premiere} = [] if ($line->{'flags'}{'est_inedit'});
     $prog{'previously-shown'} = {} if ($line->{'flags'}{'est_redif'});
-    if ($line->{'flags'}{'est_stereo'}) {
-      $prog{'audio'}{stereo} = "stereo";
-    } elsif ($line->{'flags'}{'est_dolby'}) {
-      $prog{'audio'}{stereo} = "dolby";
-    }
-    $prog{showview} = $line->{'showview'};
 
     # skip crypted shows for Canal+ or Paris Premiere
     if ( ($chname =~ m/Canal+/) && ($crypted == 1) ) {
@@ -1201,7 +1235,7 @@ sub process_channel_grid_page( $$$$$ ) {
       $description =~ tr/\x00-\x08\x0B\x0C\x0E-\x1F//d;
 
       if ( $no_htmltags ) {
-          $description =~ s/<(\/|)\w+>//g;
+          $description =~ s/<\/?[^>]+>//g;
       }
       push @{$prog{desc}}, [$description, $LANG ];
     }
@@ -1235,6 +1269,7 @@ sub process_channel_grid_page( $$$$$ ) {
     $writer->write_programme(\%prog);
 
   }
+  return $nb;
 }
 
 # use an integrated sub to set a specific user agent
@@ -1253,7 +1288,6 @@ sub get_page( $$ ) {
   }
 
   my $r = $ua->get($url);
-
   # Then start the delay from this time on the next fetch - so we
   # make the gap _between_ requests rather than from the start of
   # one request to the start of the next.  This punishes modem users
@@ -1263,22 +1297,18 @@ sub get_page( $$ ) {
 
   $last_get_time = time();
 
-  if ($r->is_error) {
-    # In case of error try at least one more time.
+  if ($r->is_error && $r->code != 404) {
+    # In case of error try at least one more time if its not a 404
+    # 404 are normal when there is no programme
     # Skip the channel if it fails again
-    #
-    #die "could not fetch $url, error: " . $r->status_line . ", aborting\n" if $FailOnError;
     $errors{$url} = $r->status_line;
     print STDERR "Erreur ".$errors{$url}." en récupérant ".$url."\n";
-
-    sleep 3;
-
+    sleep(3);
     my $r = $ua->get($url);
-    if ($r->is_error) {
+    if ($r->is_error && $r->code != 404) {
       print STDERR "Seconde erreur ".$errors{$url}." en récupérant ".$url."\n";
       return undef;
     } else {
-
       if ($save_json) {
         # Création du fichier 'fichier.txt'
         open (JSFIC, ">$jsname") || die ("Vous ne pouvez pas créer le fichier \"$jsname\"");
@@ -1286,7 +1316,6 @@ sub get_page( $$ ) {
         print JSFIC $r->content;
         close (JSFIC);
       }
-
       return $r->content;
     }
   } else {
@@ -1300,5 +1329,4 @@ sub get_page( $$ ) {
     }
     return $r->content;
   }
-
 }
