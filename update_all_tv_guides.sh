@@ -3,9 +3,9 @@
 BASEDIR=$(dirname "$0")
 cd $BASEDIR
 cwd=$(pwd)
-LOGFILE=$cwd/log.txt
+LOGFILE=/tmp/xmltv_log.txt
 
-now=$(date +"%d/%m/%Y")
+now=$(date +"%d/%m/%Y %H:%M:%S-%Z")
 echo -e "- Start script at $now\n" > ${LOGFILE}
 
 echo -e "- To avoid any git conflict we do a force pull first\n" >> ${LOGFILE}
@@ -40,9 +40,11 @@ rm tv_guide_be_lite.zip
 zip tv_guide_be_lite.zip tv_guide_be_lite.xml
 rm tv_guide_be_lite.xml
 
-git add --all 2>&1 | tee -a ${LOGFILE}
-git commit -m "Auto update TV guides ($now)" 2>&1 | tee -a ${LOGFILE}
-git push 2>&1 | tee -a ${LOGFILE}
-echo -e "\t* Changes have been pushed" >> ${LOGFILE}
+mv $LOGFILE $cwd/log.txt
+
+git add --all
+git commit -m "Auto update TV guides ($now)"
+git push
+echo -e "\t* Changes have been pushed"
 
 exit 0
