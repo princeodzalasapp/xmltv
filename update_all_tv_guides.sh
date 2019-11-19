@@ -40,7 +40,7 @@ rm tv_guide_be_lite.zip
 zip tv_guide_be_lite.zip tv_guide_be_lite.xml
 rm tv_guide_be_lite.xml
 
-mv $LOGFILE $cwd/log.txt
+mv "${LOGFILE}" "${cwd}/log.txt"
 
 git add --all
 git commit -m "Auto update TV guides ($now)"
