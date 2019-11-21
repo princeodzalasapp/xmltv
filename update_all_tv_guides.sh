@@ -6,14 +6,14 @@ cd $BASEDIR
 
 now=$(date +"%d/%m/%Y %H:%M:%S-%Z")
 
-#BRANCH="master"
-BRANCH="dev"
+BRANCH="master"
+#BRANCH="dev"
 
-#FR_GUIDE_CONFIG="./fr/tv_grab_fr_config.txt"
-FR_GUIDE_CONFIG="./fr/tv_grab_fr_config_test.txt"
+FR_GUIDE_CONFIG="./fr/tv_grab_fr_config.txt"
+#FR_GUIDE_CONFIG="./fr/tv_grab_fr_config_test.txt"
 
-#BE_GUIDE_CONFIG="./be/tv_grab_be_config.txt"
-BE_GUIDE_CONFIG="./be/tv_grab_be_config_test.txt"
+BE_GUIDE_CONFIG="./be/tv_grab_be_config.txt"
+#BE_GUIDE_CONFIG="./be/tv_grab_be_config_test.txt"
 
 force_pull () {
     git fetch --all
