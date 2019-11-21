@@ -91,13 +91,13 @@ update_1_day_guides () {
         
         # FR guide
         file_name_xml="./tv_guide_fr_${futuredate}.xml"
-        if [ ! -f $file_name ]; then
+        if [ ! -f $file_name_xml ]; then
             tv_grab_fr 1 "$i" "./tv_guide_fr_${currentdate}.xml"
         fi
 
         # BE guide
         file_name_xml="./tv_guide_be_${futuredate}.xml"
-        if [ ! -f $file_name ]; then
+        if [ ! -f $file_name_xml ]; then
             tv_grab_be 1 "$i" "./tv_guide_be_${currentdate}.xml"
         fi
     done
