@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="XMLTV" generator-info-url="http://mythtv-fr.org/" source-info-url="https://api.telerama.fr">
-  <channel id="C192.api.telerama.fr">
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/192.png" />
-    <display-name>TF1</display-name>
-  </channel>
   <channel id="C168.api.telerama.fr">
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
     <display-name>RTL TVI</display-name>
+  </channel>
+  <channel id="C192.api.telerama.fr">
+    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/192.png" />
+    <display-name>TF1</display-name>
   </channel>
   <programme channel="C168.api.telerama.fr" start="20191120082500 +0100" stop="20191120105500 +0100">
     <title>Télé-achat</title>
