@@ -2,10 +2,541 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
 <tv source-info-url="https://api.telerama.fr" source-data-url="https://api.telerama.fr" generator-info-name="XMLTV" generator-info-url="http://mythtv-fr.org/">
+  <channel id="C1280.api.telerama.fr">
+    <display-name>Ketnet</display-name>
+    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
+  </channel>
+  <channel id="C164.api.telerama.fr">
+    <display-name>La Une</display-name>
+    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
+  </channel>
   <channel id="C168.api.telerama.fr">
     <display-name>RTL TVI</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
   </channel>
+  <channel id="C187.api.telerama.fr">
+    <display-name>La Deux</display-name>
+    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
+  </channel>
+  <channel id="C23.api.telerama.fr">
+    <display-name>één</display-name>
+    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
+  </channel>
+  <channel id="C377.api.telerama.fr">
+    <display-name>Plug RTL</display-name>
+    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
+  </channel>
+  <channel id="C50.api.telerama.fr">
+    <display-name>Club RTL</display-name>
+    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
+  </channel>
+  <channel id="C892.api.telerama.fr">
+    <display-name>La Trois</display-name>
+    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
+  </channel>
+  <programme start="20191124070000 +0100" stop="20191124073000 +0100" channel="C164.api.telerama.fr">
+    <title>Une brique dans le ventre</title>
+    <desc lang="fr">Cédric Wautier et Virginie Jacobs visitent de nouvelles habitations insolites en Belgique comme à l'étranger. Comme toujours, ces découvertes de maisons, appartements et lofts de tous budgets, sont l'occasion de prodiguer des conseils juridiques, pratiques, techniques, énergétiques et esthétiques. Dans leur rubrique, les «Brick experts» font la part belle à la créativité des architectes et à l'enthousiasme des propriétaires, tandis que Robert et Valentine bricolent pour aider les particuliers à surmonter certains obstacles. Ils touchent à tout : gros oeuvre, déco et même idées récup.</desc>
+    <credits>
+      <presenter>Cédric Wautier</presenter>
+      <presenter>Virginie Jacobs</presenter>
+    </credits>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/280631a5-e820-4724-920a-9d9ef5f9de5d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124073000 +0100" stop="20191124080000 +0100" channel="C164.api.telerama.fr">
+    <title>En quête de sens</title>
+    <sub-title>Il était une foi... L'écologie intégrale</sub-title>
+    <category lang="fr">magazine religieux</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b25faeac-786e-45f0-a36a-14809b78e0bf.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124080000 +0100" stop="20191124090000 +0100" channel="C164.api.telerama.fr">
+    <title>Cultes protestants</title>
+    <category lang="fr">emission religieuse</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4165cf32-ae0a-45f4-8d7a-ae04b8157ecb.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124090000 +0100" stop="20191124094000 +0100" channel="C164.api.telerama.fr">
+    <title>OpinionS</title>
+    <sub-title>MR</sub-title>
+    <category lang="fr">magazine politique</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124094000 +0100" stop="20191124103000 +0100" channel="C164.api.telerama.fr">
+    <title>Inside</title>
+    <desc lang="fr">Découverte des dessous d'une captation télé. Comme chaque mois, Inside mouille son maillot et cette fois fait comprendre comment on devient producteur ou pourquoi certaines émissions disparaissent.</desc>
+    <credits>
+      <presenter>Guillaume Drigeard</presenter>
+      <presenter>Jessica Riga</presenter>
+    </credits>
+    <category lang="fr">magazine du multimédia</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/152d20fc-2138-4a19-808d-632d7ac16fa5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124103000 +0100" stop="20191124110000 +0100" channel="C164.api.telerama.fr">
+    <title>Stoemp, pèkèt... et des rawettes !</title>
+    <desc lang="fr">Un parcours chaleureux, sympathique et bienveillant pour découvrir et faire vivre les différents patois de Wallonie, ses traditions, sa verve et son humour. Un invité le rejoind, mais aussi des musiciens, sans oublier quelques dégustations de produits du terroir. Thierry présentera également sa chronique, sous forme d'un portrait, d'une rencontre. Il partira à la recherche de personnages porteurs d'énergie positive. Il promet aussi des séquences humoristiques, des parodies et des surprises, notamment pour le web et les réseaux sociaux. Sans oublier la séquence culinaire et les recettes régionales présentées par Louise Moor et un cuisinier du terroir. L'émission est sous-titrée en français et se clôturera par un récapitulatif des mots et expressions à retenir.</desc>
+    <credits>
+      <presenter>Thierry de Coster</presenter>
+    </credits>
+    <category lang="fr">magazine des loisirs</category>
+    <length units="minutes">30</length>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124110000 +0100" stop="20191124120000 +0100" channel="C164.api.telerama.fr">
+    <title>Cultes catholiques</title>
+    <category lang="fr">emission religieuse</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4165cf32-ae0a-45f4-8d7a-ae04b8157ecb.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124120000 +0100" stop="20191124120100 +0100" channel="C164.api.telerama.fr">
+    <title>Air de familles</title>
+    <sub-title>Sexualité : pendant la grossesse ?</sub-title>
+    <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124120100 +0100" stop="20191124125000 +0100" channel="C164.api.telerama.fr">
+    <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
+    <credits>
+      <presenter>Sophie Davant</presenter>
+    </credits>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">49</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124125000 +0100" stop="20191124125500 +0100" channel="C164.api.telerama.fr">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124125500 +0100" stop="20191124133100 +0100" channel="C164.api.telerama.fr">
+    <title>JT 13h</title>
+    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">36</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fed3a14f-eb46-41b8-ae8a-5899f958869d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124133100 +0100" stop="20191124133500 +0100" channel="C164.api.telerama.fr">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124133500 +0100" stop="20191124140500 +0100" channel="C164.api.telerama.fr">
+    <title>Jardins et loisirs</title>
+    <sub-title>Le Kestellic, un jardin exotique en Bretagne</sub-title>
+    <desc lang="fr">Au bord d'un des plus beaux abers de Bretagne où s'abritent les voiliers de retour du large, un microclimat a permis de rassembler des plantes venues des cinq continents dans ce jardin escarpé offrant de magnifiques points de vue. #9 Au fil des sentiers qui serpentent autour du manoir, dans quelle région du monde sommes-nous ? En Australie, en Californie, en Nouvelle-Zélande ou en Chine ? Dans les Côtes d'Amor, tout simplement. Dans les Côtes d'Armor, au bord d'un des plus beaux abers de Bretagne où s'abritent les voiliers de retour du large, un microclimat a permis de rassembler des plantes venues des cinq continents dans ce jardin escarpé offrant de magnifiques points de vue.</desc>
+    <credits>
+      <presenter>Luc Noël</presenter>
+    </credits>
+    <category lang="fr">magazine du jardinage</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2e872169-57ba-49dd-9be4-eda728bde8ee.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124140500 +0100" stop="20191124143500 +0100" channel="C164.api.telerama.fr">
+    <title>Les Belges du bout du monde</title>
+    <sub-title>Maroc</sub-title>
+    <desc lang="fr">Originaire de la région liégeoise, Elisabeth a toujours été passionnée par les voyages. Depuis l'adolescence, elle affectionne tout particulièrement le Maroc et ses décors sensationnels. Ce n'est donc pas un hasard si elle a décidé d'y développer une activité hôtelière dans la région d'Agadir : le Nid d'Aigle.</desc>
+    <credits>
+      <presenter>Adrien Joveneau</presenter>
+    </credits>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124143500 +0100" stop="20191124153500 +0100" channel="C164.api.telerama.fr">
+    <title>Chambord</title>
+    <desc lang="fr">A la rencontre des habitants de Chambord, havre de paix fondé par François 1er, écologiste avant l'heure. Le brâme du cerf raisonne en automne lors de la période des amours. Le premier habitant des lieux et aussi le plus magique, partage la nature avec les sangliers, les faucons, les renards, les crécerelles, les blaireaux ou les hérons qui y vivent en toute quiétude. Cette réserve parfaite n'a pas d'équivalent ailleurs et sans doute prendra-t-elle encore plus de sens dans l'avenir.</desc>
+    <credits>
+      <director>Laurent Charbonnier</director>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/be9d5f4a-806c-4dfc-8754-1462122617b5.jpg" />
+    <country>franco-belge</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124153500 +0100" stop="20191124173500 +0100" channel="C164.api.telerama.fr">
+    <title>Commissaire Dupin</title>
+    <sub-title>L'école de Pont-Aven</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Un meurtre commis dans des circonstances étranges sème le désordre dans la petite ville côtière de Pont-Aven. Pierre-Louis Pennec, le propriétaire du célèbre Hôtel Central, qui a hébergé des artistes de renom comme Paul Gauguin, est retrouvé tué par balle. Le commissaire Dupin quitte Paris pour mener l'enquête en Bretagne. Il doit faire face à la méfiance des habitants, qui ne lui parlent pas volontiers. Peu à peu, il parvient néanmoins à en savoir plus sur les liens qui unissent les membres de la famille Pennec...</desc>
+    <credits>
+      <director>Matthias Tiefenbacher</director>
+      <actor>Pasquale Aleardi (Georges Dupin)</actor>
+      <actor>Jan Georg Schütte (Kadeg)</actor>
+      <actor>Annika Blendl (Nolwenn)</actor>
+      <actor>Ulrike C Tscharre (Morgane Cassel)</actor>
+      <actor>Ludwig Blochberger (Riwal)</actor>
+      <actor>Sibylle Canonica (Catherine Pennec)</actor>
+      <actor>Michael Prelle (Loïc Pennec)</actor>
+      <actor>Walter Kreye (André Pennec)</actor>
+      <actor>Gudrun Ritter (Francine Lajoux)</actor>
+      <actor>Heinrich Giskes (MD Garreg)</actor>
+      <actor>Ernst Stötzner (Frédéric Beauvois)</actor>
+      <actor>Rüdiger Klink (Paul Girard)</actor>
+      <writer>Martin Ess</writer>
+      <writer>Gernot Gricksch</writer>
+      <composer>Biber Gullatz</composer>
+      <composer>Andreas Schäfer</composer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="hours">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff25e535-f67b-4312-84d0-dfb4e6f9f22c.jpg" />
+    <country>Allemagne</country>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124173500 +0100" stop="20191124182000 +0100" channel="C164.api.telerama.fr">
+    <title>Major Crimes</title>
+    <sub-title>Journée noire</sub-title>
+    <desc lang="fr">Saison:5 - Episode:11 - En voulant clarifier les zones d'ombre entourant leur enquête sur un gang de suprématistes blancs, les détectives assistent au procès du serial killer Dwight Darnell et doivent faire face au cas le plus meurtrier qu'ils aient jamais connu. En pleine audience, Dwight Darnell réussit à faire feu sur le docteur Joe, qui était à la barre, le chef Taylor, maître Calderon, le substitut Rosen et le shérif adjoint Simms. Seul le premier en réchappe...</desc>
+    <credits>
+      <director>Michael M Robin</director>
+      <actor>Mary McDonnell (Sharon Raydor)</actor>
+      <actor>GW Bailey (Louis Provenza)</actor>
+      <actor>Graham Patrick Martin (Rusty Beck)</actor>
+      <actor>Anthony Denison (Andy Flynn)</actor>
+      <actor>Michael Paul Chan (Michael Tao)</actor>
+      <actor>Raymond Cruz (Julio Sanchez)</actor>
+      <actor>Phillip P Keene (Buzz Watson)</actor>
+      <actor>Kearran Giovanni (Amy Sykes)</actor>
+      <writer>James Duff</writer>
+      <writer>Michael M Robin</writer>
+      <writer>Greer Shephard</writer>
+      <writer>James Duff</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">4.10.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124182000 +0100" stop="20191124183000 +0100" channel="C164.api.telerama.fr">
+    <title>Contacts</title>
+    <sub-title>Le premier sur un accident</sub-title>
+    <desc lang="fr">Que faire quand on arrive le premier ou dans les premiers sur les lieux d'un accident grave ? «Contacts» fait le point.</desc>
+    <category lang="fr">magazine éducatif</category>
+    <length units="minutes">10</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124183000 +0100" stop="20191124192500 +0100" channel="C164.api.telerama.fr">
+    <title>Week-end sportif (Toute l'actualité sportive du week-end)</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c41c6b79-148c-4bde-a9de-a90d043b3478.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124192500 +0100" stop="20191124193000 +0100" channel="C164.api.telerama.fr">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124193000 +0100" stop="20191124200500 +0100" channel="C164.api.telerama.fr">
+    <title>JT 19h30</title>
+    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124200500 +0100" stop="20191124201500 +0100" channel="C164.api.telerama.fr">
+    <title>Nos chers voisins</title>
+    <sub-title>Nos chers voisins fêtent Noël</sub-title>
+    <desc lang="fr">Toute l'année, ils ont menti, triché, comploté. Mais l'heure des comptes a sonné ! Les voisins vont-ils se racheter avant le passage du Père Noël ? Avec Nikos Aliagas, Jean-Luc Reichmann, Denis Brogniart, Laurent Ournac, Virginie Hocq, Titoff et Firmine Richard, les voisins vont vivre Noël à leur façon...</desc>
+    <credits>
+      <actor>Martin Lamotte (Jean-Pierre Lambert)</actor>
+      <actor>Christelle Reboul (Amélie Dubernet-Carton)</actor>
+      <actor>Thierry Samitier (Aymeric Dubernet-Carton)</actor>
+      <actor>Damien Ferdel (Jean-Eudes Dubernet-Carton)</actor>
+      <actor>Isabelle Vitari (Karine Becker)</actor>
+      <actor>Gil Alma (Alain Stuck)</actor>
+      <actor>Issa Doumbia (Issa)</actor>
+      <actor>Jean-Baptiste Shelmerdine (Alex)</actor>
+    </credits>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">10</length>
+    <country>France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124201500 +0100" stop="20191124202000 +0100" channel="C164.api.telerama.fr">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124202000 +0100" stop="20191124205500 +0100" channel="C164.api.telerama.fr">
+    <title>Le jardin extraordinaire</title>
+    <sub-title>Badlands : Terre de magie et de prairie</sub-title>
+    <desc lang="fr">Situé dans le Sud-Ouest, dans le Dakota du Sud, le parc national des Badlands, est réputé pour ses légendes amérindiennes, sa faune extraordinaire et ses fossiles vieux de plusieurs millions d'années. Au fil des saisons, le climat est très variable : les températures peuvent varier de -4 à 47 degrés. Ces vastes étendues abritent l'impressionnant et placide bison, le majestueux aigle royal ou encore l'emblématique chien de prairie, le seul habitant permanent du parc dont le terrier peut mesurer plus de 30 mètres de long.</desc>
+    <credits>
+      <presenter>Tanguy Dumortier</presenter>
+    </credits>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d256cf2c-5e21-46c7-beea-97842dfdf3fd.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124205500 +0100" stop="20191124215000 +0100" channel="C164.api.telerama.fr">
+    <title>Unité 42</title>
+    <sub-title>Episode 7</sub-title>
+    <desc lang="fr">Saison:2 - Episode:7 -</desc>
+    <credits>
+      <director>Hendrik Moonen</director>
+      <actor>Patrick Ridremont (Samuel Leroy)</actor>
+      <actor>Danitza Athanassiadis (Alice Meerks)</actor>
+      <actor>Tom Audenaert (Robert «Bob» Franck)</actor>
+      <actor>Michaël Erpelding (K4oS / Antoine Chappard)</actor>
+      <actor>Roda Fawaz (Nassim Khaoulani)</actor>
+      <actor>Constance Gay (Billie)</actor>
+      <actor>Hélène Theunissen (Hélène Janssens)</actor>
+      <writer>Julie Bertrand</writer>
+      <writer>Annie Carrels</writer>
+      <writer>Charlotte Joulia</writer>
+      <writer>Guy Goossens</writer>
+      <composer>Michel Duprez</composer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">55</length>
+    <country>Belgique</country>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124215000 +0100" stop="20191124224500 +0100" channel="C164.api.telerama.fr">
+    <title>Unité 42</title>
+    <sub-title>Episode 8</sub-title>
+    <desc lang="fr">Saison:2 - Episode:8 -</desc>
+    <credits>
+      <director>Hendrik Moonen</director>
+      <actor>Patrick Ridremont (Sam Leroy)</actor>
+      <actor>Selma Alaoui (Diane Wouters)</actor>
+      <actor>Danitza Athanassiadis (Alice Meerks)</actor>
+      <actor>Tom Audenaert (Robert «Bob» Franck)</actor>
+      <actor>Michaël Erpelding (K4oS / Antoine Chappard)</actor>
+      <actor>Roda Fawaz (Nassim Khaoulani)</actor>
+      <actor>Constance Gay (Billie)</actor>
+      <actor>Hélène Theunissen (Hélène Janssens)</actor>
+      <actor>Nola Tilman (Emmy Leroy)</actor>
+      <writer>Julie Bertrand</writer>
+      <writer>Annie Carrels</writer>
+      <writer>Charlotte Joulia</writer>
+      <writer>Guy Goossens</writer>
+      <composer>Michel Duprez</composer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">55</length>
+    <country>Belgique</country>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124224500 +0100" stop="20191124230000 +0100" channel="C164.api.telerama.fr">
+    <title>Stoemp, pèkèt... et des rawettes !</title>
+    <desc lang="fr">Un parcours chaleureux, sympathique et bienveillant pour découvrir et faire vivre les différents patois de Wallonie, ses traditions, sa verve et son humour. Un invité le rejoind, mais aussi des musiciens, sans oublier quelques dégustations de produits du terroir. Thierry présentera également sa chronique, sous forme d'un portrait, d'une rencontre. Il partira à la recherche de personnages porteurs d'énergie positive. Il promet aussi des séquences humoristiques, des parodies et des surprises, notamment pour le web et les réseaux sociaux. Sans oublier la séquence culinaire et les recettes régionales présentées par Louise Moor et un cuisinier du terroir. L'émission est sous-titrée en français et se clôturera par un récapitulatif des mots et expressions à retenir.</desc>
+    <credits>
+      <presenter>Thierry de Coster</presenter>
+    </credits>
+    <category lang="fr">magazine des loisirs</category>
+    <length units="minutes">15</length>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124230000 +0100" stop="20191124233500 +0100" channel="C164.api.telerama.fr">
+    <title>Studio Foot</title>
+    <sub-title>Championnat de Belgique D1A 2019/2020, 16e journée</sub-title>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/16f7d086-90e6-4bbb-b065-0a7fc70801b6.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124233500 +0100" stop="20191125003000 +0100" channel="C164.api.telerama.fr">
+    <title>Week-end sportif (Toute l'actualité sportive du week-end)</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c41c6b79-148c-4bde-a9de-a90d043b3478.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125003000 +0100" stop="20191125003500 +0100" channel="C164.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125003500 +0100" stop="20191125011500 +0100" channel="C164.api.telerama.fr">
+    <title>JT 19h30</title>
+    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125011500 +0100" stop="20191125013000 +0100" channel="C164.api.telerama.fr">
+    <title>Une brique dans le ventre</title>
+    <desc lang="fr">Cédric Wautier et Virginie Jacobs visitent de nouvelles habitations insolites en Belgique comme à l'étranger. Comme toujours, ces découvertes de maisons, appartements et lofts de tous budgets, sont l'occasion de prodiguer des conseils juridiques, pratiques, techniques, énergétiques et esthétiques. Dans leur rubrique, les «Brick experts» font la part belle à la créativité des architectes et à l'enthousiasme des propriétaires, tandis que Robert et Valentine bricolent pour aider les particuliers à surmonter certains obstacles. Ils touchent à tout : gros oeuvre, déco et même idées récup.</desc>
+    <credits>
+      <presenter>Cédric Wautier</presenter>
+      <presenter>Virginie Jacobs</presenter>
+    </credits>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/280631a5-e820-4724-920a-9d9ef5f9de5d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125013000 +0100" stop="20191125014000 +0100" channel="C164.api.telerama.fr">
+    <title>Contacts</title>
+    <sub-title>Le premier sur un accident</sub-title>
+    <desc lang="fr">Que faire quand on arrive le premier ou dans les premiers sur les lieux d'un accident grave ? «Contacts» fait le point.</desc>
+    <category lang="fr">magazine éducatif</category>
+    <length units="minutes">10</length>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125014000 +0100" stop="20191125021400 +0100" channel="C164.api.telerama.fr">
+    <title>Studio Foot</title>
+    <sub-title>Championnat de Belgique D1A 2019/2020, 16e journée</sub-title>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">34</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/16f7d086-90e6-4bbb-b065-0a7fc70801b6.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125021400 +0100" stop="20191125021500 +0100" channel="C164.api.telerama.fr">
+    <title>Air de familles</title>
+    <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125021500 +0100" stop="20191125043000 +0100" channel="C164.api.telerama.fr">
+    <title>Les Belges du bout du monde</title>
+    <sub-title>Maroc</sub-title>
+    <desc lang="fr">Originaire de la région liégeoise, Elisabeth a toujours été passionnée par les voyages. Depuis l'adolescence, elle affectionne tout particulièrement le Maroc et ses décors sensationnels. Ce n'est donc pas un hasard si elle a décidé d'y développer une activité hôtelière dans la région d'Agadir : le Nid d'Aigle.</desc>
+    <credits>
+      <presenter>Adrien Joveneau</presenter>
+    </credits>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">135</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125043000 +0100" stop="20191125060000 +0100" channel="C164.api.telerama.fr">
+    <title>VivaCité Matin</title>
+    <category lang="fr">magazine de services</category>
+    <length units="minutes">90</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme start="20191124072500 +0100" stop="20191124102500 +0100" channel="C168.api.telerama.fr">
     <title>Télé-achat</title>
     <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
@@ -367,6 +898,2367 @@
     <category lang="fr">journal</category>
     <length units="minutes">125</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124080500 +0100" stop="20191124083000 +0100" channel="C187.api.telerama.fr">
+    <title>Fit Tonic</title>
+    <sub-title>Fit Steffi Step</sub-title>
+    <desc lang="fr">Une demi-heure de gymnastique en rythme, en compagnie de Stéphanie Dermaux.</desc>
+    <credits>
+      <presenter>Stéphanie Dermaux</presenter>
+    </credits>
+    <category lang="fr">fitness</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ce97d06b-b140-4946-9106-d4df40db8d7c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124083000 +0100" stop="20191124090000 +0100" channel="C187.api.telerama.fr">
+    <title>Fit Tonic</title>
+    <sub-title>Fit zen</sub-title>
+    <desc lang="fr">Une demi-heure de gymnastique en rythme, en compagnie de Stéphanie Dermaux.</desc>
+    <credits>
+      <presenter>Stéphanie Dermaux</presenter>
+    </credits>
+    <category lang="fr">fitness</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ce97d06b-b140-4946-9106-d4df40db8d7c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124090000 +0100" stop="20191124093000 +0100" channel="C187.api.telerama.fr">
+    <title>En quête de sens</title>
+    <sub-title>Présence protestante</sub-title>
+    <category lang="fr">magazine religieux</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b25faeac-786e-45f0-a36a-14809b78e0bf.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124093000 +0100" stop="20191124102000 +0100" channel="C187.api.telerama.fr">
+    <title>Magazine Europa League</title>
+    <category lang="fr">magazine sportif</category>
+    <length units="minutes">50</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124102000 +0100" stop="20191124112000 +0100" channel="C187.api.telerama.fr">
+    <title>Taste Hunters, les explorateurs du goût</title>
+    <sub-title>Suisse</sub-title>
+    <desc lang="fr">Saison:1 - Le chef cuisinier Jérôme Bigot se rend en Suisse. Entre lacs, montagnes et vallées, ce pays dispose de milieux naturels exceptionnels. Jérôme débute son voyage par la découverte d'un surprenant élevage d'esturgeons où fabrication de caviar et protection de l'écosystème font bon ménage. Il continue son aventure dans la commune de Gollion pour rencontrer Thomas Kalt. Cet agriculteur travaille en famille, dans une petite ferme, selon les principes de la permaculture.</desc>
+    <credits>
+      <director>Frédéric Planchenault</director>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">documentaire : découvertes</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64424e5e-f34e-4910-b9aa-d7d6c256cfca.jpg" />
+    <country>français</country>
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124112000 +0100" stop="20191124125000 +0100" channel="C187.api.telerama.fr">
+    <title>L'aube rouge</title>
+    <desc lang="fr">Un matin, les habitants d'une ville américaine se réveillent pour découvrir l'impensable : des forces armées étrangères sont en train de débarquer. Les Etats-Unis sont attaqués par surprise, des centaines de parachutistes pleuvent du ciel, et ce n'est que le début de l'invasion. Très vite, les citoyens sont faits prisonniers et l'ennemi occupe le secteur. Jed, Matt, Toni, Robert et Erica parviennent à s'enfuir et à se cacher dans les bois. Ils n'ont pas dit leur dernier mot. Alors qu'ils tentent tant bien que mal de survivre, ils comptent bien organiser la résistance. Car il n'est pas question pour eux de se laisser voler leur liberté et leur pays...</desc>
+    <credits>
+      <director>Dan Bradley</director>
+      <actor>Chris Hemsworth (Jed Eckert)</actor>
+      <actor>Josh Peck (Matt Eckert)</actor>
+      <actor>Josh Hutcherson (Robert Kitner)</actor>
+      <actor>Adrianne Palicki (Toni Walsh)</actor>
+      <actor>Isabel Lucas (Erica Martin)</actor>
+      <actor>Connor Cruise (Daryl Jenkins)</actor>
+      <actor>Edwin Hodge (Danny)</actor>
+      <actor>Brett Cullen (Tom Eckert)</actor>
+      <writer>Carl Ellsworth</writer>
+      <writer>Jeremy Passmore</writer>
+      <composer>Ramin Djawadi</composer>
+      <guest>Kevin Reynolds</guest>
+      <guest>John Milius</guest>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">film d'action</category>
+    <length units="minutes">90</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/553f4318-68a6-497f-81c6-2da532f5ba17.jpg" />
+    <country>américain</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124125000 +0100" stop="20191124135000 +0100" channel="C187.api.telerama.fr">
+    <title>Meurtres au paradis</title>
+    <sub-title>Le rouge de l'océan</sub-title>
+    <desc lang="fr">Saison:8 - Episode:5 - Lors du Festival Mahi Mahi, la reine de la fête offre des présents à l'Océan en échange d'une abondance de poissons. Cette année, la reine est Tiana Palmer, une jeune femme appréciée de tous. Celle-ci part de la vieille jetée pour accomplir sa mission et revenir au port, où les habitants du village de Belle Mer sont massés pour l'attendre. L'inspecteur Mooney la voit s'affaisser dans le bateau. Harrison, le petit ami de Diana ami d'enfance de Patrice, ainsi que sa meilleure amie Nelly, se précipitent vers le bateau. Il la retrouvent morte, poignardée. L'affaire est un casse-tête. Qui a pu tuer cette jeune fille aimée de tous dans ce village où elle a grandi, et comment ? En l'espace de trois minutes et en plein océan ?...</desc>
+    <credits>
+      <director>Jermain Julien</director>
+      <actor>Ardal O'Hanlon (Jack Mooney)</actor>
+      <actor>Joséphine Jobert (Florence Cassell)</actor>
+      <actor>Leemore Marrett Jr (Patrice Campbell)</actor>
+      <actor>Tobi Bakare (JP Hooper)</actor>
+      <actor>Zackary Momoh (Harrison Green)</actor>
+      <actor>Nicole Lecky (Tiana Palmer)</actor>
+      <actor>Nneka Okoye (Nelly Dubois)</actor>
+      <actor>Indra Ové (Louise Palmer)</actor>
+      <actor>Shyko Amos (Ruby Patterson)</actor>
+      <actor>Elizabeth Bourgine (Catherine Bordey)</actor>
+      <writer>Robert Thorogood</writer>
+      <writer>Sally Abbott</writer>
+    </credits>
+    <category lang="fr">série de suspense</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/27505e44-8dc1-41eb-b664-3c8f41b839e8.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">7.4.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124135000 +0100" stop="20191124145000 +0100" channel="C187.api.telerama.fr">
+    <title>Meurtres au paradis</title>
+    <sub-title>Le rouge de l'océan</sub-title>
+    <desc lang="fr">Saison:8 - Episode:6 -</desc>
+    <credits>
+      <director>Sarah O'Gorman</director>
+      <actor>Ardal O'Hanlon (Jack Mooney)</actor>
+      <actor>Joséphine Jobert (Florence Cassell)</actor>
+      <actor>Tobi Bakare (JP Hooper)</actor>
+      <actor>Leemore Marrett Jr (Patrice Campbell)</actor>
+      <actor>Shyko Amos (Ruby Patterson)</actor>
+      <actor>Louis Greatorex (Owen Dacre)</actor>
+      <actor>Robert Portal (Benedict Dacre)</actor>
+      <actor>Susy Kane (Ricki Dacre)</actor>
+      <actor>Anna Chancellor (Ciss Dacre)</actor>
+      <actor>Sara Powell (Josephine Porter)</actor>
+      <actor>Margaret Clunie (Ruth Dacre)</actor>
+      <writer>Robert Thorogood</writer>
+      <writer>Tom Nash</writer>
+    </credits>
+    <category lang="fr">série de suspense</category>
+    <length units="hours">1</length>
+    <country>France</country>
+    <episode-num system="xmltv_ns">7.5.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124145000 +0100" stop="20191124155000 +0100" channel="C187.api.telerama.fr">
+    <title>Meurtres au paradis</title>
+    <sub-title>Mort à l'antenne</sub-title>
+    <desc lang="fr">Saison:8 - Episode:7 -</desc>
+    <credits>
+      <actor>Ardal O'Hanlon (Jack Mooney)</actor>
+      <actor>Joséphine Jobert (Florence Cassell)</actor>
+      <actor>Tobi Bakare (JP Hooper)</actor>
+      <actor>Leemore Marrett Jr (Patrice Campbell)</actor>
+      <actor>Shyko Amos (Ruby Patterson)</actor>
+      <actor>Louis Greatorex (Owen Dacre)</actor>
+      <actor>Robert Portal (Benedict Dacre)</actor>
+      <actor>Susy Kane (Ricki Dacre)</actor>
+      <actor>Anna Chancellor (Ciss Dacre)</actor>
+      <actor>Sara Powell (Josephine Porter)</actor>
+      <actor>Margaret Clunie (Ruth Dacre)</actor>
+      <writer>Robert Thorogood</writer>
+    </credits>
+    <category lang="fr">série de suspense</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/74e2a832-6c63-4aaf-8ead-7341b30fbc92.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">7.6.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124155000 +0100" stop="20191124165500 +0100" channel="C187.api.telerama.fr">
+    <title>Meurtres au paradis</title>
+    <sub-title>Au poste !</sub-title>
+    <desc lang="fr">Saison:8 - Episode:8 -</desc>
+    <credits>
+      <actor>Ardal O'Hanlon (Jack Mooney)</actor>
+      <actor>Joséphine Jobert (Florence Cassell)</actor>
+      <actor>Tobi Bakare (JP Hooper)</actor>
+      <actor>Leemore Marrett Jr (Patrice Campbell)</actor>
+      <actor>Shyko Amos (Ruby Patterson)</actor>
+      <actor>Louis Greatorex (Owen Dacre)</actor>
+      <actor>Robert Portal (Benedict Dacre)</actor>
+      <actor>Susy Kane (Ricki Dacre)</actor>
+      <actor>Anna Chancellor (Ciss Dacre)</actor>
+      <actor>Sara Powell (Josephine Porter)</actor>
+      <actor>Margaret Clunie (Ruth Dacre)</actor>
+      <writer>Robert Thorogood</writer>
+    </credits>
+    <category lang="fr">série de suspense</category>
+    <length units="minutes">65</length>
+    <country>France</country>
+    <episode-num system="xmltv_ns">7.7.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124165500 +0100" stop="20191124183000 +0100" channel="C187.api.telerama.fr">
+    <title>Le grand cactus</title>
+    <desc lang="fr">Saison:4 - Sophie Wilmès a été nommée Premier ministre le 27 octobre dernier. Elle est la première femme à occuper cette fonction en Belgique. Quelles sont ses impressions ? Cette femme de pouvoir témoigne de son nouveau rôle sur le plateau du «Grand Cactus». La cuvée 2019 du Beaujolais nouveau est attendue pour le jeudi 21 novembre 2019. Sera-t-il à la hauteur de celui de l'année précédente ?</desc>
+    <credits>
+      <presenter>Jérôme de Warzée</presenter>
+      <presenter>Adrien Devyver</presenter>
+      <presenter>Livia Dushkoff</presenter>
+      <presenter>Thierry Luthers</presenter>
+      <presenter>David Jeanmotte</presenter>
+    </credits>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">95</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a1ca0428-e2c9-4302-974c-25be0035e8f7.jpg" />
+    <episode-num system="xmltv_ns">3..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124183000 +0100" stop="20191124200500 +0100" channel="C187.api.telerama.fr">
+    <title>Une journée à New York</title>
+    <desc lang="fr">Bien que jumelles, Jane et Roxy ont des tempéraments très différents, et leur relation n'a rien de fusionnel. Si l'une nourrit l'espoir de décrocher une bourse d'études dans le but d'intégrer une prestigieuse université, l'autre ne rêve que de démarrer une carrière de rockeuse punk. Mais pour cela, il leur faut se rendre à New York. Contraintes de s'y rendre ensemble, elles ne se réjouissent guère. Elles ne sont pas plus tôt arrivées dans la métropole qu'un hasard incroyable leur attire de gros ennuis et qu'un certain Max Lomax, un policier véreux, s'en prend à elles. Rapidement, les deux soeurs comprennent qu'elles doivent passer outre leurs divergences afin de se tirer d'affaire. Mais le chien d'un honorable sénateur vient tout compliquer... - Critique : Il paraîtrait que les jumelles Mary-Kate Olsen et Ashley Olsen sont, à 17 ans, les deux jeunes femmes les plus puissantes de Hollywood grâce à leur talent « polyvalent ». Traduction : elles sont à la tête d'un empire de produits dérivés, CD, magazines, poupées, jeux vidéo, cosmétiques et liquide vaisselle ! Dernière dérive de ces minibimbos au regard bleu globuleux qui débutèrent leur carrière à 9 mois dans une série télé : cette journée de déboires à N. Y. où, coursées par deux niais, elles trépignent et battent du cil, l'une en apprentie rockeuse, l'autre en étudiante battante. Une question, surtout, turlupine : le port des cuissardes moutarde est-il dorénavant requis pour décrocher une bourse pour Oxford ?... G.O.</desc>
+    <credits>
+      <director>Dennie Gordon</director>
+      <actor>Ashley Olsen (Jane Ryan)</actor>
+      <actor>Mary-Kate Olsen (Roxy Ryan)</actor>
+      <actor>Eugene Levy (Max Lomax)</actor>
+      <actor>Andy Richter (Bennie Bang)</actor>
+      <actor>Riley Smith (Jim le messager à vélo)</actor>
+      <actor>Jared Padalecki (Trey Lipton)</actor>
+      <actor>Drew Pinsky (le docteur Ryan)</actor>
+      <actor>Darrell Hammond (Hudson McGill)</actor>
+      <writer>Emily Fox</writer>
+      <writer>Adam Cooper</writer>
+      <writer>Bill Collage</writer>
+      <composer>George S Clinton</composer>
+      <guest>Emily Fox</guest>
+      <guest>Michael Carlin</guest>
+      <guest>Greg Gardiner</guest>
+    </credits>
+    <date>2004</date>
+    <category lang="fr">film</category>
+    <length units="minutes">95</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/eff30e56-50c2-4683-80c1-bc074efc2c12.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124200500 +0100" stop="20191124205500 +0100" channel="C187.api.telerama.fr">
+    <title>New Amsterdam</title>
+    <sub-title>Happy Place</sub-title>
+    <desc lang="fr">Saison:1 - Episode:19 - Une officier de police du NYPD est renversée par une voiture alors qu'elle est en service. Elle est transportée à l'hôpital où le personnel se mobilise aussitôt pour la sauver...</desc>
+    <credits>
+      <director>Ellen S Pressman</director>
+      <actor>Ryan Eggold (Max Goodwin)</actor>
+      <actor>Freema Agyeman (Helen Sharpe)</actor>
+      <actor>Janet Montgomery (Lauren Bloom)</actor>
+      <actor>Jocko Sims (Floyd Reynolds)</actor>
+      <actor>Tyler Labine (Iggy Frome)</actor>
+      <actor>Anupam Kher (Vijay Kapoor)</actor>
+      <writer>David Schulner</writer>
+      <writer>Joshua Carlebach</writer>
+      <writer>Jidéh Breon Holder</writer>
+    </credits>
+    <category lang="fr">série hospitalière</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff4b3aa5-abde-4e94-817c-fc3a3e11bb84.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124205500 +0100" stop="20191124214500 +0100" channel="C187.api.telerama.fr">
+    <title>New Amsterdam</title>
+    <sub-title>Preventable</sub-title>
+    <desc lang="fr">Saison:1 - Episode:20 - Les choses deviennent plus difficiles pour Max, sur qui ni les radiations ni la chimiothérapie ne semblent fonctionner. Reynolds doit déterminer ce qui a conduit à l'échec d'une intervention...</desc>
+    <credits>
+      <director>Thomas Carter</director>
+      <actor>Ryan Eggold (Max Goodwin)</actor>
+      <actor>Freema Agyeman (Helen Sharpe)</actor>
+      <actor>Janet Montgomery (Lauren Bloom)</actor>
+      <actor>Jocko Sims (Floyd Reynolds)</actor>
+      <actor>Tyler Labine (Iggy Frome)</actor>
+      <actor>Anupam Kher (Vijay Kapoor)</actor>
+      <writer>David Schulner</writer>
+      <writer>Aaron Ginsburg</writer>
+    </credits>
+    <category lang="fr">série hospitalière</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff4b3aa5-abde-4e94-817c-fc3a3e11bb84.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124214500 +0100" stop="20191124215000 +0100" channel="C187.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124215000 +0100" stop="20191124220500 +0100" channel="C187.api.telerama.fr">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <credits>
+      <presenter>Laurent Henrard</presenter>
+      <presenter>Eric Boever</presenter>
+    </credits>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124220500 +0100" stop="20191124235000 +0100" channel="C187.api.telerama.fr">
+    <title>Le grand cactus</title>
+    <desc lang="fr">Saison:4 - En février, «Le Grand Cactus» s'intéressait au réchauffement climatique et accueillait François Damiens, ainsi que Chantal Goya. Après les Goldens Globes et les SAG Awards, se déroulait par ailleurs les Magrittes du cinéma. François Damiens était nominé dans deux catégories : meilleur film et meilleur acteur.</desc>
+    <credits>
+      <presenter>Jérôme de Warzée</presenter>
+      <presenter>Adrien Devyver</presenter>
+      <presenter>Livia Dushkoff</presenter>
+      <presenter>Thierry Luthers</presenter>
+      <presenter>David Jeanmotte</presenter>
+    </credits>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">105</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a1ca0428-e2c9-4302-974c-25be0035e8f7.jpg" />
+    <episode-num system="xmltv_ns">3..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124235000 +0100" stop="20191125000100 +0100" channel="C187.api.telerama.fr">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <credits>
+      <presenter>Laurent Henrard</presenter>
+      <presenter>Eric Boever</presenter>
+    </credits>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">11</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125000100 +0100" stop="20191125000500 +0100" channel="C187.api.telerama.fr">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125000500 +0100" stop="20191125014500 +0100" channel="C187.api.telerama.fr">
+    <title>DECIBELS - Le live</title>
+    <sub-title>R.O x Konoba</sub-title>
+    <desc lang="fr">«DECIBELS» propose d'aller à la rencontre d'un artiste, dans un lieu inédit, en compagnie de ses fans. Un rendez-vous est fixé à un groupe privilégié d'amateurs de musique, recruté via les réseaux sociaux. Accompagnés d'une équipe de tournage, les fans se dirigent vers un lieu insolite et inconnu, dans lequel l'artiste les rejoint. Pendant le trajet, les participants font connaissance. Pourquoi aiment-ils tant cet artiste ? Que savent-ils de lui ? Quelle question aimeraient-ils lui poser ? Arrivés sur place, ils assistent à une prestation exclusive, pour laquelle l'artiste est à leur hauteur, et non sur scène.</desc>
+    <category lang="fr">emission musicale</category>
+    <length units="minutes">100</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ac2c94c9-ac16-4fe3-b37c-cf862c9be74c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124090000 +0100" stop="20191124100000 +0100" channel="C23.api.telerama.fr">
+    <title>Herfstbeelden</title>
+    <category lang="fr">magazine de découvertes</category>
+    <length units="hours">1</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124100000 +0100" stop="20191124110000 +0100" channel="C23.api.telerama.fr">
+    <title>Erediensten</title>
+    <sub-title>R.K. eredienst</sub-title>
+    <category lang="fr">emission religieuse</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4165cf32-ae0a-45f4-8d7a-ae04b8157ecb.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124110000 +0100" stop="20191124130000 +0100" channel="C23.api.telerama.fr">
+    <title>De zevende dag</title>
+    <category lang="fr">magazine de société</category>
+    <length units="hours">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124130000 +0100" stop="20191124132500 +0100" channel="C23.api.telerama.fr">
+    <title>Het journaal</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124132500 +0100" stop="20191124133000 +0100" channel="C23.api.telerama.fr">
+    <title>Het weer</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124133000 +0100" stop="20191124180400 +0100" channel="C23.api.telerama.fr">
+    <title>Sporza op zondag</title>
+    <desc lang="fr">Au programme : Cyclo-cross. Coupe du monde. 5e manche. A Coxyde. Epreuve dames (13h30) et épreuve messieurs (15h) (commenté par Michel Wuyts, Paul Herijgers et Renaat Schotte. - Cross-country. CrossCup. A Roulers (commenté par Marc Willems et Kris Meertens). Tennis. Coupe Davis. Finale. A Madrid (commenté par Gert Gommé).</desc>
+    <category lang="fr">magazine sportif</category>
+    <length units="minutes">274</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124180400 +0100" stop="20191124181000 +0100" channel="C23.api.telerama.fr">
+    <title>Het Journaal update</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">6</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124181000 +0100" stop="20191124190000 +0100" channel="C23.api.telerama.fr">
+    <title>Dagelijkse kost</title>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124190000 +0100" stop="20191124195500 +0100" channel="C23.api.telerama.fr">
+    <title>Het journaal : Sportweekend</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124195500 +0100" stop="20191124200000 +0100" channel="C23.api.telerama.fr">
+    <title>Het weer</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124200000 +0100" stop="20191124210500 +0100" channel="C23.api.telerama.fr">
+    <title>Donderen in Keulen</title>
+    <desc lang="fr">Saison:1 -</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124210500 +0100" stop="20191124215000 +0100" channel="C23.api.telerama.fr">
+    <title>De twaalf</title>
+    <sub-title>Marc</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - Douze citoyens ordinaires sont convoqués comme jurés pour une affaire de meurtre. Ils doivent décider de la culpabilité ou de l'innocence de Frie Palmers, un directeur d'école respecté, accusé de double meurtre.</desc>
+    <credits>
+      <actor>Charlotte De Bruyne (Holly)</actor>
+      <actor>Maaike Neuville (Delphine)</actor>
+      <actor>Tom Vermeir (Joeri)</actor>
+      <actor>Peter Gorissen (Arnold)</actor>
+      <actor>Zouzou Ben Chika (Carl)</actor>
+      <actor>Piet De Praitere (Noël)</actor>
+      <actor>Anne-Mieke Ruyten (Vera)</actor>
+      <actor>Maaike Cafmeyer (Frie)</actor>
+      <actor>Josse De Pauw (Ari)</actor>
+      <actor>Johan Heldenbergh (Stefaan)</actor>
+    </credits>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">45</length>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124215000 +0100" stop="20191124224000 +0100" channel="C23.api.telerama.fr">
+    <title>Flying to the Ends of the Earth</title>
+    <sub-title>South Pacific</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">documentaire : voyage</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5eba2aa8-b029-42f3-a051-0f779be4aa91.jpg" />
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124224000 +0100" stop="20191124225400 +0100" channel="C23.api.telerama.fr">
+    <title>Het journaal</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">14</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124225400 +0100" stop="20191124225500 +0100" channel="C23.api.telerama.fr">
+    <title>Keno</title>
+    <category lang="fr">loterie</category>
+    <length units="minutes">1</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124225500 +0100" stop="20191124230000 +0100" channel="C23.api.telerama.fr">
+    <title>Het weer</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124230000 +0100" stop="20191124235000 +0100" channel="C23.api.telerama.fr">
+    <title>First Dates</title>
+    <desc lang="fr">Saison:6 -</desc>
+    <category lang="fr">téléréalité</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/94b687c1-b7ed-49e4-a34b-286706fc1dbe.jpg" />
+    <episode-num system="xmltv_ns">5..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124235000 +0100" stop="20191125015000 +0100" channel="C23.api.telerama.fr">
+    <title>De zevende dag</title>
+    <category lang="fr">magazine de société</category>
+    <length units="hours">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124083000 +0100" stop="20191124110000 +0100" channel="C377.api.telerama.fr">
+    <title>Shopping Hours</title>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">150</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124110000 +0100" stop="20191124133000 +0100" channel="C377.api.telerama.fr">
+    <title>Télé-achat</title>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">150</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124133000 +0100" stop="20191124135500 +0100" channel="C377.api.telerama.fr">
+    <title>Des habits et moi</title>
+    <sub-title>Episode 8</sub-title>
+    <desc lang="fr">Saison:7 - A la découverte des dernières tendances de l'année.</desc>
+    <credits>
+      <presenter>Alain Tholl de l'Enclos</presenter>
+    </credits>
+    <category lang="fr">magazine de la mode</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/78b76141-d4fe-4caf-9a94-7bb5ab791b7f.jpg" />
+    <episode-num system="xmltv_ns">6..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124135500 +0100" stop="20191124142000 +0100" channel="C377.api.telerama.fr">
+    <title>Un si grand soleil</title>
+    <desc lang="fr">Saison:2 - Episode:62 - Alors qu’Enzo a de plus en plus de raisons de se méfier de ses proches, Alex et Manu se voient remis en question. Sofia, quant à elle, fait une nouvelle rencontre…</desc>
+    <credits>
+      <actor>Auguste Yvon (Arthur)</actor>
+      <actor>Manuel Blanc (Guilhem)</actor>
+      <actor>Naima Rodric (Lucille)</actor>
+      <actor>Chrystelle Labaude (Elizabeth)</actor>
+      <actor>Marthe Fieschi (Léa)</actor>
+      <actor>Folco Marchi (Ludo)</actor>
+      <actor>Mélanie Maudran (Claire)</actor>
+      <actor>Valérie Kaprisky (Jo)</actor>
+      <writer>Toma de Matteis</writer>
+    </credits>
+    <category lang="fr">feuilleton policier</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
+    <country>français</country>
+    <episode-num system="xmltv_ns">1.61.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124142000 +0100" stop="20191124144500 +0100" channel="C377.api.telerama.fr">
+    <title>Un si grand soleil</title>
+    <desc lang="fr">Saison:2 - Episode:63 - Enzo peine à se montrer réellement à la hauteur : il a peur de devoir affronter ses vieux démons. Il sent bien qu'ils sont sur le point de ressurgir brutalement. De son côté, Julien s'inquiète fortement pour Alice. En effet, ses enfants ne la reconnaissent plus. Comment expliquer ce soudain changement ?...</desc>
+    <credits>
+      <actor>Auguste Yvon (Arthur)</actor>
+      <actor>Manuel Blanc (Guilhem)</actor>
+      <actor>Naima Rodric (Lucille)</actor>
+      <actor>Chrystelle Labaude (Elizabeth)</actor>
+      <actor>Marthe Fieschi (Léa)</actor>
+      <actor>Folco Marchi (Ludo)</actor>
+      <actor>Mélanie Maudran (Claire)</actor>
+      <actor>Valérie Kaprisky (Jo)</actor>
+      <writer>Toma de Matteis</writer>
+    </credits>
+    <category lang="fr">feuilleton policier</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
+    <country>français</country>
+    <episode-num system="xmltv_ns">1.62.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124144500 +0100" stop="20191124151000 +0100" channel="C377.api.telerama.fr">
+    <title>Un si grand soleil</title>
+    <desc lang="fr">Saison:2 - Episode:64 - L'enquête relative à l'assassinat de Perrine avance avec efficacité. Un suspect sérieux est interrogé. De son côté, Alice comprend qu'elle va devoir faire face à la police. Parallèlement, Becker essaie de garder la tête froide et cherche un moyen d'aider son petit-fils...</desc>
+    <credits>
+      <actor>Auguste Yvon (Arthur)</actor>
+      <actor>Manuel Blanc (Guilhem)</actor>
+      <actor>Naima Rodric (Lucille)</actor>
+      <actor>Chrystelle Labaude (Elizabeth)</actor>
+      <actor>Marthe Fieschi (Léa)</actor>
+      <actor>Folco Marchi (Ludo)</actor>
+      <actor>Mélanie Maudran (Claire)</actor>
+      <actor>Valérie Kaprisky (Jo)</actor>
+      <writer>Toma de Matteis</writer>
+    </credits>
+    <category lang="fr">feuilleton policier</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
+    <country>français</country>
+    <episode-num system="xmltv_ns">1.63.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124151000 +0100" stop="20191124153500 +0100" channel="C377.api.telerama.fr">
+    <title>Un si grand soleil</title>
+    <desc lang="fr">Saison:2 - Episode:65 - Alors que Maryline accueille un nouveau colocataire chez elle, Mo tente de protéger sa fille. Claire, quant à elle, fait une étrange découverte…</desc>
+    <credits>
+      <actor>Auguste Yvon (Arthur)</actor>
+      <actor>Manuel Blanc (Guilhem)</actor>
+      <actor>Naima Rodric (Lucille)</actor>
+      <actor>Chrystelle Labaude (Elizabeth)</actor>
+      <actor>Marthe Fieschi (Léa)</actor>
+      <actor>Folco Marchi (Ludo)</actor>
+      <actor>Mélanie Maudran (Claire)</actor>
+      <actor>Valérie Kaprisky (Jo)</actor>
+      <writer>Toma de Matteis</writer>
+    </credits>
+    <category lang="fr">feuilleton policier</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
+    <country>français</country>
+    <episode-num system="xmltv_ns">1.64.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124153500 +0100" stop="20191124160500 +0100" channel="C377.api.telerama.fr">
+    <title>Un si grand soleil</title>
+    <desc lang="fr">Saison:2 - Episode:66 - Un mariage se prépare, mais risque de connaître quelques contretemps. Un nouvel élève entre au lycée. De son côté, Manu poursuit son enquête.</desc>
+    <credits>
+      <actor>Auguste Yvon (Arthur)</actor>
+      <actor>Manuel Blanc (Guilhem)</actor>
+      <actor>Naima Rodric (Lucille)</actor>
+      <actor>Chrystelle Labaude (Elizabeth)</actor>
+      <actor>Marthe Fieschi (Léa)</actor>
+      <actor>Folco Marchi (Ludo)</actor>
+      <actor>Mélanie Maudran (Claire)</actor>
+      <actor>Valérie Kaprisky (Jo)</actor>
+      <writer>Toma de Matteis</writer>
+    </credits>
+    <category lang="fr">feuilleton policier</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
+    <country>français</country>
+    <episode-num system="xmltv_ns">1.65.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124160500 +0100" stop="20191124165000 +0100" channel="C377.api.telerama.fr">
+    <title>Les mamans</title>
+    <desc lang="fr">Pour cette seconde saison, six jeunes mamans âgées de 24 à 30 ans nous font partager leur quotidien de mères et leur vie de femmes, leurs petits succès et leurs grandes victoires : les sorties, les fêtes de famille, les premiers pas des enfants ou encore les rencontres amoureuses.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire : société</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/04ca6d95-5e7d-42ce-8eab-9b78805502f5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124165000 +0100" stop="20191124174000 +0100" channel="C377.api.telerama.fr">
+    <title>Les mamans</title>
+    <desc lang="fr">Pour cette seconde saison, six jeunes mamans âgées de 24 à 30 ans nous font partager leur quotidien de mères et leur vie de femmes, leurs petits succès et leurs grandes victoires : les sorties, les fêtes de famille, les premiers pas des enfants ou encore les rencontres amoureuses.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire : société</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/04ca6d95-5e7d-42ce-8eab-9b78805502f5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124174000 +0100" stop="20191124182500 +0100" channel="C377.api.telerama.fr">
+    <title>Les mamans</title>
+    <desc lang="fr">Pour cette seconde saison, six jeunes mamans âgées de 24 à 30 ans nous font partager leur quotidien de mères et leur vie de femmes, leurs petits succès et leurs grandes victoires : les sorties, les fêtes de famille, les premiers pas des enfants ou encore les rencontres amoureuses.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire : société</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/04ca6d95-5e7d-42ce-8eab-9b78805502f5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124182500 +0100" stop="20191124191500 +0100" channel="C377.api.telerama.fr">
+    <title>Les mamans</title>
+    <desc lang="fr">Pour cette seconde saison, six jeunes mamans âgées de 24 à 30 ans nous font partager leur quotidien de mères et leur vie de femmes, leurs petits succès et leurs grandes victoires : les sorties, les fêtes de famille, les premiers pas des enfants ou encore les rencontres amoureuses.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire : société</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/04ca6d95-5e7d-42ce-8eab-9b78805502f5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124191500 +0100" stop="20191124200500 +0100" channel="C377.api.telerama.fr">
+    <title>Les mamans</title>
+    <desc lang="fr">Pour cette seconde saison, six jeunes mamans âgées de 24 à 30 ans nous font partager leur quotidien de mères et leur vie de femmes, leurs petits succès et leurs grandes victoires : les sorties, les fêtes de famille, les premiers pas des enfants ou encore les rencontres amoureuses.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire : société</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/04ca6d95-5e7d-42ce-8eab-9b78805502f5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124200500 +0100" stop="20191124202000 +0100" channel="C377.api.telerama.fr">
+    <title>Go for zéro, la story</title>
+    <sub-title>Best of</sub-title>
+    <desc lang="fr">Sophie et Antoine mettent leur civisme et le code de la route à rude épreuve.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124202000 +0100" stop="20191124205000 +0100" channel="C377.api.telerama.fr">
+    <title>The Black Pass</title>
+    <sub-title>Loïc Nottet</sub-title>
+    <desc lang="fr">Saison:3 - Loïc Nottet est l'artiste belge du moment. Son film musical Candy vient de faire le buzz. Pour Black Pass, il accepte de évoiler ses secrets de créationentre l'école de danse où il crée ses chorégraphies et répète avec ses danseurs , le cinéma «Le Palace» ou encore l'atelier où il confectionne tous ses costumes.</desc>
+    <category lang="fr">magazine de découvertes</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">2..</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124205000 +0100" stop="20191124224000 +0100" channel="C377.api.telerama.fr">
+    <title>Together, tous avec moi</title>
+    <sub-title>Episode 5</sub-title>
+    <desc lang="fr">Des chanteurs, en solo ou en groupe, et de tous genres musicaux, se présentent à tour de rôle sur la scène de «Together, tous avec moi». Leur but : faire se lever un jury de 100 personnes, des professionnels de la télévision française, ou de la musique, de tous horizons et aux personnalités hautes en couleur.</desc>
+    <credits>
+      <presenter>Eric Antoine</presenter>
+      <presenter>Garou</presenter>
+    </credits>
+    <category lang="fr">jeu</category>
+    <length units="minutes">110</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3b0e4bff-c033-4e45-8484-102dced43eb4.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124224000 +0100" stop="20191125010000 +0100" channel="C377.api.telerama.fr">
+    <title>Touche pas à mon poste !</title>
+    <desc lang="fr">Chacun des chroniqueurs donne son avis sur l'actualité des médias et les dossiers du moment tout en relevant des défis en compagnie d'invités venus de divers horizons.</desc>
+    <credits>
+      <presenter>Cyril Hanouna</presenter>
+      <presenter>Danielle Moreau</presenter>
+      <presenter>Matthieu Delormeau</presenter>
+      <presenter>Valérie Benaïm</presenter>
+      <presenter>Kelly Vedovelli</presenter>
+      <presenter>Eric Naulleau</presenter>
+      <presenter>Karim Zéribi</presenter>
+      <presenter>Gilles Verdez</presenter>
+      <presenter>Benjamin Castaldi</presenter>
+      <presenter>Cyrille Eldin</presenter>
+      <presenter>Thomas Angelvy</presenter>
+      <presenter>Géraldine Maillet</presenter>
+      <presenter>Bernard Montiel</presenter>
+      <presenter>Maxime Guény</presenter>
+      <presenter>Jean-Michel Maire</presenter>
+      <presenter>Ludivine Retory</presenter>
+      <presenter>Isabelle Morini-Bosc</presenter>
+      <presenter>Christine Kelly</presenter>
+    </credits>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">140</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bbf60a41-80d0-4e78-bde4-fdc793e04fa8.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125010000 +0100" stop="20191125030000 +0100" channel="C377.api.telerama.fr">
+    <title>Luna Park</title>
+    <desc lang="fr">Chaque jour, Luna Park présente une série de jeux de durées variables sous la forme de questions / réponses adressées aux téléspectateurs. Ces jeux sont classés par catégories (culture générale, sports, santé, alimentation, histoire, géographie, vocabulaire, orthographe... etc). Ils sont dotés d'enjeux variables. Les téléspectateurs qui souhaitent participer, peuvent répondre, en direct, par téléphone, et gagner des cadeaux ou de l'argent.</desc>
+    <category lang="fr">jeu</category>
+    <length units="hours">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125030000 +0100" stop="20191125050000 +0100" channel="C377.api.telerama.fr">
+    <title>Télé-achat</title>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="hours">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124070000 +0100" stop="20191124072500 +0100" channel="C50.api.telerama.fr">
+    <title>Fifi Brindacier *1998</title>
+    <sub-title>Fifi à l'école</sub-title>
+    <desc lang="fr">Saison:1 - Episode:16 - Fifi est une petite fille dotée d'une force surnaturelle. Son père s'est perdu en mer. Toutefois, avant de disparaître, il a acheté une maison : la villa Villekulla. Fifi s'y rend pour l'y attendre.</desc>
+    <credits>
+      <director>Paul Riley</director>
+      <writer>Astrid Lindgren</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fb2bf013-95a7-4d13-8ed5-cd5a844e5c30.jpg" />
+    <country>germano-suédo-canadien</country>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124072500 +0100" stop="20191124074000 +0100" channel="C50.api.telerama.fr">
+    <title>Vic le Viking 3D</title>
+    <sub-title>Faxe et la baleine</sub-title>
+    <desc lang="fr">Saison:1 - Episode:54 - Après avoir sauvé un bébé baleine sur la plage, Faxe se lie d'amitié avec elle. Le cétacé se met à jouer contre la coque du drakkar. Lorsque Sven attaque les Vikings, la baleine et ses congénères deviennent des alliées de choix...</desc>
+    <credits>
+      <director>Éric Cazes</director>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b1b61f08-c8c3-4e61-a9a3-cc46beb61bc0.jpg" />
+    <country>Australie</country>
+    <episode-num system="xmltv_ns">0.53.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124074000 +0100" stop="20191124075500 +0100" channel="C50.api.telerama.fr">
+    <title>Maya l'abeille 3D</title>
+    <sub-title>La naissance de Maya</sub-title>
+    <desc lang="fr">Saison:1 - Episode:42 - Peu après sa naissance, Maya découvre l'organisation de la ruche et la liberté qu'offre la prairie...</desc>
+    <credits>
+      <director>Daniel Duda</director>
+      <writer>Delpine Maury</writer>
+      <writer>Waldemar Bonsels</writer>
+      <guest>Fabrice Aboulker</guest>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d16d8bfe-79c1-4a5c-a312-9247b02bef06.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">0.41.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124075500 +0100" stop="20191124080500 +0100" channel="C50.api.telerama.fr">
+    <title>Arc-en-Ciel</title>
+    <sub-title>Tournez manèges</sub-title>
+    <desc lang="fr">Saison:1 - Episode:12 - Rubis n'est pas très vigilante envers le bambin qu'on lui a confié. Mais heureusement, son petit frère, qui l'accompagne, est là pour veiller au grain...</desc>
+    <credits>
+      <writer>Marcus Pfister</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fb2bf013-95a7-4d13-8ed5-cd5a844e5c30.jpg" />
+    <country>canadien</country>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124080500 +0100" stop="20191124082000 +0100" channel="C50.api.telerama.fr">
+    <title>K3</title>
+    <sub-title>K3 mille pieds sous les mers</sub-title>
+    <desc lang="fr">Saison:1 - Episode:35 - Pour assurer la promotion de leur nouvel album, les K3 vont donner un concert dans une station sous-marine. Elles y sont accueillies par Tetefano, l'unique occupant de la base, qui est affligé d'une personnalité multiple, petite séquelle d'un syndrome des profondeurs. Venue interviewer les K3, la journaliste Carolyn Archer est victime à son tour du syndrome...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9d3f2c6a-ce51-47dc-9777-c04c85b29c0c.jpg" />
+    <country>Belgique</country>
+    <episode-num system="xmltv_ns">0.34.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124082000 +0100" stop="20191124084500 +0100" channel="C50.api.telerama.fr">
+    <title>Pokémon</title>
+    <sub-title>Créateurs et destructeurs !</sub-title>
+    <desc lang="fr">Saison:22 - Episode:23 - Le Professeur Euphorbe vient d'annoncer la création de la Ligue Pokémon d'Alola et l'excitation générale est à son comble ! Sacha et ses amis veulent participer, mais Guzma est bien décidé à saboter l'évènement...</desc>
+    <credits>
+      <writer>Satoshi Tajiri</writer>
+      <writer>Junichi Masuda</writer>
+      <writer>Ken Sugimori</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé manga</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d377990-aaec-4fcd-b15f-3081ec09f4bb.jpg" />
+    <country>japonais</country>
+    <episode-num system="xmltv_ns">21.22.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124084500 +0100" stop="20191124091000 +0100" channel="C50.api.telerama.fr">
+    <title>Pokémon</title>
+    <sub-title>La princesse mystérieuse !</sub-title>
+    <desc lang="fr">Saison:22 - Episode:24 - Lilie et Gladio sont au Paradis Aether et tente de retrouver les dossiers de leur père, Mohn, qui -avant de disparaître des années plus tôt- conduisait des recherches sur les Ultra-Brèches...</desc>
+    <credits>
+      <writer>Satoshi Tajiri</writer>
+      <writer>Junichi Masuda</writer>
+      <writer>Ken Sugimori</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé manga</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d377990-aaec-4fcd-b15f-3081ec09f4bb.jpg" />
+    <country>japonais</country>
+    <episode-num system="xmltv_ns">21.23.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124091000 +0100" stop="20191124093000 +0100" channel="C50.api.telerama.fr">
+    <title>Pokémon</title>
+    <sub-title>Les Pokémon que le vent emporte...</sub-title>
+    <desc lang="fr">Saison:22 - Episode:25 - Sacha et ses amis passent de merveilleux moments à visiter Malié mais une rafale de vent soudaine emporte Shaymin, Meltan et Sabli au loin. Les dresseurs se lancent à leur recherche mais d'autres sont bien décidés à les trouver avant eux, pour voler ces Pokémon exceptionnels...</desc>
+    <credits>
+      <writer>Satoshi Tajiri</writer>
+      <writer>Junichi Masuda</writer>
+      <writer>Ken Sugimori</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé manga</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d377990-aaec-4fcd-b15f-3081ec09f4bb.jpg" />
+    <country>japonais</country>
+    <episode-num system="xmltv_ns">21.24.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124093000 +0100" stop="20191124094500 +0100" channel="C50.api.telerama.fr">
+    <title>Ramène ta science !</title>
+    <sub-title>Météo</sub-title>
+    <desc lang="fr">Doc et Ludo se frottent au décryptage de la météorologie : avec des objets du quotidien, ils apprennent à calculer la vitesse du vent, la pression et l'humidité de l'air.</desc>
+    <credits>
+      <director>David Frecinaux</director>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">documentaire : sciences et technique</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ade965b8-9f4d-4a43-8176-9bd2424bae6c.jpg" />
+    <country>français</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124094500 +0100" stop="20191124101500 +0100" channel="C50.api.telerama.fr">
+    <title>Véto &amp; Co</title>
+    <desc lang="fr">Des vétérinaires, aux personnalités fortes et attachantes, et dont le professionnalisme est au coeur de l'aventure, soignent et sauvent chaque jour des animaux.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/41b5895d-4f07-4835-927e-18fec442b073.jpg" />
+    <country>belge</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124101500 +0100" stop="20191124104000 +0100" channel="C50.api.telerama.fr">
+    <title>UEFA Champions League</title>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9b77d1-47a8-4a5c-bb96-4dcbd9b312b8.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124104000 +0100" stop="20191124120500 +0100" channel="C50.api.telerama.fr">
+    <title>Top Gear France</title>
+    <sub-title>Episode 7/8 : Road trip au Portugal</sub-title>
+    <desc lang="fr">Saison:3 - C'est au sud du Portugal, dans la région de l'algarve que les trois animateurs se retrouvent pour tester trois différents modèles du cabriolet : une Porsche 718 Boxter, un Range Rover Evoque et une Mercedes S 63 AMG. En plateau, Philippe Lellouche accueille le comédien Laurent Ournac et l'humoriste Ahmed Sylla.</desc>
+    <credits>
+      <presenter>Philippe Lellouche</presenter>
+      <presenter>Bruce Jouanny</presenter>
+      <presenter>Le Tone</presenter>
+      <guest>Laurent Ournac</guest>
+      <guest>Ahmed Sylla</guest>
+    </credits>
+    <category lang="fr">magazine de l'automobile</category>
+    <length units="minutes">85</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2fb8f39-d639-4a3e-a627-0a94e285f86d.jpg" />
+    <episode-num system="xmltv_ns">2..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124120500 +0100" stop="20191124125000 +0100" channel="C50.api.telerama.fr">
+    <title>Les experts : Manhattan</title>
+    <sub-title>Derrière l'écran</sub-title>
+    <desc lang="fr">Saison:8 - Episode:15 - Les experts sont appelés sur une scène de crime. Un corps, vêtu d'une tenue d'arbitre, gît dans une ruelle, enveloppé dans une bâche en plastique. L'autopsie révèle qu'il a été frappé à la tête avec un objet contondant garni de pointes. Par ailleurs, les experts relèvent de la poudre dans ses narines ainsi que des traces de pas et de peinture sur la bâche. La voiture du défunt, un certain Walter Danzig, contient de nombreuses boîtes de sel énergisant, des codes informatiques et un ticket de parking. Ces éléments mettent les experts sur la voie d'un tournoi de jeux vidéo...</desc>
+    <credits>
+      <director>Allison Liddi-Brown</director>
+      <actor>Gary Sinise (Mac Taylor)</actor>
+      <actor>Sela Ward (Jo Danville)</actor>
+      <actor>Carmine Giovinazzo (Danny Messer)</actor>
+      <actor>Anna Belknap (Lindsay Monroe)</actor>
+      <actor>Robert Joy (Sid Hammerback)</actor>
+      <actor>AJ Buckley (Adam Ross)</actor>
+      <actor>Hill Harper (Sheldon Hawkes)</actor>
+      <actor>Eddie Cahill (Don Flack)</actor>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <writer>Anthony E Zuiker</writer>
+      <writer>Tim Dragga</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a480c381-1527-420e-aa56-66ebee4e4c4a.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">7.14.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124125000 +0100" stop="20191124133500 +0100" channel="C50.api.telerama.fr">
+    <title>Les experts : Manhattan</title>
+    <sub-title>Aux quatre coins de l'enfer</sub-title>
+    <desc lang="fr">Saison:8 - Episode:16 - La population de New York est sous le choc : la presse a révélé que la police enquête sur un homicide sordide. Des morceaux de cadavre ont été découverts éparpillés aux quatre coins d'un pâté d'immeubles délimitant le quartier de Hell's Kitchen. La victime, un commerçant d'origine irlandaise, était très apprécié de ses clients. Don Flack essaie de saisir les raisons qui ont poussé l'auteur de ce crime à positionner ainsi les éléments du corps. C'est alors qu'une explosion se produit. La tension monte d'un cran dans les rues de Manhattan. D'élément en élément, les experts se retrouvent sur la piste d'un promoteur immobilier...</desc>
+    <credits>
+      <director>Christine Moore</director>
+      <actor>Gary Sinise (Mac Taylor)</actor>
+      <actor>Eddie Cahill (Don Flack)</actor>
+      <actor>Sela Ward (Jo Danville)</actor>
+      <actor>Carmine Giovinazzo (Danny Messer)</actor>
+      <actor>Anna Belknap (Lindsay Monroe)</actor>
+      <actor>Robert Joy (Sid Hammerback)</actor>
+      <actor>AJ Buckley (Adam Ross)</actor>
+      <actor>Hill Harper (Sheldon Hawkes)</actor>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <writer>Anthony E Zuiker</writer>
+      <writer>Sarah Byrd</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d82cd7bf-525b-4586-9c1a-525279f6a842.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">7.15.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124133500 +0100" stop="20191124142000 +0100" channel="C50.api.telerama.fr">
+    <title>Les experts : Manhattan</title>
+    <sub-title>Cadeau empoisonné</sub-title>
+    <desc lang="fr">Saison:8 - Episode:17 - Alors qu'ils rentraient d'une soirée, Kelvin Moore et sa femme Elaine sont victimes de coups de feu dans le hall de leur immeuble. Kelvin est tué. Ce riche homme d'affaires était une personnalité locale en raison de son parcours atypique. Il avait grandi dans un quartier difficile mais avait réussi, grâce à de brillantes études, à faire sa place au sein de la meilleure société de la ville. Elaine affime que le tir mortel était accidentel, mais Mac ne partage pas son point de vue. Les experts découvrent qu'Elaine avait entretenu une liaison avec un ancien escroc, qui fait figure de principal suspect...</desc>
+    <credits>
+      <director>Deran Sarafian</director>
+      <actor>Gary Sinise (Mac Taylor)</actor>
+      <actor>Sela Ward (Jo Danville)</actor>
+      <actor>Carmine Giovinazzo (Danny Messer)</actor>
+      <actor>Anna Belknap (Lindsay Monroe)</actor>
+      <actor>Robert Joy (Sid Hammerback)</actor>
+      <actor>AJ Buckley (Adam Ross)</actor>
+      <actor>Hill Harper (Sheldon Hawkes)</actor>
+      <actor>Sherri Saum (Elaine Moore)</actor>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <writer>Anthony E Zuiker</writer>
+      <writer>John Dove</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/31644a02-edf6-476a-9bb1-1d853994f642.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">7.16.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124142000 +0100" stop="20191124150500 +0100" channel="C50.api.telerama.fr">
+    <title>Les experts : Manhattan</title>
+    <sub-title>Mort imminente</sub-title>
+    <desc lang="fr">Saison:8 - Episode:18 - Alors qu'il mène une enquête sur le terrain, Mac n'a pas le temps de réaliser ce qui se trame lorsque des coups de feu retentissent en plein centre de New York. Cible des tirs, il s'effondre, grièvement blessé. Les secours arrivent très vite et le conduisent sans délai aux urgences car le pronostic vital est engagé. Entre la vie et la mort, Mac ne parvient plus à s'exprimer mais se retrouve plongé dans un abîme de questions. Alors que les médecins tentent de le sauver, ses équipiers se mobilisent immédiatement afin de trouver des indices sur la scène de crime...</desc>
+    <credits>
+      <director>Alex Zakrzewski</director>
+      <actor>Gary Sinise (Mac Taylor)</actor>
+      <actor>Sela Ward (Jo Danville)</actor>
+      <actor>Carmine Giovinazzo (Danny Messer)</actor>
+      <actor>Anna Belknap (Lindsay Monroe)</actor>
+      <actor>Robert Joy (Sid Hammerback)</actor>
+      <actor>AJ Buckley (Adam Ross)</actor>
+      <actor>Hill Harper (Sheldon Hawkes)</actor>
+      <actor>Eddie Cahill (Don Flack)</actor>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <writer>Anthony E Zuiker</writer>
+      <writer>Zachary Reiter</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/58244dd1-b2d4-4242-b186-0653d07092d0.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">7.17.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124150500 +0100" stop="20191124155500 +0100" channel="C50.api.telerama.fr">
+    <title>Les experts : Manhattan</title>
+    <sub-title>Chambre forte</sub-title>
+    <desc lang="fr">Saison:2 - Episode:11 - Un cadavre a été retrouvé dans un coffre-fort de Manhattan. Une fois sur cette scène de crime d'un genre particulier, l'équipe d'experts est confrontée à un malencontreux incident : Danny s'est retrouvé enfermé dans la chambre forte. Immédiatement, Stella met tout en oeuvre pour le secourir. Elle comprend vite le danger que court son collègue. En effet, la victime était la seule personne à connaître le code de la porte d'accès. Un spécialiste de ce type de serrureries intervient avant que Danny ne manque d'oxygène. De leur côté, Mac, Hawkes et Lindsay tentent d'élucider le meurtre d'une danseuse exotique...</desc>
+    <credits>
+      <director>James Whitmore Jr.</director>
+      <actor>Gary Sinise (Mac Taylor)</actor>
+      <actor>Carmine Giovinazzo (Danny Messer)</actor>
+      <actor>Melina Kanakaredes (Stella Bonasera)</actor>
+      <actor>Anna Belknap (Lindsay Monroe)</actor>
+      <actor>Hill Harper (Sheldon Hawkes)</actor>
+      <actor>Eddie Cahill (Don Flack)</actor>
+      <actor>Jonah Lotan (Marty Pino)</actor>
+      <actor>Alexandra Barreto (Linda Cortez)</actor>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <writer>Anthony E Zuiker</writer>
+      <writer>Peter M Lenkov</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/319c1738-09a5-4e23-a04c-0d65ad544241.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124155500 +0100" stop="20191124164000 +0100" channel="C50.api.telerama.fr">
+    <title>Les experts : Miami</title>
+    <sub-title>L'heure tourne...</sub-title>
+    <desc lang="fr">Saison:9 - Episode:1 - Tous les agents présents dans le laboratoire de la police scientifique ont été incommodés par un gaz introduit sur les lieux. Seul Jesse est décédé, victime d'une chute après avoir perdu connaissance. Pour Horatio, tout est la faute de Bob Starling, suspecté d'être un tueur en série. Il promet de le faire juger pour ce meurtre et pour tous ses autres crimes. Or, pour l'instant, aucune preuve ne permet de l'inculper. Tous les indices dont il disposait ont été détériorés par le gaz diffusé dans les locaux. Malgré tout, l'examen d'un document imprimé, laissé par le serial killer, permet de relier l'encre utilisée à l'imprimante de Starling. Lentement, mais sûrement, l'étau se resserre...</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <actor>David Caruso (Horatio Caine)</actor>
+      <actor>Emily Procter (Calleigh Duquesne)</actor>
+      <actor>Roger Bart (Bob Starling)</actor>
+      <actor>Kristen Hager (Melissa Walls)</actor>
+      <actor>Christian Clemenson (Tom Loman)</actor>
+      <actor>Adam Rodriguez (Eric Delko)</actor>
+      <actor>Jonathan Togo (Ryan Wolf)</actor>
+      <actor>Rex Linn (Frank Tripp)</actor>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <writer>Anthony E Zuiker</writer>
+      <writer>Tamara Jaron</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/62e666fd-8199-49d6-94c7-a9257ef5b13b.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">8.0.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124164000 +0100" stop="20191124173000 +0100" channel="C50.api.telerama.fr">
+    <title>Les experts : Miami</title>
+    <sub-title>Lendemain de fête</sub-title>
+    <desc lang="fr">Saison:9 - Episode:2 - L'équipe d'Horatio doit résoudre le meurtre d'une jeune fille, Kristen, escort girl dans un club très select. Elle a été retrouvée dans la piscine du club mais Victoria établit qu'elle était morte avant. Son téléphone portable montre qu'elle a passé un dernier coup de fil à l'une de ses collègues, Sara. Cette dernière leur révèle que Kristen voulait passer la soirée avec Brady, un jeune sportif de 21 ans. Amanda, la patronne des filles, équipe ses employées d'appareils photos pour pouvoir vendre les clichés de ses clients connus à la presse people. Elle avait demandé à Sara d'aller prendre une photo de Kirsten et de Brady...</desc>
+    <credits>
+      <director>Matt Earl Beesley</director>
+      <actor>David Caruso (Horatio Caine)</actor>
+      <actor>Emily Procter (Calleigh Duquesne)</actor>
+      <actor>Meta Golding (Victoria Mercier)</actor>
+      <actor>Eva La Rue (Natalia Boa Vista)</actor>
+      <actor>Nadine Velazquez (Sarah Walker)</actor>
+      <actor>Jonathan Togo (Ryan Wolfe)</actor>
+      <actor>Zane Holtz (Brady Jensen)</actor>
+      <actor>James Frain (Richard Ellison)</actor>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <writer>Anthony E Zuiker</writer>
+      <writer>Corey Evett</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/61b8f4ca-1867-4349-ab29-2b29e62b6d3a.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">8.1.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124173000 +0100" stop="20191124182000 +0100" channel="C50.api.telerama.fr">
+    <title>Les experts : Miami</title>
+    <sub-title>Pas vu, mais pris...</sub-title>
+    <desc lang="fr">Saison:9 - Episode:3 - Lindsey Peterson, une adolescente, est enlevée près de la plage. Le seul témoin du drame, Ben Wilcox, est aveugle, mais son audition et son odorat sont exceptionnels. Les kidnappeurs obligent Lindsey à retirer 50 000 dollars du compte bancaire de ses parents. Pour cela, elle doit d'abord les contacter afin d'obtenir leur code secret. Pendant toute l'opération, la jeune fille porte une veste bourrée d'explosifs, qui sauteront à la moindre tentative d'évasion. Grâce au témoin, Horatio parvient à identifier la banque. Les agents se rendent aussitôt sur place, mais il est trop tard. Ils voient au loin Lindsey et un inconnu s'engouffrer dans une camionnette et prendre la fuite...</desc>
+    <credits>
+      <director>Gina Lamar</director>
+      <actor>Greg Davies (Ken Thompson)</actor>
+      <actor>David Caruso (Horatio Caine)</actor>
+      <actor>Helen Baxendale (Lorna Thompson)</actor>
+      <actor>Emily Procter (Calleigh Duquesne)</actor>
+      <actor>Tamla Kari (Rachel)</actor>
+      <actor>Kaili Thorne (Lindsey Peterson)</actor>
+      <actor>Tyger Drew-Honey (Dylan Thompson)</actor>
+      <actor>Jonathan Keltz (Ben Wilcox)</actor>
+      <actor>Kenneth Collard (Steve)</actor>
+      <actor>Adam Rodriguez (Eric Delko)</actor>
+      <actor>Andie MacDowell (Ivy)</actor>
+      <actor>Jonathan Togo (Ryan Wolfe)</actor>
+      <actor>Adriano Broccu (Sid)</actor>
+      <actor>Rex Linn (Frank Tripp)</actor>
+      <actor>Omar Benson Miller (Walter Simmons)</actor>
+      <writer>Robin French</writer>
+      <writer>Kieron Quirke</writer>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <writer>Anthony E Zuiker</writer>
+      <writer>Krystal Houghton</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a8660ad0-0814-4899-be38-8518f022cfee.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">8.2.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124182000 +0100" stop="20191124191000 +0100" channel="C50.api.telerama.fr">
+    <title>Les experts : Miami</title>
+    <sub-title>Traque sans merci</sub-title>
+    <desc lang="fr">Saison:9 - Episode:4 - La police de Miami parcourt sans relâche la ville à la recherche du reste des prisonniers ayant pris la fuite. Memmo Fierro, un des évadés, est le meurtrier de Marisol, épouse d'Horatio et soeur de Delko. Memmo tente de détourner un bateau après avoir assassiné son propriétaire et volé ses objets de valeur. Car le criminel est bien décidé à ne pas se laisser faire. Il est papa d'une fille de 11 ans, Elsa, qui vivait avec Ivonne, l'ex-compagne de Memmo. Mais depuis, la petite fille a été placée dans un foyer, Ivonne n'étant pas jugée apte à élever un enfant. Alors qu'elle travaille au pressing, Ivonne reçoit la visite de Horatio...</desc>
+    <credits>
+      <director>Don Tardino</director>
+      <actor>David Caruso (Horatio Caine)</actor>
+      <actor>Emily Procter (Calleigh Duquesne)</actor>
+      <actor>Adam Rodriguez (Eric Delko)</actor>
+      <actor>Jonathan Togo (Ryan Wolfe)</actor>
+      <actor>Rex Linn (Frank Tripp)</actor>
+      <actor>Eva La Rue (Natalia Boa Vista)</actor>
+      <actor>Omar Benson Miller (Walter Simmons)</actor>
+      <actor>Robert LaSardo (Memmo Fierro)</actor>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <writer>Anthony E Zuiker</writer>
+      <writer>Ann Donahue</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/12216967-3428-4287-a3dc-ce673aac09bd.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">8.3.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124191000 +0100" stop="20191124200000 +0100" channel="C50.api.telerama.fr">
+    <title>Les experts : Miami</title>
+    <sub-title>Ouvrez les yeux</sub-title>
+    <desc lang="fr">Saison:9 - Episode:5 - Jason se réveille d'un cauchemar dans lequel il assistait à un meurtre. Lorsqu'il reprend ses esprits, il est entouré de toute l'équipe des experts. Selon Natalia, c'est lui-même qui a appelé les scientifiques. Alors qu'Horatio examine les alentours, il découvre une tête décapitée, avant de tomber sur le cadavre de son propriétaire, caché dans le coffre d'une voiture. De retour au laboratoire, Jason confie à Delko qu'il n'a pas plus touché à la drogue depuis un an et qu'il essaie de reconstruire sa vie. Natalia lui montre alors ses dépositions. S'apercevant que ses déclarations ne tiennent pas la route, Jason demande l'assistance d'un avocat...</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <actor>David Caruso (Horatio Caine)</actor>
+      <actor>Emily Procter (Calleigh Duquesne)</actor>
+      <actor>Adam Rodriguez (Eric Delko)</actor>
+      <actor>Jonathan Togo (Ryan Wolfe)</actor>
+      <actor>Rex Linn (Frank Tripp)</actor>
+      <actor>Eva La Rue (Natalia Boa Vista)</actor>
+      <actor>Omar Benson Miller (Walter Simmons)</actor>
+      <actor>Shawn Hatosy (Jason Roger)</actor>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <writer>Anthony E Zuiker</writer>
+      <writer>Brian Davidson</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8af645ad-a9f5-47ca-840e-1c11baf3103a.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">8.4.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124200000 +0100" stop="20191124222500 +0100" channel="C50.api.telerama.fr">
+    <title>Anges et démons</title>
+    <desc lang="fr">Trois ans après &lt;I&gt;Da Vinci Code&lt;I&gt;, Tom Hanks et Ron Howard rempilent dans le jeu de piste avec énigmes religieuses. Distrayant un moment, puis franchement pénible. - Critique : Film de Ron Howard  (Angels &amp; demons, USA, 2009). Scénario : David Koepp et Akiva Goldsman, d'après le roman de Dan Brown. 135 mn. VM. Avec Tom Hanks, Ewan McGregor, Stellan Skarsgard...&lt;br/&gt;Genre : le cave du Vatican.&lt;br/&gt;On prend les mêmes et on recommence. Après le succès phénoménal de Da Vinci Code, en 2006, Ron Howard, Tom Hanks et le scénariste Akiva Goldsman ont adapté Anges et démons, toujours d'après Dan Brown.&lt;br/&gt;Pourtant détesté par le Vatican, l'expert en « symbologie » Robert Langdon y est convié pour sauver l'Eglise menacée par les Illuminati, une société secrète de savants, autrefois persécutée par les légions papales. Il a six heures pour retrouver quatre cardinaux et une bombe d'antimatière (sic) cachés dans divers monuments de Rome. Le compte à rebours dope l'action (un peu) moins bavarde et (bien) plus énergique que dans Da Vinci Code. En quatre-vingt-dix minutes, le jeu de piste autour des statues du Bernin resterait un « pop-corn movie » plutôt distrayant, alibi culturel en prime. Il fait quarante-cinq minutes de plus...&lt;br/&gt;C'est beaucoup trop pour des personnages aussi indigents - seul Ewan McGregor parvient à surprendre en camerlingue oedipien. Après la polémique avec l'Opus Dei, il y a quatre ans, la production n'a voulu fâcher personne, ni les scientifiques, ni les croyants. Ce qui n'empêche pas les grandiloquentes scènes finales, sur la place Saint-Pierre, de virer à l'étouffe-chrétien...
+&lt;P&gt;Samuel Douhaire&lt;/P&gt;</desc>
+    <credits>
+      <director>Ron Howard</director>
+      <actor>Tom Hanks (Robert Langdon)</actor>
+      <actor>Ewan McGregor (Patrick McKenna)</actor>
+      <actor>Ayelet Zurer (Vittoria Vetra)</actor>
+      <actor>Stellan Skarsgard (Richter)</actor>
+      <actor>Armin Mueller-Stahl (Straus)</actor>
+      <actor>Carmen Argenziano (Silvano Ventivoglio)</actor>
+      <actor>David Pasquesi (Vincenzi)</actor>
+      <actor>Cosimo Fusco (le père Simeon)</actor>
+      <writer>David Koepp</writer>
+      <writer>Akiva Goldsman</writer>
+      <composer>Hans Zimmer</composer>
+      <guest>Dan Brown</guest>
+      <guest>Allan Cameron</guest>
+      <guest>Salvatore Totino</guest>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">film : thriller</category>
+    <length units="minutes">145</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/169_emi_133663.jpg" />
+    <country>américain</country>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124222500 +0100" stop="20191124223000 +0100" channel="C50.api.telerama.fr">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124223000 +0100" stop="20191124224500 +0100" channel="C50.api.telerama.fr">
+    <title>Good News</title>
+    <desc lang="fr">«Good News», c'est l'émission d'actu des bonnes nouvelles musicales, cinéma, culture, loisirs, évènements. Au programme : des reportages, interviews, making of, le tout, dans la bonne humeur grâce au peps légendaire de Sandrine.</desc>
+    <credits>
+      <presenter>Sandrine Corman</presenter>
+    </credits>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1d8ac3fe-689b-4b98-b9b0-07dafdeb11b5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124224500 +0100" stop="20191125004500 +0100" channel="C50.api.telerama.fr">
+    <title>C'est pas tous les jours dimanche</title>
+    <desc lang="fr">En compagnie de ses chroniqueurs, l'animateur décrypte l'actualité aux côtés de personnalités.</desc>
+    <credits>
+      <presenter>Christophe Deborsu</presenter>
+    </credits>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="hours">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4a2017a8-6770-4010-b5cc-eb16d2503ae5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125004500 +0100" stop="20191125050000 +0100" channel="C50.api.telerama.fr">
+    <title>Télé-achat</title>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">255</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125050000 +0100" stop="20191125053000 +0100" channel="C50.api.telerama.fr">
+    <title>Journal luxembourgeois</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124060000 +0100" stop="20191124060500 +0100" channel="C892.api.telerama.fr">
+    <title>Si j'étais un animal</title>
+    <sub-title>Si j'étais un phacochère</sub-title>
+    <desc lang="fr">Vingt-quatre heures dans la vie d'Albert le petit phacochère, du lever au coucher de sa famille nombreuse.</desc>
+    <credits>
+      <director>Marie-Claire Javoy</director>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/829903d2-fc9c-49f0-b0f7-cf923f04cf7b.jpg" />
+    <country>français</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124060500 +0100" stop="20191124063000 +0100" channel="C892.api.telerama.fr">
+    <title>Les Schtroumpfs</title>
+    <sub-title>Le Schtroumpf Indécis. - Le retour de Don Schtroumpfo</sub-title>
+    <desc lang="fr">Episode:11 - «Le Schtroumpf Indécis». Le Schtroumpf Indécis est totalement incapable de prendre une décision. Pourtant, le jour où il se retrouve dans le château du magicien Balthazar, il est mis au pied du mur. - «Le retour de Don Schtroumpfo». 
+Une goutte de la nouvelle potion magique du Grand Schtroumpf tombe sur un livre d'aventures. Voilà que le hardi Don Schtroumpfo prend vie...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dfdda1e-e7c5-4c48-a14e-2b67b1148aed.jpg" />
+    <country>américain</country>
+    <episode-num system="xmltv_ns">.10.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124063000 +0100" stop="20191124065500 +0100" channel="C892.api.telerama.fr">
+    <title>Les Schtroumpfs</title>
+    <sub-title>La mauvaise Schtroumpfette</sub-title>
+    <desc lang="fr">Episode:41 - Les aventures de gentils petits lutins bleus, toujours heureux, constamment en butte à l'hostilité du sorcier Gargamel et de son affreux chat Azraël.</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dfdda1e-e7c5-4c48-a14e-2b67b1148aed.jpg" />
+    <country>américain</country>
+    <episode-num system="xmltv_ns">.40.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124065500 +0100" stop="20191124071500 +0100" channel="C892.api.telerama.fr">
+    <title>Titi et Grosminet mènent l'enquête</title>
+    <sub-title>Fouille de Rimfire. - Danger explosion ne pas approcher</sub-title>
+    <desc lang="fr">Saison:2 - Episode:4 - «Fouille de Rimfire». Mémé part à la recherche du colonel Rimfire dans une mystérieuse pyramide pleine de portes secrètes et de tunnels où de méchantes souris ont élu domicile. Grosminet est mort de peur. - «Danger explosion ne pas approcher». La petite équipe séjourne dans le majestueux Hôtel Poo Ping, à Hawaii. Cette escapade exotique réserve bien des surprises...</desc>
+    <credits>
+      <writer>James T Walker</writer>
+      <writer>Leonard Robinson</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d8a34a59-da6a-4d2d-b68b-7923b2f3b0fb.jpg" />
+    <country>américain</country>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124071500 +0100" stop="20191124073500 +0100" channel="C892.api.telerama.fr">
+    <title>Titi et Grosminet mènent l'enquête</title>
+    <sub-title>Panique à bord. - C'est le bouquet</sub-title>
+    <desc lang="fr">Saison:2 - Episode:5 - «Panique à bord». Grosminet sème la panique à bord d'un avion. Titi et Mémé ne se doutent de rien. - «C'est le bouquet». Mémé et ses deux amis partent à la découverte de l'Europe en vélo...</desc>
+    <credits>
+      <writer>James T Walker</writer>
+      <writer>Leonard Robinson</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d8a34a59-da6a-4d2d-b68b-7923b2f3b0fb.jpg" />
+    <country>américain</country>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124073500 +0100" stop="20191124074500 +0100" channel="C892.api.telerama.fr">
+    <title>La famille Blaireau-Renard</title>
+    <sub-title>Une vie de grand</sub-title>
+    <desc lang="fr">Saison:1 - La famille Blaireau mène une vie tranquille dans un terrier au fond des bois jusqu'au jour où madame Renarde et sa fille Roussette, délogées de leur tanière par des chasseurs, emménagent chez elle.</desc>
+    <credits>
+      <director>Florian Ferrier</director>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <country>France</country>
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124074500 +0100" stop="20191124080000 +0100" channel="C892.api.telerama.fr">
+    <title>La famille Blaireau-Renard</title>
+    <sub-title>Une vie de grand</sub-title>
+    <desc lang="fr">Saison:1 - La famille Blaireau mène une vie tranquille dans un terrier au fond des bois jusqu'au jour où madame Renarde et sa fille Roussette, délogées de leur tanière par des chasseurs, emménagent chez elle.</desc>
+    <credits>
+      <director>Florian Ferrier</director>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <country>France</country>
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124080000 +0100" stop="20191124081000 +0100" channel="C892.api.telerama.fr">
+    <title>Alvinnn !!! et les Chipmunks</title>
+    <sub-title>Guitar Hero</sub-title>
+    <desc lang="fr">Saison:3 - Episode:50 - Alvin accepte de donner des cours de guitare à Miss Smith alors que cette dernière refuse de lui dire pourquoi elle doit absolument apprendre...</desc>
+    <credits>
+      <writer>Janice Karman</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/15033561-052c-4bed-af3c-84e65169b192.jpg" />
+    <country>américain</country>
+    <episode-num system="xmltv_ns">2.49.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124081000 +0100" stop="20191124082000 +0100" channel="C892.api.telerama.fr">
+    <title>Alvinnn !!! et les Chipmunks</title>
+    <sub-title>La soirée pyjama de Théodore</sub-title>
+    <desc lang="fr">Saison:3 - Episode:27 - Théodore voudrait passer plus de temps avec ses amis. Mais il peine à surmonter son appréhension des soirées pyjama. Il décide néanmoins de passer la nuit chez Kevin, sans Alvin ni Simon...</desc>
+    <credits>
+      <writer>Janice Karman</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/15033561-052c-4bed-af3c-84e65169b192.jpg" />
+    <country>américain</country>
+    <episode-num system="xmltv_ns">2.26.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124082000 +0100" stop="20191124083000 +0100" channel="C892.api.telerama.fr">
+    <title>Alvinnn !!! et les Chipmunks</title>
+    <sub-title>Le garde du corps</sub-title>
+    <desc lang="fr">Saison:3 - Episode:28 - Alvin réalise avec intérêt que la plupart des célébrités sont accompagnées par un garde du corps. Sans réfléchir, il décide de former Théodore à ce métier difficile...</desc>
+    <credits>
+      <writer>Janice Karman</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/15033561-052c-4bed-af3c-84e65169b192.jpg" />
+    <country>américain</country>
+    <episode-num system="xmltv_ns">2.27.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124083000 +0100" stop="20191124084500 +0100" channel="C892.api.telerama.fr">
+    <title>Alvinnn !!! et les Chipmunks</title>
+    <sub-title>Le grand détective Chipmunk</sub-title>
+    <desc lang="fr">Saison:3 - Episode:49 - Après un cambriolage perpétré au domicile de madame Miller, Eleanor et Théodore se jurent de tour faire pour trouver la trace du coupable afin de le livrer aux autorités...</desc>
+    <credits>
+      <writer>Janice Karman</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/15033561-052c-4bed-af3c-84e65169b192.jpg" />
+    <country>américain</country>
+    <episode-num system="xmltv_ns">2.48.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124084500 +0100" stop="20191124085500 +0100" channel="C892.api.telerama.fr">
+    <title>Tib et Tatoum</title>
+    <sub-title>Le petit Mammouth</sub-title>
+    <desc lang="fr">Saison:1 - Episode:37 - Tib et Tatoum découvrent un petit mammouth abandonné. Ils décident de prendre soin de lui le temps de retrouver sa maman. Mais suite à un quiproquo, Tib va se retrouver obligé de partir à la chasse au mammouth avec son père...</desc>
+    <credits>
+      <director>Sandra Derval</director>
+      <writer>Flora Grimaldi</writer>
+      <writer>Nicolas Bannister</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <country>France</country>
+    <episode-num system="xmltv_ns">0.36.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124085500 +0100" stop="20191124091000 +0100" channel="C892.api.telerama.fr">
+    <title>Tib et Tatoum</title>
+    <sub-title>Enfin la paix</sub-title>
+    <desc lang="fr">Episode:38 - Aron demande aux enfants du clan de faire la paix avec le clan des Ours. Ce serait le plus beau cadeau d'anniversaire qu'ils puissent lui faire. Pour lui faire plaisir, les Tigres proposent aux Ours de faire la paix. Ils finissent pas accepter, mais tiendront-ils parole ?...</desc>
+    <credits>
+      <director>Sandra Derval</director>
+      <writer>Flora Grimaldi</writer>
+      <writer>Nicolas Bannister</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <country>France</country>
+    <episode-num system="xmltv_ns">.37.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124091000 +0100" stop="20191124092000 +0100" channel="C892.api.telerama.fr">
+    <title>Tib et Tatoum</title>
+    <sub-title>Qui a peur du grand méchant tigre ?</sub-title>
+    <desc lang="fr">Episode:39 - Suite à un pari idiot avec Lud, Tib va devoir arracher une touffe de poils au terrible tigre Dent de sabre. Mais le tigre, furieux, poursuit Tib jusqu'au village, où il fait fuir tous les habitants. Tib et Tatoum vont devoir tout faire pour réparer leur erreur...</desc>
+    <credits>
+      <director>Sandra Derval</director>
+      <writer>Flora Grimaldi</writer>
+      <writer>Nicolas Bannister</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <country>France</country>
+    <episode-num system="xmltv_ns">.38.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124092000 +0100" stop="20191124093500 +0100" channel="C892.api.telerama.fr">
+    <title>Robin des Bois, malice à Sherwood</title>
+    <sub-title>Sherwood à la carte</sub-title>
+    <desc lang="fr">Saison:2 - Episode:37 - A tout juste 10 ans, Robin a déjà l'étoffe d'un héros. Avec humour et malice, il s'oppose à chacune des machinations du jeune prince Jean, épaulé par ses inséparables compagnons, Marianne, Tuck, Petit Jean et Scarlett.</desc>
+    <credits>
+      <director>Sandra Derval</director>
+      <writer>Tatsunoko</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <country>France</country>
+    <episode-num system="xmltv_ns">1.36.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124093500 +0100" stop="20191124094500 +0100" channel="C892.api.telerama.fr">
+    <title>Robin des Bois, malice à Sherwood</title>
+    <sub-title>Petite balade entre amis</sub-title>
+    <desc lang="fr">Saison:2 - Episode:38 - A tout juste 10 ans, Robin a déjà l'étoffe d'un héros. Avec humour et malice, il s'oppose à chacune des machinations du jeune prince Jean, épaulé par ses inséparables compagnons, Marianne, Tuck, Petit Jean et Scarlett.</desc>
+    <credits>
+      <director>Sandra Derval</director>
+      <writer>Tatsunoko</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <country>France</country>
+    <episode-num system="xmltv_ns">1.37.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124094500 +0100" stop="20191124100000 +0100" channel="C892.api.telerama.fr">
+    <title>Robin des Bois, malice à Sherwood</title>
+    <sub-title>Le roi et la poule</sub-title>
+    <desc lang="fr">Saison:2 - Episode:39 - A tout juste 10 ans, Robin a déjà l'étoffe d'un héros. Avec humour et malice, il s'oppose à chacune des machinations du jeune prince Jean, épaulé par ses inséparables compagnons, Marianne, Tuck, Petit Jean et Scarlett.</desc>
+    <credits>
+      <director>Sandra Derval</director>
+      <writer>Tatsunoko</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <country>France</country>
+    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124100000 +0100" stop="20191124111500 +0100" channel="C892.api.telerama.fr">
+    <title>De la neige pour Noël</title>
+    <desc lang="fr">Un gentil inventeur et ses deux copains, un canard fanfaron et un hérisson timoré, sont aux prises avec une machine à neige infernale. Un joli film d'animation pour enfants, à base de marionnettes. - Critique : &lt;P&gt;Ce film d'animation norvégien de Rasmus A. Sivertsen donne vie à des marionnettes sympathiques et colorées, au nombre desquelles un gentil inventeur et ses deux amis : un canard crâneur et un hérisson craintif. Rythme doux, décors soignés, bricolages inspirés et farfelus... Idéal pour les plus petits. — C.M.&lt;/P&gt;</desc>
+    <credits>
+      <director>Rasmus A Sivertsen</director>
+      <writer>Karsten Fullu</writer>
+      <composer>Knut Avenstroup Hougen</composer>
+      <guest>Harald Sommerin Simonnaes</guest>
+    </credits>
+    <date>2013</date>
+    <category lang="fr">film d'animation</category>
+    <length units="minutes">75</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/93955b2c-d751-472d-a246-1767b9d9f4d2.jpg" />
+    <country>Norvège</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124111500 +0100" stop="20191124114000 +0100" channel="C892.api.telerama.fr">
+    <title>Léna, rêve d'étoile</title>
+    <sub-title>Rendez-vous à Paris</sub-title>
+    <desc lang="fr">Saison:1 - Episode:5 - Cherchant à s'habituer à son nouvel univers, Léna demande à un autre élève, Jeff, de l'accompagner hors de l'école pour la journée. Tout est curieux, excitant, et Léna se laisse facilement distraire par ce monde nouveau fait de tenues colorées et de musique entraînante. Mais il y a des règles à l’école, et être ponctuel en fait partie...</desc>
+    <credits>
+      <actor>Jessica Lord (Léna Grisky)</actor>
+      <actor>Castle Rock (Jeff)</actor>
+      <actor>Christy O'Donnell (Henri)</actor>
+      <actor>Rory J Saper (Max)</actor>
+      <writer>Jill Girling</writer>
+      <composer>Lori Matter Welch</composer>
+    </credits>
+    <category lang="fr">série jeunesse</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c3355a2e-a1e5-49c3-bc9a-7a151dd6acbf.jpg" />
+    <country>Allemagne</country>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124114000 +0100" stop="20191124120500 +0100" channel="C892.api.telerama.fr">
+    <title>Léna, rêve d'étoile</title>
+    <sub-title>Les petites mères</sub-title>
+    <desc lang="fr">Saison:1 - Episode:6 - Léna est surexcitée à l'idée de protéger une élève plus jeune en devenant sa «petite mère». Lorsqu'elle comprend qu'elle va être en concurrence directe avec Théa pour gagner cette place, c'est chacune pour soi. Les deux filles s'affrontent lors de défis d'endurance, ignorant qu'il ne s'agit que de manipulations élaborées par la jeune Violette. Pendant ce temps, Max tente d'assurer au BLOK une place sur la scène underground...</desc>
+    <credits>
+      <actor>Jessica Lord (Léna Grisky)</actor>
+      <actor>Castle Rock (Jeff)</actor>
+      <actor>Christy O'Donnell (Henri)</actor>
+      <actor>Rory J Saper (Max)</actor>
+      <writer>Jill Girling</writer>
+      <composer>Lori Matter Welch</composer>
+    </credits>
+    <category lang="fr">série jeunesse</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c3355a2e-a1e5-49c3-bc9a-7a151dd6acbf.jpg" />
+    <country>Allemagne</country>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124120500 +0100" stop="20191124123000 +0100" channel="C892.api.telerama.fr">
+    <title>Léna, rêve d'étoile</title>
+    <sub-title>La légende de la Fée</sub-title>
+    <desc lang="fr">Saison:1 - Episode:7 - Lorsqu'il s'agit d'interpréter un triangle amoureux pour une scène, Léna est choisie pour incarner la fée, dont le personnage dansé par Max tombe amoureux, tandis que Théa joue l’épouse délaissée. Mais des tensions contraignent Madame Carré à modifier la distribution des rôles...</desc>
+    <credits>
+      <actor>Jessica Lord (Léna Grisky)</actor>
+      <actor>Castle Rock (Jeff)</actor>
+      <actor>Christy O'Donnell (Henri)</actor>
+      <actor>Rory J Saper (Max)</actor>
+      <writer>Jill Girling</writer>
+      <composer>Lori Matter Welch</composer>
+    </credits>
+    <category lang="fr">série jeunesse</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c3355a2e-a1e5-49c3-bc9a-7a151dd6acbf.jpg" />
+    <country>Allemagne</country>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124123000 +0100" stop="20191124125500 +0100" channel="C892.api.telerama.fr">
+    <title>Mia et moi</title>
+    <sub-title>Le grand sommeil</sub-title>
+    <desc lang="fr">Saison:3 - Episode:25 - Le Lierre Ténébreux a atteint le Cratère des elfes : un camp de réfugiés qui accueille déjà les licornes, les Faunes et les elfes de la Vallée des Fleurs soumis au chaos...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e344ca81-8a3c-4fe0-ab12-3da53167f001.jpg" />
+    <country>Italie</country>
+    <episode-num system="xmltv_ns">2.24.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124125500 +0100" stop="20191124132000 +0100" channel="C892.api.telerama.fr">
+    <title>Mia et moi</title>
+    <sub-title>Le dernier combat</sub-title>
+    <desc lang="fr">Saison:3 - Episode:26 - La tristesse règne sur Centopia, recouverte de Lierre Ténébreux, et sur ses habitants, plongés dans un profond sommeil. Suivant le conseil de l'oracle, Sara parvient à associer tous les fragments du Coeur pour le réassembler...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e344ca81-8a3c-4fe0-ab12-3da53167f001.jpg" />
+    <country>Italie</country>
+    <episode-num system="xmltv_ns">2.25.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124132000 +0100" stop="20191124132500 +0100" channel="C892.api.telerama.fr">
+    <title>Kaeloo</title>
+    <sub-title>Si on jouait à il fait quoi ton père</sub-title>
+    <desc lang="fr">Saison:3 - Episode:21 - Ils sont quatre comme les Trois Mousquetaires et les cinq doigts de la main, selon l'expression de Moignon l'écureuil. Kaeloo, Monsieur Chat, Moignon et Coin-Coin forment un vrai quatuor où chacun est doté d'une forte personnalité. Cette joyeuse bande s'ennuie souvent, et pour passer le temps, invente toutes sortes de jeux rigolos.</desc>
+    <credits>
+      <director>Rémi Chapotot</director>
+      <writer>Rémi Chapotot</writer>
+      <writer>Jean-François Henry</writer>
+      <writer>Vincent Burgevin</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/32c9534a-8419-4c72-b680-8d05eca14f44.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">2.20.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124132500 +0100" stop="20191124133500 +0100" channel="C892.api.telerama.fr">
+    <title>Kaeloo</title>
+    <sub-title>Si on jouait à la mythologie</sub-title>
+    <desc lang="fr">Saison:3 - Episode:22 - Ils sont quatre comme les Trois Mousquetaires et les cinq doigts de la main, selon l'expression de Moignon l'écureuil. Kaeloo, Monsieur Chat, Moignon et Coin-Coin forment un vrai quatuor où chacun est doté d'une forte personnalité. Cette joyeuse bande s'ennuie souvent, et pour passer le temps, invente toutes sortes de jeux rigolos.</desc>
+    <credits>
+      <director>Rémi Chapotot</director>
+      <writer>Rémi Chapotot</writer>
+      <writer>Jean-François Henry</writer>
+      <writer>Vincent Burgevin</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/32c9534a-8419-4c72-b680-8d05eca14f44.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">2.21.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124133500 +0100" stop="20191124134000 +0100" channel="C892.api.telerama.fr">
+    <title>Le frigo</title>
+    <sub-title>In memoriam tuberculum patatae</sub-title>
+    <desc lang="fr">Saison:1 - Episode:20 - Le frigo, lieu unique, fonctionne comme un petit immeuble ou une entreprise à différents étages où l'on trouve tous les codes de la société humaine.</desc>
+    <credits>
+      <director>Romain Gadiou</director>
+      <writer>Romain Gadiou</writer>
+      <writer>Sébastien Tiquet</writer>
+      <writer>Sébastien Tiquet</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a0ce1c62-174e-42ac-91c0-11c8e5ff7d82.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124134000 +0100" stop="20191124140000 +0100" channel="C892.api.telerama.fr">
+    <title>Trop cool, Scooby-Doo !</title>
+    <sub-title>Accusé Fred Jones, levez-vous !</sub-title>
+    <desc lang="fr">Saison:1 - Episode:26 - Fred se retrouve sur le banc des accusés et doit répondre d'une accusation de vol : on lui reproche d'avoir pillé les magasins d'une ville-fantôme, abandonné par la population après une catastrophe écologique majeure. Son avocat n'est nulle autre que Daphné, qui a gagné son titre dans un jeu vidéo...</desc>
+    <credits>
+      <writer>Joe Ruby</writer>
+      <writer>Ken Spears</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f5143968-186b-44da-9423-f1cdf9b8d211.jpg" />
+    <country>américain</country>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124140000 +0100" stop="20191124142000 +0100" channel="C892.api.telerama.fr">
+    <title>Trop cool, Scooby-Doo !</title>
+    <sub-title>Le repos des guerriers</sub-title>
+    <desc lang="fr">Saison:2 - Episode:1 - Fred ne songe qu'à résoudre des énigmes et épuise ses amis. La petite équipe décide de l'emmener prendre un peu de repos au bord de la mer, dans la maison des parents de Daphné...</desc>
+    <credits>
+      <writer>Joe Ruby</writer>
+      <writer>Ken Spears</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f5143968-186b-44da-9423-f1cdf9b8d211.jpg" />
+    <country>américain</country>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124142000 +0100" stop="20191124144500 +0100" channel="C892.api.telerama.fr">
+    <title>Les aventures du Chat Potté</title>
+    <sub-title>Le doigt en mouvement écrit</sub-title>
+    <desc lang="fr">Episode:25 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/89313804-d9ed-422a-9667-7074ae128479.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">.24.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124144500 +0100" stop="20191124151000 +0100" channel="C892.api.telerama.fr">
+    <title>Les aventures du Chat Potté</title>
+    <sub-title>Et, ayant écrit, continue</sub-title>
+    <desc lang="fr">Episode:26 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/89313804-d9ed-422a-9667-7074ae128479.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">.25.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124151000 +0100" stop="20191124153000 +0100" channel="C892.api.telerama.fr">
+    <title>Spirit : au galop en toute liberté</title>
+    <sub-title>Lucky et le prix de la liberté</sub-title>
+    <desc lang="fr">Saison:2 - Episode:7 - Alors qu'elle veut à tout prix participer à une course réservée aux hommes, Lucky se fait passer pour un garçon. Mais la compétition prend un tournant dangereux avec Garisson...</desc>
+    <credits>
+      <director>Julia Fitzmaurice</director>
+      <writer>Aury Wallington</writer>
+      <writer>Aury Wallington</writer>
+      <composer>James Allen Roberson</composer>
+      <composer>Joachim Horsley</composer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c30a67f3-ab0b-49d7-80cf-968de73d8950.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124153000 +0100" stop="20191124155500 +0100" channel="C892.api.telerama.fr">
+    <title>Tom et Jerry Show</title>
+    <sub-title>L'ami des aigles. - Erreur sur la personne. - Tom et Jerry contre Frankenstein</sub-title>
+    <desc lang="fr">Episode:12 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/133f158e-6a8a-4507-8702-62cbf621ea9b.jpg" />
+    <country>Etats-Unis</country>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124155500 +0100" stop="20191124161500 +0100" channel="C892.api.telerama.fr">
+    <title>Tom et Jerry</title>
+    <sub-title>Drôles de lutins pour le Père Noël</sub-title>
+    <desc lang="fr">Les aventures de deux ennemis jurés, Jerry, la souris malicieuse, et Tom, le matou pataud. Dans un nouveau face à face, ils mettent tout en oeuvre pour se débarrasser l'un de l'autre.</desc>
+    <credits>
+      <writer>James Walker</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6ef19429-8988-4165-9254-5cc74bf906bb.jpg" />
+    <country>américain</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124161500 +0100" stop="20191124163500 +0100" channel="C892.api.telerama.fr">
+    <title>Inspecteur Gadget</title>
+    <sub-title>La fin des zaricots. - Jeux de mains jeux de vilains</sub-title>
+    <desc lang="fr">Saison:2 - Episode:25 - Le Dr Gang ordonne à Tristan d'atterrir sur une comète qui s'approche dangereusement de la terre, puis de la diriger sur Métroville afin d'anéantir la ville...</desc>
+    <credits>
+      <writer>Bruno Bianchi</writer>
+      <writer>Andy Heyward</writer>
+      <writer>Jean Chalopin</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">20</length>
+    <country>Canada</country>
+    <episode-num system="xmltv_ns">1.24.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124163500 +0100" stop="20191124170000 +0100" channel="C892.api.telerama.fr">
+    <title>Inspecteur Gadget *2015</title>
+    <sub-title>La vérité est là-dessous</sub-title>
+    <desc lang="fr">Saison:2 - Episode:26 - Sophie essaie d'empêcher Tristan de trouver l'épave d'un OVNI. C'est Gadget qui tombe le premier sur le pilote extraterrestre qu'il prend pour une archéologue souffrant d'insolation...</desc>
+    <credits>
+      <writer>Bruno Bianchi</writer>
+      <writer>Andy Heyward</writer>
+      <writer>Jean Chalopin</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/231ebfe2-7633-4ceb-b42b-62be89b39120.jpg" />
+    <country>Canada</country>
+    <episode-num system="xmltv_ns">1.25.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124170000 +0100" stop="20191124182500 +0100" channel="C892.api.telerama.fr">
+    <title>Tous à l'ouest, une aventure de Lucky Luke</title>
+    <desc lang="fr">Dans cette adaptation assez fidèle de &lt;I&gt;La Caravane,&lt;I&gt; le légendaire Lucky Luke escorte une caravane d’immigrants et de prisonniers (les Dalton !). - Critique : &lt;p&gt;| Genre : animation familiale.&lt;/p&gt;
+
+&lt;p&gt;Lucky Luke sans clope est-il encore Lucky Luke ? Au fil des ans, le look du cow-boy solitaire est devenu plus propret, sans que cela n’entame l’aura du personnage. Pour preuve cette quatrième adaptation en dessin animé. L’aventure s’inspire de &lt;em&gt;La Caravane,&lt;/em&gt; narrant le long périple d’immigrants et de prisonniers (les Dalton) escortés par Lucky Luke. Le réalisateur a la bonne idée de situer le début dans le New York de 1855. Les perspectives sont soignées, on voit la ville, ses artères, le pont de Brooklyn.&lt;/p&gt;
+
+&lt;p&gt;Côté voix, Lambert Wilson apporte une touche d’élégance au flegme légendaire du garçon vacher, et Clovis Cornillac, ce qu’il faut de bouillonnement pour Joe Dalton. Mais la palme revient à Michael Lonsdale, parfait en huissier de justice méticuleux et détaché. Quant aux péripéties, elles s’enchaînent presque tranquillement, loin des rythmes endiablés en vogue. Tout semble fait pour rassurer à la fois les enfants et les parents. Du ­cinéma traditionnel, presque vieille France, paradoxalement.&lt;/p&gt;</desc>
+    <credits>
+      <director>Olivier Jean-Marie</director>
+      <writer>Jean-François Henry</writer>
+      <writer>Jean-Marie Olivier</writer>
+      <composer>Hervé Lavandier</composer>
+      <guest>Lambert Wilson (Lucky Luke)</guest>
+      <guest>Clovis Cornillac (Joe Dalton)</guest>
+      <guest>François Morel (Rantanplan)</guest>
+      <guest>Bernard Alane (Averell Dalton)</guest>
+      <guest>Michael Lonsdale (Bartleby)</guest>
+      <guest>Jean Piat (Spike Goodfellow)</guest>
+      <guest>Titoff (monsieur Pierre)</guest>
+      <guest>Dee Dee Bridgewater (Molly)</guest>
+      <guest>Morris</guest>
+    </credits>
+    <date>2007</date>
+    <category lang="fr">film d'animation</category>
+    <length units="minutes">85</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/169_emi_120402.jpg" />
+    <country>français</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20191124182500 +0100" stop="20191124185000 +0100" channel="C892.api.telerama.fr">
+    <title>Léna, rêve d'étoile</title>
+    <sub-title>Rendez-vous à Paris</sub-title>
+    <desc lang="fr">Saison:1 - Episode:5 - Cherchant à s'habituer à son nouvel univers, Léna demande à un autre élève, Jeff, de l'accompagner hors de l'école pour la journée. Tout est curieux, excitant, et Léna se laisse facilement distraire par ce monde nouveau fait de tenues colorées et de musique entraînante. Mais il y a des règles à l’école, et être ponctuel en fait partie...</desc>
+    <credits>
+      <actor>Jessica Lord (Léna Grisky)</actor>
+      <actor>Castle Rock (Jeff)</actor>
+      <actor>Christy O'Donnell (Henri)</actor>
+      <actor>Rory J Saper (Max)</actor>
+      <writer>Jill Girling</writer>
+      <composer>Lori Matter Welch</composer>
+    </credits>
+    <category lang="fr">série jeunesse</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c3355a2e-a1e5-49c3-bc9a-7a151dd6acbf.jpg" />
+    <country>Allemagne</country>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124185000 +0100" stop="20191124191500 +0100" channel="C892.api.telerama.fr">
+    <title>Léna, rêve d'étoile</title>
+    <sub-title>Les petites mères</sub-title>
+    <desc lang="fr">Saison:1 - Episode:6 - Léna est surexcitée à l'idée de protéger une élève plus jeune en devenant sa «petite mère». Lorsqu'elle comprend qu'elle va être en concurrence directe avec Théa pour gagner cette place, c'est chacune pour soi. Les deux filles s'affrontent lors de défis d'endurance, ignorant qu'il ne s'agit que de manipulations élaborées par la jeune Violette. Pendant ce temps, Max tente d'assurer au BLOK une place sur la scène underground...</desc>
+    <credits>
+      <actor>Jessica Lord (Léna Grisky)</actor>
+      <actor>Castle Rock (Jeff)</actor>
+      <actor>Christy O'Donnell (Henri)</actor>
+      <actor>Rory J Saper (Max)</actor>
+      <writer>Jill Girling</writer>
+      <composer>Lori Matter Welch</composer>
+    </credits>
+    <category lang="fr">série jeunesse</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c3355a2e-a1e5-49c3-bc9a-7a151dd6acbf.jpg" />
+    <country>Allemagne</country>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124191500 +0100" stop="20191124194000 +0100" channel="C892.api.telerama.fr">
+    <title>Léna, rêve d'étoile</title>
+    <sub-title>La légende de la Fée</sub-title>
+    <desc lang="fr">Saison:1 - Episode:7 - Lorsqu'il s'agit d'interpréter un triangle amoureux pour une scène, Léna est choisie pour incarner la fée, dont le personnage dansé par Max tombe amoureux, tandis que Théa joue l’épouse délaissée. Mais des tensions contraignent Madame Carré à modifier la distribution des rôles...</desc>
+    <credits>
+      <actor>Jessica Lord (Léna Grisky)</actor>
+      <actor>Castle Rock (Jeff)</actor>
+      <actor>Christy O'Donnell (Henri)</actor>
+      <actor>Rory J Saper (Max)</actor>
+      <writer>Jill Girling</writer>
+      <composer>Lori Matter Welch</composer>
+    </credits>
+    <category lang="fr">série jeunesse</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c3355a2e-a1e5-49c3-bc9a-7a151dd6acbf.jpg" />
+    <country>Allemagne</country>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124194000 +0100" stop="20191124195000 +0100" channel="C892.api.telerama.fr">
+    <title>Kaeloo</title>
+    <sub-title>Si on jouait aux boulettes de papier</sub-title>
+    <desc lang="fr">Saison:2 - Episode:50 - Ils sont quatre comme les Trois Mousquetaires et les cinq doigts de la main, selon l'expression de Moignon l'écureuil. Kaeloo, Monsieur Chat, Moignon et Coin-Coin forment un vrai quatuor où chacun est doté d'une forte personnalité. Cette joyeuse bande s'ennuie souvent, et pour passer le temps, invente toutes sortes de jeux rigolos.</desc>
+    <credits>
+      <director>Rémi Chapotot</director>
+      <writer>Rémi Chapotot</writer>
+      <writer>Jean-François Henry</writer>
+      <writer>Vincent Burgevin</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/32c9534a-8419-4c72-b680-8d05eca14f44.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">1.49.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124195000 +0100" stop="20191124195500 +0100" channel="C892.api.telerama.fr">
+    <title>Kaeloo</title>
+    <desc lang="fr">Ils sont quatre comme les Trois Mousquetaires et les cinq doigts de la main, selon l'expression de Moignon l'écureuil. Kaeloo, Monsieur Chat, Moignon et Coin-Coin forment un vrai quatuor où chacun est doté d'une forte personnalité. Cette joyeuse bande s'ennuie souvent, et pour passer le temps, invente toutes sortes de jeux rigolos.</desc>
+    <credits>
+      <director>Rémi Chapotot</director>
+      <writer>Rémi Chapotot</writer>
+      <writer>Jean-François Henry</writer>
+      <writer>Vincent Burgevin</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <country>France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124195500 +0100" stop="20191124202700 +0100" channel="C892.api.telerama.fr">
+    <title>Hep taxi !</title>
+    <sub-title>James Thierrée</sub-title>
+    <desc lang="fr">James Thierrée est l'invité de «Hep taxi». L'acteur et metteur en scène n'est autre que l'un des petits-fils de Charlie Chaplin et le fils de Jean-Baptiste Thierrée et Victoria Chaplin, les créateurs du Cirque Invisible. Cet enfant de la balle est l'auteur de huit spectacles aussi magiques qu'époustouflants.</desc>
+    <credits>
+      <presenter>Jérôme Colin</presenter>
+      <guest>James Thierrée</guest>
+    </credits>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">32</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/aa1c89d3-bec8-47f2-994f-c89bc8c061e3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124202700 +0100" stop="20191124203000 +0100" channel="C892.api.telerama.fr">
+    <title>Météo internationale</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124203000 +0100" stop="20191124210500 +0100" channel="C892.api.telerama.fr">
+    <title>JT traduction gestuelle</title>
+    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124210500 +0100" stop="20191124215500 +0100" channel="C892.api.telerama.fr">
+    <title>Le doc du bourlingueur</title>
+    <sub-title>Dans les faubourgs de Calcutta</sub-title>
+    <desc lang="fr">De Calcutta à Jharia, des centaines de personnes se risquent à exercer des métiers périlleux pour faire vivre leurs proches. C'est le cas d'Ali, qui chasse les reptiles dans les faubourgs de Calcutta. A Jharia, des petites mains s'attaquent aux cargaisons de charbon transportées par les camions de passage.</desc>
+    <credits>
+      <presenter>Philippe Lambillon</presenter>
+    </credits>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/90fb9507-435d-4114-bf8a-cff1a0d60343.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124215500 +0100" stop="20191124224500 +0100" channel="C892.api.telerama.fr">
+    <title>Le doc du bourlingueur</title>
+    <sub-title>Tourisme et dictature : bienvenue au Tibet</sub-title>
+    <desc lang="fr">Situé au coeur de l'Himalaya, le Tibet est une destination mythique. Sous domination chinoise depuis plus de 50 ans, le Tibet subit aujourd'hui une migration importante. La Chine a décidé d'intensifier sa politique de colonisation et mise sur le tourisme pour développer le pays.</desc>
+    <credits>
+      <presenter>Philippe Lambillon</presenter>
+    </credits>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f6d175fc-7ea6-4d60-b39a-9d0ee1044aae.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20191124224500 +0100" stop="20191124232000 +0100" channel="C892.api.telerama.fr">
+    <title>Le grand oral</title>
+    <desc lang="fr">Un acteur majeur de la vie politique ou économique se livre à une interview grand format. Face à trois journalistes, l'invité a 45 minutes pour aller au fond des choses, sans langue de bois, en partant de l'actualité de la semaine. Une émission réalisée en collaboration avec le journal «Le Soir».</desc>
+    <credits>
+      <presenter>Bertrand Henne</presenter>
+      <presenter>Jean-Pierre Jacqmin</presenter>
+      <presenter>Béatrice Delvaux</presenter>
+    </credits>
+    <category lang="fr">interview</category>
+    <length units="minutes">35</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124232000 +0100" stop="20191124233000 +0100" channel="C892.api.telerama.fr">
+    <title>Tam-Tam</title>
+    <sub-title>Mise au vert</sub-title>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124233000 +0100" stop="20191124235000 +0100" channel="C892.api.telerama.fr">
+    <title>Le bar de l'Europe</title>
+    <credits>
+      <presenter>Paul Germain</presenter>
+    </credits>
+    <category lang="fr">magazine politique</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191124235000 +0100" stop="20191125002000 +0100" channel="C892.api.telerama.fr">
+    <title>Europe hebdo</title>
+    <desc lang="fr">Un rendez-vous dédié à l'Union européenne, qui présente les événements marquants de la semaine et leurs conséquences sur la vie quotidienne des citoyens. Portraits, reportages et interviews aident à rendre l'Europe plus accessible et plus concrète.</desc>
+    <category lang="fr">magazine politique</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125002000 +0100" stop="20191125004000 +0100" channel="C892.api.telerama.fr">
+    <title>Regardocs</title>
+    <sub-title>Caroline d'Hondt</sub-title>
+    <desc lang="fr">Une série de portraits de vingt réalisateurs belges. Ces entretiens sont menés par Hadja Lahbib. Leur but est de permettre aux téléspectateus d'entrer dans «l'atelier aux images». Ce numéro s'intéresse à Caroline D'Hondt, une réalisatrice belge, autrice de courts métrages ainsi que de decouemntaires.</desc>
+    <credits>
+      <director>Jonas Canon</director>
+      <writer>Jonas Canon</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">documentaire : culture</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
+    <country>belge</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125004000 +0100" stop="20191125011400 +0100" channel="C892.api.telerama.fr">
+    <title>JT traduction gestuelle</title>
+    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">34</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125011400 +0100" stop="20191125011500 +0100" channel="C892.api.telerama.fr">
+    <title>Météo internationale</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125011500 +0100" stop="20191125013000 +0100" channel="C892.api.telerama.fr">
+    <title>Le bar de l'Europe</title>
+    <credits>
+      <presenter>Paul Germain</presenter>
+    </credits>
+    <category lang="fr">magazine politique</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20191125013000 +0100" stop="20191125060000 +0100" channel="C892.api.telerama.fr">
+    <title>Boucle de nuit</title>
+    <desc lang="fr">Emissions en boucle jusqu'au matin.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">270</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
