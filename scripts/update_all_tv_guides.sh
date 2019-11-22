@@ -67,7 +67,7 @@ update_raw_7_days_guides
 HOME="$OLD_HOME"
 
 echo "- Use python script to post treat tv guides (UTC time, split, merge, ...)"
-python3 post_treatment.py
+./post_treatment.py
 
 echo "- Add log file if needed"
 move_log_file
