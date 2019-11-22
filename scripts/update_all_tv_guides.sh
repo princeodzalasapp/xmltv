@@ -11,14 +11,14 @@ HOME="$BASEDIR"
 now=$(date +"%d/%m/%Y %H:%M:%S-%Z")
 
 # BRANCH="master"
-# FR_GUIDE_CONFIG="./fr/tv_grab_fr_config.txt"
-# BE_GUIDE_CONFIG="./be/tv_grab_be_config.txt"
-# UK_GUIDE_CONFIG="./uk/tv_grab_uk_tvguide.conf"
+# FR_GUIDE_CONFIG="./tv_grab_fr_telerama/tv_grab_fr_telerama_fr_config.txt"
+# BE_GUIDE_CONFIG="./tv_grab_fr_telerama/tv_grab_fr_telerama_be_config.txt"
+# UK_GUIDE_CONFIG="./tv_grab_uk_tvguide/tv_grab_uk_tvguide.conf"
 
 BRANCH="dev"
-FR_GUIDE_CONFIG="./fr/tv_grab_fr_config_test.txt"
-BE_GUIDE_CONFIG="./be/tv_grab_be_config_test.txt"
-UK_GUIDE_CONFIG="./uk/tv_grab_uk_tvguide_test.conf"
+FR_GUIDE_CONFIG="./tv_grab_fr_telerama/tv_grab_fr_telerama_fr_config_test.txt"
+BE_GUIDE_CONFIG="./tv_grab_fr_telerama/tv_grab_fr_telerama_be_config_test.txt"
+UK_GUIDE_CONFIG="./tv_grab_uk_tvguide/tv_grab_uk_tvguide_test.conf"
 
 force_pull () {
     git fetch --all
@@ -31,39 +31,18 @@ push () {
     git push
 }
 
-tv_grab_fr () {
-    days=$1
-    offset=$2
-    output=$3
-    ./fr/tv_grab_fr --config-file "$FR_GUIDE_CONFIG" --days "$days" --offset "$offset" --output "$output"
-}
-
-tv_grab_be () {
-    days=$1
-    offset=$2
-    output=$3
-    ./be/tv_grab_be --config-file "$BE_GUIDE_CONFIG" --days "$days" --offset "$offset" --output "$output"
-}
-
-tv_grab_uk () {
-    days=$1
-    offset=$2
-    output=$3
-    ./uk/tv_grab_uk_tvguide --config-file "$UK_GUIDE_CONFIG" --days "$days" --offset "$offset" --output "$output"
-}
-
 update_raw_7_days_guides () {
     # FR guide
-    rm ../raw/tv_guide_fr.xml
-    tv_grab_fr 7 -1 ../raw/tv_guide_fr.xml
+    rm ../raw/tv_guide_fr_telerama.xml
+    ./tv_grab_fr_telerama/tv_grab_fr_telerama --config-file "$FR_GUIDE_CONFIG" --days 7 --offset -1 --output ../raw/tv_guide_fr_telerama.xml
 
     # BE guide
-    rm ../raw/tv_guide_be.xml
-    tv_grab_be 7 -1 ../raw/tv_guide_be.xml
+    rm ../raw/tv_guide_be_telerama.xml
+    ./tv_grab_fr_telerama/tv_grab_fr_telerama --config-file "$BE_GUIDE_CONFIG" --days 7 --offset -1 --output ../raw/tv_guide_be_telerama.xml
 
     # UK guide
-    rm ../raw/tv_guide_uk.xml
-    tv_grab_uk 7 -1 ../raw/tv_guide_uk.xml
+    rm ../raw/tv_guide_uk_tvguide.xml
+    ./tv_grab_uk_tvguide/tv_grab_uk_tvguide --config-file "$UK_GUIDE_CONFIG" --days 7 --offset -1 --output ../raw/tv_guide_uk_tvguide.xml
 }
 
 
@@ -83,7 +62,6 @@ force_pull
 echo "- Update raw 7 days guides (tv_guide_XX.xml files in raw fodler)"
 update_raw_7_days_guides
 
-# To remove later
 echo "- Use python script to post treat tv guides (UTC time, split, merge, ...)"
 python3 post_treatment.py
 
