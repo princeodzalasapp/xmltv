@@ -1,19 +1,24 @@
 #!/usr/bin/env bash
 
-# Move in the script base directory
+# Move in the scripts directory
 BASEDIR=$(dirname "$0")
 cd $BASEDIR
+BASEDIR=$(pwd) # Only to get absolute path and not relative path
+
+# Hack HOME env var to use local .xmltv folder
+HOME="$BASEDIR"
 
 now=$(date +"%d/%m/%Y %H:%M:%S-%Z")
 
 BRANCH="master"
-#BRANCH="dev"
-
 FR_GUIDE_CONFIG="./fr/tv_grab_fr_config.txt"
-#FR_GUIDE_CONFIG="./fr/tv_grab_fr_config_test.txt"
-
 BE_GUIDE_CONFIG="./be/tv_grab_be_config.txt"
+UK_GUIDE_CONFIG="./uk/tv_grab_uk_tvguide.conf"
+
+#BRANCH="dev"
+#FR_GUIDE_CONFIG="./fr/tv_grab_fr_config_test.txt"
 #BE_GUIDE_CONFIG="./be/tv_grab_be_config_test.txt"
+#UK_GUIDE_CONFIG="./uk/tv_grab_uk_tvguide_test.conf"
 
 force_pull () {
     git fetch --all
@@ -40,43 +45,50 @@ tv_grab_be () {
     ./be/tv_grab_be --config-file "$BE_GUIDE_CONFIG" --days "$days" --offset "$offset" --output "$output"
 }
 
+tv_grab_uk () {
+    days=$1
+    offset=$2
+    output=$3
+    ./uk/tv_grab_uk_tvguide --config-file "$UK_GUIDE_CONFIG" --days "$days" --offset "$offset" --output "$output"
+}
+
 update_7_days_guides () {
     # FR guide
-    rm tv_guide_fr.xml
-    tv_grab_fr 7 -1 ./tv_guide_fr.xml
+    rm ../tv_guide_fr.xml
+    tv_grab_fr 7 -1 ../tv_guide_fr.xml
 
     # BE guide
     rm tv_guide_be.xml
-    tv_grab_be 7 -1 ./tv_guide_be.xml
+    tv_grab_be 7 -1 ../tv_guide_be.xml
 
     # ALL guide
-    tv_sort --by-channel --output tv_guide_fr_sorted.xml tv_guide_fr.xml
-    tv_sort --by-channel --output tv_guide_be_sorted.xml tv_guide_be.xml
-    rm tv_guide_all.xml
-    tv_merge -i tv_guide_fr_sorted.xml -m tv_guide_be_sorted.xml -o tv_guide_all.xml
-    rm tv_guide_fr_sorted.xml
-    rm tv_guide_be_sorted.xml
+    tv_sort --by-channel --output ../tv_guide_fr_sorted.xml ../tv_guide_fr.xml
+    tv_sort --by-channel --output ../tv_guide_be_sorted.xml ../tv_guide_be.xml
+    rm ../tv_guide_all.xml
+    tv_merge -i ../tv_guide_fr_sorted.xml -m ../tv_guide_be_sorted.xml -o ../tv_guide_all.xml
+    rm ../tv_guide_fr_sorted.xml
+    rm ../tv_guide_be_sorted.xml
 }
 
 update_2_days_zip_guides () {
     # FR guide
-    rm tv_guide_fr_lite.zip
-    tv_grab_fr 2 -1 ./tv_guide_fr_lite.xml
-    zip tv_guide_fr_lite.zip tv_guide_fr_lite.xml
-    rm tv_guide_fr_lite.xml
+    rm ../tv_guide_fr_lite.zip
+    tv_grab_fr 2 -1 ../tv_guide_fr_lite.xml
+    zip ../tv_guide_fr_lite.zip ../tv_guide_fr_lite.xml
+    rm ../tv_guide_fr_lite.xml
 
     # BE guide
-    rm tv_guide_be_lite.zip
-    tv_grab_be 2 -1 ./tv_guide_be_lite.xml
-    zip tv_guide_be_lite.zip tv_guide_be_lite.xml
-    rm tv_guide_be_lite.xml
+    rm ../tv_guide_be_lite.zip
+    tv_grab_be 2 -1 ../tv_guide_be_lite.xml
+    zip ../tv_guide_be_lite.zip ../tv_guide_be_lite.xml
+    rm ../tv_guide_be_lite.xml
 }
 
 remove_old_guides () {
     for i in {3..40}
     do
         old_date=$(date +%Y%m%d --date="-${i} day")
-        find . -type f -name '*${old_date}*' -delete
+        find .. -type f -name '*${old_date}*' -delete
     done
 }
 
@@ -90,15 +102,15 @@ update_1_day_guides () {
         currentdate=$(date +%Y%m%d --date="${i} day")
         
         # FR guide
-        file_name_xml="./tv_guide_fr_${futuredate}.xml"
+        file_name_xml="../tv_guide_fr_${futuredate}.xml"
         if [ ! -f $file_name_xml ]; then
-            tv_grab_fr 1 "$i" "./tv_guide_fr_${currentdate}.xml"
+            tv_grab_fr 1 "$i" "../tv_guide_fr_${currentdate}.xml"
         fi
 
         # BE guide
-        file_name_xml="./tv_guide_be_${futuredate}.xml"
+        file_name_xml="../tv_guide_be_${futuredate}.xml"
         if [ ! -f $file_name_xml ]; then
-            tv_grab_be 1 "$i" "./tv_guide_be_${currentdate}.xml"
+            tv_grab_be 1 "$i" "../tv_guide_be_${currentdate}.xml"
         fi
     done
 }
@@ -113,7 +125,7 @@ move_log_file () {
     fi
 }
 
-echo "- Start script at $now"
+echo "- Start script at $now in $BASEDIR"
 
 echo "- To avoid any git conflict we do a force pull first"
 force_pull
