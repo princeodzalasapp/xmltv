@@ -24,6 +24,7 @@
 import os
 import xmltv
 import pickle
+import pprint
 
 
 def serialize_xmltv(xmltv_fp, pickle_fp):
@@ -40,3 +41,10 @@ tv_guides = [
 
 for tv_guide in tv_guides:
     serialize_xmltv(tv_guide[0], tv_guide[1])
+
+
+# xmltv_fp = 'tv_guide_fr.xml'
+# programmes = xmltv.read_programmes(open(xmltv_fp, 'r'))
+# logFile = open(xmltv_fp + '.txt', 'w')
+# pp = pprint.PrettyPrinter(indent=4, stream=logFile)
+# pp.pprint(programmes)
