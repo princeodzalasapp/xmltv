@@ -5,9 +5,6 @@ BASEDIR=$(dirname "$0")
 cd $BASEDIR
 BASEDIR=$(pwd) # Only to get absolute path and not relative path
 
-# Hack HOME env var to use local .xmltv folder
-HOME="$BASEDIR"
-
 now=$(date +"%d/%m/%Y %H:%M:%S-%Z")
 
 # BRANCH="master"
@@ -59,8 +56,15 @@ echo "- Start script at $now in $BASEDIR"
 echo "- To avoid any git conflict we do a force pull first"
 force_pull
 
+echo "- Remove xmltv files"
+rm ../*.xml
+
 echo "- Update raw 7 days guides (tv_guide_XX.xml files in raw fodler)"
+# Hack HOME env var to use local .xmltv folder
+OLD_HOME="$HOME"
+HOME="$BASEDIR"
 update_raw_7_days_guides
+HOME="$OLD_HOME"
 
 echo "- Use python script to post treat tv guides (UTC time, split, merge, ...)"
 python3 post_treatment.py
