@@ -10,15 +10,15 @@ HOME="$BASEDIR"
 
 now=$(date +"%d/%m/%Y %H:%M:%S-%Z")
 
-BRANCH="master"
-FR_GUIDE_CONFIG="./fr/tv_grab_fr_config.txt"
-BE_GUIDE_CONFIG="./be/tv_grab_be_config.txt"
-UK_GUIDE_CONFIG="./uk/tv_grab_uk_tvguide.conf"
+# BRANCH="master"
+# FR_GUIDE_CONFIG="./fr/tv_grab_fr_config.txt"
+# BE_GUIDE_CONFIG="./be/tv_grab_be_config.txt"
+# UK_GUIDE_CONFIG="./uk/tv_grab_uk_tvguide.conf"
 
-#BRANCH="dev"
-#FR_GUIDE_CONFIG="./fr/tv_grab_fr_config_test.txt"
-#BE_GUIDE_CONFIG="./be/tv_grab_be_config_test.txt"
-#UK_GUIDE_CONFIG="./uk/tv_grab_uk_tvguide_test.conf"
+BRANCH="dev"
+FR_GUIDE_CONFIG="./fr/tv_grab_fr_config_test.txt"
+BE_GUIDE_CONFIG="./be/tv_grab_be_config_test.txt"
+UK_GUIDE_CONFIG="./uk/tv_grab_uk_tvguide_test.conf"
 
 force_pull () {
     git fetch --all
@@ -52,69 +52,19 @@ tv_grab_uk () {
     ./uk/tv_grab_uk_tvguide --config-file "$UK_GUIDE_CONFIG" --days "$days" --offset "$offset" --output "$output"
 }
 
-update_7_days_guides () {
+update_raw_7_days_guides () {
     # FR guide
-    rm ../tv_guide_fr.xml
-    tv_grab_fr 7 -1 ../tv_guide_fr.xml
+    rm ../raw/tv_guide_fr.xml
+    tv_grab_fr 7 -1 ../raw/tv_guide_fr.xml
 
     # BE guide
-    rm tv_guide_be.xml
-    tv_grab_be 7 -1 ../tv_guide_be.xml
+    rm ../raw/tv_guide_be.xml
+    tv_grab_be 7 -1 ../raw/tv_guide_be.xml
 
-    # ALL guide
-    tv_sort --by-channel --output ../tv_guide_fr_sorted.xml ../tv_guide_fr.xml
-    tv_sort --by-channel --output ../tv_guide_be_sorted.xml ../tv_guide_be.xml
-    rm ../tv_guide_all.xml
-    tv_merge -i ../tv_guide_fr_sorted.xml -m ../tv_guide_be_sorted.xml -o ../tv_guide_all.xml
-    rm ../tv_guide_fr_sorted.xml
-    rm ../tv_guide_be_sorted.xml
+    # UK guide
+    rm ../raw/tv_guide_uk.xml
+    tv_grab_uk 7 -1 ../raw/tv_guide_uk.xml
 }
-
-update_2_days_zip_guides () {
-    # FR guide
-    rm ../tv_guide_fr_lite.zip
-    tv_grab_fr 2 -1 ../tv_guide_fr_lite.xml
-    zip ../tv_guide_fr_lite.zip ../tv_guide_fr_lite.xml
-    rm ../tv_guide_fr_lite.xml
-
-    # BE guide
-    rm ../tv_guide_be_lite.zip
-    tv_grab_be 2 -1 ../tv_guide_be_lite.xml
-    zip ../tv_guide_be_lite.zip ../tv_guide_be_lite.xml
-    rm ../tv_guide_be_lite.xml
-}
-
-remove_old_guides () {
-    for i in {3..40}
-    do
-        old_date=$(date +%Y%m%d --date="-${i} day")
-        find .. -type f -name '*${old_date}*' -delete
-    done
-}
-
-update_1_day_guides () {
-    # Remove old files (older than 3 days)
-    remove_old_guides
-
-    offsets=("-1" "+0" "+1" "+2" "+3" "+4" "+5")
-    for i in "${offsets[@]}"; 
-    do
-        currentdate=$(date +%Y%m%d --date="${i} day")
-        
-        # FR guide
-        file_name_xml="../tv_guide_fr_${futuredate}.xml"
-        if [ ! -f $file_name_xml ]; then
-            tv_grab_fr 1 "$i" "../tv_guide_fr_${currentdate}.xml"
-        fi
-
-        # BE guide
-        file_name_xml="../tv_guide_be_${futuredate}.xml"
-        if [ ! -f $file_name_xml ]; then
-            tv_grab_be 1 "$i" "../tv_guide_be_${currentdate}.xml"
-        fi
-    done
-}
-
 
 
 move_log_file () {
@@ -130,15 +80,12 @@ echo "- Start script at $now in $BASEDIR"
 echo "- To avoid any git conflict we do a force pull first"
 force_pull
 
-echo "- Update 7 days guides (tv_guide_XX.xml files)"
-update_7_days_guides
+echo "- Update raw 7 days guides (tv_guide_XX.xml files in raw fodler)"
+update_raw_7_days_guides
 
 # To remove later
-echo "- Udpate 2 days zip guides (tv_guide_XX_lite.zip files)"
-update_2_days_zip_guides
-
-echo "- Update 1 day guides (tv_guide_XX_XXXXXXXX.xml files)"
-update_1_day_guides
+echo "- Use python script to post treat tv guides (UTC time, split, merge, ...)"
+python3 post_treatment.py
 
 echo "- Add log file if needed"
 move_log_file
