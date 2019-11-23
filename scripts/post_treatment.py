@@ -60,6 +60,15 @@ countries = {
         'channels_list': [],
         'programmes_list:': [],
         'data_list': []
+    },
+    'it': {
+        'raw_fp': os.path.join(WD, '../raw/tv_guide_it.xml'),
+        'dst_full_fp': os.path.join(WD, '../tv_guide_it.xml'),
+        'dst_1_day_fp': os.path.join(WD, '../tv_guide_it_{}.xml'),
+        'tz': 'Europe/Rome',
+        'channels_list': [],
+        'programmes_list:': [],
+        'data_list': []
     }
 
 }

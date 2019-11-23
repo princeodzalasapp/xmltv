@@ -11,11 +11,13 @@ BRANCH="master"
 FR_GUIDE_CONFIG="./tv_grab_fr_telerama/tv_grab_fr_telerama_fr_config.txt"
 BE_GUIDE_CONFIG="./tv_grab_fr_telerama/tv_grab_fr_telerama_be_config.txt"
 UK_GUIDE_CONFIG="./tv_grab_uk_tvguide/tv_grab_uk_tvguide.conf"
+IT_GUIDE_CONFIG="./tv_grab_it/tv_grab_it.conf"
 
 # BRANCH="dev"
 # FR_GUIDE_CONFIG="./tv_grab_fr_telerama/tv_grab_fr_telerama_fr_config_test.txt"
 # BE_GUIDE_CONFIG="./tv_grab_fr_telerama/tv_grab_fr_telerama_be_config_test.txt"
 # UK_GUIDE_CONFIG="./tv_grab_uk_tvguide/tv_grab_uk_tvguide_test.conf"
+# IT_GUIDE_CONFIG="./tv_grab_it/tv_grab_it_test.conf"
 
 force_pull () {
     git fetch --all
@@ -40,6 +42,10 @@ update_raw_7_days_guides () {
     # UK guide
     rm ../raw/tv_guide_uk_tvguide.xml
     ./tv_grab_uk_tvguide/tv_grab_uk_tvguide --config-file "$UK_GUIDE_CONFIG" --days 7 --offset -1 --output ../raw/tv_guide_uk_tvguide.xml
+
+    # IT guide
+    rm ../raw/tv_guide_it.xml
+    ./tv_grab_it/tv_grab_it --config-file "$IT_GUIDE_CONFIG" --days 7 --offset 0 --output ../raw/tv_guide_it.xml
 }
 
 
