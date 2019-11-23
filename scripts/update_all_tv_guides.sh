@@ -7,12 +7,12 @@ BASEDIR=$(pwd) # Only to get absolute path and not relative path
 
 now=$(date +"%d/%m/%Y %H:%M:%S-%Z")
 
-# BRANCH="master"
+BRANCH="master"
 FR_GUIDE_CONFIG="./tv_grab_fr_telerama/tv_grab_fr_telerama_fr_config.txt"
 BE_GUIDE_CONFIG="./tv_grab_fr_telerama/tv_grab_fr_telerama_be_config.txt"
 UK_GUIDE_CONFIG="./tv_grab_uk_tvguide/tv_grab_uk_tvguide.conf"
 
-BRANCH="dev"
+# BRANCH="dev"
 # FR_GUIDE_CONFIG="./tv_grab_fr_telerama/tv_grab_fr_telerama_fr_config_test.txt"
 # BE_GUIDE_CONFIG="./tv_grab_fr_telerama/tv_grab_fr_telerama_be_config_test.txt"
 # UK_GUIDE_CONFIG="./tv_grab_uk_tvguide/tv_grab_uk_tvguide_test.conf"
