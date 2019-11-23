@@ -83,6 +83,11 @@ for country_code, country_infos in countries.items():
     country_infos['data_list'] = xmltv.read_data(open(country_infos['raw_fp'], 'r'))
 
     # Replace datetime by the UTC one
+    programmes = country_infos['programmes_list']
+    country_infos['programmes_list'] = []
+    for programme in programmes:
+        if 'start' in programme and 'stop' in programme:
+            country_infos['programmes_list'].append(programme)
     for programme in country_infos['programmes_list']:
         for elt in ['start', 'stop']:
             s = programme[elt]
