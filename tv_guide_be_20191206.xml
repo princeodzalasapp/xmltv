@@ -701,7 +701,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20191206141500" stop="20191206144500">
+  <programme channel="C1280.api.telerama.fr" start="20191206141500" stop="20191206144000">
     <title>Rox</title>
     <desc lang="fr">Saison:1 - Episode:6 -</desc>
     <credits>
@@ -712,8 +712,17 @@
       <actor>Chris Van den Durpel</actor>
     </credits>
     <category lang="fr">série d'aventures</category>
-    <length units="minutes">30</length>
+    <length units="minutes">25</length>
     <episode-num system="xmltv_ns">0.5.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20191206144000" stop="20191206144500">
+    <title>Clip Ketnet Musical 2019-2020</title>
+    <category lang="fr">clips</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b49e69d1-4c27-4f35-bb17-4e637753e2c2.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -840,11 +849,20 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20191206185000" stop="20191206190000">
+  <programme channel="C1280.api.telerama.fr" start="20191206185000" stop="20191206185500">
     <title>Knutserellen met Conchita</title>
     <category lang="fr">magazine jeunesse</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20191206185500" stop="20191206190000">
+    <title>Clip Ketnet Musical 2019-2020</title>
+    <category lang="fr">clips</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b49e69d1-4c27-4f35-bb17-4e637753e2c2.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -877,21 +895,67 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205235100" stop="20191206000000">
+  <programme channel="C164.api.telerama.fr" start="20191205235700" stop="20191206000000">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20191206000000" stop="20191206000100">
     <title>Quel temps !</title>
     <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
     <credits>
       <presenter>Nicolas-Xavier Ladouce</presenter>
     </credits>
     <category lang="fr">météo</category>
-    <length units="minutes">9</length>
+    <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191206000000" stop="20191206005000">
+  <programme channel="C164.api.telerama.fr" start="20191206000100" stop="20191206005000">
+    <title>JT 19h30</title>
+    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">49</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20191206005000" stop="20191206014100">
+    <title>On n'est pas des pigeons</title>
+    <sub-title>Semelle qui fait grandir</sub-title>
+    <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+    </credits>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">51</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20191206014100" stop="20191206014500">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20191206014500" stop="20191206023500">
     <title>JT 19h30</title>
     <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
     <category lang="fr">journal</category>
@@ -902,42 +966,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191206005000" stop="20191206013800">
-    <title>On n'est pas des pigeons</title>
-    <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
-    <credits>
-      <presenter>Benjamin Maréchal</presenter>
-    </credits>
-    <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">48</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20191206013800" stop="20191206014000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20191206014000" stop="20191206023100">
-    <title>JT 19h30</title>
-    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">51</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20191206023100" stop="20191206023200">
+  <programme channel="C164.api.telerama.fr" start="20191206023500" stop="20191206023600">
     <title>Météo</title>
     <category lang="fr">météo</category>
     <length units="minutes">1</length>
@@ -947,11 +976,11 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191206023200" stop="20191206033000">
+  <programme channel="C164.api.telerama.fr" start="20191206023600" stop="20191206033000">
     <title>JT 19h30</title>
     <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">58</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -1138,7 +1167,7 @@
     <credits>
       <presenter>Sophie Davant</presenter>
     </credits>
-    <category lang="fr">magazine de l'art de vivre</category>
+    <category lang="fr">magazine autre</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
     <premiere />
@@ -1604,27 +1633,17 @@
     </rating>
   </programme>
   <programme channel="C168.api.telerama.fr" start="20191206124500" stop="20191206142000">
-    <title>Une romance de Noël en sucre d'orge</title>
-    <desc lang="fr">Cate, qui a repris la fabrique de sucre d'orge de sa grand-mère, fait tout pour perpétuer la tradition familiale. Elle ne voit pas d'un bon oeil l'arrivée de Gabriel, consultant en redressement financier, envoyé par le conseil d'administration de la société. Peu peu pourtant, les choses évoluent...</desc>
+    <title>Norbert, commis d'office</title>
+    <sub-title>Nicolas, recel de fromage / Lola, blanchiment de gaufre</sub-title>
+    <desc lang="fr">Saison:5 - Nicolas a une passion qui est le fromage. Il le met à toutes les sauces : chaud, froid, pané, nature, frit, avec des pâtes, avec du riz sans que le résultat ne soit au rendez-vous. Lola, quant à elle, a une recette originale, la gaufre au canard et au roquefort mais rien ne va dans sa préparation.</desc>
     <credits>
-      <director>Gary Yates</director>
-      <actor>Jodie Sweetin (Cate)</actor>
-      <actor>Andrew Walker (Gabe)</actor>
-      <actor>Sharon Lawrence (Joy)</actor>
-      <actor>Stephanie Moroz (Sophie Marie)</actor>
-      <actor>Darren Martens (Pete)</actor>
-      <actor>Nancy Sorel (Sara)</actor>
-      <actor>Paul Essiembre (Royce)</actor>
-      <actor>Pilar Floyd (Tracy)</actor>
-      <writer>Karen Wyscarver</writer>
-      <writer>Sanford Golden</writer>
-      <writer>Erinne Dobson</writer>
-      <writer>Mary Kay Andrews</writer>
+      <presenter>Norbert Tarayre</presenter>
     </credits>
-    <category lang="fr">téléfilm sentimental</category>
+    <category lang="fr">magazine culinaire</category>
     <length units="minutes">95</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1cd341a3-15c8-4d80-8ab1-dfa7923b392b.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/132838cc-9f85-453d-bb50-bdb524e07ba6.jpg" />
     <country>américain</country>
+    <episode-num system="xmltv_ns">4..</episode-num>
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1916,7 +1935,7 @@
     </credits>
     <category lang="fr">divertissement</category>
     <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e37c7a80-facd-4870-812a-ad8014c52924.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -1956,7 +1975,7 @@
     </credits>
     <category lang="fr">divertissement</category>
     <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e37c7a80-facd-4870-812a-ad8014c52924.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -1996,7 +2015,7 @@
     </credits>
     <category lang="fr">divertissement</category>
     <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e37c7a80-facd-4870-812a-ad8014c52924.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -2036,7 +2055,7 @@
     </credits>
     <category lang="fr">divertissement</category>
     <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e37c7a80-facd-4870-812a-ad8014c52924.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -2076,7 +2095,7 @@
     </credits>
     <category lang="fr">divertissement</category>
     <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e37c7a80-facd-4870-812a-ad8014c52924.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -2116,7 +2135,7 @@
     </credits>
     <category lang="fr">divertissement</category>
     <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e37c7a80-facd-4870-812a-ad8014c52924.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -2156,7 +2175,7 @@
     </credits>
     <category lang="fr">divertissement</category>
     <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e37c7a80-facd-4870-812a-ad8014c52924.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -3451,16 +3470,6 @@
     <category lang="fr">magazine de télé-achat</category>
     <length units="minutes">335</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C50.api.telerama.fr" start="20191206040000" stop="20191206043000">
-    <title>Journal luxembourgeois</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>

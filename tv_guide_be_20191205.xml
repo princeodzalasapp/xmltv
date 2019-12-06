@@ -32,15 +32,6 @@
     <display-name>La Trois</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
   </channel>
-  <programme channel="C1280.api.telerama.fr" start="20191204195500" stop="20191205050000">
-    <title>Geen uitzending</title>
-    <category lang="fr">fin</category>
-    <length units="minutes">545</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1280.api.telerama.fr" start="20191205050000" stop="20191205050500">
     <title>Tik Tak</title>
     <desc lang="fr">Saison:1 - Episode:42 -</desc>
@@ -498,12 +489,21 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20191205103000" stop="20191205104000">
+  <programme channel="C1280.api.telerama.fr" start="20191205103000" stop="20191205103500">
     <title>Masha en de beer</title>
     <desc lang="fr">Saison:1 - Episode:26 -</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <episode-num system="xmltv_ns">0.25.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20191205103500" stop="20191205104000">
+    <title>Clip Ketnet Musical 2019-2020</title>
+    <category lang="fr">clips</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b49e69d1-4c27-4f35-bb17-4e637753e2c2.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -747,11 +747,20 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20191205153500" stop="20191205155000">
+  <programme channel="C1280.api.telerama.fr" start="20191205153500" stop="20191205154700">
     <title>Sturmtroopers</title>
     <category lang="fr">magazine jeunesse</category>
-    <length units="minutes">15</length>
+    <length units="minutes">12</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20191205154700" stop="20191205155000">
+    <title>Clip Ketnet Musical 2019-2020</title>
+    <category lang="fr">clips</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b49e69d1-4c27-4f35-bb17-4e637753e2c2.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -934,151 +943,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191204235000" stop="20191205002500">
-    <title>JT 19h30</title>
-    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">35</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205002500" stop="20191205011200">
-    <title>On n'est pas des pigeons</title>
-    <sub-title>Comparatif produits de St-Nicolas</sub-title>
-    <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
-    <credits>
-      <presenter>Benjamin Maréchal</presenter>
-    </credits>
-    <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">47</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205011200" stop="20191205011500">
-    <title>Air de familles</title>
-    <sub-title>Sécurité - en voiture ?</sub-title>
-    <category lang="fr">magazine de services</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205011500" stop="20191205021500">
-    <title>A votre avis</title>
-    <desc lang="fr">Saison:3 - Dans cette émission politique interactive, Sacha Daout aborde de façon accessible tous les aspects de la vie en société. Les téléspectateurs peuvent intervenir en direct grâce à l'application Opinio ou la page Facebook de l'émission. Pierre Kroll agrémente le débat avec ses traits d'humour graphiques.</desc>
-    <credits>
-      <presenter>Sacha Daout</presenter>
-      <presenter>Pierre Kroll</presenter>
-    </credits>
-    <category lang="fr">emission politique</category>
-    <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/465d15cd-5961-45ca-9db5-b3683e0506c2.jpg" />
-    <episode-num system="xmltv_ns">2..</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205021500" stop="20191205022000">
-    <title>Quel temps !</title>
-    <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
-    <credits>
-      <presenter>Nicolas-Xavier Ladouce</presenter>
-    </credits>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205022000" stop="20191205022100">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205022100" stop="20191205023000">
-    <title>Quel temps !</title>
-    <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
-    <credits>
-      <presenter>Nicolas-Xavier Ladouce</presenter>
-    </credits>
-    <category lang="fr">météo</category>
-    <length units="minutes">9</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205023000" stop="20191205030500">
-    <title>JT 19h30</title>
-    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">35</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205030500" stop="20191205031000">
-    <title>Quel temps !</title>
-    <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
-    <credits>
-      <presenter>Nicolas-Xavier Ladouce</presenter>
-    </credits>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205031000" stop="20191205031300">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205031300" stop="20191205033000">
-    <title>Quel temps !</title>
-    <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
-    <credits>
-      <presenter>Nicolas-Xavier Ladouce</presenter>
-    </credits>
-    <category lang="fr">météo</category>
-    <length units="minutes">17</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205033000" stop="20191205050000">
-    <title>VivaCité Matin</title>
-    <category lang="fr">magazine de services</category>
-    <length units="minutes">90</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C164.api.telerama.fr" start="20191205050000" stop="20191205070000">
     <title>Le 6-8</title>
     <desc lang="fr">Chaque matin une sympathique bande de chroniqueurs propose une matinale tout en images. Interactivité, reportages et convivialité sont les ingrédients de cette première émission de la journée.</desc>
@@ -1110,30 +974,33 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205093000" stop="20191205101900">
+  <programme channel="C164.api.telerama.fr" start="20191205093000" stop="20191205102000">
     <title>On n'est pas des pigeons</title>
+    <sub-title>Comparatif produits de St-Nicolas</sub-title>
     <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
     <credits>
       <presenter>Benjamin Maréchal</presenter>
     </credits>
     <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">49</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205101900" stop="20191205102500">
+  <programme channel="C164.api.telerama.fr" start="20191205102000" stop="20191205102100">
     <title>Notre savoir faire</title>
+    <sub-title>Pourquoi consommer local ?</sub-title>
     <category lang="fr">magazine de société</category>
-    <length units="minutes">6</length>
+    <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205102500" stop="20191205105500">
+  <programme channel="C164.api.telerama.fr" start="20191205102100" stop="20191205105500">
     <title>Demain nous appartient</title>
     <desc lang="fr">Saison:1 - Episode:610 - Alors que la situation s'aggrave, Marianne craint que Rose ne révèle toute la vérité à Chloé. Lou et Sandrine s'unissent pour protéger leurs proches. Leïla est prête à renoncer à des retrouvailles en famille...</desc>
     <credits>
@@ -1158,7 +1025,7 @@
       <writer>Sophie Decroisette</writer>
     </credits>
     <category lang="fr">série dramatique</category>
-    <length units="minutes">30</length>
+    <length units="minutes">34</length>
     <country>France</country>
     <episode-num system="xmltv_ns">0.609.</episode-num>
     <previously-shown />
@@ -1166,7 +1033,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205105500" stop="20191205114200">
+  <programme channel="C164.api.telerama.fr" start="20191205105500" stop="20191205114000">
     <title>Les feux de l'amour</title>
     <desc lang="fr">Episode:5438 - Victor et Nikki s'inquiètent pour Faith, cette dernière leur annonce qu'elle a demandé à retourner vivre avec sa mère mais qu'elle a refusé. Chelsea et Nick passent la soirée ensemble, mais Faith les interrompt et demande à ce que Nick aille soutenir Sharon. Reed est puni et décide d'appeler JT...</desc>
     <credits>
@@ -1182,7 +1049,7 @@
       <writer>William J Bell</writer>
     </credits>
     <category lang="fr">feuilleton sentimental</category>
-    <length units="minutes">47</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5da63861-c2f5-4813-8e45-82a5756ddde3.jpg" />
     <country>américain</country>
     <episode-num system="xmltv_ns">.5437.</episode-num>
@@ -1190,20 +1057,20 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205114200" stop="20191205114700">
+  <programme channel="C164.api.telerama.fr" start="20191205114000" stop="20191205115200">
     <title>Quel temps !</title>
     <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
     <credits>
       <presenter>Nicolas-Xavier Ladouce</presenter>
     </credits>
     <category lang="fr">météo</category>
-    <length units="minutes">5</length>
+    <length units="minutes">12</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205114700" stop="20191205115000">
+  <programme channel="C164.api.telerama.fr" start="20191205115200" stop="20191205115500">
     <title>Météo</title>
     <category lang="fr">météo</category>
     <length units="minutes">3</length>
@@ -1212,83 +1079,82 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205115000" stop="20191205115500">
+  <programme channel="C164.api.telerama.fr" start="20191205115500" stop="20191205115600">
     <title>Quel temps !</title>
     <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
     <credits>
       <presenter>Nicolas-Xavier Ladouce</presenter>
     </credits>
     <category lang="fr">météo</category>
-    <length units="minutes">5</length>
+    <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205115500" stop="20191205123500">
+  <programme channel="C164.api.telerama.fr" start="20191205115600" stop="20191205123000">
     <title>JT 13h</title>
     <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">40</length>
+    <length units="minutes">34</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fed3a14f-eb46-41b8-ae8a-5899f958869d.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205123500" stop="20191205124000">
+  <programme channel="C164.api.telerama.fr" start="20191205123000" stop="20191205124000">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205124000" stop="20191205133000">
+  <programme channel="C164.api.telerama.fr" start="20191205124000" stop="20191205132500">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <credits>
       <presenter>Sophie Davant</presenter>
     </credits>
-    <category lang="fr">magazine de l'art de vivre</category>
-    <length units="minutes">50</length>
+    <category lang="fr">magazine autre</category>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205133000" stop="20191205150400">
+  <programme channel="C164.api.telerama.fr" start="20191205132500" stop="20191205150000">
     <title>Inspecteur Barnaby</title>
-    <sub-title>Tuer avec modération</sub-title>
-    <desc lang="fr">Saison:17 - Episode:4 - Lors d'une présentation de vin sur le domaine viticole des Carnevon, une invitée fait un malaise et décède. L'autopsie révèle qu'elle a été empoisonnée avec un fertilisant utilisé pour la vigne. Douze autres convives sont hospitalisés à l'hôpital de Causton, dont Mathilda Stowe, la mère de Diane Carnevon. L'exploitation appartient par ailleurs à Diane et William Carnavon. Selon la légiste, le poison était contenu dans certains verres. Par ailleurs, Diane et William Carnevon reçoivent régulièrement des menaces d'une association de femmes d'agriculteurs de la région. La responsable du groupe, Elspeth Rice informe l'inspecteur Barnaby que l'exploitation du domaine viticole met en péril l'écosystème. Elle accuse également les propriétaires d'être à l'origine de la mort d'une enfant, originaire du village : Jessica Tyler...</desc>
+    <sub-title>Hors circuit</sub-title>
+    <desc lang="fr">Saison:14 - Episode:1 - John Barnaby, cousin de Tom, vient de prendre ses fonctions d'inspecteur-chef de Causton. Peu de temps après, la directrice de Darnley Park, un pensionnat de jeunes filles, lui demande d'assurer la sécurité pendant le concours d'élégance automobile que l'école organise. Elle craint l'intrusion de jeunes venus de la cité voisine, qu'elle soupçonne de vendre de la drogue dans son établissement. Avant le début du concours, un DJ recruté comme juge se tue en tentant de démarrer à la manivelle une vieille voiture. Jones penche d'abord pour un accident, mais John Barnaby lui fait vite comprendre qu'il s'agit d'un meurtre...</desc>
     <credits>
-      <director>Nicholas Laughland</director>
+      <director>Richard Holthouse</director>
       <actor>Neil Dudgeon (John Barnaby)</actor>
-      <actor>Gwilym Lee (Charlie Nelson)</actor>
-      <actor>Fiona Dolman (Sarah Barnaby)</actor>
-      <actor>Tamzin Malleson (Kate Wilding)</actor>
-      <actor>Claire Bloom (Matilda Stowe)</actor>
-      <actor>Mark Bonnar (William Carnarvon)</actor>
-      <actor>Sabrina Bartlett (Tina Tyler)</actor>
-      <actor>Max Bennett (Kevin Paynton)</actor>
-      <actor>Rosie Cavaliero (Judy Tyler)</actor>
-      <actor>Ruth Gemmell (Diana Carnarvon)</actor>
-      <actor>Selina Griffiths (Elspeth Rice)</actor>
-      <actor>Jaye Jacobs (Carolyn Florrie)</actor>
-      <writer>Lisa Holdsworth</writer>
+      <actor>Jason Hughes (Ben Jones)</actor>
+      <actor>Barry Jackson (le docteur Bullard)</actor>
+      <actor>David Warner (Peter Fossett)</actor>
+      <actor>Susan Engel (Harriet Wingate)</actor>
+      <actor>Lucy Briers (Jessica Wingate)</actor>
+      <actor>Tim Dutton (Jamie Cameron)</actor>
+      <actor>Samantha Bond (Kate Cameron)</actor>
+      <actor>Clara Paget (Charlotte Cameron)</actor>
+      <actor> (Thomas Brightwell)</actor>
+      <actor>Gwyneth Keyworth (Bethan)</actor>
+      <writer>Michael Aitkens</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">94</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/70e64ecb-f3f1-4517-8b42-ff459a3554e9.jpg" />
+    <length units="minutes">95</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/467b7d8a-4f10-424a-bcb5-8fb72e435280.jpg" />
     <country>Grande-Bretagne</country>
-    <episode-num system="xmltv_ns">16.3.</episode-num>
+    <episode-num system="xmltv_ns">13.0.</episode-num>
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205150400" stop="20191205151000">
+  <programme channel="C164.api.telerama.fr" start="20191205150000" stop="20191205151000">
     <title>Nos chers voisins</title>
     <sub-title>Nos chers voisins fêtent Noël</sub-title>
     <desc lang="fr">Toute l'année, ils ont menti, triché, comploté. Mais l'heure des comptes a sonné ! Les voisins vont-ils se racheter avant le passage du Père Noël ? Avec Nikos Aliagas, Jean-Luc Reichmann, Denis Brogniart, Laurent Ournac, Virginie Hocq, Titoff et Firmine Richard, les voisins vont vivre Noël à leur façon...</desc>
@@ -1303,7 +1169,7 @@
       <actor>Jean-Baptiste Shelmerdine (Alex)</actor>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">6</length>
+    <length units="minutes">10</length>
     <country>France</country>
     <rating system="CSA">
       <value>Tout public</value>
@@ -1322,7 +1188,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205155500" stop="20191205163000">
+  <programme channel="C164.api.telerama.fr" start="20191205155500" stop="20191205162900">
     <title>Demain nous appartient</title>
     <desc lang="fr">Saison:1 - Episode:611 - Si Noor et Jules tentent de laisser le passé derrière eux, Jeanne plaide la cause d'Alex auprès de Chloé. Timothée et Lou tendent un piège à Victor. Leïla et William s'unissent pour convaincre Samuel de revenir sur sa décision...</desc>
     <credits>
@@ -1347,17 +1213,17 @@
       <writer>Sophie Decroisette</writer>
     </credits>
     <category lang="fr">série dramatique</category>
-    <length units="minutes">35</length>
+    <length units="minutes">34</length>
     <country>France</country>
     <episode-num system="xmltv_ns">0.610.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205163000" stop="20191205163500">
+  <programme channel="C164.api.telerama.fr" start="20191205162900" stop="20191205163500">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">5</length>
+    <length units="minutes">6</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1380,6 +1246,7 @@
   </programme>
   <programme channel="C164.api.telerama.fr" start="20191205172700" stop="20191205173000">
     <title>Notre savoir faire</title>
+    <sub-title>Porc 2</sub-title>
     <category lang="fr">magazine de société</category>
     <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
@@ -1389,6 +1256,7 @@
   </programme>
   <programme channel="C164.api.telerama.fr" start="20191205173000" stop="20191205182000">
     <title>On n'est pas des pigeons</title>
+    <sub-title>Semelle qui fait grandir</sub-title>
     <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
     <credits>
       <presenter>Benjamin Maréchal</presenter>
@@ -1421,7 +1289,7 @@
   </programme>
   <programme channel="C164.api.telerama.fr" start="20191205192500" stop="20191205193000">
     <title>Guerre 40-45</title>
-    <sub-title>Cimetière de Neupre</sub-title>
+    <sub-title>MMM</sub-title>
     <date>2019</date>
     <category lang="fr">documentaire : histoire</category>
     <length units="minutes">5</length>
@@ -1489,23 +1357,23 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205213500" stop="20191205223500">
+  <programme channel="C164.api.telerama.fr" start="20191205213500" stop="20191205224000">
     <title>Ancêtres INC : Affaires de famille, affaires d'argent</title>
     <desc lang="fr">La généalogie fascine plus de la moitié des Nord-américains et est devenue la plus grande entreprise de recherches historiques jamais réalisée. Motivée par d'importants intérêts religieux, par les grosses industries et les progrès technologiques, la recherche généalogique permet de collecter des données sur les personnes jamais récoltées auparavant. Cet essai-documentaire a été tourné au Canada, aux Etats-Unis, au Royaume-Uni et en Islande et analyse les enjeux individuels et industriels de la généalogie. Il pose des questions notamment quant à à la circulation des données biologiques au sein du grand brassage international des données et à celui de l'état-civil.</desc>
     <date>2019</date>
     <category lang="fr">documentaire : société</category>
-    <length units="hours">1</length>
+    <length units="minutes">65</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bf884750-30fb-4798-b738-21ba41b6c954.jpg" />
     <country>belge</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205223500" stop="20191205225000">
+  <programme channel="C164.api.telerama.fr" start="20191205224000" stop="20191205225000">
     <title>OpinionS</title>
     <sub-title>Regards FGTB</sub-title>
     <category lang="fr">magazine politique</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1524,6 +1392,7 @@
   </programme>
   <programme channel="C164.api.telerama.fr" start="20191205225500" stop="20191205234500">
     <title>On n'est pas des pigeons</title>
+    <sub-title>Semelle qui fait grandir</sub-title>
     <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
     <credits>
       <presenter>Benjamin Maréchal</presenter>
@@ -1536,59 +1405,26 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205234500" stop="20191205235000">
+  <programme channel="C164.api.telerama.fr" start="20191205234500" stop="20191205235700">
     <title>Quel temps !</title>
     <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
     <credits>
       <presenter>Nicolas-Xavier Ladouce</presenter>
     </credits>
     <category lang="fr">météo</category>
-    <length units="minutes">5</length>
+    <length units="minutes">12</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205235000" stop="20191205235100">
+  <programme channel="C164.api.telerama.fr" start="20191205235700" stop="20191206000000">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">1</length>
+    <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20191205235100" stop="20191206000000">
-    <title>Quel temps !</title>
-    <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
-    <credits>
-      <presenter>Nicolas-Xavier Ladouce</presenter>
-    </credits>
-    <category lang="fr">météo</category>
-    <length units="minutes">9</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
     <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20191204234500" stop="20191205014500">
-    <title>Jeux de nuit</title>
-    <desc lang="fr">Rendez-vous pour une série de jeux télévisés interactifs. En répondant correctement aux nombreuses questions affichées, les téléspectateurs peuvent tenter leur chance afin de remporter différents gains. Ce programme regroupant plusieurs jeux offre un moment de divertissement et de bonne humeur.</desc>
-    <category lang="fr">jeu</category>
-    <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20191205014500" stop="20191205040000">
-    <title>Boucle de nuit</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">135</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1691,24 +1527,26 @@
     </rating>
   </programme>
   <programme channel="C168.api.telerama.fr" start="20191205124500" stop="20191205142000">
-    <title>La robe de la mère Noël</title>
-    <desc lang="fr">Meredith consacre l'essentiel de son temps à la gestion du grand magasin de ses parents. Elle ne partage pas vraiment l'esprit de Noël. Lorsqu'une employée retrouve la robe de la Mère Noël dans la réserve, Cheryl propose à sa fille d'endosser le rôle pour les fêtes et engage Nick pour jouer le Père Noël...</desc>
+    <title>Une romance de Noël en sucre d'orge</title>
+    <desc lang="fr">Cate, qui a repris la fabrique de sucre d'orge de sa grand-mère, fait tout pour perpétuer la tradition familiale. Elle ne voit pas d'un bon oeil l'arrivée de Gabriel, consultant en redressement financier, envoyé par le conseil d'administration de la société. Peu peu pourtant, les choses évoluent...</desc>
     <credits>
-      <director>Craig Pryce</director>
-      <actor>Julie Benz (Meredith Rossman)</actor>
-      <actor>David Sutcliffe (Nick)</actor>
-      <actor>Bruce Gray (Harold Rossman)</actor>
-      <actor>Catherine McNally (Cheryl Rossman)</actor>
-      <actor>Vanessa Matsui (Olivia)</actor>
-      <actor>Ashley Leggat (Jessie)</actor>
-      <actor>Paul Hopkins (Daniel Botchwick)</actor>
-      <actor>Jake Epstein (Woody)</actor>
-      <writer>Karen McClellan</writer>
-      <writer>Rosalind Noonan</writer>
+      <director>Gary Yates</director>
+      <actor>Jodie Sweetin (Cate)</actor>
+      <actor>Andrew Walker (Gabe)</actor>
+      <actor>Sharon Lawrence (Joy)</actor>
+      <actor>Stephanie Moroz (Sophie Marie)</actor>
+      <actor>Darren Martens (Pete)</actor>
+      <actor>Nancy Sorel (Sara)</actor>
+      <actor>Paul Essiembre (Royce)</actor>
+      <actor>Pilar Floyd (Tracy)</actor>
+      <writer>Karen Wyscarver</writer>
+      <writer>Sanford Golden</writer>
+      <writer>Erinne Dobson</writer>
+      <writer>Mary Kay Andrews</writer>
     </credits>
     <category lang="fr">téléfilm sentimental</category>
     <length units="minutes">95</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3bac6e81-169e-41c2-baf6-19b48de55533.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1cd341a3-15c8-4d80-8ab1-dfa7923b392b.jpg" />
     <country>américain</country>
     <rating system="CSA">
       <value>Tout public</value>
@@ -1898,281 +1736,6 @@
     <length units="minutes">140</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2528dc28-6db5-42e9-83c9-d3a217605ef2.jpg" />
     <episode-num system="xmltv_ns">7..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191204220500" stop="20191205003500">
-    <title>e-sport (Pro Series 4)</title>
-    <category lang="fr">sport : e-sport</category>
-    <length units="minutes">150</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1dffbae-bf4b-4ab0-9859-098b1894ce92.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205003500" stop="20191205010500">
-    <title>DECIBELS - Le live</title>
-    <sub-title>SYML</sub-title>
-    <desc lang="fr">Saison:1 - L'émission propose d'aller à la rencontre du chanteur américain d'origine galloise SYML, dans un lieu inédit, en compagnie de ses fans. L'occasion de découvrir ce compositeur passionné, qui se définit par un style très personnel : des paroles pointutes et une voix émotive et pure. Son tube, «Where's my Love», a notamment cumulé 160 millions de flux Spotify.</desc>
-    <category lang="fr">emission musicale</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ac2c94c9-ac16-4fe3-b37c-cf862c9be74c.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205010500" stop="20191205013000">
-    <title>Pop M</title>
-    <desc lang="fr">Saison:2 - Cathy Immelen propose un magazine sur la pop culture et le monde actuel. La «pop story» raconte la grande histoire d'un produit de la pop culture - émissions de cuisine, loterie, Monopoly, «Ici Bla-Bla», «Les Simpson». Le «Chic et Choc» brosse le portrait d'une personnalité cachée derrière un phénomène de la pop.</desc>
-    <credits>
-      <presenter>Cathy Immelen</presenter>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b6ae1e9a-6e5e-4d77-ab43-3e97618cf080.jpg" />
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205013000" stop="20191205020000">
-    <title>Opinions</title>
-    <sub-title>Regards FGTB : entretien avec Corinne Morel Darleux</sub-title>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6241b08c-fbb0-44d5-ae42-60b7d887821a.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205020000" stop="20191205021100">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">11</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205021100" stop="20191205021500">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205021500" stop="20191205023400">
-    <title>20:02</title>
-    <desc lang="fr">Saison:2 - Bénédicte Deprez et Olivier Fraipont présentent une compilation de ce qui a été vu sur le net dans les dernières 24h. Séquencée en différentes rubriques, l'émission aborde tous les sujets d'actualité. Les polémiques, les «fake news», les coups de coeur, les vidéos les plus partagées, les tendances sont passés au crible.</desc>
-    <credits>
-      <presenter>Bénédicte Deprez</presenter>
-      <presenter>Olivier Fraipont</presenter>
-    </credits>
-    <category lang="fr">divertissement</category>
-    <length units="minutes">19</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e37c7a80-facd-4870-812a-ad8014c52924.jpg" />
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205023400" stop="20191205024500">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">11</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205024500" stop="20191205024900">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205024900" stop="20191205030900">
-    <title>20:02</title>
-    <desc lang="fr">Saison:2 - Bénédicte Deprez et Olivier Fraipont présentent une compilation de ce qui a été vu sur le net dans les dernières 24h. Séquencée en différentes rubriques, l'émission aborde tous les sujets d'actualité. Les polémiques, les «fake news», les coups de coeur, les vidéos les plus partagées, les tendances sont passés au crible.</desc>
-    <credits>
-      <presenter>Bénédicte Deprez</presenter>
-      <presenter>Olivier Fraipont</presenter>
-    </credits>
-    <category lang="fr">divertissement</category>
-    <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e37c7a80-facd-4870-812a-ad8014c52924.jpg" />
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205030900" stop="20191205032000">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">11</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205032000" stop="20191205032400">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205032400" stop="20191205034200">
-    <title>20:02</title>
-    <desc lang="fr">Saison:2 - Bénédicte Deprez et Olivier Fraipont présentent une compilation de ce qui a été vu sur le net dans les dernières 24h. Séquencée en différentes rubriques, l'émission aborde tous les sujets d'actualité. Les polémiques, les «fake news», les coups de coeur, les vidéos les plus partagées, les tendances sont passés au crible.</desc>
-    <credits>
-      <presenter>Bénédicte Deprez</presenter>
-      <presenter>Olivier Fraipont</presenter>
-    </credits>
-    <category lang="fr">divertissement</category>
-    <length units="minutes">18</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e37c7a80-facd-4870-812a-ad8014c52924.jpg" />
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205034200" stop="20191205035300">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">11</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205035300" stop="20191205035700">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205035700" stop="20191205041700">
-    <title>20:02</title>
-    <desc lang="fr">Saison:2 - Bénédicte Deprez et Olivier Fraipont présentent une compilation de ce qui a été vu sur le net dans les dernières 24h. Séquencée en différentes rubriques, l'émission aborde tous les sujets d'actualité. Les polémiques, les «fake news», les coups de coeur, les vidéos les plus partagées, les tendances sont passés au crible.</desc>
-    <credits>
-      <presenter>Bénédicte Deprez</presenter>
-      <presenter>Olivier Fraipont</presenter>
-    </credits>
-    <category lang="fr">divertissement</category>
-    <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e37c7a80-facd-4870-812a-ad8014c52924.jpg" />
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205041700" stop="20191205042800">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">11</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205042800" stop="20191205043200">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205043200" stop="20191205043700">
-    <title>20:02</title>
-    <desc lang="fr">Saison:2 - Bénédicte Deprez et Olivier Fraipont présentent une compilation de ce qui a été vu sur le net dans les dernières 24h. Séquencée en différentes rubriques, l'émission aborde tous les sujets d'actualité. Les polémiques, les «fake news», les coups de coeur, les vidéos les plus partagées, les tendances sont passés au crible.</desc>
-    <credits>
-      <presenter>Bénédicte Deprez</presenter>
-      <presenter>Olivier Fraipont</presenter>
-    </credits>
-    <category lang="fr">divertissement</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e37c7a80-facd-4870-812a-ad8014c52924.jpg" />
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205043700" stop="20191205044800">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">11</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20191205044800" stop="20191205045200">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2752,59 +2315,8 @@
     </credits>
     <category lang="fr">divertissement</category>
     <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e37c7a80-facd-4870-812a-ad8014c52924.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20191204234500" stop="20191205000000">
-    <title>Dagelijkse kost</title>
-    <sub-title>Aardappelsoep met gerookte zalm en peterseliecoulis</sub-title>
-    <category lang="fr">magazine culinaire</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20191205000000" stop="20191205002000">
-    <title>Iedereen beroemd</title>
-    <category lang="fr">magazine de reportages</category>
-    <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20191205002000" stop="20191205003500">
-    <title>Het journaal</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20191205003500" stop="20191205004000">
-    <title>Het weer</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20191205004000" stop="20191205021000">
-    <title>Villa Politica</title>
-    <category lang="fr">magazine politique</category>
-    <length units="minutes">90</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3179,28 +2691,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20191204234000" stop="20191205014000">
-    <title>Luna Park</title>
-    <desc lang="fr">Chaque jour, Luna Park présente une série de jeux de durées variables sous la forme de questions / réponses adressées aux téléspectateurs. Ces jeux sont classés par catégories (culture générale, sports, santé, alimentation, histoire, géographie, vocabulaire, orthographe... etc). Ils sont dotés d'enjeux variables. Les téléspectateurs qui souhaitent participer, peuvent répondre, en direct, par téléphone, et gagner des cadeaux ou de l'argent.</desc>
-    <category lang="fr">jeu</category>
-    <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20191205014000" stop="20191205040000">
-    <title>Télé-achat</title>
-    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
-    <category lang="fr">magazine de télé-achat</category>
-    <length units="minutes">140</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C377.api.telerama.fr" start="20191205080000" stop="20191205093000">
     <title>Shopping Hours</title>
     <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
@@ -3264,8 +2754,8 @@
     <credits>
       <presenter>Cyril Hanouna</presenter>
       <presenter>Danielle Moreau</presenter>
-      <presenter>Matthieu Delormeau</presenter>
       <presenter>Valérie Benaïm</presenter>
+      <presenter>Matthieu Delormeau</presenter>
       <presenter>Kelly Vedovelli</presenter>
       <presenter>Eric Naulleau</presenter>
       <presenter>Karim Zéribi</presenter>
@@ -3334,8 +2824,8 @@
     <credits>
       <presenter>Cyril Hanouna</presenter>
       <presenter>Danielle Moreau</presenter>
-      <presenter>Matthieu Delormeau</presenter>
       <presenter>Valérie Benaïm</presenter>
+      <presenter>Matthieu Delormeau</presenter>
       <presenter>Kelly Vedovelli</presenter>
       <presenter>Eric Naulleau</presenter>
       <presenter>Karim Zéribi</presenter>
@@ -3398,27 +2888,6 @@
     <category lang="fr">divertissement-humour</category>
     <length units="minutes">170</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bbf60a41-80d0-4e78-bde4-fdc793e04fa8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C50.api.telerama.fr" start="20191204230500" stop="20191205040000">
-    <title>Télé-achat</title>
-    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
-    <category lang="fr">magazine de télé-achat</category>
-    <length units="minutes">295</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C50.api.telerama.fr" start="20191205040000" stop="20191205043000">
-    <title>Journal luxembourgeois</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3894,141 +3363,6 @@
     <category lang="fr">magazine de télé-achat</category>
     <length units="minutes">335</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20191204234000" stop="20191205001700">
-    <title>JT traduction gestuelle</title>
-    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">37</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20191205001700" stop="20191205002000">
-    <title>Météo internationale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20191205002000" stop="20191205004500">
-    <title>CQFD (Ce qui fait débat)</title>
-    <desc lang="fr">Du lundi au vendredi, Arnaud Ruyssen et Catherine Tonero orchestrent un face à face contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, l'actualité de la semaine est analysée par Arnaud Ruyssen et ses invités.</desc>
-    <credits>
-      <presenter>Arnaud Ruyssen</presenter>
-      <presenter>Catherine Tonero</presenter>
-    </credits>
-    <category lang="fr">débat</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/87c41bfa-32ff-4927-a96e-5894df2bb890.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20191205004500" stop="20191205015000">
-    <title>Les sentinelles</title>
-    <desc lang="fr">Comment classer les différentes formes de vie ? Les plantes éprouvent-elles de la souffrance ? Et les poissons ? Pourquoi faut-il parler de génocide animal ? Existe-t-il des formes de vie que l'on puisse sacrifier ? Beaucoup de questions se posent. Y répondre, c'est éviter la fin de l'humanité. L'homme moral est le seul qui puisse nous sauver. Telles sont les réflexions du militant antispéciste Aymeric Caron, invité de Caroline Veyt dans ce nouveau numéro des «Sentinelles».</desc>
-    <credits>
-      <presenter>Caroline Veyt</presenter>
-      <guest>Aymeric Caron (journaliste français)</guest>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">65</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0443cab7-8e61-4f15-843c-f5a4c62c7fc8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20191205015000" stop="20191205022400">
-    <title>JT traduction gestuelle</title>
-    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">34</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20191205022400" stop="20191205022500">
-    <title>Météo internationale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20191205022500" stop="20191205025000">
-    <title>CQFD (Ce qui fait débat)</title>
-    <desc lang="fr">Du lundi au vendredi, Arnaud Ruyssen et Catherine Tonero orchestrent un face à face contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, l'actualité de la semaine est analysée par Arnaud Ruyssen et ses invités.</desc>
-    <credits>
-      <presenter>Arnaud Ruyssen</presenter>
-      <presenter>Catherine Tonero</presenter>
-    </credits>
-    <category lang="fr">débat</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/87c41bfa-32ff-4927-a96e-5894df2bb890.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20191205025000" stop="20191205035500">
-    <title>Les sentinelles</title>
-    <desc lang="fr">Comment classer les différentes formes de vie ? Les plantes éprouvent-elles de la souffrance ? Et les poissons ? Pourquoi faut-il parler de génocide animal ? Existe-t-il des formes de vie que l'on puisse sacrifier ? Beaucoup de questions se posent. Y répondre, c'est éviter la fin de l'humanité. L'homme moral est le seul qui puisse nous sauver. Telles sont les réflexions du militant antispéciste Aymeric Caron, invité de Caroline Veyt dans ce nouveau numéro des «Sentinelles».</desc>
-    <credits>
-      <presenter>Caroline Veyt</presenter>
-      <guest>Aymeric Caron (journaliste français)</guest>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">65</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0443cab7-8e61-4f15-843c-f5a4c62c7fc8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20191205035500" stop="20191205043200">
-    <title>JT traduction gestuelle</title>
-    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">37</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20191205043200" stop="20191205043500">
-    <title>Météo internationale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20191205043500" stop="20191205050000">
-    <title>CQFD (Ce qui fait débat)</title>
-    <desc lang="fr">Du lundi au vendredi, Arnaud Ruyssen et Catherine Tonero orchestrent un face à face contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, l'actualité de la semaine est analysée par Arnaud Ruyssen et ses invités.</desc>
-    <credits>
-      <presenter>Arnaud Ruyssen</presenter>
-      <presenter>Catherine Tonero</presenter>
-    </credits>
-    <category lang="fr">débat</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/87c41bfa-32ff-4927-a96e-5894df2bb890.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
