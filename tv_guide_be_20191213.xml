@@ -3027,8 +3027,8 @@
     <credits>
       <presenter>Cyril Hanouna</presenter>
       <presenter>Danielle Moreau</presenter>
-      <presenter>Matthieu Delormeau</presenter>
       <presenter>Valérie Benaïm</presenter>
+      <presenter>Matthieu Delormeau</presenter>
       <presenter>Kelly Vedovelli</presenter>
       <presenter>Eric Naulleau</presenter>
       <presenter>Karim Zéribi</presenter>
@@ -3097,8 +3097,8 @@
     <credits>
       <presenter>Cyril Hanouna</presenter>
       <presenter>Danielle Moreau</presenter>
-      <presenter>Matthieu Delormeau</presenter>
       <presenter>Valérie Benaïm</presenter>
+      <presenter>Matthieu Delormeau</presenter>
       <presenter>Kelly Vedovelli</presenter>
       <presenter>Eric Naulleau</presenter>
       <presenter>Karim Zéribi</presenter>
@@ -4200,7 +4200,6 @@
     <length units="minutes">20</length>
     <country>Canada</country>
     <episode-num system="xmltv_ns">.3.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -4562,6 +4561,7 @@
     <category lang="fr">emission jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -4593,7 +4593,6 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bc4150a2-8ea8-4ad1-b633-85dbe350e866.jpg" />
     <country>Etats-Unis</country>
     <episode-num system="xmltv_ns">0.8.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -4611,7 +4610,6 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bc4150a2-8ea8-4ad1-b633-85dbe350e866.jpg" />
     <country>Etats-Unis</country>
     <episode-num system="xmltv_ns">0.9.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -4681,7 +4679,6 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c3355a2e-a1e5-49c3-bc9a-7a151dd6acbf.jpg" />
     <country>Allemagne</country>
     <episode-num system="xmltv_ns">1.21.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -4735,12 +4732,21 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20191213193000" stop="20191213201000">
+  <programme channel="C892.api.telerama.fr" start="20191213193000" stop="20191213200600">
     <title>JT traduction gestuelle</title>
     <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">40</length>
+    <length units="minutes">36</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20191213200600" stop="20191213201000">
+    <title>Programme non communiqué</title>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
