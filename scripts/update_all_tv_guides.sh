@@ -31,21 +31,23 @@ push () {
 }
 
 update_raw_7_days_guides () {
+    # Remove old raw guides
+    rm ../raw/*.xml
+
     # FR guide
-    rm ../raw/tv_guide_fr_telerama.xml
-    ./tv_grab_fr_telerama/tv_grab_fr_telerama --config-file "$FR_GUIDE_CONFIG" --days 7 --offset -1 --output ../raw/tv_guide_fr_telerama.xml
+    ./tv_grab_fr_telerama/tv_grab_fr_telerama --config-file "$FR_GUIDE_CONFIG" --days 7 --offset -1 --output ../raw/tv_guide_fr_telerama.xml &
 
     # BE guide
-    rm ../raw/tv_guide_be_telerama.xml
-    ./tv_grab_fr_telerama/tv_grab_fr_telerama --config-file "$BE_GUIDE_CONFIG" --days 7 --offset -1 --output ../raw/tv_guide_be_telerama.xml
+    ./tv_grab_fr_telerama/tv_grab_fr_telerama --config-file "$BE_GUIDE_CONFIG" --days 7 --offset -1 --output ../raw/tv_guide_be_telerama.xml &
 
     # UK guide
-    rm ../raw/tv_guide_uk_tvguide.xml
-    ./tv_grab_uk_tvguide/tv_grab_uk_tvguide --config-file "$UK_GUIDE_CONFIG" --days 7 --offset -1 --output ../raw/tv_guide_uk_tvguide.xml
+    ./tv_grab_uk_tvguide/tv_grab_uk_tvguide --config-file "$UK_GUIDE_CONFIG" --days 7 --offset -1 --output ../raw/tv_guide_uk_tvguide.xml &
 
     # IT guide
-    rm ../raw/tv_guide_it.xml
-    ./tv_grab_it/tv_grab_it --config-file "$IT_GUIDE_CONFIG" --days 7 --offset 0 --output ../raw/tv_guide_it.xml
+    ./tv_grab_it/tv_grab_it --config-file "$IT_GUIDE_CONFIG" --days 7 --offset 0 --output ../raw/tv_guide_it.xml &
+
+    # Wait for all grabbers to finish
+    wait
 }
 
 
@@ -75,7 +77,8 @@ HOME="$OLD_HOME"
 echo "- Use python script to post treat tv guides (UTC time, split, merge, ...)"
 ./post_treatment.py
 
-echo "- Add log file if needed"
+now2=$(date +"%d/%m/%Y %H:%M:%S-%Z")
+echo "- Add log file if needed at $now2"
 move_log_file
 
 echo -e "- Push changes"
