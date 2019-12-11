@@ -48,12 +48,6 @@
   <channel id="yoyo.raisat.it">
     <display-name>Yoyo</display-name>
   </channel>
-  <programme channel="rai4.raisat.it" start="20191210225500" stop="20191211003000">
-    <title lang="it">Underworld - La ribellione dei Lycans</title>
-    <desc lang="it">Regia di P. Tatapoulos,...</desc>
-    <category lang="it">fantastico</category>
-    <category lang="it">film</category>
-  </programme>
   <programme channel="www.la7.it" start="20191210235000" stop="20191211000000">
     <title lang="it">Tg La7</title>
     <desc lang="it">Le notizie d'attualita' e...</desc>
@@ -157,7 +151,7 @@
     <category lang="it">informazione</category>
   </programme>
   <programme channel="www.la7.it" start="20191211000000" stop="20191211004000">
-    <title lang="it">Otto e Mezzo - sabato</title>
+    <title lang="it">Otto e mezzo</title>
     <sub-title lang="it">Ep. 80</sub-title>
     <desc lang="it">Condotto da...</desc>
     <category lang="it">talk show</category>
@@ -199,7 +193,7 @@
     <category lang="it">mondo e tendenze</category>
   </programme>
   <programme channel="www.la7.it" start="20191211100000" stop="20191211123000">
-    <title lang="it">L'aria che tira - Il diario  (live)</title>
+    <title lang="it">L'aria che tira  (live)</title>
     <sub-title lang="it">Ep. 72</sub-title>
     <desc lang="it">Myrta Merlino...</desc>
     <category lang="it">news</category>
@@ -212,14 +206,8 @@
     <category lang="it">news</category>
     <category lang="it">informazione</category>
   </programme>
-  <programme channel="www.la7.it" start="20191211170000" stop="20191211190000">
-    <title lang="it">Little Murders by Agatha Christie</title>
-    <desc lang="it">S2 Ep13 La morte a...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
   <programme channel="www.la7.it" start="20191211193500" stop="20191211201500">
-    <title lang="it">Otto e Mezzo - sabato</title>
+    <title lang="it">Otto e mezzo</title>
     <sub-title lang="it">Ep. 81</sub-title>
     <desc lang="it">Condotto da...</desc>
     <category lang="it">talk show</category>
@@ -237,6 +225,12 @@
     <desc lang="it">Adidas...</desc>
     <category lang="it">arte e cultura</category>
     <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="www.la7.it" start="20191211170000" stop="20191211190000">
+    <title lang="it">Mister Nat - In giro per il mondo</title>
+    <desc lang="it">Un nuovo programma...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
   </programme>
   <programme channel="rainews.guidatv.sky.it" start="20191210235500" stop="20191211000000">
     <title lang="it">Meteo</title>
@@ -1633,46 +1627,14 @@
     <category lang="it">drammatico</category>
     <category lang="it">film</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20191210230000" stop="20191211004000">
-    <title lang="it">Un'estate in campagna</title>
-    <desc lang="it">Regia di J....</desc>
-    <category lang="it">romantico</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20191211004000" stop="20191211022500">
-    <title lang="it">Zodiaco - Il libro perduto</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Un misterioso...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20191211022500" stop="20191211032000">
-    <title lang="it">Code Black</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Ispirata al...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20191211032000" stop="20191211040000">
-    <title lang="it">Code Black</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Ispirata al...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20191211040000" stop="20191211045500">
+  <programme channel="raipremium.guidatv.sky.it" start="20191211040000" stop="20191211054000">
     <title lang="it">Incantesimo</title>
-    <sub-title lang="it">S3</sub-title>
-    <desc lang="it">Gli intrighi e gli...</desc>
+    <sub-title lang="it">Episodio 7</sub-title>
+    <desc lang="it">Dopo una...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20191211045500" stop="20191211054000">
-    <title lang="it">Incantesimo</title>
-    <sub-title lang="it">S3</sub-title>
-    <desc lang="it">Gli intrighi e gli...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 7</episode-num>
+    <episode-num system="xmltv_ns">.6.0/1</episode-num>
   </programme>
   <programme channel="raipremium.guidatv.sky.it" start="20191211054000" stop="20191211060500">
     <title lang="it">Un posto al Sole</title>
@@ -1782,6 +1744,38 @@
     <desc lang="it">Regia di U. Marino, con...</desc>
     <category lang="it">drammatico</category>
     <category lang="it">film</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20191210230000" stop="20191211004000">
+    <title lang="it">Una tata sotto copertura</title>
+    <desc lang="it">Regia di M. Scott, con...</desc>
+    <category lang="it">romantico</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20191211004000" stop="20191211014000">
+    <title lang="it">Il bene e il male</title>
+    <desc lang="it">Ep3 Finche' morte non vi...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20191211014000" stop="20191211023500">
+    <title lang="it">Il bene e il male</title>
+    <sub-title lang="it">Ep4 Fratelli</sub-title>
+    <desc lang="it">Claudio e...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20191211023500" stop="20191211032000">
+    <title lang="it">Code Black</title>
+    <desc lang="it">S3 Ep6 Inferno di fuoco -...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20191211032000" stop="20191211040000">
+    <title lang="it">Code Black</title>
+    <sub-title lang="it">S3 Ep7 Step Up</sub-title>
+    <desc lang="it">Rox...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
   </programme>
   <programme channel="raistoria.rai.it" start="20191210233000" stop="20191211000500">
     <title lang="it">Passato e Presente</title>
