@@ -32,6 +32,15 @@
     <display-name>La Trois</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
   </channel>
+  <programme channel="C1280.api.telerama.fr" start="20191222210000" stop="20191223050000">
+    <title>De Warmste Week</title>
+    <category lang="fr">divertissement</category>
+    <length units="hours">8</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C1280.api.telerama.fr" start="20191223050000" stop="20191223050500">
     <title>Tik Tak</title>
     <desc lang="fr">Saison:1 - Episode:36 -</desc>
@@ -733,7 +742,7 @@
       <presenter>Patrick Leterme</presenter>
       <presenter>Etienne Duval</presenter>
     </credits>
-    <category lang="fr">magazine magazine musical</category>
+    <category lang="fr">magazine musical</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/53f03499-1e38-4a03-a63e-df8ae7b78205.jpg" />
     <rating system="CSA">
@@ -1113,7 +1122,16 @@ Enfin, il y a l'interprétation sortilège de Jodie Foster, tout en suavité et 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20191222231500" stop="20191223010000">
+  <programme channel="C168.api.telerama.fr" start="20191222233500" stop="20191223001500">
+    <title>RTL info 19 heures</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20191223001500" stop="20191223020000">
     <title>Jeux de nuit</title>
     <desc lang="fr">Rendez-vous pour une série de jeux télévisés interactifs. En répondant correctement aux nombreuses questions affichées, les téléspectateurs peuvent tenter leur chance afin de remporter différents gains. Ce programme regroupant plusieurs jeux offre un moment de divertissement et de bonne humeur.</desc>
     <category lang="fr">jeu</category>
@@ -1124,10 +1142,10 @@ Enfin, il y a l'interprétation sortilège de Jodie Foster, tout en suavité et 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20191223010000" stop="20191223040000">
+  <programme channel="C168.api.telerama.fr" start="20191223020000" stop="20191223040000">
     <title>Boucle de nuit</title>
     <category lang="fr">journal</category>
-    <length units="hours">3</length>
+    <length units="hours">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1385,62 +1403,65 @@ Enfin, il y a l'interprétation sortilège de Jodie Foster, tout en suavité et 
     </rating>
   </programme>
   <programme channel="C168.api.telerama.fr" start="20191223195500" stop="20191223215000">
-    <title>Very Bad Dads 2</title>
-    <desc lang="fr">Noël approche. Brad et Dusty préparent la fête pour que les enfants soient heureux, mais leurs pères respectifs viennent semer le chaos dans la famille...</desc>
+    <title>Les visiteurs</title>
+    <desc lang="fr">Godefroy de Montmirail et Jacquouille débarquent chez leurs descendants et avec eux un foutoir spatio-temporel souvent hilarant. Festoyons, faisons ripaille, okayyyy ! - Critique : &lt;p&gt;| Genre : 14 millions d’entrées.&lt;/p&gt;
+
+&lt;p&gt;Le chevalier Godefroy de Papincourt est catapulté par erreur dans le futur avec son serviteur Jacquouille. Débarquant chez sa « p’tite-p’tite-p’tite-fillotte », il découvre que son château est devenu un hôtel, que tient le descendant de Jacquouille… Jean-Marie Poiré et Christian Clavier ont eu le talent d’aller au bout de leur idée. A leurs côtés, Jean Reno joue le jeu à fond, Valérie Lemercier reste irrésistible. Clavier est plus drôle en Jacquouille qu’en Jacquard. Le soin apporté aux dialogues, la présence de savoureux acteurs (Isabelle Nanty) et surtout le rythme trépidant font des &lt;em&gt;Visiteurs&lt;/em&gt; un divertissement qu’il ne faut pas bouder.&lt;/p&gt;</desc>
     <credits>
-      <director>Sean Anders</director>
-      <actor>Will Ferrell (Brad Whitaker)</actor>
-      <actor>Mark Wahlberg (Dusty Mayron)</actor>
-      <actor>Linda Cardellini (Sara)</actor>
-      <actor>Mel Gibson (Kurt Mayron)</actor>
-      <actor>John Lithgow (Don Whitaker)</actor>
-      <actor>John Cena (Roger)</actor>
-      <actor>Alessandra Ambrosio (Karen)</actor>
-      <actor>Scarlett Estevez (Megan)</actor>
-      <writer>Sean Anders</writer>
-      <writer>John Morris</writer>
-      <guest>Brian Burns</guest>
-      <guest>Clayton Hartley</guest>
-      <guest>Julio Macat</guest>
+      <director>Jean-Marie Poiré</director>
+      <actor>Christian Clavier (Jacquouille / Jacquard)</actor>
+      <actor>Jean Reno (Godefroy de Montmirail)</actor>
+      <actor>Valérie Lemercier (Frénégonde / Béatrice)</actor>
+      <actor>Marie-Anne Chazel (Ginette)</actor>
+      <actor>Christian Bujeau (Jean-Pierre)</actor>
+      <actor>Isabelle Nanty (Fabienne Morlot)</actor>
+      <actor>Gérard Séty (Edgar Bernay)</actor>
+      <actor>Michel Peyrelon (Edouard Bernay)</actor>
+      <writer>Jean-Marie Poiré</writer>
+      <writer>Christian Clavier</writer>
+      <guest>Jean-Marie Poiré</guest>
+      <guest>Christian Clavier</guest>
     </credits>
-    <date>2017</date>
-    <category lang="fr">film</category>
+    <date>1993</date>
+    <category lang="fr">film : comédie</category>
     <length units="minutes">115</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2dd6d26c-9ddf-4ba1-ac4f-09ef7d8f1bb7.jpg" />
-    <country>Etats-Unis</country>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d36c2da0-bcab-4c65-aa01-690c704eb4eb.jpg" />
+    <country>France</country>
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20191223215000" stop="20191223232500">
-    <title>Famille à louer</title>
-    <desc lang="fr">Hanté par la perspective d'un Noël solitaire, un jeune parvenu (Ben Affleck) engage la famille occupant le pavillon de son enfance : sous contrat, celle-ci doit s'appliquer à lui faire revivre son Noël d'antan. Un conte de Noël farci de bons sentiments, mais au comique nettement indigeste. - Critique : Hanté par la perspective d'un Noël solitaire, un jeune parvenu (Ben Affleck) engage la famille occupant le pavillon de son enfance : sous contrat, celle-ci doit s'appliquer à lui faire revivre son Noël d'antan. La magie du réveillon survivra-t-elle à l'artifice ? Terrorisant la maisonnée de ses caprices, cet égoïste brailleur provoque par sa nostalgie maladroite une avalanche de catastrophes. Un conte de Noël farci de bons sentiments, mais au comique nettement indigeste.
-Fanny Steinmetz</desc>
+  <programme channel="C168.api.telerama.fr" start="20191223215000" stop="20191223235000">
+    <title>Les visiteurs 2 : les couloirs du temps</title>
+    <desc lang="fr">Godefroy de Montmirail retourne à son époque, accompagné non pas de Jacquouille, son fidèle serviteur, mais de Jacquart. Le mariage avec Frénégonde de Pouille est annulé par son père car des bijoux et une relique sacrée ont mystérieusement disparu. Godefroy suppose que c'est Jacquouille qui a accompli ce forfait. Il décide donc de revenir aux temps modernes, en compagnie de Jacquart. Béatrice tente, de son côté, de renvoyer Jacquouille et Ginette dans le passé, les croyant tous deux venus du Moyen Age. D'autant qu'ils sèment allègrement la zizanie et le désordre partout où ils mettent les pieds. La gendarmerie elle-même peine à comprendre les disparitions et les substitutions de personnages... - Critique : Il n'y en a que pour Clavier. Exactement comme il n'y en avait que pour de Funès dans les nanars des années 60. Sauf que le premier court après la grandiose méchanceté du second, sans la rattraper jamais.
+Et donc, dans Les Visiteurs II, on ne voit que Clavier. Clavier, et re-Clavier, qui hurle son texte avec une hystérie monocorde, donc monotone. Jean Reno, lui, est quasiment absent dans la première heure et n'a que deux ou trois scènes à défendre dans la seconde. Tous les autres font de la figuration plus ou moins intelligente : d'ailleurs ils jouent comme Clavier. Par mimétisme, sans doute... Sauf Muriel Robin. La pauvre ! Elle a remplacé Valérie Lemercier, qui en a eu marre, ce qu'on comprend.
+On l'aime bien, Muriel Robin. Mais là, en faire-valoir de Clavier, elle est mal à l'aise comme il n'est pas permis (et on est poli). La vraie « visiteuse numéro deux », c'est elle, tant elle semble sortir d'un autre univers, celui du sketch moqueur. De temps à autre, elle s'y raccroche comme à une bouée de sauvetage. Aussi dérisoire que celles du Titanic.
+Car ici, l'humour est au ras des pâquerettes. On n'est même pas dans la blague de carabinier : ce serait trop beau. Ni dans l'humour potache. Mais dans celui des 4-5 ans qui disent « pipi-caca-boudin » en pouffant de rire. Jacquouille, par exemple, ne fait que se goinfrer (avec les mains : le rêve des tout-petits !). Son double moderne, civilisé, et donc forcément pédé, pisse sans arrêt. Et quand Jacquouille traverse le temps, il laisse sur le sol de la merde. On n'est pas chez Feydeau, mais dans les émonctoires. Bref, on bouffe, on chie et on dégueule...
+Knock voulait réduire tous les habitants d'une ville en malades dépendants. Sous prétexte de distraction, Jean-Marie Poiré semble vouloir nous faire tous régresser au stade oro-anal. Beau programme !
+Pierre Murat</desc>
     <credits>
-      <director>Mike Mitchell</director>
-      <actor>Ben Affleck (Drew Latham)</actor>
-      <actor>James Gandolfini (Tom Valco)</actor>
-      <actor>Christina Applegate (Alicia Valco)</actor>
-      <actor>Catherine O'Hara (Christine Valco)</actor>
-      <actor>Josh Zuckerman (Brian Valco)</actor>
-      <actor>Bill Macy (Doo-Dah)</actor>
-      <actor>Jennifer Morrison (Missy Vanglider)</actor>
-      <actor>Udo Kier (Heinrich)</actor>
-      <writer>Harry Elfont</writer>
-      <writer>Deborah Kaplan</writer>
-      <writer>Jeffrey Ventimilia</writer>
-      <writer>Joshua Sternin</writer>
-      <guest>Deborah Kaplan</guest>
-      <guest>Harry Elfont</guest>
-      <guest>Caroline Hanania</guest>
-      <guest>Peter Lyons Collister</guest>
+      <director>Jean-Marie Poiré</director>
+      <actor>Christian Clavier (Jacquouille / Jacquart)</actor>
+      <actor>Jean Reno (Godefroy de Montmirail)</actor>
+      <actor>Muriel Robin (Béatrice / Frénégonde)</actor>
+      <actor>Marie-Anne Chazel (Ginette)</actor>
+      <actor>Claire Nadeau (Cora)</actor>
+      <actor>Christian Bujeau (Jean-Pierre)</actor>
+      <actor>Sylvie Joly (Gisèle)</actor>
+      <actor>Marie Guillard (Philippine)</actor>
+      <writer>Jean-Marie Poiré</writer>
+      <writer>Christian Clavier</writer>
+      <guest>Hugues Tissandier</guest>
+      <guest>Christophe Beaucarne</guest>
     </credits>
-    <date>2004</date>
+    <date>1998</date>
     <category lang="fr">film : comédie</category>
-    <length units="minutes">95</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/63904c71-9652-4175-8a6b-5602541bf932.jpg" />
-    <country>américain</country>
+    <length units="hours">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/169_emi_24359.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1448,7 +1469,7 @@ Fanny Steinmetz</desc>
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20191223232500" stop="20191223233000">
+  <programme channel="C168.api.telerama.fr" start="20191223235000" stop="20191223235500">
     <title>Martin bonheur</title>
     <desc lang="fr">Le chef cuisinier accueille les téléspectateurs dans la cuisine de sa maison pour leur faire goûter ses plats.</desc>
     <credits>
@@ -1461,21 +1482,12 @@ Fanny Steinmetz</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20191223233000" stop="20191223233500">
+  <programme channel="C168.api.telerama.fr" start="20191223235500" stop="20191224000000">
     <title>Météo</title>
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20191223233500" stop="20191224001500">
-    <title>RTL info 19 heures</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">40</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2309,12 +2321,12 @@ Fanny Steinmetz</desc>
       <presenter>Ludivine Retory</presenter>
       <presenter>Matthieu Delormeau</presenter>
       <presenter>Isabelle Morini-Bosc</presenter>
-      <presenter>Kelly Vedovelli</presenter>
       <presenter>Christine Kelly</presenter>
+      <presenter>Kelly Vedovelli</presenter>
       <presenter>Eric Naulleau</presenter>
       <presenter>Danielle Moreau</presenter>
-      <presenter>Valérie Benaïm</presenter>
       <presenter>Karim Zéribi</presenter>
+      <presenter>Valérie Benaïm</presenter>
       <presenter>Gilles Verdez</presenter>
       <presenter>Benjamin Castaldi</presenter>
       <presenter>Cyrille Eldin</presenter>
@@ -2375,12 +2387,12 @@ Fanny Steinmetz</desc>
     <credits>
       <presenter>Cyril Hanouna</presenter>
       <presenter>Ludivine Retory</presenter>
-      <presenter>Isabelle Morini-Bosc</presenter>
       <presenter>Matthieu Delormeau</presenter>
-      <presenter>Christine Kelly</presenter>
+      <presenter>Isabelle Morini-Bosc</presenter>
       <presenter>Kelly Vedovelli</presenter>
-      <presenter>Danielle Moreau</presenter>
+      <presenter>Christine Kelly</presenter>
       <presenter>Eric Naulleau</presenter>
+      <presenter>Danielle Moreau</presenter>
       <presenter>Karim Zéribi</presenter>
       <presenter>Valérie Benaïm</presenter>
       <presenter>Gilles Verdez</presenter>
@@ -2432,14 +2444,14 @@ Fanny Steinmetz</desc>
     <credits>
       <presenter>Cyril Hanouna</presenter>
       <presenter>Ludivine Retory</presenter>
-      <presenter>Isabelle Morini-Bosc</presenter>
       <presenter>Matthieu Delormeau</presenter>
+      <presenter>Isabelle Morini-Bosc</presenter>
       <presenter>Christine Kelly</presenter>
       <presenter>Kelly Vedovelli</presenter>
-      <presenter>Danielle Moreau</presenter>
       <presenter>Eric Naulleau</presenter>
-      <presenter>Valérie Benaïm</presenter>
+      <presenter>Danielle Moreau</presenter>
       <presenter>Karim Zéribi</presenter>
+      <presenter>Valérie Benaïm</presenter>
       <presenter>Gilles Verdez</presenter>
       <presenter>Benjamin Castaldi</presenter>
       <presenter>Cyrille Eldin</presenter>
@@ -2474,16 +2486,6 @@ Fanny Steinmetz</desc>
     <category lang="fr">magazine de télé-achat</category>
     <length units="minutes">245</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C50.api.telerama.fr" start="20191223040000" stop="20191223043000">
-    <title>Journal luxembourgeois</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2526,7 +2528,7 @@ Fanny Steinmetz</desc>
     <sub-title>C'est mon fils</sub-title>
     <desc lang="fr">Saison:1 - Episode:30 - Sven kidnappe Ulme et regrette rapidement, tant il est bruyant. Vic annonce qu'il veut échanger Ulme contre des trésors tout juste pillés...</desc>
     <credits>
-      <director>Eric Cazes</director>
+      <director>Éric Cazes</director>
     </credits>
     <category lang="fr">série d'animation</category>
     <length units="minutes">15</length>
