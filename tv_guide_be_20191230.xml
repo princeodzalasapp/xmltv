@@ -32,23 +32,44 @@
     <display-name>La Trois</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
   </channel>
-  <programme channel="C164.api.telerama.fr" start="20191229235500" stop="20191230002700">
+  <programme channel="C164.api.telerama.fr" start="20191229235000" stop="20191230002300">
     <title>JT 19h30</title>
     <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">32</length>
+    <length units="minutes">33</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20191230002700" stop="20191230033000">
+  <programme channel="C164.api.telerama.fr" start="20191230002300" stop="20191230002500">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20191230002500" stop="20191230005800">
+    <title>JT 19h30</title>
+    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">33</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20191230005800" stop="20191230033000">
     <title>Air de familles</title>
     <sub-title>Accueil : premiers pas</sub-title>
     <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
     <category lang="fr">magazine de société</category>
-    <length units="minutes">183</length>
+    <length units="minutes">152</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -625,6 +646,247 @@
     <category lang="fr">journal</category>
     <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191229234000" stop="20191230000500">
+    <title>OpinionS</title>
+    <sub-title>MR</sub-title>
+    <category lang="fr">magazine politique</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230000500" stop="20191230001500">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <credits>
+      <presenter>Laurent Henrard</presenter>
+      <presenter>Eric Boever</presenter>
+    </credits>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230001500" stop="20191230001600">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230001600" stop="20191230004500">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">29</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230004500" stop="20191230005100">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <credits>
+      <presenter>Laurent Henrard</presenter>
+      <presenter>Eric Boever</presenter>
+    </credits>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">6</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230005100" stop="20191230005500">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230005500" stop="20191230012000">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230012000" stop="20191230012700">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <credits>
+      <presenter>Laurent Henrard</presenter>
+      <presenter>Eric Boever</presenter>
+    </credits>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">7</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230012700" stop="20191230013000">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230013000" stop="20191230015500">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230015500" stop="20191230020400">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <credits>
+      <presenter>Laurent Henrard</presenter>
+      <presenter>Eric Boever</presenter>
+    </credits>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">9</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230020400" stop="20191230020500">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230020500" stop="20191230023000">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230023000" stop="20191230024000">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <credits>
+      <presenter>Laurent Henrard</presenter>
+      <presenter>Eric Boever</presenter>
+    </credits>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230024000" stop="20191230024100">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230024100" stop="20191230031000">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">29</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230031000" stop="20191230031600">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <credits>
+      <presenter>Laurent Henrard</presenter>
+      <presenter>Eric Boever</presenter>
+    </credits>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">6</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230031600" stop="20191230032000">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230032000" stop="20191230034500">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230034500" stop="20191230035200">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <credits>
+      <presenter>Laurent Henrard</presenter>
+      <presenter>Eric Boever</presenter>
+    </credits>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">7</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20191230035200" stop="20191230035500">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1310,74 +1572,6 @@ Noël. Qui mieux que sa soeur Haley, organisatrice de mariage de stars à Los An
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20191230193000" stop="20191230203500">
-    <title>Het jaaroverzicht</title>
-    <desc lang="fr">Une sélection des moments importants de l'année 2019 qui a été une année riche en émotions, avec notamment un retour sur les vagues de chaleur de cet été.</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">65</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20191230203500" stop="20191230213000">
-    <title>Vrede op aarde</title>
-    <category lang="fr">magazine de reportages</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20191230213000" stop="20191230214500">
-    <title>Het journaal</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20191230214500" stop="20191230215000">
-    <title>Het weer</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20191230215000" stop="20191230223900">
-    <title>First Dates</title>
-    <desc lang="fr">Saison:3 -</desc>
-    <category lang="fr">téléréalité</category>
-    <length units="minutes">49</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/94b687c1-b7ed-49e4-a34b-286706fc1dbe.jpg" />
-    <episode-num system="xmltv_ns">2..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20191230223900" stop="20191230224000">
-    <title>Keno</title>
-    <category lang="fr">loterie</category>
-    <length units="minutes">1</length>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20191230224000" stop="20191230225500">
-    <title>Dagelijkse winterkost</title>
-    <sub-title>Dagelijkse kost</sub-title>
-    <category lang="fr">magazine culinaire</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C377.api.telerama.fr" start="20191229222500" stop="20191230002500">
     <title>Luna Park</title>
     <desc lang="fr">Les spectateurs tentent de remporter des jeux en direct, avec à la clé de l'argent ou de nombreux cadeaux.</desc>
@@ -1467,10 +1661,10 @@ Noël. Qui mieux que sa soeur Haley, organisatrice de mariage de stars à Los An
       <presenter>Isabelle Morini-Bosc</presenter>
       <presenter>Kelly Vedovelli</presenter>
       <presenter>Christine Kelly</presenter>
-      <presenter>Eric Naulleau</presenter>
       <presenter>Danielle Moreau</presenter>
-      <presenter>Karim Zéribi</presenter>
+      <presenter>Eric Naulleau</presenter>
       <presenter>Valérie Benaïm</presenter>
+      <presenter>Karim Zéribi</presenter>
       <presenter>Gilles Verdez</presenter>
       <presenter>Benjamin Castaldi</presenter>
       <presenter>Cyrille Eldin</presenter>
@@ -1508,12 +1702,12 @@ Noël. Qui mieux que sa soeur Haley, organisatrice de mariage de stars à Los An
     <credits>
       <presenter>Cyril Hanouna</presenter>
       <presenter>Ludivine Retory</presenter>
-      <presenter>Matthieu Delormeau</presenter>
       <presenter>Isabelle Morini-Bosc</presenter>
-      <presenter>Kelly Vedovelli</presenter>
+      <presenter>Matthieu Delormeau</presenter>
       <presenter>Christine Kelly</presenter>
-      <presenter>Eric Naulleau</presenter>
+      <presenter>Kelly Vedovelli</presenter>
       <presenter>Danielle Moreau</presenter>
+      <presenter>Eric Naulleau</presenter>
       <presenter>Karim Zéribi</presenter>
       <presenter>Valérie Benaïm</presenter>
       <presenter>Gilles Verdez</presenter>
