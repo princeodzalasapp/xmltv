@@ -177,13 +177,25 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200103063000" stop="20200103070000">
+  <programme channel="C1280.api.telerama.fr" start="20200103063000" stop="20200103065500">
     <title>Samson en Gert 30 jaar</title>
     <sub-title>De krokodil</sub-title>
     <desc lang="fr">Episode:6 -</desc>
     <category lang="fr">série jeunesse</category>
-    <length units="minutes">30</length>
+    <length units="minutes">25</length>
     <episode-num system="xmltv_ns">.5.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200103065500" stop="20200103070000">
+    <title>Molang</title>
+    <desc lang="fr">Saison:1 - Episode:86 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d3194af0-5a2f-4e04-aadd-7ef61731c66e.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">0.85.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -393,9 +405,15 @@
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200103123000" stop="20200103134000">
     <title>Fergie, de kleine grijze tractor en de dansende geit</title>
+    <credits>
+      <director>Peder Hamdahl Naess</director>
+      <actor>Dagny Backer Johnsen</actor>
+      <actor>Jeppe Beck Laursen</actor>
+      <actor>Stein Winge</actor>
+    </credits>
     <category lang="fr">film</category>
     <length units="minutes">70</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a436b57e-7082-4799-9ebf-4f6d4fa2564a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f377fccd-2a4c-428e-86f3-b0a29c769b14.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -411,12 +429,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200103134500" stop="20200103135500">
+  <programme channel="C1280.api.telerama.fr" start="20200103134500" stop="20200103135000">
     <title>Shaun het schaap</title>
     <desc lang="fr">Saison:2 - Episode:14 -</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <episode-num system="xmltv_ns">1.13.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200103135000" stop="20200103135500">
+    <title>Jungle Beat</title>
+    <sub-title>Fourmi : à bout de souffle</sub-title>
+    <desc lang="fr">Saison:2 - Episode:4 - Des animaux, du singe à girafe, en passant par la grenouille ou l'autruche, sont mis en scène dans des situations incongrues et hilarantes.</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <country>Zimbabwe</country>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -665,6 +695,15 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200103195000" stop="20200104050000">
+    <title>Geen uitzending</title>
+    <category lang="fr">fin</category>
+    <length units="minutes">550</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C164.api.telerama.fr" start="20200102232000" stop="20200103001300">
     <title>On n'est pas des pigeons</title>
     <sub-title>Spéciale Luxe</sub-title>
@@ -866,7 +905,7 @@
   </programme>
   <programme channel="C164.api.telerama.fr" start="20200103151000" stop="20200103160500">
     <title>La planète des poules</title>
-    <desc lang="fr">Les poules et les hommes, une histoire d'amour qui dure depuis 5000 ans. Mais comment une gallinacée forestière sans prétention a-t-elle réussi à conquérir les cinq continents ? Les poules sont aujourd'hui plus de 19 milliards sur Terre, et sont ainsi bien plus nombreuses que n'importe quelle autre espèce d'oiseau sauvage.</desc>
+    <desc lang="fr">Les poules et les hommes, une histoire d'amour qui dure depuis 5000 ans. Mais comment une gallinacée forestière sans prétention a-t-elle réussi à conquérir les cinq continents ? Les poules sont aujourd'hui plus de 19 milliards sur Terre, et sont ainsi bien plus nombreuses que n'importe quelle autre espèce d'oiseau sauvage. - Critique : Originaires d'Extrême-Orient, les poules ont colonisé le monde et y sont aujourd'hui sept fois plus nombreuses que les hommes. Un documentaire instructif et amusant, mais qui saute un peu du coq à l'âne.</desc>
     <credits>
       <director>Benoît Demarle</director>
     </credits>
@@ -878,6 +917,9 @@
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme channel="C164.api.telerama.fr" start="20200103170000" stop="20200103173000">
     <title>Demain nous appartient</title>
@@ -949,7 +991,7 @@
   </programme>
   <programme channel="C164.api.telerama.fr" start="20200103191500" stop="20200103211500">
     <title>Jean Dujardin, The Artist !</title>
-    <desc lang="fr">Jean Dujardin revient sur les moments forts de son existence. Ses amis, sa famille, tous ceux qui ont eu l'occasion de travailler avec lui apportent également leur témoignage. Parmi eux, Laurent Baffie, Jean-Paul Belmondo, Eric Collado, Clovis Cornillac, Marc et Vincent Dujardin, ses frères, ses amis d'enfance Olivier Ferracci, Alexandre Mari et Stéphane Serisé, les réalisateurs Michel Hazanavicius, James Huth et Claude Lelouch ; enfin ses complices Manu Joucla, Eric Massot et Bruno Salomone.</desc>
+    <desc lang="fr">Jean Dujardin se met à nu et revient sur ses vingt ans de carrière et son parcours hors-norme, de ses début aux cafés-théâtres jusqu'au cinéma en passant par la télévision. Cet ancien timide, devenu le nouveau visage du cinéma français, n'aurait jamais imaginé devenir le premier acteur français oscarisé avec le film «The Artist». Ses amis, sa famille, tous ceux qui ont eu l'occasion de travailler avec lui apportent également leur témoignage. Parmi eux, Laurent Baffie, Jean-Paul Belmondo, Eric Collado, Clovis Cornillac, Marc et Vincent Dujardin, ses frères, ses amis d'enfance Olivier Ferracci, Alexandre Mari et Stéphane Serisé, les réalisateurs Michel Hazanavicius, James Huth et Claude Lelouch ; et enfin ses complices Manu Joucla, Eric Massot et Bruno Salomone. Ce portrait tout en finesse dévoile un homme aussi séduisant qu'irrésistiblement drôle.</desc>
     <credits>
       <director>Laurence Gerbi</director>
       <director>Laurent Boyer</director>
@@ -957,7 +999,7 @@
     <date>2016</date>
     <category lang="fr">documentaire : cinéma</category>
     <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/169_EMI_753191.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cc34b31c-9681-45b3-aa4e-bd68d700b1c3.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
@@ -1679,7 +1721,7 @@
     </credits>
     <category lang="fr">téléfilm humoristique</category>
     <length units="minutes">85</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/169_EMI_715151.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cf031b0e-2260-4ba9-b212-8481b2e817d7.jpg" />
     <country>américain</country>
     <rating system="CSA">
       <value>Tout public</value>
@@ -1873,7 +1915,7 @@
   </programme>
   <programme channel="C23.api.telerama.fr" start="20200103112000" stop="20200103113500">
     <title>Dagelijkse winterkost</title>
-    <sub-title>Dagelijkse kost</sub-title>
+    <sub-title>Gerookte forel met Luikse salade</sub-title>
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
@@ -1887,6 +1929,7 @@
     <category lang="fr">jeu</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1972,6 +2015,7 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1febf305-8755-4e32-80d3-2431ef20a183.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">4.4.</episode-num>
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1982,6 +2026,7 @@
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2019,6 +2064,7 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0fbaae51-61bb-47dc-b739-e46d9258209d.jpg" />
     <country>Pays-Bas</country>
     <episode-num system="xmltv_ns">2.9.</episode-num>
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2043,7 +2089,7 @@
   </programme>
   <programme channel="C23.api.telerama.fr" start="20200103171500" stop="20200103173000">
     <title>Dagelijkse winterkost</title>
-    <sub-title>Dagelijkse kost</sub-title>
+    <sub-title>Pasta met chipolata, oesterzwam, spinazie en spek</sub-title>
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
@@ -2069,15 +2115,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200103183500" stop="20200103185500">
-    <title>Iedereen beroemd</title>
-    <category lang="fr">magazine de reportages</category>
-    <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C23.api.telerama.fr" start="20200103185500" stop="20200103190000">
     <title>Het weer</title>
     <category lang="fr">météo</category>
@@ -2087,7 +2124,16 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200103190000" stop="20200103193000">
+  <programme channel="C23.api.telerama.fr" start="20200103190000" stop="20200103190500">
+    <title>Het weer</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20200103190500" stop="20200103193000">
     <title>Thuis</title>
     <desc lang="fr">Saison:25 - Episode:4754 -</desc>
     <credits>
@@ -2098,45 +2144,11 @@
       <actor>Ann Pira</actor>
     </credits>
     <category lang="fr">série à sketches</category>
-    <length units="minutes">30</length>
+    <length units="minutes">25</length>
     <episode-num system="xmltv_ns">24.4753.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20200103193000" stop="20200103210000">
-    <title>The Bay</title>
-    <desc lang="fr">Saison:1 - Episode:1 - Dans la station balnéaire de Morecambe, les jumeaux adolescents Holly et Dylan Meredith ont disparu. C'est le capitaine Lisa Armstrong, agent de liaison auprès des familles dans les cas de disparition, qui est chargée de l'affaire. Lisa découvre la famille Meredith de l'intérieur et s'aperçoit qu'un lien extra professionnel la rattache à eux. Les premières 24 heures de l'enquête sont capitales. La disponibilité totale et l'empathie de Lisa mettent cependant en péril sa propre vie familiale. Mère célibataire, elle a de plus en plus de mal à suivre ses adolescents, en particulier sa fille Abbie, renvoyée de son lycée... - Critique : &lt;p&gt;La routine morose de Morecambe, station balnéaire de l’ouest de l’Angleterre, est rompue lorsque deux jumeaux de 15 ans, Holly et Dylan, sont portés disparus. Chargée d’accompagner leur famille, Lisa Armstrong, rugueuse capitaine de police, se retrouve dans une position épineuse lorsqu’elle découvre que le père des disparus n’est autre que son amant de la veille… Secret partagé entre enquêtrice et suspect, ados aux doubles vies inquiétantes, couples à la dérive : tout le monde a quelque chose à cacher dans la petite bourgade de Morecambe.&lt;/p&gt;
-
-&lt;p&gt;Il ne manque que les falaises, ou presque. Impossible de regarder &lt;em&gt;The Bay&lt;/em&gt; sans réveiller le souvenir de &lt;em&gt;Broadchurch,&lt;/em&gt; éprouvant polar psychologique (diffusé avec succès par France 2 en 2014), où le meurtre d’un enfant agissait déjà comme le révélateur des failles et des non-dits d’une petite communauté côtière. La recette est ici suivie avec application, mais sans jamais rivaliser avec la finesse et la sensibilité du regard porté sur les tragédies intimes. L’enquêtrice dure à cuire impliquée malgré elle ; la détresse d’une famille déchirée ; l’infernal empilement des fausses pistes… &lt;em&gt;The Bay&lt;/em&gt; nage dans des eaux troubles bien trop balisées.&lt;/p&gt;</desc>
-    <credits>
-      <director>Lee Haven Jones</director>
-      <actor>Morven Christie (Lisa Armstrong)</actor>
-      <actor>Erin Shanagher (Karen Hobson)</actor>
-      <actor>Lindsey Coulson (Penny Armstrong)</actor>
-      <actor>Imogen King (Abbie Armstrong)</actor>
-      <actor>Daniel Ryan (Tony Manning)</actor>
-      <actor>Taheen Modak (Med Kharim)</actor>
-      <actor>Jonas Armstrong (Sean Meredith)</actor>
-      <actor>Art Parkinson (Rob Armstrong)</actor>
-      <actor>Martina Laird (Bernie Chambers)</actor>
-      <actor>Darci Shaw (Holly Meredith)</actor>
-      <actor>Noah Valentine (Dylan Meredith)</actor>
-      <writer>Richard Clark</writer>
-      <writer>Daragh Carville</writer>
-      <writer>Richard Clark</writer>
-    </credits>
-    <category lang="fr">série policière</category>
-    <length units="minutes">90</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/254abd2e-580c-42e2-88be-4f83ae004410.jpg" />
-    <country>Grande-Bretagne</country>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-    <star-rating>
-      <value>3/5</value>
-    </star-rating>
   </programme>
   <programme channel="C23.api.telerama.fr" start="20200103210000" stop="20200103215500">
     <title>Le nom de la rose</title>
@@ -2186,15 +2198,65 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200103221500" stop="20200104001500">
+  <programme channel="C23.api.telerama.fr" start="20200103221700" stop="20200103221800">
+    <title>Keno</title>
+    <category lang="fr">loterie</category>
+    <length units="minutes">1</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20200103221800" stop="20200103222000">
+    <title>Euromillions</title>
+    <category lang="fr">loterie</category>
+    <length units="minutes">2</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20200103222000" stop="20200103222500">
     <title>Het weer</title>
     <category lang="fr">météo</category>
-    <length units="hours">2</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20200103222500" stop="20200104002000">
+    <title>La Panthère rose</title>
+    <desc lang="fr">Rencontre historique : sous la direction d'Edwards, Sellers-Clouseau devient la vedette de films quasiment surréalistes. Et le générique, signé Maurice Binder, va donner naissance à une série de dessins animés magnifiques. Un film bourré de gags et de références. - Critique : Film de Blake Edwards (The Pink Panther, GB/USA, 1963). Scénario : Maurice Richlin, B. Edwards. Musique : Henry Mancini. 115 mn. VF. Avec Peter Sellers : Clouseau. Capucine : Simone Clouseau. David Niven : sir Charles Litton. Claudia Cardinale : la princesse Dala.&lt;br /&gt;
+Genre : comédie policière.&lt;br /&gt;
+Le gotha international est en émoi : un mystérieux cambrioleur « soulage » les coffres-forts à la faveur de diverses soirées mondaines. L'inspecteur Clouseau est persuadé que la prochaine victime sera la princesse­ Dala, détentrice d'un fabuleux diamant, la Panthère rose...&lt;br /&gt;
+Blake Edwards s'est amusé autour d'un thème classique, celui du gentleman cambrioleur, dont les méfaits servent de prétexte vaguement policier à un étincelant vaudeville. Le réalisateur de La Party ou de Diamants sur canapé navigue en eaux élégantes et familières : fêtes endiablées, parasites mondains, ­jolies femmes, décors tout en paillettes. Les gags font mouche, énormes, absurdes ou légers, presque indécelables.&lt;br /&gt;
+On a souvent tenu ce film pour un divertissement mineur dans l'oeuvre de son créateur. Cet allègre feu d'artifice sans prétention a, sans doute, été pris au piège de son propre succès, générant des suites plus ou moins réussies. Mais on retrouve ici l'essentiel du talent de Blake Edwards, entre burlesque très américain et humour grinçant. Sous la pantalonnade se glisse un portrait sardonique, au fond assez pessimiste, des moeurs contemporaines. Derrière les gaffes du célèbre inspecteur divisionnaire de la Sûreté française, pigeon entre les pigeons, perce une tendresse mélancolique. David Niven, un habitué des rôles d'aigrefin chic, est irrésistible. Sans oublier le générique : fume-­cigarette au coin des babines, la Pink Panther de dessin animé y commençait une carrière internationale.&lt;br /&gt;
+Cécile Mury</desc>
+    <credits>
+      <director>Blake Edwards</director>
+      <actor>Peter Sellers (l'inspecteur Jacques Clouseau)</actor>
+      <actor>David Niven (sir Charles Lytton)</actor>
+      <actor>Capucine (Simone Clouseau)</actor>
+      <actor>Robert Wagner (George Lytton)</actor>
+      <actor>Claudia Cardinale (la princesse Dala)</actor>
+      <actor>Brenda De Banzie (Angela Dunning)</actor>
+      <actor>Fran Jeffries (le cousin grec)</actor>
+      <actor>Colin Gordon (Tucker)</actor>
+      <writer>Maurice Richlin</writer>
+      <writer>Blake Edwards</writer>
+      <guest>Philip Lathrop</guest>
+    </credits>
+    <date>1963</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">115</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f5976a9c-ec40-4b2e-9234-36dbc478357e.jpg" />
+    <country>britannico-américain</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme channel="C377.api.telerama.fr" start="20200102221500" stop="20200103001500">
     <title>Luna Park</title>
@@ -2761,17 +2823,47 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200103060500" stop="20200103070000">
+  <programme channel="C50.api.telerama.fr" start="20200103060500" stop="20200103062000">
     <title>Vic le Viking 3D</title>
     <sub-title>Loki le dieu trompeur</sub-title>
     <desc lang="fr">Saison:1 - Episode:74 - C'est le festival de Balder à Flake, et les Vikings montent une pièce de théâtre. Elle retrace la légende de Balder et de Loki, le dieu trompeur qui était jaloux de Balder...</desc>
     <credits>
-      <director>Eric Cazes</director>
+      <director>Éric Cazes</director>
     </credits>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">55</length>
+    <length units="minutes">15</length>
     <country>Australie</country>
     <episode-num system="xmltv_ns">0.73.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200103062000" stop="20200103063500">
+    <title>Maya l'abeille 3D</title>
+    <sub-title>Classe Nature</sub-title>
+    <desc lang="fr">Saison:2 - Episode:12 - Les aventures d'une petite abeille très curieuse qui n'hésite pas à quitter son alvéole pour découvrir de nouveaux horizons et se faire de nouveaux amis.</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d16d8bfe-79c1-4a5c-a312-9247b02bef06.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200103063500" stop="20200103070000">
+    <title>Fifi Brindacier *1998</title>
+    <sub-title>Fifi et les voleurs</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Il arrive aux oreilles des voleurs que Fifi possède des pièces d'or. Ils essaient de s'en emparer, mais la petite fille defend son trésor...</desc>
+    <credits>
+      <director>Paul Riley</director>
+      <writer>Astrid Lindgren</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/49db51c3-747b-40b6-becc-96a2e211ffc4.jpg" />
+    <country>germano-suédo-canadien</country>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2823,6 +2915,17 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C50.api.telerama.fr" start="20200103084000" stop="20200103090000">
+    <title>Luna Park</title>
+    <desc lang="fr">Chaque jour, Luna Park présente une série de jeux de durées variables sous la forme de questions / réponses adressées aux téléspectateurs. Ces jeux sont classés par catégories (culture générale, sports, santé, alimentation, histoire, géographie, vocabulaire, orthographe... etc). Ils sont dotés d'enjeux variables. Les téléspectateurs qui souhaitent participer, peuvent répondre, en direct, par téléphone, et gagner des cadeaux ou de l'argent.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C50.api.telerama.fr" start="20200103090000" stop="20200103092000">
     <title>Radical Fitness Training</title>
     <desc lang="fr">Radical Fitness Training, l'émission 100% fitness qui permet de garder la forme toute l'année. 5 programmes de 20 min pour chaque jour de la semaine : Eleven (Fat Burner), X55 (Body Sulpt), Oxigeno (Zen, Bien-être), Hyper C (Cuisses-Abdos-Fessiers), Megadanz (Cardio-Fun).</desc>
@@ -2832,6 +2935,17 @@
     <category lang="fr">magazine sportif</category>
     <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/104cf67a-38da-49a3-91bb-bfa3a3e40999.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200103092000" stop="20200103094000">
+    <title>Luna Park</title>
+    <desc lang="fr">Chaque jour, Luna Park présente une série de jeux de durées variables sous la forme de questions / réponses adressées aux téléspectateurs. Ces jeux sont classés par catégories (culture générale, sports, santé, alimentation, histoire, géographie, vocabulaire, orthographe... etc). Ils sont dotés d'enjeux variables. Les téléspectateurs qui souhaitent participer, peuvent répondre, en direct, par téléphone, et gagner des cadeaux ou de l'argent.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3059,6 +3173,16 @@
     <star-rating>
       <value>4/5</value>
     </star-rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200103204500" stop="20200103205000">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
   </programme>
   <programme channel="C50.api.telerama.fr" start="20200103205000" stop="20200103225000">
     <title>A la recherche du bonheur</title>
@@ -3970,6 +4094,7 @@ Pierre Murat</desc>
     <desc lang="fr">Saison:1 - Félicien Bogaerts, en compagnie de l'agent Verhaegen (Pablo Andres), donne rendez-vous aux téléspectateurs au Musée des instruments de musique, pour une spéciale Noël avec plusieurs performances réalisées en direct.</desc>
     <credits>
       <presenter>Félicien Bogaerts</presenter>
+      <guest>Pablo Andres</guest>
     </credits>
     <category lang="fr">magazine culturel</category>
     <length units="minutes">25</length>
