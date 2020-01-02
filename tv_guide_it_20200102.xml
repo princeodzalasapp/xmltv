@@ -48,19 +48,6 @@
   <channel id="yoyo.raisat.it">
     <display-name>Yoyo</display-name>
   </channel>
-  <programme channel="raimovie.rai.it" start="20200101225500" stop="20200102011000">
-    <title lang="it">L'amore ha due facce</title>
-    <desc lang="it">Regia di B. Streisand,...</desc>
-    <category lang="it">romantico</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200101224500" stop="20200102003500">
-    <title lang="it">Ognuno e' perfetto</title>
-    <sub-title lang="it">S1 Ep3</sub-title>
-    <desc lang="it">Ivan e Miriam...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
   <programme channel="www.la7.it" start="20200101235000" stop="20200102000000">
     <title lang="it">Il Commissario Cordier</title>
     <desc lang="it">S1 Ep62 Il sacrificio...</desc>
@@ -826,7 +813,7 @@
   </programme>
   <programme channel="raisport.guidatv.sky.it" start="20200102091500" stop="20200102114500">
     <title lang="it">Juventus - Lazio</title>
-    <desc lang="it">Supercoppa italiana 2019...</desc>
+    <desc lang="it">Supercoppa Italiana 2019...</desc>
     <category lang="it">calcio</category>
     <category lang="it">sport</category>
   </programme>
@@ -843,7 +830,7 @@
     <category lang="it">basket</category>
     <category lang="it">sport</category>
   </programme>
-  <programme channel="raisport.guidatv.sky.it" start="20200102135000" stop="20200102152000">
+  <programme channel="raisport.guidatv.sky.it" start="20200102135000" stop="20200102145000">
     <title lang="it">Atletica: Bo Classic</title>
     <desc lang="it">Atleti di diverse...</desc>
     <category lang="it">atletica</category>
@@ -880,7 +867,7 @@
     <category lang="it">sport invernali</category>
     <category lang="it">sport</category>
   </programme>
-  <programme channel="raisport.guidatv.sky.it" start="20200102214000" stop="20200102223000">
+  <programme channel="raisport.guidatv.sky.it" start="20200102214000" stop="20200102222000">
     <title lang="it">Salto con gli sci: Torneo I Quattro...</title>
     <desc lang="it">...Trampolini. 2a manche...</desc>
     <category lang="it">sport invernali</category>
@@ -892,33 +879,48 @@
     <category lang="it">ciclismo</category>
     <category lang="it">sport</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102040000" stop="20200102042000">
+  <programme channel="raisport.guidatv.sky.it" start="20200102145000" stop="20200102152000">
+    <title lang="it">Ciclocross: Coppa del Mondo</title>
+    <desc lang="it">Professionisti F 6a prova...</desc>
+    <category lang="it">ciclismo</category>
+    <category lang="it">sport</category>
+  </programme>
+  <programme channel="raisport.guidatv.sky.it" start="20200102222000" stop="20200102223000">
+    <title lang="it">Memory</title>
+    <sub-title lang="it">Review</sub-title>
+    <desc lang="it">Rullo goal Serie...</desc>
+    <category lang="it">sport</category>
+    <category lang="it">sport</category>
+  </programme>
+  <programme channel="rai4.raisat.it" start="20200102041500" stop="20200102042000">
     <title lang="it">Il candidato - Zucca Presidente</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">La corsa alla...</desc>
+    <desc lang="it">S1 Ep30 La manifestazione...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102042000" stop="20200102042500">
+  <programme channel="rai4.raisat.it" start="20200102042000" stop="20200102043000">
     <title lang="it">Il candidato - Zucca Presidente</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">La corsa alla...</desc>
+    <sub-title lang="it">Episodio 1</sub-title>
+    <desc lang="it">Lo...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
+  </programme>
+  <programme channel="rai4.raisat.it" start="20200102043000" stop="20200102043500">
+    <title lang="it">Il candidato - Zucca Presidente</title>
+    <desc lang="it">S1 Ep32 La scuola...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102042500" stop="20200102043000">
-    <title lang="it">Il candidato - Zucca Presidente</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">La corsa alla...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="rai4.raisat.it" start="20200102043000" stop="20200102051500">
+  <programme channel="rai4.raisat.it" start="20200102043500" stop="20200102051500">
     <title lang="it">Cold Case</title>
-    <sub-title lang="it">S6</sub-title>
-    <desc lang="it">Philadelphia. Lily...</desc>
+    <sub-title lang="it">Episodio 1</sub-title>
+    <desc lang="it">Il...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
   </programme>
   <programme channel="rai4.raisat.it" start="20200101234500" stop="20200102003000">
     <title lang="it">X-Files</title>
@@ -951,38 +953,38 @@
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102031500" stop="20200102040000">
+  <programme channel="rai4.raisat.it" start="20200102031500" stop="20200102041500">
     <title lang="it">Medium</title>
     <desc lang="it">S6 Ep1 Bentornata Allison...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102051500" stop="20200102055500">
+  <programme channel="rai4.raisat.it" start="20200102051500" stop="20200102060000">
     <title lang="it">Cold Case</title>
     <desc lang="it">S6 Ep22 La sottile linea...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102055500" stop="20200102064000">
+  <programme channel="rai4.raisat.it" start="20200102060000" stop="20200102064500">
     <title lang="it">Medium</title>
     <desc lang="it">S6 Ep2 Chi e' quella...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102064000" stop="20200102072500">
+  <programme channel="rai4.raisat.it" start="20200102064500" stop="20200102073000">
     <title lang="it">Medium</title>
     <desc lang="it">S6 Ep3 Il dottor Morte -...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102072500" stop="20200102081000">
+  <programme channel="rai4.raisat.it" start="20200102073000" stop="20200102081500">
     <title lang="it">Seal Team</title>
     <sub-title lang="it">S2 Ep1</sub-title>
     <desc lang="it">Le vicende...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102081000" stop="20200102085500">
+  <programme channel="rai4.raisat.it" start="20200102081500" stop="20200102085500">
     <title lang="it">Seal Team</title>
     <sub-title lang="it">S2 Ep2</sub-title>
     <desc lang="it">Le vicende...</desc>
@@ -995,13 +997,13 @@
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102094000" stop="20200102102500">
+  <programme channel="rai4.raisat.it" start="20200102094000" stop="20200102103000">
     <title lang="it">24</title>
     <desc lang="it">S7 Ep14 Giorno 7: Dalle...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102102500" stop="20200102111000">
+  <programme channel="rai4.raisat.it" start="20200102103000" stop="20200102111000">
     <title lang="it">24</title>
     <desc lang="it">S7 Ep15 Giorno 7: Dalle...</desc>
     <category lang="it">fiction</category>
@@ -1041,28 +1043,28 @@
     <episode-num system="onscreen">Episodio 2</episode-num>
     <episode-num system="xmltv_ns">.1.0/1</episode-num>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102145500" stop="20200102151500">
+  <programme channel="rai4.raisat.it" start="20200102145500" stop="20200102152000">
     <title lang="it">Just for Laughs</title>
     <sub-title lang="it">S16 Ep8</sub-title>
     <desc lang="it">Una telecamera...</desc>
     <category lang="it">show</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102151500" stop="20200102160000">
+  <programme channel="rai4.raisat.it" start="20200102152000" stop="20200102160000">
     <title lang="it">Reign</title>
     <sub-title lang="it">S3 Ep1</sub-title>
     <desc lang="it">L'ascesa al...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102160000" stop="20200102164000">
+  <programme channel="rai4.raisat.it" start="20200102160000" stop="20200102164500">
     <title lang="it">Reign</title>
     <sub-title lang="it">S3 Ep2</sub-title>
     <desc lang="it">L'ascesa al...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102164000" stop="20200102172500">
+  <programme channel="rai4.raisat.it" start="20200102164500" stop="20200102172500">
     <title lang="it">Stitchers</title>
     <desc lang="it">S1 Ep1 Viaggio nei...</desc>
     <category lang="it">fiction</category>
@@ -1101,7 +1103,7 @@
     <category lang="it">azione</category>
     <category lang="it">film</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102214500" stop="20200102232500">
+  <programme channel="rai4.raisat.it" start="20200102214500" stop="20200102232000">
     <title lang="it">Ice Soldiers</title>
     <desc lang="it">Regia di S. Gunnarsson,...</desc>
     <category lang="it">azione</category>
@@ -1820,14 +1822,14 @@
   <programme channel="raistoria.rai.it" start="20200102054000" stop="20200102063000">
     <title lang="it">Italiani</title>
     <sub-title lang="it">Indro Montanelli</sub-title>
-    <desc lang="it">Paolo...</desc>
+    <desc lang="it">Una...</desc>
     <category lang="it">documentario</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
   <programme channel="raistoria.rai.it" start="20200102063000" stop="20200102073000">
     <title lang="it">1969, niente come prima</title>
     <sub-title lang="it">Dicembre</sub-title>
-    <desc lang="it">Dodici ore per...</desc>
+    <desc lang="it">Mentre...</desc>
     <category lang="it">storia</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
@@ -1852,7 +1854,7 @@
   <programme channel="raistoria.rai.it" start="20200102093000" stop="20200102103000">
     <title lang="it">Mariangela!</title>
     <sub-title lang="it">Ep. 1</sub-title>
-    <desc lang="it">Mariangela Melato...</desc>
+    <desc lang="it">Gli anni dal 1941...</desc>
     <category lang="it">documentario</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
@@ -1910,7 +1912,7 @@
   </programme>
   <programme channel="raistoria.rai.it" start="20200102170000" stop="20200102173000">
     <title lang="it">La macchina di Santa Rosa</title>
-    <desc lang="it">Semo tutti d'un sentimento.</desc>
+    <desc lang="it">Nella festa di Santa...</desc>
     <category lang="it">viaggi</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
@@ -3419,7 +3421,7 @@
     <category lang="it">sci</category>
     <category lang="it">sport</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200102232500" stop="20200103001000">
+  <programme channel="rai4.raisat.it" start="20200102232000" stop="20200103001000">
     <title lang="it">X-Files</title>
     <desc lang="it">S8 Ep11 Il regalo -...</desc>
     <category lang="it">fiction</category>
