@@ -264,19 +264,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1073.api.telerama.fr" start="20200104223000" stop="20200105020000">
-    <title>12, L'Heure H</title>
-    <desc lang="fr">Toute l'info éco en 60 minutes</desc>
-    <credits>
-      <presenter>Hedwige Chevrillon</presenter>
-    </credits>
-    <category lang="fr">magazine de l'économie</category>
-    <length units="minutes">210</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/911e349f-fba4-4492-858c-60b69b49a045.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C110.api.telerama.fr" start="20200105060000" stop="20200105063000">
     <title>La vie des diocèses</title>
     <sub-title>Versailles</sub-title>
@@ -1046,15 +1033,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C112.api.telerama.fr" start="20200105043000" stop="20200105050000">
-    <title>L'info à suivre</title>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C112.api.telerama.fr" start="20200105050000" stop="20200105051500">
     <title>Vis leurs vies</title>
     <credits>
@@ -1150,7 +1128,7 @@
       <presenter>Gérald Kierzek</presenter>
       <presenter>Sylvia Amicone</presenter>
     </credits>
-    <category lang="fr">magazine magazine de l'art de vivre</category>
+    <category lang="fr">magazine de l'art de vivre</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1d3d4858-dacd-485d-b200-45bfd75e25d4.jpg" />
     <rating system="CSA">
@@ -2719,7 +2697,7 @@ Isabelle Poitte</desc>
       <director>Marie David</director>
     </credits>
     <date>2005</date>
-    <category lang="fr">documentaire justice</category>
+    <category lang="fr">documentaire : justice</category>
     <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/87755d86-297c-4c8b-a1cf-75444b40ae26.jpg" />
     <country>français</country>
@@ -2742,7 +2720,7 @@ Séducteur, homme d'honneur, bref une sorte de mix entre Arsène Lupin et les pe
       <director>Jean-Luc Gunst</director>
     </credits>
     <date>2005</date>
-    <category lang="fr">documentaire justice</category>
+    <category lang="fr">documentaire : justice</category>
     <length units="minutes">65</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/14dd54a1-8dc7-4773-a3db-ad0a68f75083.jpg" />
     <country>français</country>
@@ -2762,7 +2740,7 @@ Séducteur, homme d'honneur, bref une sorte de mix entre Arsène Lupin et les pe
       <director>Xavier-Marie Bonnot</director>
     </credits>
     <date>2005</date>
-    <category lang="fr">documentaire justice</category>
+    <category lang="fr">documentaire : justice</category>
     <length units="minutes">65</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0f733ac7-32d2-4044-b80e-fca7e2914bbf.jpg" />
     <country>français</country>
@@ -2782,7 +2760,7 @@ Marc Belpois</desc>
       <director>Laurent Ferrari</director>
     </credits>
     <date>2006</date>
-    <category lang="fr">documentaire justice</category>
+    <category lang="fr">documentaire : justice</category>
     <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/14d5ff5c-86b0-49a1-9caa-eab48e07318c.jpg" />
     <country>français</country>
@@ -2805,7 +2783,7 @@ Chloé Aeberhardt</desc>
       <director>Marie David</director>
     </credits>
     <date>2006</date>
-    <category lang="fr">documentaire justice</category>
+    <category lang="fr">documentaire : justice</category>
     <length units="minutes">65</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b645fce8-506b-46a8-81b3-9f0c9231aed1.jpg" />
     <country>français</country>
@@ -3419,7 +3397,7 @@ Chloé Aeberhardt</desc>
     <credits>
       <presenter>Jean-Pascal Lacoste</presenter>
     </credits>
-    <category lang="fr">magazine magazine du consommateur</category>
+    <category lang="fr">magazine du consommateur</category>
     <length units="minutes">65</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/26852222-b9de-4fb5-8717-a5f23dfc8209.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -3922,22 +3900,36 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200105032500" stop="20200105033500">
+  <programme channel="C160.api.telerama.fr" start="20200105032500" stop="20200105033000">
+    <title>Outremer tout court</title>
+    <sub-title>La cueillette des oranges sauvages</sub-title>
+    <category lang="fr">documentaire : découvertes</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/67414d70-449a-4454-ad3e-c6d9b4c553c7.jpg" />
+    <country>français</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200105033000" stop="20200105033900">
+    <title>Outremer tout court</title>
+    <sub-title>Médecins du ciel en Polynésie</sub-title>
+    <category lang="fr">documentaire : découvertes</category>
+    <length units="minutes">9</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/67414d70-449a-4454-ad3e-c6d9b4c553c7.jpg" />
+    <country>français</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200105034500" stop="20200105035500">
     <title>Infô soir</title>
     <desc lang="fr">Le rendez-vous quotidien de l'actualité ultramarine.</desc>
     <category lang="fr">journal</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C160.api.telerama.fr" start="20200105033500" stop="20200105035500">
-    <title>Journal Polynésie</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -4641,7 +4633,7 @@ Chloé Aeberhardt</desc>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C1921.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1921.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -4651,14 +4643,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1921.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1921.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -4676,7 +4668,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -4768,23 +4760,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1921.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -5308,7 +5283,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1922.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -5318,14 +5293,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1922.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -5343,7 +5318,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -5435,23 +5410,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -5975,7 +5933,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1923.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -5985,14 +5943,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1923.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -6010,7 +5968,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -6102,23 +6060,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -6642,7 +6583,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1924.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1924.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -6652,14 +6593,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1924.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1924.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -6677,7 +6618,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -6769,23 +6710,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1924.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7309,7 +7233,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1925.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -7319,14 +7243,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1925.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -7344,7 +7268,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -7436,23 +7360,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7976,7 +7883,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1926.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -7986,14 +7893,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1926.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -8011,7 +7918,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -8103,23 +8010,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8643,7 +8533,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1927.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -8653,14 +8543,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1927.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -8678,7 +8568,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -8770,23 +8660,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9052,29 +8925,6 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200105115500" stop="20200105125500">
-    <title>Des racines et des ailes</title>
-    <sub-title>Passion patrimoine : Sur les rives de l'Isère</sub-title>
-    <desc lang="fr">Toute l'équipe des «Racines et des ailes» suit le cours de l'Isère, depuis le glacier qui lui donne naissance à 2000 mètres d'altitude. Or il a perdu les 2/3 de son volume, du fait du réchauffement climatique. Le débit de la rivière en subit les conséquences. En aval, dans le Vercors, l'eau crée de magnifiques grottes.</desc>
-    <credits>
-      <presenter>Carole Gaessler</presenter>
-    </credits>
-    <category lang="fr">magazine de reportages</category>
-    <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d204f102-8b24-4221-890c-dfde3314ae92.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200105125500" stop="20200105130000">
-    <title>Football (Au coeur des régions)</title>
-    <category lang="fr">sport : football</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a4473eff-2d9f-4a8d-9576-97cda85c43d7.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1927.api.telerama.fr" start="20200105151000" stop="20200105154000">
     <title>Le plein de buts</title>
     <sub-title>Coupe de France : 32es de finale</sub-title>
@@ -9301,7 +9151,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1928.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -9311,14 +9161,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1928.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -9336,7 +9186,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -9428,23 +9278,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9968,7 +9801,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1929.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -9978,14 +9811,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1929.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -10003,7 +9836,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -10095,23 +9928,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10600,7 +10416,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1931.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -10610,14 +10426,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1931.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -10635,7 +10451,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -10727,23 +10543,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -11267,7 +11066,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1932.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -11277,14 +11076,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1932.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -11302,7 +11101,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -11394,23 +11193,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -11934,7 +11716,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1933.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -11944,14 +11726,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1933.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -11969,7 +11751,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -12061,23 +11843,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -12601,7 +12366,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1934.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -12611,14 +12376,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1934.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -12636,7 +12401,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -12728,23 +12493,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -13268,7 +13016,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1935.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -13278,14 +13026,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1935.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -13303,7 +13051,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -13395,23 +13143,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -13935,7 +13666,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1936.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -13945,14 +13676,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1936.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -13970,7 +13701,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -14062,23 +13793,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -14602,7 +14316,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1937.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -14612,14 +14326,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1937.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -14637,7 +14351,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -14729,23 +14443,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -15269,7 +14966,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1938.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1938.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -15279,14 +14976,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1938.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1938.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -15304,7 +15001,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -15396,23 +15093,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1938.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -15936,7 +15616,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1939.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -15946,14 +15626,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1939.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -15971,7 +15651,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -16063,23 +15743,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -16603,7 +16266,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1940.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -16613,14 +16276,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1940.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -16638,7 +16301,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -16730,23 +16393,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -17270,7 +16916,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1941.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1941.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -17280,14 +16926,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1941.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1941.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -17305,7 +16951,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -17397,23 +17043,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1941.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -17937,7 +17566,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1942.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -17947,14 +17576,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1942.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -17972,7 +17601,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -18064,23 +17693,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -18604,7 +18216,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1943.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -18614,14 +18226,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1943.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -18639,7 +18251,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -18731,23 +18343,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -19271,7 +18866,7 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1944.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C1944.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -19281,14 +18876,14 @@ Chloé Aeberhardt</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1944.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C1944.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -19306,7 +18901,7 @@ Chloé Aeberhardt</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -19398,23 +18993,6 @@ Chloé Aeberhardt</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1944.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -20868,17 +20446,6 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200105195000" stop="20200105200000">
-    <title>Photo politique</title>
-    <sub-title>François Hollande le 6 mai 2012</sub-title>
-    <category lang="fr">magazine politique</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C234.api.telerama.fr" start="20200105200000" stop="20200105220000">
     <title>Rembob'Ina</title>
     <sub-title>Everest 78 : les Français sur le toit du monde</sub-title>
@@ -20911,17 +20478,6 @@ Chloé Aeberhardt</desc>
     <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
     <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C234.api.telerama.fr" start="20200105225500" stop="20200105230000">
-    <title>Photo politique</title>
-    <sub-title>Nicolas Sarkozy en short à l'Elysée</sub-title>
-    <category lang="fr">magazine politique</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -21445,6 +21001,30 @@ Chloé Aeberhardt</desc>
       <value>3/5</value>
     </star-rating>
   </programme>
+  <programme channel="C4.api.telerama.fr" start="20200104220600" stop="20200105004000">
+    <title>On n'est pas couché</title>
+    <sub-title>Best of</sub-title>
+    <desc lang="fr">Saison:14 - Un florilège des meilleurs moments des émissions de la saison écoulée. L'occasion de retrouver les coups de gueule et les coups de coeur qui ont ponctué l'année, ceux des invités comme ceux des chroniqueurs, ainsi que les grands affrontements ou les confidences émouvantes.</desc>
+    <credits>
+      <presenter>Laurent Ruquier</presenter>
+    </credits>
+    <category lang="fr">talk-show</category>
+    <length units="minutes">154</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/78932e77-3ced-4e71-942f-a36851d59dff.jpg" />
+    <episode-num system="xmltv_ns">13..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200105004000" stop="20200105004500">
+    <title>Météo 2</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bdc838b1-c330-48d4-81db-f5bf34dfbb81.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C4.api.telerama.fr" start="20200105004500" stop="20200105012000">
     <title>Les enfants de la télé</title>
     <desc lang="fr">Chaque dimanche, Laurent Ruquier fait vivre aux téléspectateurs et aux personnalités présentes sur le plateau, un moment convivial d'humeur et d'humour autour de l'actualité artistique, culturelle et télévisuelle, dans un savant mélange de nostalgie, d'actualité et de décryptages.</desc>
@@ -21507,7 +21087,6 @@ Chloé Aeberhardt</desc>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bfb422bb-d88f-4d15-a00a-4f607a06cd8a.jpg" />
     <country>français</country>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -22094,12 +21673,33 @@ Chloé Aeberhardt</desc>
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200105060000" stop="20200105080000">
-    <title>Télé-achat</title>
-    <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
-    <category lang="fr">magazine de télé-achat</category>
+  <programme channel="C445.api.telerama.fr" start="20200104235500" stop="20200105015500">
+    <title>Enquête sous haute tension</title>
+    <sub-title>Samu de Lyon : course contre la montre pour sauver des vies</sub-title>
+    <desc lang="fr">Pendant trois mois, des caméras ont pu filmer les coulisses de l'hôpital Edouard Herriot. Les urgentistes du Samu de Lyon sont suivis dans leur quotidien, lors de la prise en charge d'un patient par le centre de régulation, pendant les interventions mais aussi au service des urgences.</desc>
+    <credits>
+      <presenter>Carole Rousseau</presenter>
+    </credits>
+    <category lang="fr">magazine de reportages</category>
     <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7289ff04-e3da-44d9-bfb9-f5fc5a5583e7.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200105015500" stop="20200105034000">
+    <title>Enquête sous haute tension</title>
+    <sub-title>Pompiers et Samu de Toulouse : course contre la montre pour sauver des vies (n°1)</sub-title>
+    <desc lang="fr">Toulouse et sa périphérie forment la quatrième plus grosse zone urbaine de France et constitue un véritable challenge au quotidien pour les soldats de l'urgence. Pendant trois mois, les équipes du Samu et les sapeurs-pompiers sont suivis au cours de leurs interventions.</desc>
+    <credits>
+      <presenter>Carole Rousseau</presenter>
+    </credits>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">105</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7289ff04-e3da-44d9-bfb9-f5fc5a5583e7.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -22184,22 +21784,6 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200105110000" stop="20200105123000">
-    <title>Animaux à adopter : nouvelle famille pour une nouvelle vie</title>
-    <desc lang="fr">Chaque année plus de 100 000 animaux sont abandonnés en France. La SPA en recueille près de 44 000 dont environ 10 000 l'été. Plongée en immersion dans trois centres de la SPA : le refuge de Plaisir dans les Yvelines, celui de Saint-Omer dans le Pas-de-Calais et Morée dans le Loir-et-Cher. Ce documentaire transporte les téléspectateurs au coeur des histoires touchantes d'animaux et retrace leur parcours, depuis l'arrivée au refuge jusqu'à leur adoption et leur départ pour une nouvelle vie, avec une famille aimante.</desc>
-    <credits>
-      <director>Jean-Marc Giovanangeli</director>
-      <director>Julien Mansio</director>
-    </credits>
-    <date>2019</date>
-    <category lang="fr">documentaire : animalier</category>
-    <length units="minutes">90</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f72f85d3-0cce-4354-837d-27766604eb86.jpg" />
-    <country>français</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C445.api.telerama.fr" start="20200105123000" stop="20200105124000">
     <title>JT</title>
     <category lang="fr">journal</category>
@@ -22268,15 +21852,6 @@ Chloé Aeberhardt</desc>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fdec3d1a-02ab-4a68-8b6b-bfb695534fe4.jpg" />
     <country>français</country>
     <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C445.api.telerama.fr" start="20200105232000" stop="20200106050000">
-    <title>Programmes de la nuit</title>
-    <category lang="fr">programme indéterminé</category>
-    <length units="minutes">340</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -23631,12 +23206,52 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C47.api.telerama.fr" start="20200105012000" stop="20200105035000">
+  <programme channel="C47.api.telerama.fr" start="20200105012000" stop="20200105020500">
     <title>La nuit France 5</title>
     <desc lang="fr">Des rediffusions de documentaires.</desc>
     <category lang="fr">magazine de reportages</category>
-    <length units="minutes">150</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C47.api.telerama.fr" start="20200105020500" stop="20200105025500">
+    <title>La guerre des trônes, la véritable histoire de l'Europe</title>
+    <sub-title>Les amours d'Henri IV (1594-1601)</sub-title>
+    <desc lang="fr">Saison:3 - En 1594, Henri IV est enfin le roi légitime de France. Il nourrit de grandes ambitions pour son royaume meurtri par les guerres de Religion. Le roi se consacre à la restauration de la France, mais aussi à ses amours. Il veut épouser sa favorite, Gabrielle d'Estrée, et faire de leur fils l'héritier du trône. Pour cela, il doit répudier la reine Marguerite de Valois, épousée 22 ans plus tôt. Mais la mort soudaine de Gabrielle d'Estrée, en 1599, bouleverse sa vie et son règne.</desc>
+    <credits>
+      <director>Alain Brunard</director>
+      <director>Vanessa Pontet</director>
+      <writer>Christopher Holt</writer>
+      <writer>Vanessa Pontet</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">documentaire : fiction</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fb6f76c0-1c37-4c93-a503-830116ef45fe.jpg" />
+    <country>français</country>
+    <episode-num system="xmltv_ns">2..</episode-num>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C47.api.telerama.fr" start="20200105025500" stop="20200105035000">
+    <title>Sale temps pour la planète</title>
+    <sub-title>Iles Fidji, aide-toi, le ciel t'aidera (2/2)</sub-title>
+    <desc lang="fr">Saison:11 - Les habitants des îles Fidji, au coeur du Pacifique, ressentent fortement les effets du réchauffement du globe terrestre : la moindre variation a des effets désastreux.</desc>
+    <credits>
+      <director>Morad Aït-Habbouche</director>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">documentaire : environnement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d137f862-83a5-43a2-bfe1-c6b523d4d0dc.jpg" />
+    <country>français</country>
+    <episode-num system="xmltv_ns">10..</episode-num>
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -25970,32 +25585,11 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200105050000" stop="20200105055500">
-    <title>Super 4</title>
-    <desc lang="fr">Les célèbres personnages Playmobil s'animent et vivent des aventures incroyables dans des univers aussi variés que magiques.</desc>
-    <credits>
-      <writer>Hans Beck</writer>
-    </credits>
-    <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/69db26eb-ac14-436a-afb7-7ea9eef5d497.jpg" />
-    <country>français</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200105055500" stop="20200105071000">
-    <title>Petz Club</title>
-    <desc lang="fr">Le Petz Club, fondé par Nina, Oscar, Tim et le chien Marlou, s'est donné pour mission de retrouver les animaux perdus par les enfants. Mais les apprentis détectives mènent leurs enquêtes tout en allant à l'école et en gérant aussi les parents.</desc>
-    <credits>
-      <director>Régis Vidal</director>
-      <writer>Dominique Amouyal</writer>
-      <writer>Hadrien Soulez Larivière</writer>
-      <writer>Régis Vidal</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">75</length>
-    <country>France</country>
+  <programme channel="C78.api.telerama.fr" start="20200105011500" stop="20200105045500">
+    <title>Programmes de la nuit</title>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">220</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -26008,23 +25602,6 @@ Chloé Aeberhardt</desc>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/42577ce7-b0c2-4d8d-8cd7-77ed08d7e6b7.jpg" />
     <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200105071500" stop="20200105081500">
-    <title>Martin Matin</title>
-    <desc lang="fr">Martin est un petit garçon de sept ans qui semble tout à fait ordinaire. Mais il vit des aventures extraordinaires tous les matins, en se réveillant dans la peau d'un nouveau personnage. Ses histoires le mènent parfois jusqu'au bout du monde.</desc>
-    <credits>
-      <writer>Denis Olivieri</writer>
-      <writer>Claude Prothée</writer>
-      <writer>Luc Vinciguerra</writer>
-      <writer>Jacky Bretaudeau</writer>
-    </credits>
-    <category lang="fr">jeunesse : dessin animé</category>
-    <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6cc8f959-2811-4f7e-bc9d-cda8fc2135a2.jpg" />
-    <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -26045,60 +25622,6 @@ Chloé Aeberhardt</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200105082000" stop="20200105091000">
-    <title>44 chats</title>
-    <desc lang="fr">Les aventures de quatre chatons qui forment un groupe musical appelé The Buffycats.</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">50</length>
-    <country>Italie</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200105091000" stop="20200105095500">
-    <title>Paprika</title>
-    <sub-title>Ballons</sub-title>
-    <desc lang="fr">Olivia et Stan vivent sur l'île fantaisiste et colorée des jumeaux Paprika. Stan est un petit tigre courageux qui file à toute allure sur son fauteuil roulant, tandis que sa soeur est organisée, très créative et un peu cérébrale. Lorsqu'ils sont ensemble, aucun obstacle ne résiste aux jumeaux qui transforment les petits événements de la vie quotidienne en d'incroyables aventures.</desc>
-    <credits>
-      <director>Jean Cayrol</director>
-      <writer>Jean Cayrol</writer>
-      <writer>Marion Billet</writer>
-      <writer>Baptiste Lucas</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">45</length>
-    <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200105095500" stop="20200105104500">
-    <title>Le village de Dany</title>
-    <desc lang="fr">Grâce à de petites chansons et à de belles histoires, Dany, un petit tigre âgé de quatre ans, fait partager aux enfants des émotions telles que la déception, la jalousie, la colère, la joie ou encore l'amour. Avec l'aide de ses voisins, de ses amis et de sa famille, Dany grandit en apprenant des choses sur la vie et sur l'école.</desc>
-    <credits>
-      <writer>Angela Santomero</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">50</length>
-    <country>Etats-Unis</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200105104500" stop="20200105113500">
-    <title>Masha et Michka</title>
-    <sub-title>On sourit pour la photo</sub-title>
-    <desc lang="fr">Les aventures d'une fillette curieuse et d'un ours débonnaire.</desc>
-    <credits>
-      <writer>Oleg Kozouvkov</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">50</length>
-    <country>Russie</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C78.api.telerama.fr" start="20200105113500" stop="20200105114500">
     <title>Yétili</title>
     <sub-title>Le Dîner fantôme</sub-title>
@@ -26110,62 +25633,6 @@ Chloé Aeberhardt</desc>
     <length units="minutes">10</length>
     <country>France</country>
     <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200105114500" stop="20200105123000">
-    <title>Garfield</title>
-    <credits>
-      <writer>Jim Davis</writer>
-      <writer>Philippe Vidal</writer>
-    </credits>
-    <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6a8e986f-adc7-4b29-90d3-de62a4065361.jpg" />
-    <country>américain</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200105123000" stop="20200105130000">
-    <title>Shaun le mouton</title>
-    <sub-title>Les lamas du fermier</sub-title>
-    <desc lang="fr">Le fermier et Bitzer se rendent à une foire agricole. Shaun se joint malencontreusement à eux et espionne une vente aux enchères où il remarque trois lamas rusés. Shaun se dit qu'ils seraient parfaits pour égayer le quotidien à la ferme. Après un tour de passe-passe, le fermier les achète. Rapidement, les nouveaux arrivants prennent leurs aises. Shaun est obligé de prendre des mesures pour chasser ces perturbateurs de la ferme...</desc>
-    <credits>
-      <writer>Georges Mickael</writer>
-      <writer>Nick Park</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">30</length>
-    <country>Grande-Bretagne</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200105130000" stop="20200105133500">
-    <title>Roger</title>
-    <sub-title>La baguette magique</sub-title>
-    <desc lang="fr">Saison:1 - Sur une île tropicale, Fatou la petite fille et Roger l'extraterrestre provoquent de petits incidents qui sont prétexte à de nombreuses aventures.</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">35</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200105133500" stop="20200105140500">
-    <title>Grizzy et les lemmings</title>
-    <desc lang="fr">Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <director>Victor Moulin</director>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">30</length>
-    <country>France</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -26401,7 +25868,7 @@ Chloé Aeberhardt</desc>
   <programme channel="C78.api.telerama.fr" start="20200105234000" stop="20200105234500">
     <title>Consomag</title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
-    <category lang="fr">magazine magazine du consommateur</category>
+    <category lang="fr">magazine du consommateur</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6601962c-b576-480d-b5c0-1af9267d3386.jpg" />
     <rating system="CSA">
@@ -26433,7 +25900,7 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200104232500" stop="20200105002100">
+  <programme channel="C80.api.telerama.fr" start="20200104232500" stop="20200105001900">
     <title>Carmen, Violetta, Mimi, romantiques et fatales</title>
     <desc lang="fr">Carmen, Violetta, Mimi, les trois héroïnes les plus célèbres de l'opéra ont bel et bien existé : Cyril Leuthy raconte leur fabuleuse histoire.</desc>
     <credits>
@@ -26443,14 +25910,14 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/17c40ef4-cc8d-481f-a801-5c392fdead63.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200105002100" stop="20200105035500">
+  <programme channel="C80.api.telerama.fr" start="20200105001900" stop="20200105035500">
     <title>Les Huguenots</title>
     <desc lang="fr">«Les Huguenots» ont pour cadre la nuit de la Saint-Barthélémy, le 24 août 1572, lors de laquelle les catholiques massacrèrent les protestants calvinistes. Créée à l'Opéra de Paris, l'oeuvre y fêtait en 1936, après plus de mille représentations, son centième anniversaire.</desc>
     <credits>
@@ -26468,7 +25935,7 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
       <guest>François Rougier (Cossé)</guest>
     </credits>
     <category lang="fr">opéra</category>
-    <length units="minutes">214</length>
+    <length units="minutes">216</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/79a52794-cd27-4e53-9a87-c8b57475f91b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -26560,23 +26027,6 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <country>France</country>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C80.api.telerama.fr" start="20200105061000" stop="20200105062000">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Ours sans gravité</sub-title>
-    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <credits>
-      <writer>Antoine Rodelet</writer>
-      <writer>Josselin Charier</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>

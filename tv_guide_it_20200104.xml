@@ -48,14 +48,8 @@
   <channel id="yoyo.raisat.it">
     <display-name>Yoyo</display-name>
   </channel>
-  <programme channel="www.la7.it" start="20200103224500" stop="20200104010000">
-    <title lang="it">Risvegli</title>
-    <desc lang="it">Regia di P. Marshall, con...</desc>
-    <category lang="it">drammatico</category>
-    <category lang="it">film</category>
-  </programme>
   <programme channel="www.la7.it" start="20200104010000" stop="20200104014000">
-    <title lang="it">Otto e mezzo</title>
+    <title lang="it">Otto e Mezzo - sabato</title>
     <sub-title lang="it">Ep. 92</sub-title>
     <desc lang="it">Condotto da...</desc>
     <category lang="it">talk show</category>
@@ -204,18 +198,6 @@
     <category lang="it">western</category>
     <category lang="it">film</category>
   </programme>
-  <programme channel="www.la7.it" start="20200104151500" stop="20200104171000">
-    <title lang="it">Little Murders by Agatha Christie</title>
-    <desc lang="it">S2 Ep13 La morte a...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="www.la7.it" start="20200104171000" stop="20200104190000">
-    <title lang="it">Josephine, ange gardien</title>
-    <desc lang="it">S5 Ep3 La colpevole -...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
   <programme channel="www.la7.it" start="20200104190000" stop="20200104193500">
     <title lang="it">Tg La7</title>
     <desc lang="it">Le notizie d'attualita' e...</desc>
@@ -240,6 +222,18 @@
     <desc lang="it">Regia di G. Pollock, con...</desc>
     <category lang="it">thriller</category>
     <category lang="it">film</category>
+  </programme>
+  <programme channel="www.la7.it" start="20200104151500" stop="20200104171000">
+    <title lang="it">Il Commissario Cordier</title>
+    <desc lang="it">S1 Ep34 Il diavolo nel...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="www.la7.it" start="20200104171000" stop="20200104190000">
+    <title lang="it">Il Commissario Cordier</title>
+    <desc lang="it">S1 Ep35 Le onde del...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
   </programme>
   <programme channel="rainews.guidatv.sky.it" start="20200103235500" stop="20200104000000">
     <title lang="it">Meteo</title>
@@ -809,12 +803,14 @@
     <category lang="it">magazine cinema</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200104040000" stop="20200104042500">
+  <programme channel="rai4.raisat.it" start="20200104042500" stop="20200104043000">
     <title lang="it">Il candidato - Zucca Presidente</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">La corsa alla...</desc>
+    <sub-title lang="it">Episodio 6</sub-title>
+    <desc lang="it">Lo...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 6</episode-num>
+    <episode-num system="xmltv_ns">.5.0/1</episode-num>
   </programme>
   <programme channel="rai4.raisat.it" start="20200104184000" stop="20200104192500">
     <title lang="it">Supernatural</title>
@@ -855,25 +851,25 @@
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200104015500" stop="20200104023500">
+  <programme channel="rai4.raisat.it" start="20200104015500" stop="20200104023000">
     <title lang="it">24</title>
     <desc lang="it">Jonas Hodges costringe la...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200104023500" stop="20200104031500">
+  <programme channel="rai4.raisat.it" start="20200104023000" stop="20200104031500">
     <title lang="it">Medium</title>
     <desc lang="it">S6 Ep3 Il dottor Morte -...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200104031500" stop="20200104040000">
+  <programme channel="rai4.raisat.it" start="20200104031500" stop="20200104042500">
     <title lang="it">Medium</title>
     <desc lang="it">S6 Ep4 Il killer della...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200104042500" stop="20200104043500">
+  <programme channel="rai4.raisat.it" start="20200104043000" stop="20200104044000">
     <title lang="it">Il candidato - Zucca Presidente</title>
     <sub-title lang="it">Episodio 7</sub-title>
     <desc lang="it">La...</desc>
@@ -882,7 +878,7 @@
     <episode-num system="onscreen">Episodio 7</episode-num>
     <episode-num system="xmltv_ns">.6.0/1</episode-num>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200104043500" stop="20200104044000">
+  <programme channel="rai4.raisat.it" start="20200104044000" stop="20200104044500">
     <title lang="it">Il candidato - Zucca Presidente</title>
     <sub-title lang="it">Episodio 8</sub-title>
     <desc lang="it">Bianca...</desc>
@@ -891,7 +887,7 @@
     <episode-num system="onscreen">Episodio 8</episode-num>
     <episode-num system="xmltv_ns">.7.0/1</episode-num>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200104044000" stop="20200104052000">
+  <programme channel="rai4.raisat.it" start="20200104044500" stop="20200104052000">
     <title lang="it">Medium</title>
     <desc lang="it">S4 Ep1 Il bambino rapito...</desc>
     <category lang="it">fiction</category>
@@ -1508,125 +1504,155 @@
     <category lang="it">fantascienza</category>
     <category lang="it">film</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200103235000" stop="20200104004000">
-    <title lang="it">Squadra Speciale Vienna</title>
-    <sub-title lang="it">S10</sub-title>
-    <desc lang="it">Le indagini del...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104004000" stop="20200104022500">
+  <programme channel="raipremium.guidatv.sky.it" start="20200103235000" stop="20200104013500">
     <title lang="it">Blu notte: misteri italiani</title>
-    <desc lang="it">Carlo Lucarelli affronta...</desc>
+    <desc lang="it">Il naufragio fantasma -...</desc>
     <category lang="it">documentario</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104022500" stop="20200104040000">
-    <title lang="it">Dream Hotel: Citta' del Capo</title>
-    <desc lang="it">Regia di O. Retzer, con...</desc>
-    <category lang="it">romantico</category>
-    <category lang="it">film</category>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104013500" stop="20200104023500">
+    <title lang="it">L'indizio</title>
+    <desc lang="it">Alibi a doppio taglio -...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104023500" stop="20200104040000">
+    <title lang="it">La Nave dei Sogni</title>
+    <sub-title lang="it">Ep8 Florida</sub-title>
+    <desc lang="it">La nave si...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
   </programme>
   <programme channel="raipremium.guidatv.sky.it" start="20200104040000" stop="20200104053000">
-    <title lang="it">La luna di settembre</title>
-    <desc lang="it">Regia di P. DeLuise, con...</desc>
+    <title lang="it">Cuore di cioccolato</title>
+    <desc lang="it">Regia di O. Dommenget,...</desc>
     <category lang="it">romantico</category>
     <category lang="it">film</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104053000" stop="20200104072000">
-    <title lang="it">Il piccolo Lord</title>
-    <desc lang="it">Regia di G. Albano, con...</desc>
-    <category lang="it">drammatico</category>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104053000" stop="20200104081500">
+    <title lang="it">Il conte Tacchia</title>
+    <desc lang="it">Regia di S. Corbucci, con...</desc>
+    <category lang="it">commedia</category>
     <category lang="it">film</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104072000" stop="20200104091500">
-    <title lang="it">L'Ispettore Coliandro: il ritorno</title>
-    <sub-title lang="it">S3</sub-title>
-    <desc lang="it">Autoironico, schivo...</desc>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104081500" stop="20200104092000">
+    <title lang="it">Un passo dal cielo</title>
+    <desc lang="it">S1 Ep1 Lo spirito del...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104091500" stop="20200104111500">
-    <title lang="it">L'Ispettore Coliandro: il ritorno</title>
-    <sub-title lang="it">S3</sub-title>
-    <desc lang="it">Autoironico, schivo...</desc>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104092000" stop="20200104102500">
+    <title lang="it">Un passo dal cielo</title>
+    <desc lang="it">S1 Ep2 Il fantasma del...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104111500" stop="20200104120500">
-    <title lang="it">ChristmasTree - L'albero di Natale</title>
-    <desc lang="it">Natale non e' Natale...</desc>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104102500" stop="20200104113000">
+    <title lang="it">Un passo dal cielo</title>
+    <desc lang="it">S1 Ep3 Il giorno del...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104113000" stop="20200104123000">
+    <title lang="it">Un passo dal cielo</title>
+    <desc lang="it">S1 Ep4 La prova del fuoco...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104123000" stop="20200104133500">
+    <title lang="it">Un passo dal cielo</title>
+    <desc lang="it">S1 Ep5 Il capriolo...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104133500" stop="20200104140000">
+    <title lang="it">L'Arte della pasticceria viennese</title>
+    <desc lang="it">Uno sguardo al 'dietro le...</desc>
     <category lang="it">arte e cultura</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104120500" stop="20200104123500">
-    <title lang="it">Christmas Mood</title>
-    <desc lang="it">Dalla preistoria ad oggi,...</desc>
-    <category lang="it">arte e cultura</category>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104140000" stop="20200104143000">
+    <title lang="it">Party Mood</title>
+    <desc lang="it">Tanto divertimento con...</desc>
+    <category lang="it">magazine cultura</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104123500" stop="20200104124000">
-    <title lang="it">Gli imperdibili</title>
-    <desc lang="it">Backstage, anteprime,...</desc>
-    <category lang="it">mondi e culture</category>
-    <category lang="it">mondo e tendenze</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104124000" stop="20200104124500">
+  <programme channel="raipremium.guidatv.sky.it" start="20200104143000" stop="20200104143500">
     <title lang="it">Anica Appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione...</desc>
     <category lang="it">magazine cinema</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104124500" stop="20200104150500">
-    <title lang="it">Per una notte d'amore</title>
-    <desc lang="it">Regia di V. Sindoni, con...</desc>
-    <category lang="it">drammatico</category>
-    <category lang="it">film</category>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104143500" stop="20200104152000">
+    <title lang="it">Il paradiso delle signore</title>
+    <sub-title lang="it">Episodio 1</sub-title>
+    <desc lang="it">Roberta riceve...</desc>
+    <category lang="it">soap opera</category>
+    <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104150500" stop="20200104164500">
-    <title lang="it">Verso l'Africa</title>
-    <desc lang="it">Regia di U. Baumann, con...</desc>
-    <category lang="it">drammatico</category>
-    <category lang="it">film</category>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104152000" stop="20200104160000">
+    <title lang="it">Il paradiso delle signore</title>
+    <sub-title lang="it">Episodio 2</sub-title>
+    <desc lang="it">Mentre Agnese...</desc>
+    <category lang="it">soap opera</category>
+    <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104164500" stop="20200104182500">
-    <title lang="it">La leggenda delle Gru</title>
-    <desc lang="it">Regia di U. Baumann, con...</desc>
-    <category lang="it">drammatico</category>
-    <category lang="it">film</category>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104160000" stop="20200104164500">
+    <title lang="it">Il paradiso delle signore</title>
+    <sub-title lang="it">Episodio 3</sub-title>
+    <desc lang="it">Dopo aver...</desc>
+    <category lang="it">soap opera</category>
+    <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 3</episode-num>
+    <episode-num system="xmltv_ns">.2.0/1</episode-num>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104182500" stop="20200104202000">
+  <programme channel="raipremium.guidatv.sky.it" start="20200104164500" stop="20200104172500">
+    <title lang="it">Il paradiso delle signore</title>
+    <sub-title lang="it">Episodio 4</sub-title>
+    <desc lang="it">Riccardo si...</desc>
+    <category lang="it">soap opera</category>
+    <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 4</episode-num>
+    <episode-num system="xmltv_ns">.3.0/1</episode-num>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104172500" stop="20200104181000">
+    <title lang="it">Il paradiso delle signore</title>
+    <sub-title lang="it">Episodio 5</sub-title>
+    <desc lang="it">Ludovica...</desc>
+    <category lang="it">soap opera</category>
+    <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 5</episode-num>
+    <episode-num system="xmltv_ns">.4.0/1</episode-num>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104181000" stop="20200104202000">
     <title lang="it">Pezzi unici</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Dopo la morte...</desc>
+    <sub-title lang="it">S1 Ep6</sub-title>
+    <desc lang="it">Convinto che...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104202000" stop="20200104223000">
-    <title lang="it">Pezzi unici</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Dopo la morte...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104202000" stop="20200104222000">
+    <title lang="it">Purche' finisca bene: Un marito di...</title>
+    <sub-title lang="it">...troppo</sub-title>
+    <desc lang="it">Regia di L....</desc>
+    <category lang="it">drammatico</category>
+    <category lang="it">film</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104223000" stop="20200104225500">
-    <title lang="it">Ettore, un caffe' con</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Racconti, incontri e...</desc>
-    <category lang="it">show</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200104225500" stop="20200105010000">
-    <title lang="it">La compagnia del cigno</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Sette adolescenti,...</desc>
+  <programme channel="raipremium.guidatv.sky.it" start="20200104222000" stop="20200105001000">
+    <title lang="it">Un'altra vita</title>
+    <sub-title lang="it">Ep1</sub-title>
+    <desc lang="it">In seguito a uno...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
   <programme channel="raistoria.rai.it" start="20200103232000" stop="20200104000000">
     <title lang="it">Passato e Presente</title>
     <sub-title lang="it">Machiavelli</sub-title>
-    <desc lang="it">In...</desc>
+    <desc lang="it">Niccolo'...</desc>
     <category lang="it">storia</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
@@ -1642,36 +1668,36 @@
     <category lang="it">storia</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="raistoria.rai.it" start="20200104020000" stop="20200104030000">
+  <programme channel="raistoria.rai.it" start="20200104020000" stop="20200104031000">
     <title lang="it">Conflitti: Comunismi del dissenso</title>
     <desc lang="it">Jugoslavia 1948: una...</desc>
     <category lang="it">storia</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="raistoria.rai.it" start="20200104030000" stop="20200104033000">
+  <programme channel="raistoria.rai.it" start="20200104031000" stop="20200104033000">
     <title lang="it">Come Eravamo</title>
     <sub-title lang="it">Giovani 78/82</sub-title>
     <desc lang="it">Uno...</desc>
     <category lang="it">storia</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="raistoria.rai.it" start="20200104033000" stop="20200104043000">
+  <programme channel="raistoria.rai.it" start="20200104033000" stop="20200104041000">
     <title lang="it">Ieri e oggi</title>
     <sub-title lang="it">Ep. 19</sub-title>
     <desc lang="it">I personaggi...</desc>
     <category lang="it">magazine cultura</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="raistoria.rai.it" start="20200104043000" stop="20200104050000">
+  <programme channel="raistoria.rai.it" start="20200104041000" stop="20200104043000">
     <title lang="it">Il giorno e la storia</title>
     <desc lang="it">Una selezioni dei...</desc>
     <category lang="it">storia</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="raistoria.rai.it" start="20200104050000" stop="20200104054000">
+  <programme channel="raistoria.rai.it" start="20200104043000" stop="20200104054000">
     <title lang="it">Passato e Presente</title>
     <sub-title lang="it">Machiavelli</sub-title>
-    <desc lang="it">In...</desc>
+    <desc lang="it">Niccolo'...</desc>
     <category lang="it">storia</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
