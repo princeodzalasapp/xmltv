@@ -353,6 +353,15 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C1073.api.telerama.fr" start="20200105230000" stop="20200106020000">
+    <title>Programmes de la nuit</title>
+    <category lang="fr">programme indéterminé</category>
+    <length units="hours">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C110.api.telerama.fr" start="20200106063000" stop="20200106063500">
     <title>Agenda</title>
     <category lang="fr">magazine culturel</category>
@@ -612,6 +621,25 @@
     <star-rating>
       <value>4/5</value>
     </star-rating>
+  </programme>
+  <programme channel="C111.api.telerama.fr" start="20200106031000" stop="20200106034000">
+    <title>Arte journal</title>
+    <desc lang="fr">L'actualité internationale, décortiquée par une rédaction franco-allemande.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/90c9eedd-8897-4696-8807-d745f28f9bbd.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C111.api.telerama.fr" start="20200106034000" stop="20200106040000">
+    <title>Fin des programmes</title>
+    <category lang="fr">fin</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
   </programme>
   <programme channel="C111.api.telerama.fr" start="20200106051000" stop="20200106054000">
     <title>X:enius</title>
@@ -3518,21 +3546,21 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200106025500" stop="20200106031000">
+  <programme channel="C160.api.telerama.fr" start="20200106025500" stop="20200106031500">
     <title>Laurence Joseph</title>
     <desc lang="fr">Comédienne caméléon à l'humour contagieux, Laurence Joseph se produisait en première partie de l'édition 2019 de «L'Outre-mer fait son Olympia».</desc>
     <credits>
       <actor>Laurence Joseph</actor>
     </credits>
     <category lang="fr">humour</category>
-    <length units="minutes">15</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/835b74fb-a238-4f09-8dcf-9287cd3b9ece.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200106031000" stop="20200106034000">
+  <programme channel="C160.api.telerama.fr" start="20200106031500" stop="20200106034000">
     <title>Tranches de vie</title>
     <sub-title>La mère</sub-title>
     <desc lang="fr">Saison:3 - Pour les hommes et les femmes issus des Outremers rencontrés pour «Tranches de vie», cinq thématiques sont récurrentes : focus sur le rôle de la mère.</desc>
@@ -3541,7 +3569,7 @@
     </credits>
     <date>2019</date>
     <category lang="fr">documentaire : société</category>
-    <length units="minutes">30</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
     <country>français</country>
     <episode-num system="xmltv_ns">2..</episode-num>
@@ -3550,7 +3578,40 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200106034000" stop="20200106035000">
+  <programme channel="C160.api.telerama.fr" start="20200106034000" stop="20200106034500">
+    <title>Outremer tout court</title>
+    <sub-title>Guyane : grand connetable</sub-title>
+    <category lang="fr">documentaire : découvertes</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/67414d70-449a-4454-ad3e-c6d9b4c553c7.jpg" />
+    <country>français</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200106034500" stop="20200106035000">
+    <title>Outremer tout court</title>
+    <sub-title>Mayotte, les lianes tueuses</sub-title>
+    <category lang="fr">documentaire : découvertes</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/67414d70-449a-4454-ad3e-c6d9b4c553c7.jpg" />
+    <country>français</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200106035000" stop="20200106035500">
+    <title>Outremer tout court</title>
+    <sub-title>Guyane : restaurer pour témoigner</sub-title>
+    <category lang="fr">documentaire : découvertes</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/67414d70-449a-4454-ad3e-c6d9b4c553c7.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200106035500" stop="20200106040500">
     <title>Infô soir</title>
     <desc lang="fr">Le rendez-vous quotidien de l'actualité ultramarine.</desc>
     <category lang="fr">journal</category>
@@ -3561,10 +3622,10 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200106050500" stop="20200106054500">
+  <programme channel="C160.api.telerama.fr" start="20200106051000" stop="20200106054500">
     <title>Journal Réunion</title>
     <category lang="fr">journal</category>
-    <length units="minutes">40</length>
+    <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3588,29 +3649,29 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200106064000" stop="20200106071000">
+  <programme channel="C160.api.telerama.fr" start="20200106064000" stop="20200106070500">
     <title>Journal Guadeloupe</title>
     <category lang="fr">journal</category>
-    <length units="minutes">30</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200106071000" stop="20200106072300">
+  <programme channel="C160.api.telerama.fr" start="20200106070500" stop="20200106072200">
     <title>L'invité du jour</title>
     <desc lang="fr">Du lundi au vendredi, avec la complicité de la Rédaction radio, Jean-Marc Thibaudier est au rendez-vous de Matin 1ère, la première matinale radio de service public consacrée aux Outre-mer, et reçoit un invité en lien avec l'actualité des Outre-mer.</desc>
     <credits>
       <presenter>Jean-Marc Thibaudier</presenter>
     </credits>
     <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">13</length>
+    <length units="minutes">17</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200106072300" stop="20200106072500">
+  <programme channel="C160.api.telerama.fr" start="20200106072200" stop="20200106072400">
     <title>Les livres de Lili</title>
     <sub-title>L'herbier créole de ti jojo</sub-title>
     <desc lang="fr">Saison:2 - Une invitation à la lecture proposée par des enfants à des enfants.</desc>
@@ -3623,12 +3684,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200106072500" stop="20200106072800">
+  <programme channel="C160.api.telerama.fr" start="20200106072400" stop="20200106072600">
     <title>Les livres de Lili</title>
     <sub-title>Coeur de picolette</sub-title>
     <desc lang="fr">Saison:2 - Une invitation à la lecture proposée par des enfants à des enfants.</desc>
     <category lang="fr">magazine littéraire</category>
-    <length units="minutes">3</length>
+    <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
@@ -3636,11 +3697,11 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200106072800" stop="20200106073000">
+  <programme channel="C160.api.telerama.fr" start="20200106072600" stop="20200106073000">
     <title>Consomag</title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">2</length>
+    <length units="minutes">4</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6601962c-b576-480d-b5c0-1af9267d3386.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -3729,6 +3790,7 @@
     <date>2019</date>
     <category lang="fr">documentaire : nature</category>
     <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5cf8d614-a60f-4c57-8f86-12b51174823e.jpg" />
     <country>français</country>
     <previously-shown />
     <rating system="CSA">
@@ -4632,7 +4694,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1921.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1921.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -4650,7 +4712,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -4661,7 +4723,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1921.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1921.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -4669,7 +4731,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -5362,7 +5424,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1921.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1921.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -5370,7 +5432,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -5406,7 +5468,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1922.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -5424,7 +5486,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -5435,7 +5497,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1922.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -5443,7 +5505,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -6136,7 +6198,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1922.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -6144,7 +6206,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -6180,7 +6242,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1923.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -6198,7 +6260,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -6209,7 +6271,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1923.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -6217,7 +6279,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -6910,7 +6972,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1923.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -6918,7 +6980,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -6954,7 +7016,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1924.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1924.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -6972,7 +7034,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -6983,7 +7045,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1924.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1924.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -6991,7 +7053,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -7684,7 +7746,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1924.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1924.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -7692,7 +7754,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -7728,7 +7790,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1925.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -7746,7 +7808,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -7757,7 +7819,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1925.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -7765,7 +7827,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -8458,7 +8520,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1925.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -8466,7 +8528,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -8502,7 +8564,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1926.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -8520,7 +8582,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -8531,7 +8593,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1926.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -8539,7 +8601,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -9232,7 +9294,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1926.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -9240,7 +9302,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -9276,7 +9338,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1927.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -9294,7 +9356,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -9305,7 +9367,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1927.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -9313,7 +9375,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -10006,7 +10068,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1927.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -10014,7 +10076,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -10050,7 +10112,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1928.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -10068,7 +10130,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -10079,7 +10141,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1928.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -10087,7 +10149,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -10780,7 +10842,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1928.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -10788,7 +10850,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -10824,7 +10886,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1929.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -10842,7 +10904,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -10853,7 +10915,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1929.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -10861,7 +10923,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -11554,7 +11616,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1929.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -11562,7 +11624,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -11598,7 +11660,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1931.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -11616,7 +11678,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -11627,7 +11689,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1931.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -11635,7 +11697,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -12207,7 +12269,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1931.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -12215,7 +12277,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -12251,7 +12313,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1932.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -12269,7 +12331,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -12280,7 +12342,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1932.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -12288,7 +12350,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -12981,7 +13043,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1932.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -12989,7 +13051,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -13025,7 +13087,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1933.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -13043,7 +13105,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -13054,7 +13116,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1933.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -13062,7 +13124,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -13755,7 +13817,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1933.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -13763,7 +13825,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -13799,7 +13861,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1934.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -13817,7 +13879,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -13828,7 +13890,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1934.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -13836,7 +13898,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -14529,7 +14591,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1934.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -14537,7 +14599,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -14573,7 +14635,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1935.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -14591,7 +14653,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -14602,7 +14664,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1935.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -14610,7 +14672,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -15303,7 +15365,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1935.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -15311,7 +15373,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -15347,7 +15409,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1936.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -15365,7 +15427,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -15376,7 +15438,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1936.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -15384,7 +15446,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -16077,7 +16139,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1936.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -16085,7 +16147,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -16121,7 +16183,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1937.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -16139,7 +16201,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -16150,7 +16212,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1937.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -16158,7 +16220,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -16851,7 +16913,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1937.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -16859,7 +16921,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -16895,7 +16957,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1938.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1938.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -16913,7 +16975,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -16924,7 +16986,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1938.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1938.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -16932,7 +16994,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -17491,7 +17553,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1938.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1938.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -17499,7 +17561,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -17535,7 +17597,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1939.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -17553,7 +17615,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -17564,7 +17626,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1939.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -17572,7 +17634,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -18265,7 +18327,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1939.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -18273,7 +18335,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -18309,7 +18371,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1940.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -18327,7 +18389,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -18338,7 +18400,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1940.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -18346,7 +18408,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -19039,7 +19101,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1940.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -19047,7 +19109,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -19083,7 +19145,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1941.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1941.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -19101,7 +19163,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -19112,7 +19174,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1941.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1941.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -19120,7 +19182,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -19800,7 +19862,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1941.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1941.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -19808,7 +19870,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -19844,7 +19906,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1942.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -19862,7 +19924,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -19873,7 +19935,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1942.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -19881,7 +19943,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -20574,7 +20636,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1942.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -20582,7 +20644,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -20618,7 +20680,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1943.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -20636,7 +20698,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -20647,7 +20709,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1943.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -20655,7 +20717,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -21348,7 +21410,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1943.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -21356,7 +21418,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -21392,7 +21454,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1944.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C1944.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -21410,7 +21472,7 @@
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -21421,7 +21483,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1944.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C1944.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -21429,7 +21491,7 @@
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
@@ -22122,7 +22184,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1944.api.telerama.fr" start="20200106235000" stop="20200107014000">
+  <programme channel="C1944.api.telerama.fr" start="20200106235000" stop="20200107013900">
     <title>Faut pas rêver</title>
     <sub-title>Les Alsaciens, le coeur en fête !</sub-title>
     <desc lang="fr">A l'approche de Noël, les Alsaciens ont le coeur en fête et font briller leur région de mille feux : un voyage magique pour Carolina de Salvo. Jean-Mathieu prépare le munster au cumin, spécialité du pays. Au sommaire : La passion du sapin. - Le feu sacré des boules de Noël. - Mulhouse : l'étoffe de Noël.</desc>
@@ -22130,7 +22192,7 @@
       <presenter>Carolina De Salvo</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">110</length>
+    <length units="minutes">109</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d00b08d9-f712-4590-a309-558f81ba3e1c.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -22722,7 +22784,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200105230000" stop="20200106000000">
+  <programme channel="C234.api.telerama.fr" start="20200105230300" stop="20200106000000">
     <title>Les coulisses de l'histoire</title>
     <sub-title>Le plan Marshall a sauvé l'Amérique</sub-title>
     <desc lang="fr">En 1947, le président Truman sonne l'alerte : le communisme menace, il se propage comme une épidémie, il faut endiguer le fléau. Dans la nouvelle guerre qui s'annonce, tous les moyens sont bons pour contrer l'ennemi. La postérité a érigé le plan Marshall et ses 18 milliards de dollars en entreprise philanthropique venue sauver l'Europe de la misère et du chaos dans lesquels la Seconde Guerre mondiale l'avait plongée. Or, si la manne américain a effectivement contribué à renforcer les plans de redressement initiés par les gouvernements européens dès la fin du conflit, elle a surtout été un moyen d'affermir les intérêts politique set économiques des Etats-Unis sur le Vieux Continent.</desc>
@@ -22731,7 +22793,7 @@
     </credits>
     <date>2018</date>
     <category lang="fr">documentaire : histoire</category>
-    <length units="hours">1</length>
+    <length units="minutes">57</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e26407e2-2ac1-4678-810e-6fdc7219dac2.jpg" />
     <country>français</country>
     <previously-shown />
@@ -22739,7 +22801,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200106000000" stop="20200106003000">
+  <programme channel="C234.api.telerama.fr" start="20200106000000" stop="20200106002900">
     <title>DébatDoc</title>
     <sub-title>Plan Marshall : jackpot pour les Etats-Unis ?</sub-title>
     <desc lang="fr">Les thèmes sociaux, politiques ou économiques d'un documentaire sont débattus par des parlementaires, des acteurs de la société civile et des experts.</desc>
@@ -22751,31 +22813,31 @@
       <guest>Julien Zarifian</guest>
     </credits>
     <category lang="fr">débat</category>
-    <length units="minutes">30</length>
+    <length units="minutes">29</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/87c41bfa-32ff-4927-a96e-5894df2bb890.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200106003000" stop="20200106004500">
+  <programme channel="C234.api.telerama.fr" start="20200106002900" stop="20200106004200">
     <title>Circo</title>
     <sub-title>Monique Limon</sub-title>
     <desc lang="fr">Loin du tumulte des séances de l'Assemblée nationale, une plongée au coeur d'une circonscription en compagnie de son député, pour découvrir le quotidien d'un élu.</desc>
     <category lang="fr">magazine politique</category>
-    <length units="minutes">15</length>
+    <length units="minutes">13</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200106004500" stop="20200106010000">
+  <programme channel="C234.api.telerama.fr" start="20200106004200" stop="20200106010000">
     <title>Circo</title>
     <sub-title>Brigitte Bourguignon</sub-title>
     <desc lang="fr">Loin du tumulte des séances de l'Assemblée nationale, une plongée au coeur d'une circonscription en compagnie de son député, pour découvrir le quotidien d'un élu.</desc>
     <category lang="fr">magazine politique</category>
-    <length units="minutes">15</length>
+    <length units="minutes">18</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -22852,6 +22914,20 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
     <country>français</country>
     <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C234.api.telerama.fr" start="20200106033000" stop="20200106045600">
+    <title>Les matins du Sénat</title>
+    <desc lang="fr">Les moments forts de l'examen des textes dans l'hémicycle et des auditions en commission.</desc>
+    <credits>
+      <presenter>Tam Tran Huy</presenter>
+      <presenter>Saveria Rojek</presenter>
+    </credits>
+    <category lang="fr">débat parlementaire</category>
+    <length units="minutes">86</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6366bb8c-c9d3-4b77-b8cf-0dcac7561765.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -22967,6 +23043,10 @@
     <desc lang="fr">Plusieurs invités discutent autour du thème abordé dans le documentaire diffusé avant le débat.</desc>
     <credits>
       <presenter>Jérôme Chapuis</presenter>
+      <guest>Jean Birnbaum</guest>
+      <guest>Hocine Rahli</guest>
+      <guest>Agnès Spiquel</guest>
+      <guest>Vincent Duclert</guest>
     </credits>
     <category lang="fr">débat</category>
     <length units="minutes">35</length>
@@ -23269,7 +23349,7 @@
   <programme channel="C34.api.telerama.fr" start="20200106000000" stop="20200106010000">
     <title>77e Cérémonie des Golden Globes Awards</title>
     <sub-title>Tapis rouge</sub-title>
-    <desc lang="fr">C'est à l'hôtel Beverly Hilton de Los Angeles que se tient la 77e cérémonie des Golden Globes, qui récompensent films et séries américaines de l'année. Parmi les favoris se trouvent «Joker» de Todd Phillips, «The Irishman» de Martin Scorsese ainsi que les séries «Chernobyl» et «Unbelievable».</desc>
+    <desc lang="fr">C'est à l'hôtel Beverly Hilton de Los Angeles que se tient la 77e cérémonie des Golden Globes, qui récompense films et séries américaines de l'année. Parmi les favoris se trouvent «Joker» de Todd Phillips, «The Irishman» de Martin Scorsese ainsi que les séries «Chernobyl» et «Unbelievable».</desc>
     <category lang="fr">magazine du cinéma</category>
     <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6cbe4686-cafc-4b8e-832d-89ebb202843f.jpg" />
@@ -23692,7 +23772,74 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200106025500" stop="20200106032000">
+  <programme channel="C4.api.telerama.fr" start="20200105235500" stop="20200106000500">
+    <title>Ciné sorties de la semaine</title>
+    <category lang="fr">magazine du cinéma</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fda51e1d-d3ee-49dc-aea5-e39376f2bdbc.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106000500" stop="20200106001000">
+    <title>Météo 2</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bdc838b1-c330-48d4-81db-f5bf34dfbb81.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106001000" stop="20200106005500">
+    <title>Histoires courtes</title>
+    <sub-title>2020 : une année pleine d'esprit(s) !</sub-title>
+    <desc lang="fr">Au sommaire :</desc>
+    <credits>
+      <presenter>Pauline Dévi</presenter>
+    </credits>
+    <category lang="fr">magazine du court métrage</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9002224a-0783-462d-8c8f-179d807d3b5d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106005500" stop="20200106012500">
+    <title>Bivouac</title>
+    <category lang="fr">sport : rallye-raid</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/714aa565-ca7a-4d6c-9ead-e0b0a93bfdb0.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106012500" stop="20200106020500">
+    <title>13h15, le dimanche...</title>
+    <sub-title>L'ogre Bocuse</sub-title>
+    <desc lang="fr">Il y a un an, jour pour jour s'est éteint celui qui avait été élu «cuisinier du siècle» : Paul Bocuse. Une équipe s'est rendue sur les lieux marquants de la vie du chef triplement étoilé : son auberge, son restaurant à Orlando aux Etats Unis, notamment.</desc>
+    <credits>
+      <presenter>Laurent Delahousse</presenter>
+    </credits>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/59e75af6-2e6d-45e8-8346-b15dcb49a16d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106020500" stop="20200106030000">
+    <title>Affaire conclue : la chasse aux objets</title>
+    <desc lang="fr">Julien Cohen et Pierre-Jean Chalençon, deux des acheteurs d'«Affaire conclue», se rendent dans une famille dans le but de dénicher dans la maison des objets qui pourraient ensuite être vendus au cours de l'émission.</desc>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/842e4539-30d6-4f52-9ef9-4aa5abc6b6aa.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106030000" stop="20200106032500">
     <title>Les travailleurs de l'ombre</title>
     <desc lang="fr">Retour sur certains métiers, souvent méconnus, mais toujours indispensables.</desc>
     <category lang="fr">documentaire : société</category>
@@ -23703,12 +23850,140 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200106032000" stop="20200106032500">
+  <programme channel="C4.api.telerama.fr" start="20200106032500" stop="20200106033000">
     <title>Pays et marchés du monde</title>
     <sub-title>Ile Maurice</sub-title>
     <category lang="fr">documentaire : découvertes</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/80b30c87-0041-44d4-9f44-6867ebde93cf.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106033000" stop="20200106042500">
+    <title>Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Six candidats affrontent un «champion» autour d'une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau champion.</desc>
+    <credits>
+      <presenter>Nagui</presenter>
+    </credits>
+    <category lang="fr">jeu</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8b4569d-f743-48f5-a50f-167bdb483193.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106050000" stop="20200106052500">
+    <title>Le 6h info</title>
+    <credits>
+      <presenter>Samuel Etienne</presenter>
+    </credits>
+    <category lang="fr">journal</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8472ec91-34c8-4785-922b-dce2e3f20727.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106052500" stop="20200106053000">
+    <title>Journal 06h30</title>
+    <desc lang="fr">Présentation en langue des signes.</desc>
+    <credits>
+      <presenter>Karine Baste-Régis</presenter>
+    </credits>
+    <category lang="fr">journal</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7bdb09d5-3644-49f9-9e6c-b2b07ea3296f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106053000" stop="20200106060000">
+    <title>Télématin</title>
+    <desc lang="fr">Sur Twitter via #telematin. Un rendez-vous réveil-matin ponctué d'une page d'information toutes les demi-heures. Deux flashs info sont traduits en langue des signes à 6h30 et à 9h.</desc>
+    <credits>
+      <presenter>Laurent Bignolas</presenter>
+    </credits>
+    <category lang="fr">magazine de services</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3ac0353d-e416-47b3-92d9-99b82ef04875.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106060000" stop="20200106061000">
+    <title>Journal 07h00</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106061000" stop="20200106070000">
+    <title>Télématin (suite)</title>
+    <desc lang="fr">Sur Twitter via #telematin. Un rendez-vous réveil-matin ponctué d'une page d'information régulière.</desc>
+    <credits>
+      <presenter>Laurent Bignolas</presenter>
+    </credits>
+    <category lang="fr">magazine de services</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3ac0353d-e416-47b3-92d9-99b82ef04875.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106070000" stop="20200106071000">
+    <title>Journal 08h00</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106071000" stop="20200106075500">
+    <title>Télématin (suite)</title>
+    <desc lang="fr">Sur Twitter via #telematin. Un rendez-vous réveil-matin ponctué d'une page d'information régulière.</desc>
+    <credits>
+      <presenter>Laurent Bignolas</presenter>
+    </credits>
+    <category lang="fr">magazine de services</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3ac0353d-e416-47b3-92d9-99b82ef04875.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106075500" stop="20200106080000">
+    <title>Météo 2</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bdc838b1-c330-48d4-81db-f5bf34dfbb81.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106080000" stop="20200106081000">
+    <title>Journal 09h00</title>
+    <desc lang="fr">Présentation en langue des signes.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/53519378-16e8-48e0-b1d0-152c2ad7ffe3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106081000" stop="20200106082900">
+    <title>Télématin (suite)</title>
+    <desc lang="fr">Sur Twitter via #telematin. Un rendez-vous réveil-matin ponctué d'une page d'information régulière.</desc>
+    <credits>
+      <presenter>Laurent Bignolas</presenter>
+    </credits>
+    <category lang="fr">magazine de services</category>
+    <length units="minutes">19</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3ac0353d-e416-47b3-92d9-99b82ef04875.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -23770,6 +24045,260 @@
     <country>français</country>
     <episode-num system="xmltv_ns">1.94.</episode-num>
     <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106092500" stop="20200106093000">
+    <title>Météo outremer</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/527d3a3d-3bf1-42ae-b57f-3f6389d3ffa7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106093000" stop="20200106101500">
+    <title>Ça commence aujourd'hui, des nouvelles de nos invités</title>
+    <desc lang="fr">Saison:1 - L'émission retrouve des invités rencontrés au cours des numéros précédents pour découvrir comment leur situation a évolué.</desc>
+    <credits>
+      <presenter>Faustine Bollaert</presenter>
+    </credits>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2340cfe5-aea9-4d4e-a391-d576b82dea72.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106101500" stop="20200106105500">
+    <title>Les Z'amours</title>
+    <desc lang="fr">Trois couples de candidats répondent à des questions censées évaluer la connaissance qu'ils ont de leurs partenaires respectifs. Les conjoints qui accordent le mieux leurs violons remportent la mise.</desc>
+    <credits>
+      <presenter>Bruno Guillon</presenter>
+    </credits>
+    <category lang="fr">jeu</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ab3add23-f182-4a84-8cdb-f44956c2630f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106105500" stop="20200106114500">
+    <title>Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Six candidats affrontent un «champion» autour d'une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau champion.</desc>
+    <credits>
+      <presenter>Nagui</presenter>
+    </credits>
+    <category lang="fr">jeu</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8b4569d-f743-48f5-a50f-167bdb483193.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106114500" stop="20200106115000">
+    <title>Image du jour du Dakar</title>
+    <category lang="fr">magazine sportif</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/15eb7ff2-d29d-4557-996f-cf23ed528504.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106115000" stop="20200106120000">
+    <title>Météo 2</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bdc838b1-c330-48d4-81db-f5bf34dfbb81.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106120000" stop="20200106124000">
+    <title>Journal 13h00</title>
+    <credits>
+      <presenter>Marie-Sophie Lacarrau</presenter>
+    </credits>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/76420429-ca62-4ab5-8698-47b27a615dd9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106124000" stop="20200106124500">
+    <title>Météo 2</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bdc838b1-c330-48d4-81db-f5bf34dfbb81.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106124500" stop="20200106125500">
+    <title>L'instant prévention</title>
+    <sub-title>La fatigue visuelle</sub-title>
+    <category lang="fr">magazine de la santé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b978f3bf-8f37-43d6-951a-374aded55440.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106125500" stop="20200106141000">
+    <title>Ça commence aujourd'hui</title>
+    <desc lang="fr">Faustine Bollaert accueille des hommes et des femmes qui évoquent des événements marquants de leur existence, pour permettre à d'autres d'avancer dans leur parcours : un rendez-vous positif et optimiste.</desc>
+    <credits>
+      <presenter>Faustine Bollaert</presenter>
+    </credits>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">75</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a482f19d-e9a9-4fc0-b58f-c7b41c42b24e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106141000" stop="20200106151500">
+    <title>Je t'aime, etc.</title>
+    <sub-title>Spéciale «Tout nu»</sub-title>
+    <desc lang="fr">Durant toute l'émission, Daphné Burki et ses chroniqueurs se mettent totalement nus et abordent différents thèmes comme le naturisme en France. Seuls les invités gardent leurs vêtements. L'émission comptera sur la présence de l'humoriste et comédien Fred Testot, Jessica Pirbay, sexothérapeute et coach en sexualité ainsi que Marc Godin, journaliste spécialisé dans le cinéma.</desc>
+    <credits>
+      <presenter>Daphné Bürki</presenter>
+      <guest>Fred Testot (humoriste et comédien )</guest>
+      <guest>Jessica Pirbay (sexothérapeute et coach en sexualité)</guest>
+      <guest>Marc Godin (journaliste)</guest>
+    </credits>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0e7171be-68b7-4d70-8d7f-60e365ce952c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106151500" stop="20200106160500">
+    <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
+    <credits>
+      <presenter>Sophie Davant</presenter>
+    </credits>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85940870-62aa-4287-a615-a2a8389c0dbc.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106160500" stop="20200106165500">
+    <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
+    <credits>
+      <presenter>Sophie Davant</presenter>
+    </credits>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85940870-62aa-4287-a615-a2a8389c0dbc.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106165500" stop="20200106170000">
+    <title>Affaire conclue : la vie des objets</title>
+    <desc lang="fr">Table 70's, jeu de l'oie ancien, affiches de la Première Guerre mondiale : retour sur l'histoire d'un objet emblématique de l'émission, acquis par un des acheteurs.</desc>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4de0ba86-7f41-423b-91ae-27ce4e2ae05a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106170000" stop="20200106173500">
+    <title>Tout le monde a son mot à dire</title>
+    <desc lang="fr">Une gymnastique quotidienne de l'esprit pour s'amuser avec la langue française et enrichir sa culture générale.</desc>
+    <credits>
+      <presenter>Sidonie Bonnec</presenter>
+      <presenter>Olivier Minne</presenter>
+    </credits>
+    <category lang="fr">jeu</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/afe0d872-6d33-4161-b816-f0dd54af071e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106173500" stop="20200106181500">
+    <title>N'oubliez pas les paroles</title>
+    <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
+    <credits>
+      <presenter>Nagui</presenter>
+    </credits>
+    <category lang="fr">jeu</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2387efc4-27c2-45a2-a1c5-90ea41b2a4a8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106181500" stop="20200106185000">
+    <title>N'oubliez pas les paroles</title>
+    <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
+    <credits>
+      <presenter>Nagui</presenter>
+    </credits>
+    <category lang="fr">jeu</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2387efc4-27c2-45a2-a1c5-90ea41b2a4a8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106185000" stop="20200106190000">
+    <title>Météo 2</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bdc838b1-c330-48d4-81db-f5bf34dfbb81.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106190000" stop="20200106193500">
+    <title>Journal 20h00</title>
+    <credits>
+      <presenter>Anne-Sophie Lapix</presenter>
+    </credits>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bd1abc04-6d1d-4258-b872-0f807edc3f48.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106193500" stop="20200106193800">
+    <title>Météo 2</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bdc838b1-c330-48d4-81db-f5bf34dfbb81.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106193800" stop="20200106194000">
+    <title>Laisse entrer la nature</title>
+    <sub-title>La Provence japonaise</sub-title>
+    <category lang="fr">magazine de services</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106194000" stop="20200106194500">
+    <title>Basique, l'essentiel de la musique</title>
+    <desc lang="fr">Coup de projecteur sur l'actualité musicale, dans un format dynamique et accessible.</desc>
+    <category lang="fr">magazine musical</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/65a8e3f0-77f3-428c-b46f-71af68a02cf2.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -23880,6 +24409,30 @@
     <star-rating>
       <value>3/5</value>
     </star-rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106233000" stop="20200106233500">
+    <title>Expression directe</title>
+    <sub-title>Medef</sub-title>
+    <category lang="fr">magazine politique</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0df7782b-4d99-48af-8a4e-5e0b7c3cd5bf.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200106233500" stop="20200107011500">
+    <title>Le couronnement du roi George II</title>
+    <desc lang="fr">Dans la chapelle royale du Château de Versailles, Robert King et le King's Consort présentent une reconstitution du programme musical original du couronnement du roi George II d'Angleterre, en 1727, comprenant notamment quatre hymnes de Haendel composés spécialement pour l'occasion.</desc>
+    <credits>
+      <guest>Robert King</guest>
+    </credits>
+    <category lang="fr">classique</category>
+    <length units="minutes">100</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/06681fb9-5683-4f64-8736-19b1bffb1189.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
   </programme>
   <programme channel="C444.api.telerama.fr" start="20200105221500" stop="20200106002500">
     <title>La chute de la Maison Blanche</title>
@@ -24241,6 +24794,19 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C444.api.telerama.fr" start="20200106200500" stop="20200106215500">
+    <title>Crimes</title>
+    <sub-title>Drames en Haute-Corse</sub-title>
+    <desc lang="fr">Au sommaire : Meurtre possessionnel. En avril 2016, une découverte sordide est faite aux abords d'un chemin montagneux en Haute-Corse. - Le disparu de Cambia. Un retraité décide de s'installer en Corse, où il fait la rencontre d'une femme, avant de disparaître mystérieusement.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">110</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c673af3e-2b2a-4556-a536-f123417126e6.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
   <programme channel="C444.api.telerama.fr" start="20200106215500" stop="20200106235000">
     <title>Crimes</title>
     <sub-title>Spécial le mystére Turquin</sub-title>
@@ -24264,6 +24830,86 @@
     <category lang="fr">magazine de société</category>
     <length units="minutes">115</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cc54a923-37d4-44af-b7f6-49c2d1a1f161.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200105235500" stop="20200106003500">
+    <title>Enquête sous haute tension</title>
+    <sub-title>100 jours avec des gendarmes de l'autoroute du Sud-Ouest (2)</sub-title>
+    <desc lang="fr">Gaëtan, le motard, Fred, le major, et Eric, tous trois membres des pelotons autoroutiers, patrouillent sans relâche à travers le sud-ouest de la France avec un seul objectif : faire diminuer le nombre de morts sur la route. Secours, contrôles, interpellations : leur emploi du temps quotidien se révèle particulièrement chargé.</desc>
+    <credits>
+      <presenter>Carole Rousseau</presenter>
+    </credits>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/19de446d-a3b9-4bd0-a229-e49ba719d29f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200106003500" stop="20200106011500">
+    <title>Enquête sous haute tension</title>
+    <sub-title>100 jours avec des gendarmes de l'autoroute du Sud-Ouest (3)</sub-title>
+    <desc lang="fr">Poids lourds et automobilistes circulent en nombre sur l'autoroute du Sud-Ouest, l'une des plus fréquentée de France. Pendant six mois, des caméras ont suivi le quotidien des pelotons autoroutiers de Mios et Mérignac. Leur travail consiste notamment à sanctionner les chauffards et les sortir du trafic.</desc>
+    <credits>
+      <presenter>Carole Rousseau</presenter>
+    </credits>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/901d40c3-03eb-4abe-b7ec-d144685b25e3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200106011500" stop="20200106020000">
+    <title>Enquête sous haute tension</title>
+    <sub-title>100 jours avec des gendarmes de l'autoroute du Sud-Ouest (4)</sub-title>
+    <desc lang="fr">La tâche n'est pas mince pour les gendarmes spécialisés des pelotons de Mios et Mérignac qui ont en charge l'autoroute du Sud-Ouest. Proche de la frontière espagnole, de l'océan Atlantique et du bassin d'Arcachon, c'est un axe très fréquenté. Des officiers ont été suivis dans leur quotidien.</desc>
+    <credits>
+      <presenter>Carole Rousseau</presenter>
+    </credits>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f5df6b82-ccb0-4809-81cd-b2b8b10dd7ee.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200106020000" stop="20200106024000">
+    <title>Enquête sous haute tension</title>
+    <sub-title>100 jours avec des gendarmes de l'autoroute du Sud-Ouest (5)</sub-title>
+    <desc lang="fr">Pendant plusieurs mois, les gendarmes de l'autoroute du Sud-ouest sont suivis dans leur travail, qui les amène à intervenir de Bordeaux jusqu'à la frontière espagnole. Conducteurs agressifs, délits de fuite, ils se heurtent souvent à la mauvaise foi, voire même à la violence, des automobilistes.</desc>
+    <credits>
+      <presenter>Carole Rousseau</presenter>
+    </credits>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7efe4384-da22-46e2-b035-a3a69f6e3375.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200106024000" stop="20200106032000">
+    <title>Enquête sous haute tension</title>
+    <sub-title>100 jours avec des gendarmes de l'autoroute du Sud-Ouest (6)</sub-title>
+    <desc lang="fr">Pourquoi les routes et autoroutes de France sont-elles aussi meurtrières ? Pour le comprendre, des caméras ont accompagné des gendarmes de Mios et Mérignac, dans le Sud-Ouest. La conduite en état d'ébriété n'est pas seulement une affaire d'hommes, et de plus en plus de femmes sont arrêtées.</desc>
+    <credits>
+      <presenter>Carole Rousseau</presenter>
+    </credits>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/80896ac9-bf8c-4383-a6e1-939d3e201f80.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>-10</value>
@@ -24418,8 +25064,8 @@
       <presenter>Jean-Michel Maire</presenter>
       <presenter>Christine Kelly</presenter>
       <presenter>Isabelle Morini-Bosc</presenter>
-      <presenter>Matthieu Delormeau</presenter>
       <presenter>Danielle Moreau</presenter>
+      <presenter>Matthieu Delormeau</presenter>
       <presenter>Karim Zéribi</presenter>
       <presenter>Cyrille Eldin</presenter>
       <presenter>Bernard Montiel</presenter>
@@ -24442,12 +25088,12 @@
     <credits>
       <presenter>Cyril Hanouna</presenter>
       <presenter>Ludivine Retory</presenter>
-      <presenter>Isabelle Morini-Bosc</presenter>
       <presenter>Matthieu Delormeau</presenter>
-      <presenter>Christine Kelly</presenter>
+      <presenter>Isabelle Morini-Bosc</presenter>
       <presenter>Kelly Vedovelli</presenter>
-      <presenter>Danielle Moreau</presenter>
+      <presenter>Christine Kelly</presenter>
       <presenter>Eric Naulleau</presenter>
+      <presenter>Danielle Moreau</presenter>
       <presenter>Karim Zéribi</presenter>
       <presenter>Valérie Benaïm</presenter>
       <presenter>Gilles Verdez</presenter>
@@ -25209,46 +25855,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C459.api.telerama.fr" start="20200106041800" stop="20200106043000">
-    <title>Furiki</title>
-    <sub-title>Accro à la vitesse</sub-title>
-    <desc lang="fr">Saison:1 - André écope d'une semaine de suspension de cours à cause de sa conduite hyperactive. Il va devoir retourner dans sa famille pour apprendre à vivre à un autre rythme...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">12</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C459.api.telerama.fr" start="20200106043000" stop="20200106044200">
-    <title>Frankie et les Zhuzhus Pets</title>
-    <sub-title>L'embarras du choix. - L'oeuf ou la planche</sub-title>
-    <desc lang="fr">Saison:1 - Episode:10 - «L'embarras du choix». Frankie est très emballée par la présentation qu'elle doit faire en classe sur le thème «Quel métier je veux faire plus tard», mais elle ne sait pas quelle carrière choisir. - «L'oeuf ou la planche». Frankie a encore une fois cassé son skate, alors Papa et Maman décident de lui apprendre à être plus consciencieuse. Elle doit prendre soin d'un oeuf pendant une semaine sans le casser si elle veut recevoir un nouveau skate...</desc>
-    <credits>
-      <writer>Hugh Duffy</writer>
-    </credits>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">12</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/73ff343b-f22c-4a0c-992d-39985ed05e62.jpg" />
-    <country>Canada</country>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C459.api.telerama.fr" start="20200106044200" stop="20200106045400">
-    <title>Anatole Latuile</title>
-    <sub-title>Startruc</sub-title>
-    <desc lang="fr">Saison:1 - Anatole Latuile, un écolier dissipé mais plein de ressources, dépense toute son énergie à s'attirer des ennuis.</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">12</length>
-    <country>France</country>
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C459.api.telerama.fr" start="20200106050700" stop="20200106060000">
     <title>Les témoins d'outre-mer</title>
     <sub-title>Humour et handicap</sub-title>
@@ -25812,6 +26418,21 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C47.api.telerama.fr" start="20200106003500" stop="20200106012500">
+    <title>Pesticides, la plaie des champs</title>
+    <desc lang="fr">Il ne se passe pas une semaine sans que la dangerosité des pesticides ne soit pointée du doigt par des associations environnementales, des chercheurs et des victimes. Ces produits sont omniprésents dans l'air, l'eau, les sols et l'alimentation et constituent une pollution diffuse, permanente. En plus de leur persistance dans l'environnement, un autre problème majeur est le nombre de produits existants. Plus de 300 principes actifs sont autorisés en France.</desc>
+    <credits>
+      <director>Delphine Renault</director>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">documentaire : sciences et technique</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ae4faafe-1e1f-4814-88cc-db262b998e77.jpg" />
+    <country>français</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C47.api.telerama.fr" start="20200106012500" stop="20200106022000">
     <title>Les routes de l'impossible</title>
     <sub-title>Indonésie : à bout de soufre</sub-title>
@@ -25826,6 +26447,16 @@
     <country>français</country>
     <episode-num system="xmltv_ns">2..</episode-num>
     <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C47.api.telerama.fr" start="20200106022000" stop="20200106041500">
+    <title>La nuit France 5</title>
+    <desc lang="fr">Des rediffusions de documentaires.</desc>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">115</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -26812,7 +27443,7 @@
   <programme channel="C482.api.telerama.fr" start="20200106034500" stop="20200106035200">
     <title>Oggy et les cafards</title>
     <sub-title>En selle</sub-title>
-    <desc lang="fr">Saison:3 - Episode:25 - Oggy, un gros chat débonnaire, ne s'épanouit que dans l'oisiveté et l'entretien méticuleux de sa maison. Lui qui n'aspire qu'à regarder la télévision confortablement installé dans son pouf rose, voit sa demeure devenir le terrain de jeu d'une bande de cafards sans foi ni loi. Devenu la victime de ces sales bestioles qui empêchent le calme de régner dans son foyer, Oggy ne rêve plus que d'une chose : les voir morts !</desc>
+    <desc lang="fr">Saison:3 - Episode:25 - Jack déboule chez Oggy, tirant un van avec son 4x4. Il est accompagné d'un célèbre cavalier à l'air ultra-snob. Jack montre fièrement à son cousin la monture de son ami, un magnifique pur-sang à l'air hautain. Jack et le jockey repartent, confiant le cheval à Oggy. Au lieu de le surveiller sagement avant le grand concours de sauts d'obstacles, Oggy décide de fabriquer son propre parcours et de s'essayer à l'équitation...</desc>
     <credits>
       <writer>Jean-Yves Raimbaud</writer>
     </credits>
@@ -26856,6 +27487,83 @@
     <country>français</country>
     <episode-num system="xmltv_ns">2.26.</episode-num>
     <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200106041000" stop="20200106041700">
+    <title>Oggy et les cafards</title>
+    <sub-title>Oggy pizza express</sub-title>
+    <desc lang="fr">Saison:3 - Episode:28 - Oggy, un gros chat débonnaire, ne s'épanouit que dans l'oisiveté et l'entretien méticuleux de sa maison. Lui qui n'aspire qu'à regarder la télévision confortablement installé dans son pouf rose, voit sa demeure devenir le terrain de jeu d'une bande de cafards sans foi ni loi. Devenu la victime de ces sales bestioles qui empêchent le calme de régner dans son foyer, Oggy ne rêve plus que d'une chose : les voir morts !</desc>
+    <credits>
+      <writer>Jean-Yves Raimbaud</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">7</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bc7a8be8-4fc9-42a8-9419-771a34438456.jpg" />
+    <country>français</country>
+    <episode-num system="xmltv_ns">2.27.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200106041700" stop="20200106042400">
+    <title>Oggy et les cafards</title>
+    <sub-title>Le crabe d'Oggy</sub-title>
+    <desc lang="fr">Saison:3 - Episode:29 - Les cafards piquent à Oggy son sac rempli de courses et tombent nez-à-nez avec un crabe. Ils en rigolent au début, tellement ils le trouvent moche. Ils lui attrapent les yeux, les tordent dans tous les sens, lui écrivent sur la carapace, lui tirent les pattes de derrière. Mais le crabe a du répondant. A grands renforts de coups de pinces, les cafards se font chasser de la maison...</desc>
+    <credits>
+      <writer>Jean-Yves Raimbaud</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">7</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bc7a8be8-4fc9-42a8-9419-771a34438456.jpg" />
+    <country>français</country>
+    <episode-num system="xmltv_ns">2.28.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200106042400" stop="20200106043500">
+    <title>Oggy et les cafards</title>
+    <sub-title>La mamie d'Oggy</sub-title>
+    <desc lang="fr">Saison:3 - Episode:30 - Oggy est super content, sa mamie vient lui rendre visite. Les cafards sont ravis eux aussi : ils vont pouvoir la martyriser. Première tentative manquée, elle les écrabouille d'un coup de tapette à mouches. Oggy fait visiter sa maison à sa grand-mère. Celle-ci fait une halte aux toilettes et les cafards décident de repasser à l'attaque...</desc>
+    <credits>
+      <writer>Jean-Yves Raimbaud</writer>
+    </credits>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">11</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df698204-ae2e-4873-8d31-05e4c61294c9.jpg" />
+    <country>français</country>
+    <episode-num system="xmltv_ns">2.29.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200106043500" stop="20200106044700">
+    <title>Maya l'abeille 3D</title>
+    <sub-title>La ruche au bois dormant</sub-title>
+    <desc lang="fr">Saison:1 - Episode:7 - Le grand jour du butinage de pollen de liserons venu, Maya et Willy endorment toute la ruche par erreur. Pour ne pas râter l'unique jour de récolte de ce mets rare Maya va mobiliser ses amis de la prairie...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">12</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/23ad80d0-c91e-4eda-ac78-8c95414ea7e2.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200106044700" stop="20200106050000">
+    <title>Maya l'abeille 3D</title>
+    <sub-title>Un cricri dans la nuit</sub-title>
+    <desc lang="fr">Saison:1 - Episode:11 - Un grillon empêche toute la prairie de dormir. Maya et Willy partent à sa recherche. Cricri, le grillon, essaye d'inviter Lila la grillonne à l'accompagner au bal mais envoie le mauvais message. Flip va l'aider à mieux maîtriser ses instruments et Cricri va enfin pouvoir séduire sa belle...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">13</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/395d7fcd-d0b6-4484-80f6-e5d1912cbd46.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -27925,7 +28633,7 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200105234500" stop="20200106001000">
+  <programme channel="C78.api.telerama.fr" start="20200105235000" stop="20200106001000">
     <title>Un si grand soleil</title>
     <sub-title>Episode 351</sub-title>
     <desc lang="fr">Saison:2 - Episode:91 - Alors que les soupçons de la police se précisent de plus en plus et
@@ -27942,7 +28650,7 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
       <writer>Toma de Matteis</writer>
     </credits>
     <category lang="fr">feuilleton policier</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
     <country>français</country>
     <episode-num system="xmltv_ns">1.90.</episode-num>
@@ -27950,7 +28658,7 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200106001000" stop="20200106003000">
+  <programme channel="C78.api.telerama.fr" start="20200106001000" stop="20200106003500">
     <title>Un si grand soleil</title>
     <sub-title>Episode 352</sub-title>
     <desc lang="fr">Saison:2 - Episode:92 - Tandis qu’Alex est blessé par le tour que prend son enquête, Alice et Julien, à cause de leurs enfants, sont pris sur le fait par Hugues et Elisabeth....</desc>
@@ -27966,7 +28674,7 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
       <writer>Toma de Matteis</writer>
     </credits>
     <category lang="fr">feuilleton policier</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
     <country>français</country>
     <episode-num system="xmltv_ns">1.91.</episode-num>
@@ -27974,7 +28682,7 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200106003000" stop="20200106005500">
+  <programme channel="C78.api.telerama.fr" start="20200106003500" stop="20200106005500">
     <title>Un si grand soleil</title>
     <sub-title>Episode 353</sub-title>
     <desc lang="fr">Saison:2 - Episode:93 - Alors que Christophe teste ses proches, Laetitia fait une découverte qui la met en colère et elle décide de se venger...</desc>
@@ -27990,7 +28698,7 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
       <writer>Toma de Matteis</writer>
     </credits>
     <category lang="fr">feuilleton policier</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
     <country>français</country>
     <episode-num system="xmltv_ns">1.92.</episode-num>
@@ -27998,7 +28706,7 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200106005500" stop="20200106011500">
+  <programme channel="C78.api.telerama.fr" start="20200106005500" stop="20200106012000">
     <title>Un si grand soleil</title>
     <sub-title>Episode 354</sub-title>
     <desc lang="fr">Saison:2 - Episode:94 - Alors que Ludo semble prêt à tous les sacrifices et que Patricia a un mauvais pressentiment, Elisabeth ira-t-elle au bout de ses soupçons ?...</desc>
@@ -28014,7 +28722,7 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
       <writer>Toma de Matteis</writer>
     </credits>
     <category lang="fr">feuilleton policier</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
     <country>français</country>
     <episode-num system="xmltv_ns">1.93.</episode-num>
@@ -28022,7 +28730,7 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200106011500" stop="20200106014500">
+  <programme channel="C78.api.telerama.fr" start="20200106012000" stop="20200106014500">
     <title>Un si grand soleil</title>
     <sub-title>Episode 355</sub-title>
     <desc lang="fr">Saison:2 - Episode:95 - Tandis que grâce à Gary, Alex accepte d'envisager son enquête sous un nouvel angle, Johanna arrivera-t-elle à temps à l’hôpital ?...</desc>
@@ -28038,10 +28746,195 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
       <writer>Toma de Matteis</writer>
     </credits>
     <category lang="fr">feuilleton policier</category>
-    <length units="minutes">30</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
     <country>français</country>
     <episode-num system="xmltv_ns">1.94.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200106014500" stop="20200106022500">
+    <title>Une saison en Indonésie</title>
+    <desc lang="fr">Des membres du zoo de La Flèche se rendent à Sumatra, en Indonésie, à la rencontre de ceux qui se battent tous les jours pour préserver le monde sauvage.</desc>
+    <credits>
+      <director>Wilfrid Garcette</director>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e4233ed2-014a-4c33-8deb-ae0965d33568.jpg" />
+    <country>français</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200106022500" stop="20200106023500">
+    <title>Bienvenue chez les Ronks !</title>
+    <sub-title>Un peu de sérieux</sub-title>
+    <desc lang="fr">Saison:1 - Episode:26 - Les Ronks ne prennent jamais Flash au sérieux. Comment leur enseigner quoi que ce soit dans ces conditions ? Flash déniche dans son vaisseau une vieille machine «et si...» qui a le pouvoir de réaliser tous les voeux. Flash n'a aucune idée de la catastrophe qu'il va provoquer avec sa machine en prononçant les mots : «et si... Mila et Walter me prenaient plus au sérieux»...</desc>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <writer>Olivier Jean-Marie</writer>
+      <writer>Franck Ekinci</writer>
+      <writer>Charles Vaucelle</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/801b43fb-0c90-4138-94c2-bb76d9288e0d.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200106023500" stop="20200106024500">
+    <title>Bienvenue chez les Ronks !</title>
+    <sub-title>Un anniversaire explosif</sub-title>
+    <desc lang="fr">Saison:1 - Episode:27 - Influencée par les autres enfants, Mila se sent obligée d'organiser la meilleure fête d'anniversaire de tous les temps. Elle en oublie le but d'une fête d'anniversaire, et ce sont sa famille et ses plus proches amis qui en font les frais...</desc>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <writer>Olivier Jean-Marie</writer>
+      <writer>Franck Ekinci</writer>
+      <writer>Charles Vaucelle</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/801b43fb-0c90-4138-94c2-bb76d9288e0d.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">0.26.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200106024500" stop="20200106030000">
+    <title>Bienvenue chez les Ronks !</title>
+    <sub-title>Les Ronks font du ski</sub-title>
+    <desc lang="fr">Saison:1 - Episode:28 - Lorsque Flash donne les raquettes aux Ronks, ils peuvent enfin sortir du village pris par la neige et découvrir l'air pur de la montagne et le plaisir des sports d'hiver. Sauf que cette montagne-là est le jardin secret de Mormagnon...</desc>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <writer>Olivier Jean-Marie</writer>
+      <writer>Franck Ekinci</writer>
+      <writer>Charles Vaucelle</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/801b43fb-0c90-4138-94c2-bb76d9288e0d.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">0.27.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200106030000" stop="20200106031000">
+    <title>Bienvenue chez les Ronks !</title>
+    <sub-title>Sept clics avant le désastre</sub-title>
+    <desc lang="fr">Saison:1 - Episode:29 - Flash donne par erreur à Mila un gadget alien qui déclenche en 7 «clics» l'explosion de la Terre. L'objet passe de main en main, tandis que Flash fait tout pour le récupérer avant le 7e et très définitif «clic»...</desc>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <writer>Olivier Jean-Marie</writer>
+      <writer>Franck Ekinci</writer>
+      <writer>Charles Vaucelle</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/801b43fb-0c90-4138-94c2-bb76d9288e0d.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">0.28.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200106031000" stop="20200106032000">
+    <title>Bienvenue chez les Ronks !</title>
+    <sub-title>L'imposteur</sub-title>
+    <desc lang="fr">Saison:1 - Episode:30 - Lorsqu'un magicien un peu louche dispute l'admiration des Ronks à Flash et Mormagnon, les deux ennemis vont être obligés d'unir leurs forces pour l'empêcher de nuire. Aidés par Mila et Godzi, ils ne vont pas tarder à découvrir que le nouvel arrivant ne cache pas des choses que dans ses manches...</desc>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <writer>Olivier Jean-Marie</writer>
+      <writer>Franck Ekinci</writer>
+      <writer>Charles Vaucelle</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/801b43fb-0c90-4138-94c2-bb76d9288e0d.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200106032000" stop="20200106033500">
+    <title>Bienvenue chez les Ronks !</title>
+    <sub-title>Retour au Jurassique</sub-title>
+    <desc lang="fr">Saison:1 - Episode:31 - En montrant à Mila et Walter sur son holopad à quoi ressemblaient les dinosaures, Flash envoie accidentellement Walter dans le passé. Lorsqu'il revient au temps présent, Walter est accompagné d'un immense oiseau préhistorique dont il ne veut plus se séparer...</desc>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <writer>Olivier Jean-Marie</writer>
+      <writer>Franck Ekinci</writer>
+      <writer>Charles Vaucelle</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/801b43fb-0c90-4138-94c2-bb76d9288e0d.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">0.30.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200106033500" stop="20200106034500">
+    <title>Tempête de boulettes géantes</title>
+    <sub-title>Le boucher de Boulangeville</sub-title>
+    <desc lang="fr">Saison:1 - Episode:26 - Déçu de ne pas avoir sa photo dans l'album souvenir de l'école, Flint décide de fabriquer un appareil qui permet de réparer cette erreur. Mais son invention devient incontrôlable et s'amuse à coller le portait de son auteur sur tous les supports possibles et imaginables…</desc>
+    <credits>
+      <writer>Mark Evastaff</writer>
+      <writer>Alex Galatis</writer>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2c8fcc58-f708-4a7c-bbc4-a52e0f663b9f.jpg" />
+    <country>Canada</country>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200106034500" stop="20200106035500">
+    <title>Zip Zip</title>
+    <sub-title>C'est plus drôle d'être un chien</sub-title>
+    <desc lang="fr">Saison:1 - Episode:49 - Des animaux sauvages lassés de la forêt se déguisent en chiens afin d'être adoptés en ville et de profiter de tout le confort moderne.</desc>
+    <credits>
+      <director>Lionel Allaix</director>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a0674390-615b-40ca-a8db-3304894962d2.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">0.48.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200106035500" stop="20200106041000">
+    <title>Zip Zip</title>
+    <sub-title>Quand les sangliers auront des ailes</sub-title>
+    <desc lang="fr">Saison:1 - Episode:50 - Des animaux sauvages lassés de la forêt se déguisent en chiens afin d'être adoptés en ville et de profiter de tout le confort moderne.</desc>
+    <credits>
+      <director>Lionel Allaix</director>
+    </credits>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a0674390-615b-40ca-a8db-3304894962d2.jpg" />
+    <country>France</country>
+    <episode-num system="xmltv_ns">0.49.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -28292,7 +29185,7 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200106004000" stop="20200106012700">
+  <programme channel="C80.api.telerama.fr" start="20200106004000" stop="20200106012400">
     <title>Unforgotten : le passé déterré</title>
     <desc lang="fr">Saison:1 - Episode:3 - Lizzie Wilton avoue à son mari avoir été une skinhead, tandis que Cassie et Sunny interrogent le pasteur Robert Greaves, dont le nom figure sur le calepin de Jimmy. Le passé de Sir Philip Cross ressurgit lorsque les enquêteurs retrouvent Thomas Pinion, un ancien du gang des Fenwicks. Quant à Eric Slater, qui travaillait au foyer où logeait Jimmy Sullivan, il se souvient d'un jeune garçon doux. Ses révélations sur la liaison du pasteur Greaves avec une adolescente prénommée Jo-Jo embarrasse ce dernier...</desc>
     <credits>
@@ -28310,7 +29203,7 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
       <writer>Chris Lang</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">47</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0958a9bb-3f90-4772-ba3c-6a1e697cc59f.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -28321,7 +29214,7 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200106012700" stop="20200106025500">
+  <programme channel="C80.api.telerama.fr" start="20200106012400" stop="20200106025500">
     <title>Echappées belles</title>
     <sub-title>Week-end autour de Paris</sub-title>
     <desc lang="fr">Saison:11 - Entre Paris et Ile-de-France, Sophie Jovillard profite de cette échappée française pour proposer des idées de week-end aux téléspectateurs. Au sommaire : La Seine. - Les coulisses des guinguettes. - Provins, la cité à remonter le temps. - Les «douceurs» de l'Ile-de-France. - Promenons-nous dans les bois. - Les pouvoirs extraordinaires des jardins.</desc>
@@ -28329,7 +29222,7 @@ que Christophe se confie à Alice, Alex s'obstine...</desc>
       <presenter>Sophie Jovillard</presenter>
     </credits>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">88</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6d8aa72-f2ad-4d33-808d-c06ac9c4ceb3.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
