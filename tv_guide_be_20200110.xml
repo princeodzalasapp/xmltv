@@ -253,7 +253,7 @@
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200110073500" stop="20200110074500">
     <title>Helden</title>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
     <rating system="CSA">
@@ -262,7 +262,7 @@
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200110074500" stop="20200110080000">
     <title>Karrewiet met VGT</title>
-    <category lang="fr">magazine d'information</category>
+    <category lang="fr">magazine magazine d'information</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <rating system="CSA">
@@ -777,7 +777,7 @@
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200110165000" stop="20200110170000">
     <title>Karrewiet</title>
-    <category lang="fr">magazine d'information</category>
+    <category lang="fr">magazine magazine d'information</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <rating system="CSA">
@@ -827,7 +827,7 @@
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200110183000" stop="20200110184000">
     <title>Karrewiet</title>
-    <category lang="fr">magazine d'information</category>
+    <category lang="fr">magazine magazine d'information</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <previously-shown />
@@ -1564,11 +1564,38 @@
       <value>3/5</value>
     </star-rating>
   </programme>
+  <programme channel="C187.api.telerama.fr" start="20200110010500" stop="20200110011400">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <credits>
+      <presenter>Laurent Henrard</presenter>
+      <presenter>Eric Boever</presenter>
+    </credits>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">9</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C187.api.telerama.fr" start="20200110011400" stop="20200110011500">
     <title>Météo</title>
     <category lang="fr">météo</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200110011500" stop="20200110013500">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1731,6 +1758,33 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C187.api.telerama.fr" start="20200110123000" stop="20200110130000">
+    <title>Plus belle la vie</title>
+    <desc lang="fr">Saison:16 - Episode:3972 - L'enquête d'Abdel va le confronter à une terrible découverte, le plan de Kevin et Tom pour consoler Laëtitia déraille...</desc>
+    <credits>
+      <director>Michel Hassan</director>
+      <actor>Marwan Berreni (Abdel)</actor>
+      <actor>Théo Bertrand (Kevin)</actor>
+      <actor>Sam Chemoul (Tom)</actor>
+      <actor>Jean-Charles Chagachbanian (Franck)</actor>
+      <actor>Avy Marciano (Sacha )</actor>
+      <actor>Jérôme Bertin (Patrick)</actor>
+      <actor>Pierre Martot (Léo)</actor>
+      <actor>Pauline Bression (Emma)</actor>
+      <writer>Hubert Besson</writer>
+      <writer>Michelle Podroznik</writer>
+      <writer>Hubert Besson</writer>
+      <writer>François Charlent</writer>
+    </credits>
+    <category lang="fr">feuilleton réaliste</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/24a93b82-9cac-4218-9720-eed21d415a1e.jpg" />
+    <country>français</country>
+    <episode-num system="xmltv_ns">15.3971.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C187.api.telerama.fr" start="20200110130000" stop="20200110143000">
     <title>Famille décomposée</title>
     <desc lang="fr">Jill, Robert et leurs deux filles forment une famille recomposée en apparence paisible. D'une précédente union, Robert a eu une fille Casey, 16 ans. Jill, elle, est la mère de Lydia, 7 ans. Mais en réalité, Casey est perturbée psychologiquement. Elle est convaincue que sa belle-mère lui a pris son père...</desc>
@@ -1812,6 +1866,33 @@
     <category lang="fr">jeu</category>
     <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200110174000" stop="20200110181000">
+    <title>Plus belle la vie</title>
+    <desc lang="fr">Saison:16 - Episode:3972 - L'enquête d'Abdel va le confronter à une terrible découverte, le plan de Kevin et Tom pour consoler Laëtitia déraille...</desc>
+    <credits>
+      <director>Michel Hassan</director>
+      <actor>Marwan Berreni (Abdel)</actor>
+      <actor>Théo Bertrand (Kevin)</actor>
+      <actor>Sam Chemoul (Tom)</actor>
+      <actor>Jean-Charles Chagachbanian (Franck)</actor>
+      <actor>Avy Marciano (Sacha )</actor>
+      <actor>Jérôme Bertin (Patrick)</actor>
+      <actor>Pierre Martot (Léo)</actor>
+      <actor>Pauline Bression (Emma)</actor>
+      <writer>Hubert Besson</writer>
+      <writer>Michelle Podroznik</writer>
+      <writer>Hubert Besson</writer>
+      <writer>François Charlent</writer>
+    </credits>
+    <category lang="fr">feuilleton réaliste</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/24a93b82-9cac-4218-9720-eed21d415a1e.jpg" />
+    <country>français</country>
+    <episode-num system="xmltv_ns">15.3971.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1920,6 +2001,21 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C187.api.telerama.fr" start="20200110211000" stop="20200110212000">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <credits>
+      <presenter>Laurent Henrard</presenter>
+      <presenter>Eric Boever</presenter>
+    </credits>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C187.api.telerama.fr" start="20200110212000" stop="20200110225000">
     <title>Problemos</title>
     <desc lang="fr">Derniers survivants sur la Terre après une épidémie, les membres d'une communauté de zadistes ardéchoise ont le champ libre pour tout reconstruire. L'humour régressif assumé, parfois jusqu'au troisième degré, de cette fable frappadingue fait un bien fou. - Critique : &lt;p&gt;En 2017, la comédie française naviguait mollement entre la mièvrerie &lt;em&gt;(C’est beau la vie quand on y pense)&lt;/em&gt; et les clichés racistes &lt;em&gt;(A bras ouverts). &lt;/em&gt;Adepte de la mise en abyme et de l’humour absurde, Eric Judor apporte une distanciation bienvenue dans le comique troupier hexagonal. Pour son premier long métrage réalisé sans son compère Ramzy Bedia, il choisit de se moquer d’une communauté de zadistes ardéchois en lutte contre la construction d’un absurde complexe aquatique. L’occasion d’une hilarante galerie de personnages tous frappadingues.&lt;/p&gt;
@@ -1954,11 +2050,38 @@
       <value>4/5</value>
     </star-rating>
   </programme>
+  <programme channel="C187.api.telerama.fr" start="20200110225000" stop="20200110225800">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <credits>
+      <presenter>Laurent Henrard</presenter>
+      <presenter>Eric Boever</presenter>
+    </credits>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">8</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C187.api.telerama.fr" start="20200110225800" stop="20200110230000">
     <title>Météo</title>
     <category lang="fr">météo</category>
     <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200110230000" stop="20200110231000">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2438,7 +2561,6 @@
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2881,6 +3003,16 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C50.api.telerama.fr" start="20200110040000" stop="20200110043000">
+    <title>Journal luxembourgeois</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C50.api.telerama.fr" start="20200110053500" stop="20200110055500">
     <title>Alice au pays des merveilles</title>
     <sub-title>Le voyage en ballon</sub-title>
@@ -2916,7 +3048,7 @@
     <sub-title>Un anniversaire mouvementé</sub-title>
     <desc lang="fr">Saison:1 - Episode:38 - Ylvi et Ylva préparent une surprise pour l'anniversaire de Vic et vont pour cela ramasser fleurs et champignons au bord d'une falaise. Mais toutes les deux tombent lorsque le bord cède sous leurs pieds...</desc>
     <credits>
-      <director>Éric Cazes</director>
+      <director>Eric Cazes</director>
     </credits>
     <category lang="fr">série d'animation</category>
     <length units="minutes">15</length>
@@ -3003,13 +3135,38 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200110084000" stop="20200110094000">
+  <programme channel="C50.api.telerama.fr" start="20200110084000" stop="20200110090000">
     <title>Luna Park</title>
     <desc lang="fr">Chaque jour, Luna Park présente une série de jeux de durées variables sous la forme de questions / réponses adressées aux téléspectateurs. Ces jeux sont classés par catégories (culture générale, sports, santé, alimentation, histoire, géographie, vocabulaire, orthographe... etc). Ils sont dotés d'enjeux variables. Les téléspectateurs qui souhaitent participer, peuvent répondre, en direct, par téléphone, et gagner des cadeaux ou de l'argent.</desc>
     <category lang="fr">jeu</category>
-    <length units="hours">1</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200110090000" stop="20200110092000">
+    <title>Radical Fitness Training</title>
+    <desc lang="fr">Composé de 5 programmes : du body fitness, du hit training programme, de la megadanz, le programme Eleven ou encore de l'Oxigeno stretching.</desc>
+    <credits>
+      <presenter>Pascal Vigneron</presenter>
+    </credits>
+    <category lang="fr">magazine sportif</category>
+    <length units="minutes">20</length>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200110092000" stop="20200110094000">
+    <title>Luna Park</title>
+    <desc lang="fr">Chaque jour, Luna Park présente une série de jeux de durées variables sous la forme de questions / réponses adressées aux téléspectateurs. Ces jeux sont classés par catégories (culture générale, sports, santé, alimentation, histoire, géographie, vocabulaire, orthographe... etc). Ils sont dotés d'enjeux variables. Les téléspectateurs qui souhaitent participer, peuvent répondre, en direct, par téléphone, et gagner des cadeaux ou de l'argent.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3273,7 +3430,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200109223500" stop="20200110001000">
+  <programme channel="C892.api.telerama.fr" start="20200109225000" stop="20200110002500">
     <title>L'art de la fugue</title>
     <desc lang="fr">Chassé-croisé de personnages : trois frères, leurs parents, leurs amis...  Brice Cauvin procède par petites touches, toutes délicieuses et rapides. Une comédie à la Woody Allen, touchante, drôle et, par instants, mélancolique. Un régal. - Critique : &lt;P&gt;| Genre : sérénade à trois.&lt;/P&gt; &lt;P&gt;Trois frères... Antoine, depuis dix ans, vit tranquillement avec son mec, mais l'aventure le guette et il a du mal à résister. Louis rencontre la femme de sa vie, mais accepte de se fiancer à une autre pour faire plaisir à papa-maman. Gérard, lui, têtu comme une mule de Castille, attend obstinément le retour d'une épouse qui ne veut plus de lui... Le réalisateur procède par petites touches, délicieuses et rapides. On va d'un personnage à l'autre, complice des grandes hésitations de l'un, des mini-espoirs de l'autre, et de l'extravagance de tout un chacun. Car, autour de la fratrie, les figures bizarres abondent : la copine maternante d'Antoine, son ex-futur amant qui ne parvient jamais à rompre avec un comédien à l'ego boursouflé...&lt;/P&gt; &lt;P&gt;Toutes ces silhouettes, même les plus fugaces (deux Turcs, propriétaires d'un effrayant restaurant italien), reflètent la mise en scène qui paraît flâner au gré des sentiments, mais s'avère précise, réglée au millimètre. Par moments, on se croirait chez Woody Allen, celui d'&lt;I&gt;Hannah et ses soeurs&lt;/I&gt; : la cruauté n'est pas la même, la chaleur du regard, si. Et l'art de ciseler des répliques qui, sous leur brio, laissent affleurer la gravité. Elle l'emporte, par moments : lorsque la mère révèle à l'un de ses fils, un soir, dans une gare, une blessure longtemps cachée... Mais, bien vite, le film redevient aimable. C'est que le réalisateur dispose d'un don qui man­que à bien de ses confrères dans la comédie : le charme. — Pierre Murat&lt;/P&gt;</desc>
     <credits>
@@ -3298,6 +3455,51 @@
     <star-rating>
       <value>4/5</value>
     </star-rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200110002500" stop="20200110011800">
+    <title>JT traduction gestuelle</title>
+    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">53</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200110011800" stop="20200110012000">
+    <title>Météo internationale</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200110012000" stop="20200110015000">
+    <title>CQFD (Ce qui fait débat)</title>
+    <desc lang="fr">Du lundi au vendredi, Arnaud Ruyssen et Catherine Tonero orchestrent un face à face contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, l'actualité de la semaine est analysée par Arnaud Ruyssen et ses invités.</desc>
+    <credits>
+      <presenter>Arnaud Ruyssen</presenter>
+      <presenter>Catherine Tonero</presenter>
+    </credits>
+    <category lang="fr">débat</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/87c41bfa-32ff-4927-a96e-5894df2bb890.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200110015000" stop="20200110050000">
+    <title>Boucle de nuit</title>
+    <desc lang="fr">Emissions en boucle jusqu'au matin.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">190</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
   </programme>
   <programme channel="C892.api.telerama.fr" start="20200110050000" stop="20200110051000">
     <title>Les Pyjamasques</title>
@@ -3422,7 +3624,6 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/231ebfe2-7633-4ceb-b42b-62be89b39120.jpg" />
     <country>Canada</country>
     <episode-num system="xmltv_ns">0.15.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -4181,6 +4382,17 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/581ae942-6061-415f-a148-d4bade8cbe3b.jpg" />
     <country>franco-canadien</country>
     <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200110185000" stop="20200110185100">
+    <title>Ma vie dans l'espace</title>
+    <sub-title>Chloé</sub-title>
+    <desc lang="fr">Jean-François Clervoy, de l'ESA, est allé trois fois dans l'espace. Il a notamment réparé le téléscope Hubble. Il raconte ses souvenirs.</desc>
+    <category lang="fr">magazine magazine jeunesse</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
