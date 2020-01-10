@@ -1409,7 +1409,7 @@
     <desc lang="fr">Bulletin météo et prévisions.</desc>
     <category lang="fr">météo</category>
     <length units="minutes">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1564,8 +1564,10 @@
     <length units="minutes">95</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5cab2189-c267-4443-bf09-91b8b890a620.jpg" />
     <country>canadien</country>
+    <premiere />
     <rating system="CSA">
-      <value>Tout public</value>
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
   <programme channel="C168.api.telerama.fr" start="20200114141500" stop="20200114151500">
@@ -2234,7 +2236,7 @@
     <date>2019</date>
     <category lang="fr">documentaire : société</category>
     <length units="minutes">100</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cdcd7f51-35c2-4391-9125-907351a171a4.jpg" />
     <country>français</country>
     <rating system="CSA">
       <value>Tout public</value>
@@ -2245,7 +2247,7 @@
     <desc lang="fr">Bulletin météo et prévisions.</desc>
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2320,7 +2322,7 @@
     <desc lang="fr">Bulletin météo et prévisions.</desc>
     <category lang="fr">météo</category>
     <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3248,13 +3250,38 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200114084000" stop="20200114094000">
+  <programme channel="C50.api.telerama.fr" start="20200114084000" stop="20200114090000">
     <title>Luna Park</title>
     <desc lang="fr">Chaque jour, Luna Park présente une série de jeux de durées variables sous la forme de questions / réponses adressées aux téléspectateurs. Ces jeux sont classés par catégories (culture générale, sports, santé, alimentation, histoire, géographie, vocabulaire, orthographe... etc). Ils sont dotés d'enjeux variables. Les téléspectateurs qui souhaitent participer, peuvent répondre, en direct, par téléphone, et gagner des cadeaux ou de l'argent.</desc>
     <category lang="fr">jeu</category>
-    <length units="hours">1</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200114090000" stop="20200114092000">
+    <title>Radical Fitness Training</title>
+    <desc lang="fr">Composé de 5 programmes : du body fitness, du hit training programme, de la megadanz, le programme Eleven ou encore de l'Oxigeno stretching.</desc>
+    <credits>
+      <presenter>Pascal Vigneron</presenter>
+    </credits>
+    <category lang="fr">magazine sportif</category>
+    <length units="minutes">20</length>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200114092000" stop="20200114094000">
+    <title>Luna Park</title>
+    <desc lang="fr">Chaque jour, Luna Park présente une série de jeux de durées variables sous la forme de questions / réponses adressées aux téléspectateurs. Ces jeux sont classés par catégories (culture générale, sports, santé, alimentation, histoire, géographie, vocabulaire, orthographe... etc). Ils sont dotés d'enjeux variables. Les téléspectateurs qui souhaitent participer, peuvent répondre, en direct, par téléphone, et gagner des cadeaux ou de l'argent.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
