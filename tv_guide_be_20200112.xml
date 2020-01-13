@@ -32,15 +32,6 @@
     <display-name>La Trois</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
   </channel>
-  <programme channel="C1280.api.telerama.fr" start="20200111194500" stop="20200112050000">
-    <title>Geen uitzending</title>
-    <category lang="fr">fin</category>
-    <length units="minutes">555</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1280.api.telerama.fr" start="20200112050000" stop="20200112050500">
     <title>Tik Tak</title>
     <desc lang="fr">Saison:1 - Episode:39 -</desc>
@@ -263,7 +254,7 @@
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200112101500" stop="20200112102500">
     <title>De week van Karrewiet</title>
-    <category lang="fr">magazine d'information</category>
+    <category lang="fr">magazine magazine d'information</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <previously-shown />
@@ -493,7 +484,7 @@
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200112164000" stop="20200112165500">
     <title>De week van Karrewiet</title>
-    <category lang="fr">magazine d'information</category>
+    <category lang="fr">magazine magazine d'information</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <previously-shown />
@@ -507,6 +498,40 @@
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
     <episode-num system="xmltv_ns">2.15.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200112170000" stop="20200112171500">
+    <title>Oma en Oma</title>
+    <desc lang="fr">Saison:3 - Episode:6 -</desc>
+    <category lang="fr">série jeunesse</category>
+    <length units="minutes">15</length>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200112171500" stop="20200112174000">
+    <title>Kingsize Live</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200112174000" stop="20200112183500">
+    <title>#LikeMe : #TheEnd #NewBeginning</title>
+    <credits>
+      <actor>Pommelien Thijs</actor>
+      <actor>Jeroen Van Dyck</actor>
+      <actor>Camille Dhont</actor>
+    </credits>
+    <category lang="fr">série jeunesse</category>
+    <length units="minutes">55</length>
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -576,308 +601,6 @@
     <category lang="fr">fin</category>
     <length units="hours">8</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200111232500" stop="20200112000200">
-    <title>JT 19h30</title>
-    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">37</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112000200" stop="20200112000700">
-    <title>Contacts</title>
-    <desc lang="fr">Le magazine de la sécurité routière.</desc>
-    <category lang="fr">magazine éducatif</category>
-    <length units="minutes">5</length>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112000700" stop="20200112001000">
-    <title>Air de familles</title>
-    <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112001000" stop="20200112001100">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112001100" stop="20200112004900">
-    <title>JT 19h30</title>
-    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">38</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112004900" stop="20200112005300">
-    <title>Contacts</title>
-    <sub-title>Réglages essentiels</sub-title>
-    <desc lang="fr">Avant de prendre la route, le conducteur doit s'assurer que sa position de conduite est la meilleure possible pour pouvoir avoir la meilleure vue sur le trafic et pouvoir effectuer toutes les manoeuvres en toute sécurité. Siège, appuie-tête, rétroviseur, ceinture, avant de partir, un check s'impose.</desc>
-    <category lang="fr">magazine éducatif</category>
-    <length units="minutes">4</length>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112005300" stop="20200112005600">
-    <title>Air de familles</title>
-    <sub-title>Fêtes : quels rythmes ?</sub-title>
-    <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112005600" stop="20200112010000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112010000" stop="20200112013600">
-    <title>JT 19h30</title>
-    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">36</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112013600" stop="20200112014100">
-    <title>Contacts</title>
-    <sub-title>Réglages essentiels</sub-title>
-    <desc lang="fr">Avant de prendre la route, le conducteur doit s'assurer que sa position de conduite est la meilleure possible pour pouvoir avoir la meilleure vue sur le trafic et pouvoir effectuer toutes les manoeuvres en toute sécurité. Siège, appuie-tête, rétroviseur, ceinture, avant de partir, un check s'impose.</desc>
-    <category lang="fr">magazine éducatif</category>
-    <length units="minutes">5</length>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112014100" stop="20200112014400">
-    <title>Air de familles</title>
-    <sub-title>Fêtes : quels rythmes ?</sub-title>
-    <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112014400" stop="20200112014500">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112014500" stop="20200112022300">
-    <title>JT 19h30</title>
-    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">38</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112022300" stop="20200112022700">
-    <title>Contacts</title>
-    <sub-title>Réglages essentiels</sub-title>
-    <desc lang="fr">Avant de prendre la route, le conducteur doit s'assurer que sa position de conduite est la meilleure possible pour pouvoir avoir la meilleure vue sur le trafic et pouvoir effectuer toutes les manoeuvres en toute sécurité. Siège, appuie-tête, rétroviseur, ceinture, avant de partir, un check s'impose.</desc>
-    <category lang="fr">magazine éducatif</category>
-    <length units="minutes">4</length>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112022700" stop="20200112023000">
-    <title>Air de familles</title>
-    <sub-title>Fêtes : quels rythmes ?</sub-title>
-    <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112023000" stop="20200112023100">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112023100" stop="20200112031000">
-    <title>JT 19h30</title>
-    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">39</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112031000" stop="20200112031400">
-    <title>Contacts</title>
-    <sub-title>Réglages essentiels</sub-title>
-    <desc lang="fr">Avant de prendre la route, le conducteur doit s'assurer que sa position de conduite est la meilleure possible pour pouvoir avoir la meilleure vue sur le trafic et pouvoir effectuer toutes les manoeuvres en toute sécurité. Siège, appuie-tête, rétroviseur, ceinture, avant de partir, un check s'impose.</desc>
-    <category lang="fr">magazine éducatif</category>
-    <length units="minutes">4</length>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112031400" stop="20200112031800">
-    <title>Air de familles</title>
-    <sub-title>Fêtes : quels rythmes ?</sub-title>
-    <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112031800" stop="20200112032000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112032000" stop="20200112035600">
-    <title>JT 19h30</title>
-    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">36</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112035600" stop="20200112040100">
-    <title>Contacts</title>
-    <sub-title>Réglages essentiels</sub-title>
-    <desc lang="fr">Avant de prendre la route, le conducteur doit s'assurer que sa position de conduite est la meilleure possible pour pouvoir avoir la meilleure vue sur le trafic et pouvoir effectuer toutes les manoeuvres en toute sécurité. Siège, appuie-tête, rétroviseur, ceinture, avant de partir, un check s'impose.</desc>
-    <category lang="fr">magazine éducatif</category>
-    <length units="minutes">5</length>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112040100" stop="20200112040400">
-    <title>Air de familles</title>
-    <sub-title>Fêtes : quels rythmes ?</sub-title>
-    <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112040400" stop="20200112040500">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112040500" stop="20200112044300">
-    <title>JT 19h30</title>
-    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">38</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112044300" stop="20200112044800">
-    <title>Contacts</title>
-    <sub-title>Réglages essentiels</sub-title>
-    <desc lang="fr">Avant de prendre la route, le conducteur doit s'assurer que sa position de conduite est la meilleure possible pour pouvoir avoir la meilleure vue sur le trafic et pouvoir effectuer toutes les manoeuvres en toute sécurité. Siège, appuie-tête, rétroviseur, ceinture, avant de partir, un check s'impose.</desc>
-    <category lang="fr">magazine éducatif</category>
-    <length units="minutes">5</length>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112044800" stop="20200112045100">
-    <title>Air de familles</title>
-    <sub-title>Fêtes : quels rythmes ?</sub-title>
-    <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200112045100" stop="20200112045500">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -974,7 +697,7 @@
     <sub-title>Libres, ensemble : Sommes-nous toujours Charlie ?</sub-title>
     <category lang="fr">magazine religieux</category>
     <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3dc54c15-3448-4557-ad1a-413051dea95e.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b25faeac-786e-45f0-a36a-14809b78e0bf.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1023,7 +746,7 @@
       <presenter>Cédric Wautier</presenter>
       <presenter>Virginie Jacobs</presenter>
     </credits>
-    <category lang="fr">magazine magazine de l'art de vivre</category>
+    <category lang="fr">magazine de l'art de vivre</category>
     <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/280631a5-e820-4724-920a-9d9ef5f9de5d.jpg" />
     <previously-shown />
@@ -1055,7 +778,7 @@
     <credits>
       <presenter>Sophie Davant</presenter>
     </credits>
-    <category lang="fr">magazine magazine de l'art de vivre</category>
+    <category lang="fr">magazine de l'art de vivre</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
     <premiere />
@@ -1387,35 +1110,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200111235500" stop="20200112003500">
-    <title>RTL info 19 heures</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">40</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20200112003500" stop="20200112023500">
-    <title>Jeux de nuit</title>
-    <desc lang="fr">Rendez-vous pour une série de jeux télévisés interactifs. En répondant correctement aux nombreuses questions affichées, les téléspectateurs peuvent tenter leur chance afin de remporter différents gains. Ce programme regroupant plusieurs jeux offre un moment de divertissement et de bonne humeur.</desc>
-    <category lang="fr">jeu</category>
-    <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20200112023500" stop="20200112040000">
-    <title>Boucle de nuit</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">85</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C168.api.telerama.fr" start="20200112062500" stop="20200112092500">
     <title>Télé-achat</title>
     <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
@@ -1433,7 +1127,7 @@
     <credits>
       <presenter>Maria Del Rio</presenter>
     </credits>
-    <category lang="fr">magazine d'information</category>
+    <category lang="fr">magazine magazine d'information</category>
     <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dd2a9569-0317-4cc2-9257-679428685364.jpg" />
     <rating system="CSA">
@@ -1742,286 +1436,6 @@
     <category lang="fr">journal</category>
     <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200111233000" stop="20200112000000">
-    <title>Le meilleur de l'humour express</title>
-    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
-    <category lang="fr">divertissement-humour</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112000000" stop="20200112000500">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112000500" stop="20200112000600">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112000600" stop="20200112003500">
-    <title>Le meilleur de l'humour express</title>
-    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
-    <category lang="fr">divertissement-humour</category>
-    <length units="minutes">29</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112003500" stop="20200112004400">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">9</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112004400" stop="20200112004500">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112004500" stop="20200112011500">
-    <title>Le meilleur de l'humour express</title>
-    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
-    <category lang="fr">divertissement-humour</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112011500" stop="20200112012300">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">8</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112012300" stop="20200112012500">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112012500" stop="20200112015500">
-    <title>Le meilleur de l'humour express</title>
-    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
-    <category lang="fr">divertissement-humour</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112015500" stop="20200112020200">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">7</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112020200" stop="20200112020500">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112020500" stop="20200112023500">
-    <title>Le meilleur de l'humour express</title>
-    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
-    <category lang="fr">divertissement-humour</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112023500" stop="20200112024100">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">6</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112024100" stop="20200112024500">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112024500" stop="20200112031000">
-    <title>Le meilleur de l'humour express</title>
-    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
-    <category lang="fr">divertissement-humour</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112031000" stop="20200112032000">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112032000" stop="20200112032100">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112032100" stop="20200112034800">
-    <title>Le meilleur de l'humour express</title>
-    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
-    <category lang="fr">divertissement-humour</category>
-    <length units="minutes">27</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112034800" stop="20200112035800">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112035800" stop="20200112035900">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112035900" stop="20200112042700">
-    <title>Le meilleur de l'humour express</title>
-    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
-    <category lang="fr">divertissement-humour</category>
-    <length units="minutes">28</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112042700" stop="20200112043600">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">9</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200112043600" stop="20200112043700">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2414,7 +1828,7 @@
     <title>Vacances d'hiver : les rois du ski à petit prix</title>
     <desc lang="fr">La France possède le plus grand domaine skiable au monde, avec plus de 8000 km de pistes, 325 stations, dont les prestigieuses Courchevel, Méribel ou Megève. Si le ski a longtemps été réservé à une population plutôt aisée, depuis quelques années, cette activité est devenue beaucoup plus grand public. En bas des pistes, des stations se sont créées et proposent aujourd'hui des logements et des locations de ski toujours moins chers. Quelles sont ces villages qui démocratisent le ski ? Qui sont les entrepreneurs qui ont senti cette tendance et ont réussi à faire fortune ?</desc>
     <date>2017</date>
-    <category lang="fr">documentaire : société</category>
+    <category lang="fr">documentaire société</category>
     <length units="minutes">95</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fe123ada-e2d7-45d8-b28f-1e7061ef9239.jpg" />
     <country>français</country>
@@ -2651,46 +2065,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200111233500" stop="20200112000500">
-    <title>Iedereen beroemd</title>
-    <category lang="fr">magazine de reportages</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20200112000500" stop="20200112002000">
-    <title>Het journaal</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20200112002000" stop="20200112002500">
-    <title>Het weer</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20200112002500" stop="20200112005500">
-    <title>Villa Politica</title>
-    <category lang="fr">magazine politique</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C23.api.telerama.fr" start="20200112080000" stop="20200112100000">
     <title>Winterbeelden</title>
     <category lang="fr">magazine de découvertes</category>
@@ -2729,7 +2103,7 @@
   <programme channel="C23.api.telerama.fr" start="20200112123000" stop="20200112161500">
     <title>Sporza op zondag</title>
     <desc lang="fr">Au programme : Cyclo-cross. Championnats de Belgique. Course espoirs messieurs (13h45). Course Elite messieurs (15h). A Anvers (commenté par Michel Wuyts, Paul Herijgers et Renaat Schotte. - Billard à trois bandes. Championnats de Belgique (commenté par Chris Picavet).</desc>
-    <category lang="fr">magazine magazine sportif</category>
+    <category lang="fr">magazine sportif</category>
     <length units="minutes">225</length>
     <rating system="CSA">
       <value>Tout public</value>
@@ -2774,6 +2148,15 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C23.api.telerama.fr" start="20200112180000" stop="20200112185500">
+    <title>Het journaal : Sportweekend</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C23.api.telerama.fr" start="20200112185500" stop="20200112190000">
     <title>Het weer</title>
     <category lang="fr">météo</category>
@@ -2785,7 +2168,7 @@
   </programme>
   <programme channel="C23.api.telerama.fr" start="20200112190000" stop="20200112195000">
     <title>Kamp Waes</title>
-    <category lang="fr">documentaire : téléréalité</category>
+    <category lang="fr">documentaire téléréalité</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2429985-7cb7-4f72-8ca4-f481abfe4900.jpg" />
     <rating system="CSA">
@@ -2870,28 +2253,6 @@
     <category lang="fr">magazine de société</category>
     <length units="hours">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20200111231000" stop="20200112011000">
-    <title>Luna Park</title>
-    <desc lang="fr">Les spectateurs tentent de remporter des jeux en direct, avec à la clé de l'argent ou de nombreux cadeaux.</desc>
-    <category lang="fr">jeu</category>
-    <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20200112011000" stop="20200112040000">
-    <title>Télé-achat</title>
-    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
-    <category lang="fr">magazine de télé-achat</category>
-    <length units="minutes">170</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3161,17 +2522,6 @@
     <length units="hours">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C50.api.telerama.fr" start="20200111222500" stop="20200112040000">
-    <title>Télé-achat</title>
-    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
-    <category lang="fr">magazine de télé-achat</category>
-    <length units="minutes">335</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3834,186 +3184,6 @@
     <category lang="fr">magazine de télé-achat</category>
     <length units="hours">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200111235000" stop="20200112002600">
-    <title>JT traduction gestuelle</title>
-    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">36</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200112002600" stop="20200112003000">
-    <title>Météo internationale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200112003000" stop="20200112005500">
-    <title>Plan Cult</title>
-    <desc lang="fr">Saison:1 - «Plan Cult» s'installe cette semaine au BAM, à Mons, dans le cadre de deux expos insolites, «Anamor» et «Memento Mons, Cabinets de curiosités». Félicien Bogaerts est accompagné de son invité, Suarez, qui sera en tournée en février dans toute la Wallonie.</desc>
-    <credits>
-      <presenter>Félicien Bogaerts</presenter>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200112005500" stop="20200112012900">
-    <title>JT traduction gestuelle</title>
-    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">34</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200112012900" stop="20200112013000">
-    <title>Météo internationale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200112013000" stop="20200112015500">
-    <title>Plan Cult</title>
-    <sub-title>Au BAM avec Suarez</sub-title>
-    <desc lang="fr">Saison:1 - «Plan Cult» s'installe cette semaine au BAM, à Mons, dans le cadre de deux expos insolites, «Anamor» et «Memento Mons, Cabinets de curiosités». Félicien Bogaerts est accompagné de son invité, Suarez, qui sera en tournée en février dans toute la Wallonie.</desc>
-    <credits>
-      <presenter>Félicien Bogaerts</presenter>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200112015500" stop="20200112023200">
-    <title>JT traduction gestuelle</title>
-    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">37</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200112023200" stop="20200112023500">
-    <title>Météo internationale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200112023500" stop="20200112030000">
-    <title>Plan Cult</title>
-    <sub-title>Au BAM avec Suarez</sub-title>
-    <desc lang="fr">Saison:1 - «Plan Cult» s'installe cette semaine au BAM, à Mons, dans le cadre de deux expos insolites, «Anamor» et «Memento Mons, Cabinets de curiosités». Félicien Bogaerts est accompagné de son invité, Suarez, qui sera en tournée en février dans toute la Wallonie.</desc>
-    <credits>
-      <presenter>Félicien Bogaerts</presenter>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200112030000" stop="20200112032000">
-    <title>Les instruments de l'orchestre</title>
-    <sub-title>Le hautbois et le cor anglais</sub-title>
-    <desc lang="fr">Emission de 1989. Entourés des musiciens de l'Orchestre Symphonique de la RTBF dirigé par André Vandernoot, Jan Vandenbrock, au hautbois, et André Antoine, au cor anglais, font découvrir leurs instruments.</desc>
-    <credits>
-      <presenter>André Vandernoot</presenter>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200112032000" stop="20200112035500">
-    <title>JT traduction gestuelle</title>
-    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">35</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200112035500" stop="20200112035600">
-    <title>Météo internationale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200112035600" stop="20200112042000">
-    <title>Plan Cult</title>
-    <sub-title>Au BAM avec Suarez</sub-title>
-    <desc lang="fr">Saison:1 - «Plan Cult» s'installe cette semaine au BAM, à Mons, dans le cadre de deux expos insolites, «Anamor» et «Memento Mons, Cabinets de curiosités». Félicien Bogaerts est accompagné de son invité, Suarez, qui sera en tournée en février dans toute la Wallonie.</desc>
-    <credits>
-      <presenter>Félicien Bogaerts</presenter>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">24</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200112042000" stop="20200112045700">
-    <title>JT traduction gestuelle</title>
-    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">37</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200112045700" stop="20200112050000">
-    <title>Météo internationale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -4701,7 +3871,7 @@ dans le passé...</desc>
     <credits>
       <presenter>Philippe Lambillon</presenter>
     </credits>
-    <category lang="fr">magazine d'information</category>
+    <category lang="fr">magazine magazine d'information</category>
     <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/047186a0-775c-4354-9d2d-23ef2197ac4d.jpg" />
     <rating system="CSA">
@@ -4716,7 +3886,7 @@ dans le passé...</desc>
       <director>Sophie Przychodny</director>
     </credits>
     <date>2016</date>
-    <category lang="fr">documentaire : société</category>
+    <category lang="fr">documentaire société</category>
     <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3e39ca83-c5a5-45f5-b597-2a4744a811b8.jpg" />
     <country>français</country>
