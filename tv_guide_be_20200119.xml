@@ -294,12 +294,22 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200119101000" stop="20200119102500">
+  <programme channel="C1280.api.telerama.fr" start="20200119101000" stop="20200119102000">
     <title>De week van Karrewiet</title>
     <category lang="fr">magazine d'information</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200119102000" stop="20200119102500">
+    <title>Shaun het schaap</title>
+    <desc lang="fr">Saison:4 - Episode:3 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -309,6 +319,16 @@
     <category lang="fr">magazine jeunesse</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200119105000" stop="20200119110000">
+    <title>Shaun het schaap</title>
+    <desc lang="fr">Saison:4 - Episode:4 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1880,13 +1900,15 @@
   </programme>
   <programme channel="C187.api.telerama.fr" start="20200119151500" stop="20200119165500">
     <title>Le grand cactus</title>
-    <desc lang="fr">Saison:4 - Jérôme de Warzée et Adrien Devyver, en véritables «Avengers du rire», sont aux commandes de cette quatrième saison. Ils sont entourés de leurs fidèles chroniqueurs Livia Dushkoff, Thierry Luthers, David Jeanmotte, sans compter la joyeuse bande : Kody, Martin Charlier, Sarah Grosjean, Freddy Tougaux, Carmela Giusto et Fabian Le Castel.</desc>
+    <desc lang="fr">Saison:4 - Pour le premier numéro de 2020, Jérôme de Warzée et Adrien Devyver donnent rendez-vous aux téléspectateurs avec Vitaa et Slimane au cours d'une émission qui passe en revue ce qui va changer et parle des personnalités incontournables de cette nouvelle année. Vitaa et Slimane, qui font parler d'eux depuis la sortie de «VersuS», évoquent leur rôle de coaches dans «The Voice Kids» Belgique.</desc>
     <credits>
       <presenter>Jérôme de Warzée</presenter>
       <presenter>Adrien Devyver</presenter>
       <presenter>Livia Dushkoff</presenter>
       <presenter>Thierry Luthers</presenter>
       <presenter>David Jeanmotte</presenter>
+      <guest>Vitaa (chanteuse)</guest>
+      <guest>Slimane</guest>
     </credits>
     <category lang="fr">divertissement</category>
     <length units="minutes">100</length>
@@ -1933,7 +1955,9 @@
   <programme channel="C187.api.telerama.fr" start="20200119190500" stop="20200119195500">
     <title>New Amsterdam</title>
     <sub-title>Retour à la vie</sub-title>
-    <desc lang="fr">Saison:2 - Episode:1 - Trois mois après le terrible accident, Max est de retour à l'hôpital. Il se bat pour une malade diabétique qui n'a plus les moyens de s'acheter de l'insuline. Reynolds assiste à l'arrivée de Duke dans son service, un jeune interne noir ambitieux et doué auquel il s'identifie. Kapoor, tente désespérément d'aider une patiente qui souffre de polyarthrite. Aucun traitement ne fait effet sur elle. Iggy, toujours aussi bienveillant, propose à son mari Martin d'adopter un cinquième enfant. Une nouvelle recrue arrive au service oncologie...</desc>
+    <desc lang="fr">Saison:2 - Episode:1 - Trois mois après le terrible accident, Max est de retour à l'hôpital. Il se bat pour une malade diabétique qui n'a plus les moyens de s'acheter de l'insuline. Reynolds assiste à l'arrivée de Duke dans son service, un jeune interne noir ambitieux et doué auquel il s'identifie. Kapoor, tente désespérément d'aider une patiente qui souffre de polyarthrite. Aucun traitement ne fait effet sur elle. Iggy, toujours aussi bienveillant, propose à son mari Martin d'adopter un cinquième enfant. Une nouvelle recrue arrive au service oncologie... - Critique : &lt;p&gt;Max Goodwin, directeur d’un grand hôpital public new-yorkais, est un saint. Malgré une tumeur au cerveau et un nouveau-né qui l’empêche de dormir, il se démène douze heures par jour pour aider ses patients, remonter le moral des troupes et trouver des solutions pour faire tourner l’établissement, dont les caisses sont désespérément vides. Mais, sous sa bonne humeur, il cache un (autre) drame. Il y a trois mois — à la fin de la première saison —, un terrible accident d’ambulance a coûté la vie à l’un de ses proches…&lt;/p&gt;
+
+&lt;p&gt;Cette deuxième saison continue de jouer, sans canards ni génie, la partition écrite par &lt;em&gt;Urgences&lt;/em&gt; il y a vingt-cinq ans : opérations sanglantes, drames intimes, bons sentiments, pointe d’humour. Elle y ajoute toujours la touche personnelle de la série, une discrète dénonciation des inégalités et des discriminations face aux soins médicaux outre-Atlantique, et quelques piques contre le comportement des grands laboratoires pharmaceutiques. La révolution du genre médical est encore loin, mais les prescriptions du Dr Goodwin ne feront pas de mal aux accros du « NFS, chimie, iono ».&lt;/p&gt;</desc>
     <credits>
       <director>Michael Slovis</director>
       <actor>Ryan Eggold (Max Goodwin)</actor>
@@ -1958,11 +1982,16 @@
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme channel="C187.api.telerama.fr" start="20200119195500" stop="20200119204500">
     <title>New Amsterdam</title>
     <sub-title>Question de temps</sub-title>
-    <desc lang="fr">Saison:2 - Episode:2 - Max enquête auprès du personnel afin de comprendre les facteurs qui les empêchent d'être au mieux de leur forme pour offrir les meilleurs soins possibles aux patients. Reynolds confie à Duke la responsabilité d'examiner un patient atteint de zona qui se trouve aux urgences. Alors qu'il a oublié un examen et renvoyé le patient chez lui, Duke n'ose pas avouer son erreur et ment à Reynolds. Bloom souffre attrocement car elle ne prend pas d'antidouleurs à cause de son addiction. Elle tente de trouver des parades, mais rien n'y fait. Sharpe et Castro proposent le test pour la thérapie ciblée à tous les patients atteints de cancer. Dix-sept d'entre eux remplissent les critères...</desc>
+    <desc lang="fr">Saison:2 - Episode:2 - Max enquête auprès du personnel afin de comprendre les facteurs qui les empêchent d'être au mieux de leur forme pour offrir les meilleurs soins possibles aux patients. Reynolds confie à Duke la responsabilité d'examiner un patient atteint de zona qui se trouve aux urgences. Alors qu'il a oublié un examen et renvoyé le patient chez lui, Duke n'ose pas avouer son erreur et ment à Reynolds. Bloom souffre attrocement car elle ne prend pas d'antidouleurs à cause de son addiction. Elle tente de trouver des parades, mais rien n'y fait. Sharpe et Castro proposent le test pour la thérapie ciblée à tous les patients atteints de cancer. Dix-sept d'entre eux remplissent les critères... - Critique : &lt;p&gt;Max Goodwin, directeur d’un grand hôpital public new-yorkais, est un saint. Malgré une tumeur au cerveau et un nouveau-né qui l’empêche de dormir, il se démène douze heures par jour pour aider ses patients, remonter le moral des troupes et trouver des solutions pour faire tourner l’établissement, dont les caisses sont désespérément vides. Mais, sous sa bonne humeur, il cache un (autre) drame. Il y a trois mois — à la fin de la première saison —, un terrible accident d’ambulance a coûté la vie à l’un de ses proches…&lt;/p&gt;
+
+&lt;p&gt;Cette deuxième saison continue de jouer, sans canards ni génie, la partition écrite par &lt;em&gt;Urgences&lt;/em&gt; il y a vingt-cinq ans : opérations sanglantes, drames intimes, bons sentiments, pointe d’humour. Elle y ajoute toujours la touche personnelle de la série, une discrète dénonciation des inégalités et des discriminations face aux soins médicaux outre-Atlantique, et quelques piques contre le comportement des grands laboratoires pharmaceutiques. La révolution du genre médical est encore loin, mais les prescriptions du Dr Goodwin ne feront pas de mal aux accros du « NFS, chimie, iono ».&lt;/p&gt;</desc>
     <credits>
       <director>Don Scardino</director>
       <actor>Ryan Eggold (Max Goodwin)</actor>
@@ -1987,11 +2016,16 @@
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme channel="C187.api.telerama.fr" start="20200119204500" stop="20200119213500">
     <title>New Amsterdam</title>
     <sub-title>Garde à vous !</sub-title>
-    <desc lang="fr">Saison:2 - Episode:3 - Max décide d'engager Todd Benson, un vétéran, pour remplacer son assistante. Or, l'homme ne partage pas ses vues sur les bienfaits d'un système de santé public. Max place quelqu'un au coeur du conseil d'administration pour faire voter un programme d'assistance postopératoire à domicile. Iggy est désemparé lorsqu'il voit les adolescents qu'il suit tomber malades tous en même temps. De son côté, Sharpe décide de prendre la défense d'un patient que la hanche artificielle défectueuse empoisonne et adopte une stratégie risquée. Rohan vient dire au revoir à son père avant de partir pour une tournée avec son groupe...</desc>
+    <desc lang="fr">Saison:2 - Episode:3 - Max décide d'engager Todd Benson, un vétéran, pour remplacer son assistante. Or, l'homme ne partage pas ses vues sur les bienfaits d'un système de santé public. Max place quelqu'un au coeur du conseil d'administration pour faire voter un programme d'assistance postopératoire à domicile. Iggy est désemparé lorsqu'il voit les adolescents qu'il suit tomber malades tous en même temps. De son côté, Sharpe décide de prendre la défense d'un patient que la hanche artificielle défectueuse empoisonne et adopte une stratégie risquée. Rohan vient dire au revoir à son père avant de partir pour une tournée avec son groupe... - Critique : &lt;p&gt;Max Goodwin, directeur d’un grand hôpital public new-yorkais, est un saint. Malgré une tumeur au cerveau et un nouveau-né qui l’empêche de dormir, il se démène douze heures par jour pour aider ses patients, remonter le moral des troupes et trouver des solutions pour faire tourner l’établissement, dont les caisses sont désespérément vides. Mais, sous sa bonne humeur, il cache un (autre) drame. Il y a trois mois — à la fin de la première saison —, un terrible accident d’ambulance a coûté la vie à l’un de ses proches…&lt;/p&gt;
+
+&lt;p&gt;Cette deuxième saison continue de jouer, sans canards ni génie, la partition écrite par &lt;em&gt;Urgences&lt;/em&gt; il y a vingt-cinq ans : opérations sanglantes, drames intimes, bons sentiments, pointe d’humour. Elle y ajoute toujours la touche personnelle de la série, une discrète dénonciation des inégalités et des discriminations face aux soins médicaux outre-Atlantique, et quelques piques contre le comportement des grands laboratoires pharmaceutiques. La révolution du genre médical est encore loin, mais les prescriptions du Dr Goodwin ne feront pas de mal aux accros du « NFS, chimie, iono ».&lt;/p&gt;</desc>
     <credits>
       <director>Jamie Payne</director>
       <actor>Ryan Eggold (Max Goodwin)</actor>
@@ -2016,6 +2050,9 @@
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme channel="C187.api.telerama.fr" start="20200119213500" stop="20200119214000">
     <title>Météo</title>
@@ -2636,6 +2673,16 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C50.api.telerama.fr" start="20200119040000" stop="20200119043000">
+    <title>Journal luxembourgeois</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C50.api.telerama.fr" start="20200119060000" stop="20200119062500">
     <title>Alice au pays des merveilles</title>
     <sub-title>Le filtre magique</sub-title>
@@ -2824,7 +2871,7 @@
       <actor>Alexandra Krosney (Kristin)</actor>
       <actor>Molly Ephraim (Mandy)</actor>
       <actor>Kaitlyn Dever (Eve)</actor>
-      <actor>Héctor Elizondo (Ed)</actor>
+      <actor>Hector Elizondo (Ed)</actor>
       <actor>Christoph Sanders (Kyle Anderson)</actor>
       <writer>Jack Burditt</writer>
       <writer>Lisa K Nelson</writer>
