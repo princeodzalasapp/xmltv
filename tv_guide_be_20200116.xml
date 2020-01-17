@@ -32,18 +32,6 @@
     <display-name>La Trois</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
   </channel>
-  <programme channel="C1280.api.telerama.fr" start="20200115220500" stop="20200116050000">
-    <title>Geen uitzending</title>
-    <category lang="fr">fin</category>
-    <length units="minutes">415</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
-    <subtitles type="onscreen">
-      <language>fr</language>
-    </subtitles>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1280.api.telerama.fr" start="20200116050000" stop="20200116050500">
     <title>Tik Tak</title>
     <desc lang="fr">Saison:1 - Episode:4 -</desc>
@@ -897,6 +885,7 @@
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200116191500" stop="20200116200000">
     <title>Het journaal met VGT</title>
+    <sub-title>Het journaal met VGT</sub-title>
     <category lang="fr">journal</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
@@ -927,67 +916,6 @@
     <category lang="fr">fin</category>
     <length units="minutes">515</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200115235000" stop="20200116002500">
-    <title>JT 19h30</title>
-    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">35</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116002500" stop="20200116011500">
-    <title>On n'est pas des pigeons</title>
-    <sub-title>Pigeons sur le terrain : Spéciale Produits de la mer</sub-title>
-    <desc lang="fr">Au sommaire :</desc>
-    <credits>
-      <presenter>Benjamin Maréchal</presenter>
-      <guest>Adriaan Van de Plasse (ostréiculteur)</guest>
-      <guest>Olivier Camelot (porte-parole Delta Mossel)</guest>
-      <guest>Carolein Van de Plasse (directrice Delta Mossel)</guest>
-      <guest>Geraard (capitaine de bateau)</guest>
-    </credits>
-    <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">50</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116011500" stop="20200116011600">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116011600" stop="20200116033000">
-    <title>JT 19h30</title>
-    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">134</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116033000" stop="20200116050000">
-    <title>VivaCité Matin</title>
-    <category lang="fr">magazine de services</category>
-    <length units="minutes">90</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1023,7 +951,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116093000" stop="20200116102500">
+  <programme channel="C164.api.telerama.fr" start="20200116093000" stop="20200116102000">
     <title>On n'est pas des pigeons</title>
     <sub-title>Pigeons sur le terrain : Spéciale Produits de la mer</sub-title>
     <desc lang="fr">Au sommaire :</desc>
@@ -1035,14 +963,14 @@
       <guest>Geraard (capitaine de bateau)</guest>
     </credits>
     <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">55</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116102500" stop="20200116105500">
+  <programme channel="C164.api.telerama.fr" start="20200116102000" stop="20200116105500">
     <title>Demain nous appartient</title>
     <desc lang="fr">Saison:1 - Episode:640 - Les mises en garde de Maxime provoquent une dispute avec Bart. Luke et Charlie font une déclaration touchante à Flore. Sofia s'emmêle dangereusement dans ses mensonges. Suite à un avis médical, Chloé doit faire des changements drastiques...</desc>
     <credits>
@@ -1067,7 +995,7 @@
       <writer>Sophie Decroisette</writer>
     </credits>
     <category lang="fr">série dramatique</category>
-    <length units="minutes">30</length>
+    <length units="minutes">35</length>
     <country>France</country>
     <episode-num system="xmltv_ns">0.639.</episode-num>
     <previously-shown />
@@ -1075,7 +1003,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116105500" stop="20200116114200">
+  <programme channel="C164.api.telerama.fr" start="20200116105500" stop="20200116114000">
     <title>Les feux de l'amour</title>
     <desc lang="fr">Episode:5465 - Victoria et William décident de se servir des accusations de harcèlement sexuel contre Jack pour lui faire céder le contrat avec la ligue de hockey. Devon invite Mariah à dîner. Ils s'embrassent. Hilary et Jordan sortent ensemble à l'Underground et croisent Devon et Hilary. Nick donne l'argent de l'héritage de Sage à Chelsea...</desc>
     <credits>
@@ -1091,7 +1019,7 @@
       <writer>William J Bell</writer>
     </credits>
     <category lang="fr">feuilleton sentimental</category>
-    <length units="minutes">47</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5da63861-c2f5-4813-8e45-82a5756ddde3.jpg" />
     <country>américain</country>
     <episode-num system="xmltv_ns">.5464.</episode-num>
@@ -1099,23 +1027,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116114200" stop="20200116114700">
+  <programme channel="C164.api.telerama.fr" start="20200116114000" stop="20200116114800">
     <title>Quel temps !</title>
     <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
     <credits>
       <presenter>Nicolas-Xavier Ladouce</presenter>
     </credits>
     <category lang="fr">météo</category>
-    <length units="minutes">5</length>
+    <length units="minutes">8</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116114700" stop="20200116115000">
+  <programme channel="C164.api.telerama.fr" start="20200116114800" stop="20200116115000">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">3</length>
+    <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1134,39 +1062,26 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116115500" stop="20200116123200">
+  <programme channel="C164.api.telerama.fr" start="20200116115500" stop="20200116123300">
     <title>JT 13h</title>
     <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">37</length>
+    <length units="minutes">38</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fed3a14f-eb46-41b8-ae8a-5899f958869d.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116123200" stop="20200116123500">
+  <programme channel="C164.api.telerama.fr" start="20200116123300" stop="20200116123500">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">3</length>
+    <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116123500" stop="20200116132000">
-    <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
-    <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
-    <credits>
-      <presenter>Sophie Davant</presenter>
-    </credits>
-    <category lang="fr">magazine de l'art de vivre</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116132000" stop="20200116141000">
+  <programme channel="C164.api.telerama.fr" start="20200116123500" stop="20200116132500">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <credits>
@@ -1175,11 +1090,27 @@
     <category lang="fr">magazine de l'art de vivre</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
+    <previously-shown />
+    <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116141000" stop="20200116160500">
+  <programme channel="C164.api.telerama.fr" start="20200116132500" stop="20200116141000">
+    <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
+    <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
+    <credits>
+      <presenter>Sophie Davant</presenter>
+    </credits>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200116141000" stop="20200116154500">
     <title>Inspecteur Barnaby</title>
     <sub-title>Règlements de comptes à la roulette</sub-title>
     <desc lang="fr">Saison:17 - Episode:1 - Une artiste peintre, Suzie Colebrook, est assassinée par électrocution. L'arme du crime : une roulette que la jeune femme venait de recevoir par la poste de la part d'une certaine Maggie Markham, organisatrice du festival du livre policier de Midsomer. Quelques jours avant le meurtre, un manuscrit de grande valeur avait été dérobé chez la victime : le roman inachevé de George Summersbee, décédé trois ans plus tôt. Selon le mari de Suzie, celle-ci s'apprêtait à le publier. Il s'avère que le meurtre a été commis selon un mode opératoire décrit dans le premier roman de Summersbee. Or le meurtrier ne se contentait jamais d'une seule victime...</desc>
@@ -1200,7 +1131,7 @@
       <writer>Chris Murray</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">115</length>
+    <length units="minutes">95</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4f18def1-7bbd-41a5-a59e-c3cf43708267.jpg" />
     <country>Grande-Bretagne</country>
     <episode-num system="xmltv_ns">16.0.</episode-num>
@@ -1209,13 +1140,64 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116160500" stop="20200116165300">
+  <programme channel="C164.api.telerama.fr" start="20200116154500" stop="20200116155500">
+    <title>Les jardins de rêve de Luc Noël</title>
+    <sub-title>Abbotsbury Subtropical Gardens</sub-title>
+    <category lang="fr">magazine du jardinage</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7f1a73ec-c107-4315-9086-a2ccb7bf31a2.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200116155500" stop="20200116155800">
+    <title>Nos chers voisins</title>
+    <desc lang="fr">Problèmes de famille ou d'éducation, justice, religion, politique : la vie des voisins rebondit sur les sujets de société de manière drôle, cocasse ou touchante.</desc>
+    <credits>
+      <actor>Martin Lamotte (Jean-Pierre Lambert)</actor>
+      <actor>Christelle Reboul (Amélie Dubernet-Carton)</actor>
+      <actor>Thierry Samitier (Aymeric Dubernet-Carton)</actor>
+      <actor>Damien Ferdel (Jean-Eudes Dubernet-Carton)</actor>
+      <actor>Isabelle Vitari (Karine Becker)</actor>
+      <actor>Gil Alma (Alain Stuck)</actor>
+      <actor>Issa Doumbia (Issa)</actor>
+      <actor>Jean-Baptiste Shelmerdine (Alex)</actor>
+    </credits>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">3</length>
+    <country>France</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200116155800" stop="20200116160000">
+    <title>Nos chers voisins</title>
+    <desc lang="fr">Problèmes de famille ou d'éducation, justice, religion, politique : la vie des voisins rebondit sur les sujets de société de manière drôle, cocasse ou touchante.</desc>
+    <credits>
+      <actor>Martin Lamotte (Jean-Pierre Lambert)</actor>
+      <actor>Christelle Reboul (Amélie Dubernet-Carton)</actor>
+      <actor>Thierry Samitier (Aymeric Dubernet-Carton)</actor>
+      <actor>Damien Ferdel (Jean-Eudes Dubernet-Carton)</actor>
+      <actor>Isabelle Vitari (Karine Becker)</actor>
+      <actor>Gil Alma (Alain Stuck)</actor>
+      <actor>Issa Doumbia (Issa)</actor>
+      <actor>Jean-Baptiste Shelmerdine (Alex)</actor>
+    </credits>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">2</length>
+    <country>France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200116160000" stop="20200116165000">
     <title>Une vie de chiot</title>
     <sub-title>Garder son sang froid</sub-title>
     <desc lang="fr">Saison:3 - A l'aéroport de Norwich, deux bergers malinois, Noa et Ulysse, sont arrivés pour un entraînement en hélicoptère. Les chiots doivent être à l'aise pour le travail auquel ils se préparent : sauver des animaux menacés en Afrique. Ils sont ensuite largués dans le Bush africain, où ils traqueront des braconniers à la recherche de corne de rhinocéros et d'ivoire d'éléphant. Dans les collines du Pays de Galles, le chiot Border Collie, Micky, est déjà en mesure de conduire un troupeau. Il doit écouter son maître tout en surveillant les moutons, estimer les distances et faire preuve d'une grande maîtrise de soi.</desc>
     <date>2018</date>
     <category lang="fr">documentaire : animalier</category>
-    <length units="minutes">48</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/32abba60-a494-4c26-ae63-ce64c6a4f469.jpg" />
     <country>britannique</country>
     <episode-num system="xmltv_ns">2..</episode-num>
@@ -1223,10 +1205,10 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116165300" stop="20200116165500">
+  <programme channel="C164.api.telerama.fr" start="20200116165000" stop="20200116165500">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">2</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1266,6 +1248,7 @@
   </programme>
   <programme channel="C164.api.telerama.fr" start="20200116173000" stop="20200116182000">
     <title>On n'est pas des pigeons</title>
+    <sub-title>Les dangers du maquillage permanent</sub-title>
     <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
     <credits>
       <presenter>Benjamin Maréchal</presenter>
@@ -1286,18 +1269,18 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116183000" stop="20200116192500">
+  <programme channel="C164.api.telerama.fr" start="20200116183000" stop="20200116192000">
     <title>JT 19h30</title>
     <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">55</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116192500" stop="20200116193500">
-    <title>Capsule salon de l'auto</title>
+  <programme channel="C164.api.telerama.fr" start="20200116192000" stop="20200116193000">
+    <title>Salon de l'auto 2020</title>
     <category lang="fr">magazine de l'automobile</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bc6635ea-d999-4311-891c-593aeeb8fdcd.jpg" />
@@ -1305,7 +1288,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116193500" stop="20200116194000">
+  <programme channel="C164.api.telerama.fr" start="20200116193000" stop="20200116193500">
     <title>Météo</title>
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
@@ -1314,7 +1297,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116194000" stop="20200116212200">
+  <programme channel="C164.api.telerama.fr" start="20200116193500" stop="20200116211700">
     <title>Poquelin</title>
     <desc lang="fr">Avec son nouveau binôme dont les manières l'agacent, le capitaine Louise Poquelin débute une diificile enquête dans le nord de la France. Le patron d'une conserverie a été assassiné. Ce meurtre demeure incompréhensible aux yeux de tous. Mère célibataire débordée, Poquelin veut élucider cet homicide sordide...</desc>
     <credits>
@@ -1345,8 +1328,8 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116212200" stop="20200116222500">
-    <title>Les antispécistes</title>
+  <programme channel="C164.api.telerama.fr" start="20200116211700" stop="20200116222000">
+    <title>Antispécistes, les guerriers de la cause animale</title>
     <desc lang="fr">Occupation d’abattoirs, libération d’animaux, caillassages, les antispécistes diffusent leur message radical à coups d’action spectaculaires et d’images choc. Ils dénoncent les injustices infligées aux animaux en raison de leur espèce. Traités comme de véritables écoterroristes, jugés et emprisonnés en Suisse romande, leur message commence pourtant à faire son chemin. Enquête sur un mouvement semi-clandestin, aux méthodes nouvelles et au discours de plus en plus populaire.</desc>
     <date>2019</date>
     <category lang="fr">documentaire : société</category>
@@ -1354,35 +1337,36 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
     <country>belge</country>
     <rating system="CSA">
-      <value>Tout public</value>
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116222500" stop="20200116223500">
+  <programme channel="C164.api.telerama.fr" start="20200116222000" stop="20200116223000">
     <title>L'agenda ciné</title>
     <desc lang="fr">Toutes les sorties cinéma de la semaine.</desc>
     <category lang="fr">magazine du cinéma</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fda51e1d-d3ee-49dc-aea5-e39376f2bdbc.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116223500" stop="20200116232300">
+  <programme channel="C164.api.telerama.fr" start="20200116223000" stop="20200116231900">
     <title>On n'est pas des pigeons</title>
+    <sub-title>Les dangers du maquillage permanent</sub-title>
     <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
     <credits>
       <presenter>Benjamin Maréchal</presenter>
     </credits>
     <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">48</length>
+    <length units="minutes">49</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116232300" stop="20200116232800">
+  <programme channel="C164.api.telerama.fr" start="20200116231900" stop="20200116232400">
     <title>Quel temps !</title>
     <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
     <credits>
@@ -1391,22 +1375,21 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116232800" stop="20200116233000">
+  <programme channel="C164.api.telerama.fr" start="20200116232400" stop="20200116232500">
     <title>Météo</title>
     <desc lang="fr">Bulletin météo et prévisions.</desc>
     <category lang="fr">météo</category>
-    <length units="minutes">2</length>
+    <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116233000" stop="20200116233500">
+  <programme channel="C164.api.telerama.fr" start="20200116232500" stop="20200116233000">
     <title>Quel temps !</title>
     <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
     <credits>
@@ -1415,38 +1398,16 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200116233500" stop="20200117002500">
+  <programme channel="C164.api.telerama.fr" start="20200116233000" stop="20200117002500">
     <title>JT 19h30</title>
     <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">50</length>
+    <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20200115235300" stop="20200116015300">
-    <title>Jeux de nuit</title>
-    <desc lang="fr">Rendez-vous pour une série de jeux télévisés interactifs. En répondant correctement aux nombreuses questions affichées, les téléspectateurs peuvent tenter leur chance afin de remporter différents gains. Ce programme regroupant plusieurs jeux offre un moment de divertissement et de bonne humeur.</desc>
-    <category lang="fr">jeu</category>
-    <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20200116015300" stop="20200116040000">
-    <title>Boucle de nuit</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">127</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1704,7 +1665,7 @@
     <credits>
       <director>Fabrice Eboué</director>
       <actor>Fabrice Eboué (Nicolas)</actor>
-      <actor>Ramzy Bédia (Moncef)</actor>
+      <actor>Ramzy Bedia (Moncef)</actor>
       <actor>Jonathan Cohen (Samuel)</actor>
       <actor>Guillaume de Tonquédec (Benoît)</actor>
       <actor>Audrey Lamy (Sabrina)</actor>
@@ -1828,182 +1789,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200115233000" stop="20200116000000">
-    <title>Hep taxi !</title>
-    <sub-title>Zabou Breitman</sub-title>
-    <desc lang="fr">Du Musée Hergé aux routes du Brabant Wallon, l'actrice et réalisatrice Zabou Breitman s'offre une virée en compagnie de Jérôme Colin. A l'occasion de la sortie du film d'animation Brabant Wallon, la pétillante Zabou se livre sur son parcours et son actualité, avec le franc parler qu'on lui connaît.</desc>
-    <credits>
-      <presenter>Jérôme Colin</presenter>
-      <guest>Zabou Breitman</guest>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116000000" stop="20200116000600">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">6</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116000600" stop="20200116001000">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116001000" stop="20200116004000">
-    <title>Hep taxi !</title>
-    <sub-title>Zabou Breitman</sub-title>
-    <desc lang="fr">Du Musée Hergé aux routes du Brabant Wallon, l'actrice et réalisatrice Zabou Breitman s'offre une virée en compagnie de Jérôme Colin. A l'occasion de la sortie du film d'animation Brabant Wallon, la pétillante Zabou se livre sur son parcours et son actualité, avec le franc parler qu'on lui connaît.</desc>
-    <credits>
-      <presenter>Jérôme Colin</presenter>
-      <guest>Zabou Breitman</guest>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116004000" stop="20200116004500">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116004500" stop="20200116004600">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116004600" stop="20200116011500">
-    <title>Hep taxi !</title>
-    <sub-title>Zabou Breitman</sub-title>
-    <desc lang="fr">Du Musée Hergé aux routes du Brabant Wallon, l'actrice et réalisatrice Zabou Breitman s'offre une virée en compagnie de Jérôme Colin. A l'occasion de la sortie du film d'animation Brabant Wallon, la pétillante Zabou se livre sur son parcours et son actualité, avec le franc parler qu'on lui connaît.</desc>
-    <credits>
-      <presenter>Jérôme Colin</presenter>
-      <guest>Zabou Breitman</guest>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">29</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116011500" stop="20200116012400">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">9</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116012400" stop="20200116012500">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116012500" stop="20200116015500">
-    <title>Hep taxi !</title>
-    <sub-title>Zabou Breitman</sub-title>
-    <desc lang="fr">Du Musée Hergé aux routes du Brabant Wallon, l'actrice et réalisatrice Zabou Breitman s'offre une virée en compagnie de Jérôme Colin. A l'occasion de la sortie du film d'animation Brabant Wallon, la pétillante Zabou se livre sur son parcours et son actualité, avec le franc parler qu'on lui connaît.</desc>
-    <credits>
-      <presenter>Jérôme Colin</presenter>
-      <guest>Zabou Breitman</guest>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116015500" stop="20200116020300">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">8</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116020300" stop="20200116020500">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116020500" stop="20200116023500">
-    <title>Hep taxi !</title>
-    <sub-title>Zabou Breitman</sub-title>
-    <desc lang="fr">Du Musée Hergé aux routes du Brabant Wallon, l'actrice et réalisatrice Zabou Breitman s'offre une virée en compagnie de Jérôme Colin. A l'occasion de la sortie du film d'animation Brabant Wallon, la pétillante Zabou se livre sur son parcours et son actualité, avec le franc parler qu'on lui connaît.</desc>
-    <credits>
-      <presenter>Jérôme Colin</presenter>
-      <guest>Zabou Breitman</guest>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116023500" stop="20200116024200">
+  <programme channel="C187.api.telerama.fr" start="20200116051800" stop="20200116052500">
     <title>Vews</title>
     <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
     <credits>
@@ -2018,7 +1804,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116024200" stop="20200116024500">
+  <programme channel="C187.api.telerama.fr" start="20200116052500" stop="20200116052800">
     <title>Météo</title>
     <desc lang="fr">Bulletin météo et prévisions.</desc>
     <category lang="fr">météo</category>
@@ -2028,7 +1814,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116024500" stop="20200116031500">
+  <programme channel="C187.api.telerama.fr" start="20200116052800" stop="20200116061000">
     <title>Hep taxi !</title>
     <sub-title>Zabou Breitman</sub-title>
     <desc lang="fr">Du Musée Hergé aux routes du Brabant Wallon, l'actrice et réalisatrice Zabou Breitman s'offre une virée en compagnie de Jérôme Colin. A l'occasion de la sortie du film d'animation Brabant Wallon, la pétillante Zabou se livre sur son parcours et son actualité, avec le franc parler qu'on lui connaît.</desc>
@@ -2037,68 +1823,13 @@
       <guest>Zabou Breitman</guest>
     </credits>
     <category lang="fr">magazine culturel</category>
-    <length units="minutes">30</length>
+    <length units="minutes">42</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116031500" stop="20200116032200">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">7</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116032200" stop="20200116032500">
-    <title>Météo</title>
-    <desc lang="fr">Bulletin météo et prévisions.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116032500" stop="20200116035500">
-    <title>Hep taxi !</title>
-    <sub-title>Zabou Breitman</sub-title>
-    <desc lang="fr">Du Musée Hergé aux routes du Brabant Wallon, l'actrice et réalisatrice Zabou Breitman s'offre une virée en compagnie de Jérôme Colin. A l'occasion de la sortie du film d'animation Brabant Wallon, la pétillante Zabou se livre sur son parcours et son actualité, avec le franc parler qu'on lui connaît.</desc>
-    <credits>
-      <presenter>Jérôme Colin</presenter>
-      <guest>Zabou Breitman</guest>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116035500" stop="20200116040100">
-    <title>Vews</title>
-    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
-    <credits>
-      <presenter>Laurent Henrard</presenter>
-      <presenter>Eric Boever</presenter>
-    </credits>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">6</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116060000" stop="20200116062000">
+  <programme channel="C187.api.telerama.fr" start="20200116061000" stop="20200116063000">
     <title>Fit Tonic</title>
     <sub-title>Fit Dance</sub-title>
     <desc lang="fr">Une demi-heure de gymnastique en rythme, en compagnie de Stéphanie Dermaux.</desc>
@@ -2112,7 +1843,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116062000" stop="20200116065000">
+  <programme channel="C187.api.telerama.fr" start="20200116063000" stop="20200116070000">
     <title>Fit Tonic</title>
     <sub-title>Fit Sculpt jambes</sub-title>
     <desc lang="fr">Une demi-heure de gymnastique en rythme, en compagnie de Stéphanie Dermaux.</desc>
@@ -2126,7 +1857,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116065000" stop="20200116082500">
+  <programme channel="C187.api.telerama.fr" start="20200116070000" stop="20200116083000">
     <title>Romance d'automne</title>
     <desc lang="fr">Pressée de toutes parts, épuisée par les sollicitations et obligations, Angela, une auteure à succès, s'enfuit du Salon du livre de Boston. Au volant de la voiture de sa soeur, elle décide de s'octroyer quelques jours dans le Vermont. Mais un accident la laisse amnésique. Elle est recueillie par le médecin d'une petite ville...</desc>
     <credits>
@@ -2145,14 +1876,14 @@
       <guest>Anthony C Metchie</guest>
     </credits>
     <category lang="fr">téléfilm sentimental</category>
-    <length units="minutes">95</length>
+    <length units="minutes">90</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1dc791bd-a2ae-41c0-bb4f-37a6dadb40c8.jpg" />
     <country>américano-canadien</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116082500" stop="20200116095000">
+  <programme channel="C187.api.telerama.fr" start="20200116083000" stop="20200116100000">
     <title>Coup de foudre par erreur</title>
     <desc lang="fr">Clarissa, une comédienne qui peine à percer, rentre chez elle pour un mariage. Elle tente d'impressionner ses amis en faisant croire qu'elle sort avec la star Chas Hunter. Mais bientôt, elle se retrouve piégée par son mensonge. Chas, mis au courant de la supercherie, décide de se joindre à la noce...</desc>
     <credits>
@@ -2168,26 +1899,26 @@
       <writer>Jake Helgren</writer>
     </credits>
     <category lang="fr">téléfilm sentimental</category>
-    <length units="minutes">85</length>
+    <length units="minutes">90</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d5fa6fde-4923-44b0-9c31-4dd7093be61d.jpg" />
     <country>américain</country>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116095000" stop="20200116102000">
+  <programme channel="C187.api.telerama.fr" start="20200116100000" stop="20200116102500">
     <title>Si près de chez vous</title>
     <sub-title>Tête de bois</sub-title>
     <desc lang="fr">Saison:1 - Victor, créateur de meubles, est retrouvé mort dans sa boutique. Or, cet ébéniste comptait dans son entourage des personnes mal intentionnées, qui lui reprochaient son égocentrisme.</desc>
     <category lang="fr">magazine de société</category>
-    <length units="minutes">30</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116102000" stop="20200116105000">
+  <programme channel="C187.api.telerama.fr" start="20200116102500" stop="20200116105500">
     <title>Si près de chez vous</title>
     <sub-title>Mandat exclusif</sub-title>
     <desc lang="fr">Saison:1 - A Brest, Jules, agent immobilier, vient d'être poignardé dans son bureau. Justine, sa compagne, Agnès, sa tante, et Arnaud, un client mécontent, sont les principaux suspects.</desc>
@@ -2199,14 +1930,14 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116105000" stop="20200116112500">
+  <programme channel="C187.api.telerama.fr" start="20200116105500" stop="20200116112500">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
     <credits>
       <presenter>Nagui</presenter>
     </credits>
     <category lang="fr">jeu</category>
-    <length units="minutes">35</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2252,7 +1983,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116123000" stop="20200116125500">
+  <programme channel="C187.api.telerama.fr" start="20200116123000" stop="20200116130000">
     <title>Plus belle la vie</title>
     <desc lang="fr">Saison:16 - Episode:3976 - Tandis qu'Elsa entame un bras de fer décisif, Laetitia s'interroge sur son avenir amoureux et Blanche pousse Eric à bout...</desc>
     <credits>
@@ -2271,7 +2002,7 @@
       <writer>François Charlent</writer>
     </credits>
     <category lang="fr">feuilleton réaliste</category>
-    <length units="minutes">25</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/24a93b82-9cac-4218-9720-eed21d415a1e.jpg" />
     <country>français</country>
     <episode-num system="xmltv_ns">15.3975.</episode-num>
@@ -2279,7 +2010,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116125500" stop="20200116142500">
+  <programme channel="C187.api.telerama.fr" start="20200116130000" stop="20200116143000">
     <title>Simone Biles : Les sacrifices d'une championne</title>
     <desc lang="fr">Fille d'une mère toxicomane, Simone Biles est recueillie avec sa soeur par ses grand-parents, au Texas. C'est alors que Simone se découvre un talent pour la gymnastique. Elle ne rêve désormais plus que de devenir une grande gymnaste. Elle s'entraîne dur pour y arriver...</desc>
     <credits>
@@ -2302,7 +2033,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116142500" stop="20200116160000">
+  <programme channel="C187.api.telerama.fr" start="20200116143000" stop="20200116155700">
     <title>L'homme qui a brisé ma fille</title>
     <desc lang="fr">Une adolescente fait la connaissance d'un sportif très populaire. Elle tombe amoureuse de lui sans se douter que rapidement, sa vie va devenir un enfer.</desc>
     <credits>
@@ -2318,12 +2049,28 @@
       <writer>Caitlin D Fryers</writer>
     </credits>
     <category lang="fr">téléfilm de suspense</category>
-    <length units="minutes">95</length>
+    <length units="minutes">87</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5cab2189-c267-4443-bf09-91b8b890a620.jpg" />
     <country>américain</country>
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200116155700" stop="20200116160000">
+    <title>Very bad blagues</title>
+    <sub-title>Quand on veut rompre</sub-title>
+    <desc lang="fr">Saison:1 - La troupe du Palmashow se met en scène dans les situations les plus classiques comme les plus inattendues, enchaînant mauvaises blagues, maladresses et absurdités.</desc>
+    <credits>
+      <presenter>Grégoire Ludig</presenter>
+      <presenter>David Marsais</presenter>
+    </credits>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C187.api.telerama.fr" start="20200116160000" stop="20200116163000">
@@ -2350,20 +2097,20 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116170500" stop="20200116174000">
+  <programme channel="C187.api.telerama.fr" start="20200116170500" stop="20200116173500">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
     <credits>
       <presenter>Nagui</presenter>
     </credits>
     <category lang="fr">jeu</category>
-    <length units="minutes">35</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116174000" stop="20200116181500">
+  <programme channel="C187.api.telerama.fr" start="20200116173500" stop="20200116181000">
     <title>Plus belle la vie</title>
     <desc lang="fr">Saison:16 - Episode:3976 - Tandis qu'Elsa entame un bras de fer décisif, Laetitia s'interroge sur son avenir amoureux et Blanche pousse Eric à bout...</desc>
     <credits>
@@ -2390,7 +2137,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116181500" stop="20200116184000">
+  <programme channel="C187.api.telerama.fr" start="20200116181000" stop="20200116183500">
     <title>Friends</title>
     <sub-title>Celui qui devient papa</sub-title>
     <desc lang="fr">Saison:1 - Episode:17 - En décrochant les décorations de Noël, Rachel tombe et se blesse à la cheville. Monica la conduit à l'hôpital, où elles font la connaissance de deux charmants médecins, Michael Mitchell et Jeffrey Rosen. Elles les invitent à passer une soirée en leur compagnie. Tout se déroule parfaitement jusqu'à ce que les deux jeunes femmes commencent à se disputer. Quand Ursula quitte Joey, il est effondré et va chercher du réconfort auprès de Phoebe. Ross, quant à lui, demande des conseils à son père en vue de la naissance du bébé...</desc>
@@ -2416,7 +2163,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116184000" stop="20200116190500">
+  <programme channel="C187.api.telerama.fr" start="20200116183500" stop="20200116190500">
     <title>Friends</title>
     <sub-title>Celui qui gagnait au poker</sub-title>
     <desc lang="fr">Saison:1 - Episode:18 - Lasse de son travail, Rachel passe un entretien pour obtenir une place chez Saks, sur la cinquième avenue. La jeune femme découvre une autre facette de Ross quand elle participe à une partie de poker qui oppose les filles aux garçons. Bien préparés, Ross, Joey et Chandler gagnent haut la main et soutirent tout l'argent de Monica, Phoebe et Rachel. Après cette piteuse défaite, les jeunes femmes écoutent les conseils d'Iris, la tante de Monica, experte en la matière. Elles exigent alors de prendre leur revanche...</desc>
@@ -2434,7 +2181,7 @@
       <guest>Beverly Garland (tante Iris)</guest>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">25</length>
+    <length units="minutes">30</length>
     <country>Etats-Unis</country>
     <episode-num system="xmltv_ns">0.17.</episode-num>
     <rating system="CSA">
@@ -2488,17 +2235,17 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116211000" stop="20200116212000">
+  <programme channel="C187.api.telerama.fr" start="20200116211000" stop="20200116211500">
     <title>Météo</title>
     <desc lang="fr">Bulletin météo et prévisions.</desc>
     <category lang="fr">météo</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116212000" stop="20200116213000">
+  <programme channel="C187.api.telerama.fr" start="20200116211500" stop="20200116212500">
     <title>Vews</title>
     <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
     <credits>
@@ -2513,7 +2260,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116213000" stop="20200116232500">
+  <programme channel="C187.api.telerama.fr" start="20200116212500" stop="20200116232500">
     <title>Baby Driver</title>
     <desc lang="fr">Baby, un as du volant taciturne qui ne peut "travailler" sans musique dans les oreilles,  met ses dons au service de braqueurs de banque. Lorsqu’il rencontre la femme de sa vie, la jolie Debora serveuse dans un dinner, Baby veut se ranger et plaquer l’univers du crime. Mais on ne plante aussi facilement le très frappé Doc. Tout dérape quand l'un des coups montés par le mafieux tourne au fiasco. Baby devra défendre chèrement sa peau... - Critique : &lt;p&gt;Comment Edgar Wright, auteur d’une réjouissante trilogie entamée avec &lt;em&gt;Shaun of the Dead&lt;/em&gt; (2004), a-t-il pu tomber si bas ? Hommage appuyé ou plagiat, il reprend des pans entiers du &lt;em&gt;Drive&lt;/em&gt; de Nico­las Winding Refn, dans cette histoire de jeune chauffeur mutique (Ansel Elgort, amor­phe) qui pilote pour des braqueurs. Comme le type souffre d’acouphènes, il écoute de la musique sans arrêt : prétexte à une interminable playlist accompagnant courses-poursuites et fusillades. Les premières séquences sont chorégraphiées, mais ces velléités de comédie musicale s’estompent bien vite. Ne reste alors qu’un polar quelconque aux personnages sous-écrits et surjoués.&lt;/p&gt;</desc>
     <credits>
@@ -2532,7 +2279,7 @@
     </credits>
     <date>2017</date>
     <category lang="fr">film : aventure</category>
-    <length units="minutes">115</length>
+    <length units="hours">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/89addbbe-929b-4a4c-82eb-8e479e8ad1cf.jpg" />
     <country>Grande-Bretagne - Etats-Unis</country>
     <rating system="CSA">
@@ -2543,17 +2290,17 @@
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116232500" stop="20200116235500">
+  <programme channel="C187.api.telerama.fr" start="20200116232500" stop="20200116235000">
     <title>Opinions</title>
     <sub-title>PS</sub-title>
     <category lang="fr">magazine de société</category>
-    <length units="minutes">30</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6241b08c-fbb0-44d5-ae42-60b7d887821a.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200116235500" stop="20200117000100">
+  <programme channel="C187.api.telerama.fr" start="20200116235000" stop="20200116235600">
     <title>Vews</title>
     <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
     <credits>
@@ -2568,22 +2315,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200115235500" stop="20200116000000">
-    <title>Het weer</title>
+  <programme channel="C187.api.telerama.fr" start="20200116235600" stop="20200117000000">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
     <category lang="fr">météo</category>
-    <length units="minutes">5</length>
+    <length units="minutes">4</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20200116000000" stop="20200116013000">
-    <title>Villa Politica</title>
-    <category lang="fr">magazine politique</category>
-    <length units="minutes">90</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3002,28 +2739,6 @@
     <category lang="fr">magazine politique</category>
     <length units="minutes">90</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20200115221500" stop="20200116001500">
-    <title>Luna Park</title>
-    <desc lang="fr">Les spectateurs tentent de remporter des jeux en direct, avec à la clé de l'argent ou de nombreux cadeaux.</desc>
-    <category lang="fr">jeu</category>
-    <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20200116001500" stop="20200116040000">
-    <title>Télé-achat</title>
-    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
-    <category lang="fr">magazine de télé-achat</category>
-    <length units="minutes">225</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3489,17 +3204,6 @@
     <length units="hours">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C50.api.telerama.fr" start="20200115224500" stop="20200116040000">
-    <title>Télé-achat</title>
-    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
-    <category lang="fr">magazine de télé-achat</category>
-    <length units="minutes">315</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3971,189 +3675,6 @@
     <category lang="fr">magazine de télé-achat</category>
     <length units="minutes">335</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200115233000" stop="20200116000800">
-    <title>JT traduction gestuelle</title>
-    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">38</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116000800" stop="20200116001000">
-    <title>Météo internationale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116001000" stop="20200116003500">
-    <title>CQFD (Ce qui fait débat)</title>
-    <desc lang="fr">Du lundi au vendredi, Arnaud Ruyssen et Catherine Tonero orchestrent un face à face contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, l'actualité de la semaine est analysée par Arnaud Ruyssen et ses invités.</desc>
-    <credits>
-      <presenter>Arnaud Ruyssen</presenter>
-      <presenter>Catherine Tonero</presenter>
-    </credits>
-    <category lang="fr">débat</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/87c41bfa-32ff-4927-a96e-5894df2bb890.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116003500" stop="20200116011000">
-    <title>Hep taxi !</title>
-    <desc lang="fr">Depuis le succès de «Louxor j'adore», Philippe Katerine est, contre toute attente, un chanteur populaire. Potache, excessif, c'est un personnage difficile à cerner mais son public l'adore. Le sourire en coin et l'oeil malicieux, il a joyeusement grimpé à bord du taxi de Jérôme Colin, en 2011, pour une promenade dans Bruxelles.</desc>
-    <credits>
-      <presenter>Jérôme Colin</presenter>
-      <guest>Philippe Katerine</guest>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">35</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/aa1c89d3-bec8-47f2-994f-c89bc8c061e3.jpg" />
-    <country>américaine</country>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116011000" stop="20200116014400">
-    <title>JT traduction gestuelle</title>
-    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">34</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116014400" stop="20200116014500">
-    <title>Météo internationale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116014500" stop="20200116021000">
-    <title>CQFD (Ce qui fait débat)</title>
-    <desc lang="fr">Du lundi au vendredi, Arnaud Ruyssen et Catherine Tonero orchestrent un face à face contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, l'actualité de la semaine est analysée par Arnaud Ruyssen et ses invités.</desc>
-    <credits>
-      <presenter>Arnaud Ruyssen</presenter>
-      <presenter>Catherine Tonero</presenter>
-    </credits>
-    <category lang="fr">débat</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/87c41bfa-32ff-4927-a96e-5894df2bb890.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116021000" stop="20200116024500">
-    <title>Hep taxi !</title>
-    <desc lang="fr">Depuis le succès de «Louxor j'adore», Philippe Katerine est, contre toute attente, un chanteur populaire. Potache, excessif, c'est un personnage difficile à cerner mais son public l'adore. Le sourire en coin et l'oeil malicieux, il a joyeusement grimpé à bord du taxi de Jérôme Colin, en 2011, pour une promenade dans Bruxelles.</desc>
-    <credits>
-      <presenter>Jérôme Colin</presenter>
-      <guest>Philippe Katerine</guest>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">35</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/aa1c89d3-bec8-47f2-994f-c89bc8c061e3.jpg" />
-    <country>américaine</country>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116024500" stop="20200116030000">
-    <title>Les meilleures recettes de Wallonie</title>
-    <sub-title>Le canard au «Pèkèt»</sub-title>
-    <desc lang="fr">Madame Bodson-Suars, descendante d'une vieille famille namuroise, propose la recette du canard au «Pèkèt» que sa grand-mère faisait aux grandes occasions, avec des petits navets glacés et du riz.</desc>
-    <credits>
-      <presenter>Philippe Gauthier</presenter>
-    </credits>
-    <category lang="fr">magazine culinaire</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116030000" stop="20200116033400">
-    <title>JT traduction gestuelle</title>
-    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">34</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116033400" stop="20200116033500">
-    <title>Météo internationale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116033500" stop="20200116040000">
-    <title>CQFD (Ce qui fait débat)</title>
-    <desc lang="fr">Du lundi au vendredi, Arnaud Ruyssen et Catherine Tonero orchestrent un face à face contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, l'actualité de la semaine est analysée par Arnaud Ruyssen et ses invités.</desc>
-    <credits>
-      <presenter>Arnaud Ruyssen</presenter>
-      <presenter>Catherine Tonero</presenter>
-    </credits>
-    <category lang="fr">débat</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/87c41bfa-32ff-4927-a96e-5894df2bb890.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116040000" stop="20200116043500">
-    <title>Hep taxi !</title>
-    <desc lang="fr">Depuis le succès de «Louxor j'adore», Philippe Katerine est, contre toute attente, un chanteur populaire. Potache, excessif, c'est un personnage difficile à cerner mais son public l'adore. Le sourire en coin et l'oeil malicieux, il a joyeusement grimpé à bord du taxi de Jérôme Colin, en 2011, pour une promenade dans Bruxelles.</desc>
-    <credits>
-      <presenter>Jérôme Colin</presenter>
-      <guest>Philippe Katerine</guest>
-    </credits>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">35</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/aa1c89d3-bec8-47f2-994f-c89bc8c061e3.jpg" />
-    <country>américaine</country>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116043500" stop="20200116050000">
-    <title>CQFD (Ce qui fait débat)</title>
-    <desc lang="fr">Du lundi au vendredi, Arnaud Ruyssen et Catherine Tonero orchestrent un face à face contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, l'actualité de la semaine est analysée par Arnaud Ruyssen et ses invités.</desc>
-    <credits>
-      <presenter>Arnaud Ruyssen</presenter>
-      <presenter>Catherine Tonero</presenter>
-    </credits>
-    <category lang="fr">débat</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/87c41bfa-32ff-4927-a96e-5894df2bb890.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -4934,12 +4455,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116161000" stop="20200116162500">
+  <programme channel="C892.api.telerama.fr" start="20200116161000" stop="20200116162000">
     <title>Sonic Boom</title>
     <sub-title>Un jour sans fin</sub-title>
     <desc lang="fr">Saison:1 - Episode:20 - La nouvelle arme d'Eggman pertube l'espace temps et lui fait revivre tous les jours le même jour. Il a besoin de Sonic et Tails pour en sortir...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b18eab9b-c2e7-4664-984e-71ce1c53df03.jpg" />
     <country>Etats-Unis</country>
     <episode-num system="xmltv_ns">0.19.</episode-num>
@@ -4948,12 +4469,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116162500" stop="20200116163500">
+  <programme channel="C892.api.telerama.fr" start="20200116162000" stop="20200116163500">
     <title>Sonic Boom</title>
     <sub-title>La sauce tomate du docteur Eggman</sub-title>
     <desc lang="fr">Saison:1 - Episode:18 - Eggman inonde l'île avec sa dernière invention, la sauce tomate Eggman. Sonic pense qu'il s'agit d'un nouveau piège...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1d223d59-ef74-4dc4-b0a6-fe85b7ec245a.jpg" />
     <country>Etats-Unis</country>
     <episode-num system="xmltv_ns">0.17.</episode-num>
@@ -5012,7 +4533,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116170500" stop="20200116172000">
+  <programme channel="C892.api.telerama.fr" start="20200116170500" stop="20200116171500">
     <title>Ben 10</title>
     <sub-title>Le trésor de Yellowstone</sub-title>
     <desc lang="fr">Saison:1 - Episode:17 - Aujourd'hui grand-père Max a prévu de faire visiter à ses petits enfants le parc national de Yellowstone. Ben est persuadé, d'après ses recherches sur Internet, qu'il va y trouver un trésor...</desc>
@@ -5023,13 +4544,13 @@
       <writer>Steven T Seagle</writer>
     </credits>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">0.16.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116172000" stop="20200116173000">
+  <programme channel="C892.api.telerama.fr" start="20200116171500" stop="20200116173000">
     <title>Ben 10</title>
     <sub-title>La brève carrière de Mademoiselle Chance</sub-title>
     <desc lang="fr">Saison:1 - Episode:18 - Grand-père Max est impatient de se rendre avec ses petits enfants à une convention Cosplay. Gwen a hâte de mettre son costume de Mademoiselle Chance pour assister à la projection de son nouveau film. Ben ne semble pas être à sa place et sa route va encore croiser celle d'Hex...</desc>
@@ -5040,7 +4561,7 @@
       <writer>Steven T Seagle</writer>
     </credits>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">0.17.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -5133,26 +4654,26 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116190000" stop="20200116195100">
+  <programme channel="C892.api.telerama.fr" start="20200116190000" stop="20200116195200">
     <title>JT traduction gestuelle</title>
     <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">51</length>
+    <length units="minutes">52</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116195100" stop="20200116195500">
+  <programme channel="C892.api.telerama.fr" start="20200116195200" stop="20200116195500">
     <title>Météo internationale</title>
     <category lang="fr">météo</category>
-    <length units="minutes">4</length>
+    <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116195500" stop="20200116202000">
+  <programme channel="C892.api.telerama.fr" start="20200116195500" stop="20200116202500">
     <title>CQFD (Ce qui fait débat)</title>
     <desc lang="fr">Du lundi au vendredi, Arnaud Ruyssen et Catherine Tonero orchestrent un face à face contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, l'actualité de la semaine est analysée par Arnaud Ruyssen et ses invités.</desc>
     <credits>
@@ -5160,14 +4681,14 @@
       <presenter>Catherine Tonero</presenter>
     </credits>
     <category lang="fr">débat</category>
-    <length units="minutes">25</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/87c41bfa-32ff-4927-a96e-5894df2bb890.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116202000" stop="20200116215500">
+  <programme channel="C892.api.telerama.fr" start="20200116202500" stop="20200116220000">
     <title>Un homme à la mer</title>
     <desc lang="fr">Mathieu est biologiste marin. A plus de 35 ans, il passe son temps sur son microscope, à découper de minuscules cadavres d'organismes marins. Il n'est pas heureux. Sa passion, c'est la mer et il vit cloué entre quatre murs. Mais un événement va brusquement changer sa vie : Christine, sa belle-mère, fugue. Curieux de comprendre les raisons de cette disparition, Mathieu part à sa recherche. Il va la retrouver dans une maison à Oléron et partager le même désir de reprendre sa vie en main...</desc>
     <credits>
@@ -5190,7 +4711,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200116215500" stop="20200117000500">
+  <programme channel="C892.api.telerama.fr" start="20200116220000" stop="20200116233000">
     <title>Cerise</title>
     <desc lang="fr">A 14 ans, Cerise est incontrolable. Elle est perchée sur des talons qui ne sont pas de son âge, maquillée outrageusement et vole dans les magasins. Sa mère, au bout du rouleau, décide de l'envoyer en Ukraine chez son père. A l'aéroport, celui-ci ne la reconnaît pas et se met à la draguer. Malgré tout, ils doivent vivre ensemble alors que la jeune fille ne pense qu'à rentrer à Paris. Elle fait la connaissance de Nina, qui prend le temps de l'écouter et surtout lui apprend à être moins centrée sur sa petite personne. C'est alors que la révolution ukrainienne éclate. Cerise, qui ne connaissait pas Lénine, va être emportée par le tourbillon de l'Histoire...</desc>
     <credits>
@@ -5208,9 +4729,20 @@
     </credits>
     <date>2015</date>
     <category lang="fr">film : comédie</category>
-    <length units="minutes">130</length>
+    <length units="minutes">90</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/0db38a32-a6b7-4207-aac8-e26de93a91bd_2.jpg" />
     <country>français</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200116233000" stop="20200117002100">
+    <title>JT traduction gestuelle</title>
+    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">51</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
