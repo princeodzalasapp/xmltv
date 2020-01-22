@@ -48,12 +48,6 @@
   <channel id="yoyo.raisat.it">
     <display-name>Yoyo</display-name>
   </channel>
-  <programme channel="raipremium.guidatv.sky.it" start="20200121222000" stop="20200122001500">
-    <title lang="it">Purche' finisca bene: L'amore il sole...</title>
-    <desc lang="it">...e le altre stelle -...</desc>
-    <category lang="it">commedia</category>
-    <category lang="it">film</category>
-  </programme>
   <programme channel="www.la7.it" start="20200122050000" stop="20200122050500">
     <title lang="it">Meteo</title>
     <desc lang="it">L'aggiornamento sulle...</desc>
@@ -869,7 +863,7 @@
     <category lang="it">sport invernali</category>
     <category lang="it">sport</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200122015000" stop="20200122015500">
+  <programme channel="rai4.raisat.it" start="20200122020500" stop="20200122021000">
     <title lang="it">Anica Appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione...</desc>
     <category lang="it">magazine cinema</category>
@@ -881,43 +875,37 @@
     <category lang="it">magazine cinema</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200121233000" stop="20200122002000">
+  <programme channel="rai4.raisat.it" start="20200121235500" stop="20200122004000">
     <title lang="it">X-Files</title>
     <desc lang="it">S9 Ep17 Intuizioni -...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200122002000" stop="20200122011000">
+  <programme channel="rai4.raisat.it" start="20200122004000" stop="20200122012500">
     <title lang="it">X-Files</title>
     <desc lang="it">S9 Ep18 La casa dei sogni...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200122011000" stop="20200122015000">
+  <programme channel="rai4.raisat.it" start="20200122012500" stop="20200122020500">
     <title lang="it">X-Files</title>
     <desc lang="it">S9 Ep19 La verita'. 1a...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200122015500" stop="20200122023500">
+  <programme channel="rai4.raisat.it" start="20200122021000" stop="20200122025000">
     <title lang="it">24</title>
     <desc lang="it">S8 Ep17 Giorno 8: Dalle...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200122023500" stop="20200122031500">
+  <programme channel="rai4.raisat.it" start="20200122025000" stop="20200122033000">
     <title lang="it">24</title>
     <desc lang="it">S8 Ep18 Giorno 8: Dalle...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200122031500" stop="20200122040000">
-    <title lang="it">Medium</title>
-    <desc lang="it">S6 Ep18 Sangue del mio...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="rai4.raisat.it" start="20200122040000" stop="20200122042500">
+  <programme channel="rai4.raisat.it" start="20200122041500" stop="20200122042500">
     <title lang="it">Il candidato - Zucca Presidente</title>
     <desc lang="it">S1 Ep12 Conferenza stampa...</desc>
     <category lang="it">fiction</category>
@@ -1082,6 +1070,24 @@
     <sub-title lang="it">S2 Ep5</sub-title>
     <desc lang="it">Una brutta...</desc>
     <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="rai4.raisat.it" start="20200122033000" stop="20200122033500">
+    <title lang="it">Camera Cafe'</title>
+    <desc lang="it">S6 Ep89 Cancellare la...</desc>
+    <category lang="it">sit com</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="rai4.raisat.it" start="20200122034000" stop="20200122041500">
+    <title lang="it">Camera Cafe'</title>
+    <desc lang="it">S6 Ep91 Il toccatore -...</desc>
+    <category lang="it">sit com</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="rai4.raisat.it" start="20200122033500" stop="20200122034000">
+    <title lang="it">Camera Cafe'</title>
+    <desc lang="it">S6 Ep90 La prima donna -...</desc>
+    <category lang="it">sit com</category>
     <category lang="it">intrattenimento</category>
   </programme>
   <programme channel="raigulp.rai.it" start="20200121234500" stop="20200122001000">
@@ -2136,227 +2142,163 @@
   </programme>
   <programme channel="yoyo.raisat.it" start="20200121235500" stop="20200122000000">
     <title lang="it">Kit e Kate</title>
-    <desc lang="it">Kit e Kate amano molto la...</desc>
+    <sub-title lang="it">Episodio 2</sub-title>
+    <desc lang="it">Kit e Kate amano...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122000000" stop="20200122000500">
     <title lang="it">Kit e Kate</title>
-    <desc lang="it">Kit e Kate amano molto la...</desc>
+    <sub-title lang="it">Episodio 3</sub-title>
+    <desc lang="it">Kit e Kate amano...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 3</episode-num>
+    <episode-num system="xmltv_ns">.2.0/1</episode-num>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122000500" stop="20200122001500">
     <title lang="it">Kit e Kate</title>
-    <desc lang="it">Kit e Kate amano molto la...</desc>
+    <sub-title lang="it">Episodio 4</sub-title>
+    <desc lang="it">Kit e Kate amano...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 4</episode-num>
+    <episode-num system="xmltv_ns">.3.0/1</episode-num>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122001500" stop="20200122002000">
     <title lang="it">Topo Tip</title>
-    <sub-title lang="it">S1</sub-title>
+    <sub-title lang="it">S1 Ep2</sub-title>
     <desc lang="it">Il simpatico,...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122002000" stop="20200122003000">
     <title lang="it">Topo Tip</title>
-    <sub-title lang="it">S1</sub-title>
+    <sub-title lang="it">S1 Ep3</sub-title>
     <desc lang="it">Il simpatico,...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122003000" stop="20200122005500">
     <title lang="it">La Melevisione</title>
-    <desc lang="it">Contenitore pomeridiano...</desc>
+    <sub-title lang="it">Ep. 110</sub-title>
+    <desc lang="it">Contenitore...</desc>
     <category lang="it">bambini</category>
     <category lang="it">ragazzi e musica</category>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122005500" stop="20200122010000">
     <title lang="it">Mofy</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">La graziosa...</desc>
+    <sub-title lang="it">Episodio 7</sub-title>
+    <desc lang="it">Lee...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 7</episode-num>
+    <episode-num system="xmltv_ns">.6.0/1</episode-num>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122010000" stop="20200122010500">
     <title lang="it">Mofy</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">La graziosa...</desc>
+    <desc lang="it">S1 Ep38 Topini...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122010500" stop="20200122011000">
     <title lang="it">Mofy</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">La graziosa...</desc>
+    <desc lang="it">S1 Ep39 Un tartarughino...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122011000" stop="20200122012000">
     <title lang="it">Marco Polo</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Gli spettacolari e...</desc>
+    <sub-title lang="it">S1 Ep1</sub-title>
+    <desc lang="it">Gli spettacolari...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122012000" stop="20200122013000">
     <title lang="it">Marco Polo</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Gli spettacolari e...</desc>
+    <sub-title lang="it">S1 Ep2</sub-title>
+    <desc lang="it">Gli spettacolari...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122013000" stop="20200122014000">
     <title lang="it">Il piccolo regno di Ben e Holly</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Il Piccolo Regno e'...</desc>
+    <sub-title lang="it">Episodio 5</sub-title>
+    <desc lang="it">Il Piccolo...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 5</episode-num>
+    <episode-num system="xmltv_ns">.4.0/1</episode-num>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122014000" stop="20200122015500">
     <title lang="it">Il piccolo regno di Ben e Holly</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Il Piccolo Regno e'...</desc>
+    <sub-title lang="it">Episodio 6</sub-title>
+    <desc lang="it">Il Piccolo...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="yoyo.raisat.it" start="20200122015500" stop="20200122020000">
-    <title lang="it">Pipi', Pupu' e Rosmarina</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Tre cuccioli si...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="yoyo.raisat.it" start="20200122020000" stop="20200122021000">
-    <title lang="it">Pipi', Pupu' e Rosmarina</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Tre cuccioli si...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="yoyo.raisat.it" start="20200122021000" stop="20200122022000">
-    <title lang="it">Pipi', Pupu' e Rosmarina</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Tre cuccioli si...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="yoyo.raisat.it" start="20200122022000" stop="20200122022500">
-    <title lang="it">Milo</title>
-    <sub-title lang="it">S3</sub-title>
-    <desc lang="it">Milo e' un simpatico...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="yoyo.raisat.it" start="20200122022500" stop="20200122023000">
-    <title lang="it">Milo</title>
-    <sub-title lang="it">S3</sub-title>
-    <desc lang="it">Milo e' un simpatico...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="yoyo.raisat.it" start="20200122023000" stop="20200122023500">
-    <title lang="it">Milo</title>
-    <sub-title lang="it">S3</sub-title>
-    <desc lang="it">Milo e' un simpatico...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="yoyo.raisat.it" start="20200122023500" stop="20200122024000">
-    <title lang="it">Milo</title>
-    <sub-title lang="it">S3</sub-title>
-    <desc lang="it">Milo e' un simpatico...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="yoyo.raisat.it" start="20200122024000" stop="20200122024500">
-    <title lang="it">Milo</title>
-    <sub-title lang="it">S3</sub-title>
-    <desc lang="it">Milo e' un simpatico...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 6</episode-num>
+    <episode-num system="xmltv_ns">.5.0/1</episode-num>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122024500" stop="20200122031000">
     <title lang="it">Il piccolo principe</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Il celebre romanzo...</desc>
+    <desc lang="it">S1 Ep17 D444: Il pianeta...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122031000" stop="20200122032000">
     <title lang="it">Chuggington</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Le divertentissime...</desc>
+    <sub-title lang="it">S2 Ep5</sub-title>
+    <desc lang="it">Le...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122032000" stop="20200122033000">
     <title lang="it">Chuggington</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Le divertentissime...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="yoyo.raisat.it" start="20200122033000" stop="20200122034000">
-    <title lang="it">Leo e Tig</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Un cucciolo di...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="yoyo.raisat.it" start="20200122034000" stop="20200122035000">
-    <title lang="it">Leo e Tig</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Un cucciolo di...</desc>
+    <sub-title lang="it">S2 Ep6</sub-title>
+    <desc lang="it">Le...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122035000" stop="20200122040500">
     <title lang="it">Il postino Pat</title>
-    <sub-title lang="it">S3</sub-title>
-    <desc lang="it">Pat e' molto piu' di...</desc>
+    <desc lang="it">S3 Ep5 La gara di pancake...</desc>
     <category lang="it">bambini</category>
     <category lang="it">ragazzi e musica</category>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122040500" stop="20200122042000">
     <title lang="it">Il postino Pat</title>
-    <sub-title lang="it">S3</sub-title>
-    <desc lang="it">Pat e' molto piu' di...</desc>
+    <desc lang="it">S3 Ep6 Il telecomando...</desc>
     <category lang="it">bambini</category>
     <category lang="it">ragazzi e musica</category>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122042000" stop="20200122043000">
     <title lang="it">Noddy - Toyland Detective</title>
-    <desc lang="it">Noddy e' un bambino...</desc>
+    <sub-title lang="it">Episodio 7</sub-title>
+    <desc lang="it">Noddy e' un...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 7</episode-num>
+    <episode-num system="xmltv_ns">.6.0/1</episode-num>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122043000" stop="20200122044000">
     <title lang="it">Noddy - Toyland Detective</title>
-    <desc lang="it">Noddy e' un bambino...</desc>
+    <sub-title lang="it">Episodio 8</sub-title>
+    <desc lang="it">Noddy e' un...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 8</episode-num>
+    <episode-num system="xmltv_ns">.7.0/1</episode-num>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122044000" stop="20200122045000">
     <title lang="it">Noddy - Toyland Detective</title>
-    <desc lang="it">Noddy e' un bambino...</desc>
+    <sub-title lang="it">Episodio 9</sub-title>
+    <desc lang="it">Noddy e' un...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="yoyo.raisat.it" start="20200122045000" stop="20200122045500">
-    <title lang="it">Molly Monster</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Molly vive con la...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="yoyo.raisat.it" start="20200122045500" stop="20200122050000">
-    <title lang="it">Molly Monster</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Molly vive con la...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 9</episode-num>
+    <episode-num system="xmltv_ns">.8.0/1</episode-num>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200122050000" stop="20200122051000">
     <title lang="it">Calimero</title>
@@ -3270,6 +3212,86 @@
     <title lang="it">Shaun: vita da pecora</title>
     <sub-title lang="it">S1</sub-title>
     <desc lang="it">Shaun e' una pecora...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200122015500" stop="20200122020000">
+    <title lang="it">Pipi', Pupu' e Rosmarina</title>
+    <desc lang="it">S1 Ep48 La favola di...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200122020000" stop="20200122020500">
+    <title lang="it">Pipi', Pupu' e Rosmarina</title>
+    <desc lang="it">S1 Ep49 I due ladroni -...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200122020500" stop="20200122021000">
+    <title lang="it">Pipi', Pupu' e Rosmarina</title>
+    <desc lang="it">S1 Ep50 Una tempesta...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200122021000" stop="20200122022000">
+    <title lang="it">Pipi', Pupu' e Rosmarina</title>
+    <desc lang="it">S1 Ep51 Piove piove piove...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200122022000" stop="20200122022500">
+    <title lang="it">Milo</title>
+    <desc lang="it">S1 Ep42 Milo e il...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200122022500" stop="20200122023000">
+    <title lang="it">Milo</title>
+    <desc lang="it">S1 Ep43 Milo e la paura -...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200122023000" stop="20200122023500">
+    <title lang="it">Milo</title>
+    <sub-title lang="it">Episodio 4</sub-title>
+    <desc lang="it">Milo e' un...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 4</episode-num>
+    <episode-num system="xmltv_ns">.3.0/1</episode-num>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200122023500" stop="20200122024000">
+    <title lang="it">Milo</title>
+    <sub-title lang="it">Episodio 5</sub-title>
+    <desc lang="it">Milo e' un...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 5</episode-num>
+    <episode-num system="xmltv_ns">.4.0/1</episode-num>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200122024000" stop="20200122024500">
+    <title lang="it">Milo</title>
+    <desc lang="it">S1 Ep46 Milo e la...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200122033000" stop="20200122034000">
+    <title lang="it">Leo e Tig</title>
+    <sub-title lang="it">S1 Ep1</sub-title>
+    <desc lang="it">Un cucciolo di...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200122034000" stop="20200122035000">
+    <title lang="it">Leo e Tig</title>
+    <sub-title lang="it">S1 Ep2</sub-title>
+    <desc lang="it">Un cucciolo di...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200122045000" stop="20200122050000">
+    <title lang="it">Calimero</title>
+    <desc lang="it">S1 Ep9 La statua fantasma...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
   </programme>
