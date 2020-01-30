@@ -390,16 +390,27 @@ my $CHANNEL_GRID;
 my $CHANNEL_GRID_PAGE;
 my $ROOT_URL;
 
+# use keep-alive to avoid useless ssl handshakes !
+my $ua = LWP::UserAgent->new(
+  requests_redirectable => ['GET', 'POST','HEAD'],
+  max_redirect => 3,
+  keep_alive => 1,
+  agent=>"okhttp/3.2.0"
+);
+$ua->env_proxy;
 
-my $ua = LWP::UserAgent->new;
+# do the same when using XMLTV::Get_nice
+$XMLTV::Get_nice::ua = LWP::UserAgent->new(
+  requests_redirectable => ['GET', 'POST','HEAD'],
+  max_redirect => 3,
+  keep_alive => 1,
+  agent=>"okhttp/3.2.0"
+);
+$XMLTV::Get_nice::ua->env_proxy;
 
 $CHANNEL_GRID = '/v1/application/initialisation';
 $CHANNEL_GRID_PAGE = "/v1/programmes/telechargement";
 $ROOT_URL  = 'https://api.telerama.fr';
-$ua->agent("okhttp/3.2.0");
-
-$ua->env_proxy;
-
 
 #***************************************************************************
 # Options processing, warnings, checks and default parameters
@@ -499,18 +510,13 @@ sub mkjsonname($$) {
 
 sub mkurl($$) {
   my ($u, %p) = ($_[0], %{$_[1]});
-  my $l;
 
   $p{'appareil'} = 'android_tablette';
 
-  foreach (sort keys %p) {
-    $l .= "$_$p{$_}";
-  }
+  my $params = join('&', sort map { $_.'='.$p{$_} } keys %p);
+  my $to_sign = $params =~ s/&|=//gr;
 
-  $p{'api_signature'} = hmac_sha1_hex("$u$l", 'Eufea9cuweuHeif');
-  $p{'api_cle'} = 'apitel-5304b49c90511';
-
-  return "$ROOT_URL$u?".join '&', map {"$_=$p{$_}"} keys %p;
+  return $ROOT_URL.$u.'?'.$params.'&api_cle=apitel-5304b49c90511&api_signature='.hmac_sha1_hex($u.$to_sign,'Eufea9cuweuHeif');
 }
 
 
@@ -1137,6 +1143,7 @@ sub process_channel_grid_page( $$$$$$ ) {
     $prog{subtitles} = [ { type => 'onscreen', language => ['fr'] } ] if ($line->{'flags'}{'est_vost'});
     $prog{premiere} = [] if ($line->{'flags'}{'est_inedit'});
     $prog{'previously-shown'} = {} if ($line->{'flags'}{'est_redif'});
+    $prog{'new'} = {} if ($line->{'flags'}{'est_direct'});
 
     # skip crypted shows for Canal+ or Paris Premiere
     if ( ($chname =~ m/Canal+/) && ($crypted == 1) ) {
@@ -1237,6 +1244,8 @@ sub process_channel_grid_page( $$$$$$ ) {
       if ( $no_htmltags ) {
           $description =~ s/<\/?[^>]+>//g;
       }
+      $description =~ s/\r//g;
+
       push @{$prog{desc}}, [$description, $LANG ];
     }
 
@@ -1330,3 +1339,4 @@ sub get_page( $$ ) {
     return $r->content;
   }
 }
+
