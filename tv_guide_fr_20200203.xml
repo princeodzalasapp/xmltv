@@ -220,59 +220,77 @@
     <display-name>France 3</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/80.png" />
   </channel>
-  <programme channel="C1045.api.telerama.fr" start="20200203061500" stop="20200203064500">
-    <title>JT de la Moselle</title>
+  <programme channel="C1045.api.telerama.fr" start="20200203060000" stop="20200203063500">
+    <title>Le grand JT des Territoires</title>
     <category lang="fr">journal</category>
-    <length units="minutes">30</length>
+    <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200203070000" stop="20200203073000">
-    <title>Terres de France</title>
+  <programme channel="C1045.api.telerama.fr" start="20200203063500" stop="20200203070000">
+    <title>JT de la Moselle</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1045.api.telerama.fr" start="20200203070000" stop="20200203071500">
+    <title>Une semaine dans le Grand Est</title>
     <category lang="fr">magazine régional</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/126f8541-5119-4b25-8604-9f373183c278.jpg" />
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1045.api.telerama.fr" start="20200203071500" stop="20200203073000">
+    <title>Business Club</title>
+    <category lang="fr">magazine de l'économie</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/911e349f-fba4-4492-858c-60b69b49a045.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200203073000" stop="20200203080000">
-    <title>A feu doux</title>
+    <title>La Bougeotte</title>
     <desc lang="fr">Le rendez-vous avec la cuisine et les produits du terroir et la rencontre d'un chef de la région.</desc>
-    <category lang="fr">magazine culinaire</category>
+    <category lang="fr">magazine régional</category>
     <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200203080000" stop="20200203083000">
-    <title>Sur ma route</title>
-    <category lang="fr">magazine régional</category>
+    <title>Couliss'conso</title>
+    <category lang="fr">magazine du consommateur</category>
     <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6601962c-b576-480d-b5c0-1af9267d3386.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200203083000" stop="20200203090000">
-    <title>Mirabelle gourmande</title>
-    <desc lang="fr">Une personnalité lorraine dévoile les secrets de sa recette préférée.</desc>
-    <category lang="fr">magazine culinaire</category>
+    <title>Sur ma route</title>
+    <sub-title>La compile</sub-title>
+    <category lang="fr">magazine régional</category>
     <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200203090000" stop="20200203100000">
-    <title>Sur ma route</title>
-    <sub-title>La compile</sub-title>
-    <category lang="fr">magazine régional</category>
+    <title>La boîte à m'Alice</title>
+    <desc lang="fr">Une personnalité lorraine dévoile les secrets de sa recette préférée.</desc>
+    <category lang="fr">magazine culturel</category>
     <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -297,21 +315,21 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200203110000" stop="20200203111500">
-    <title>Une semaine dans le Grand Est</title>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+  <programme channel="C1045.api.telerama.fr" start="20200203110000" stop="20200203113000">
+    <title>Couliss'conso</title>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6601962c-b576-480d-b5c0-1af9267d3386.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200203111500" stop="20200203123000">
+  <programme channel="C1045.api.telerama.fr" start="20200203113000" stop="20200203120000">
     <title>Charade</title>
     <desc lang="fr">Peu importe l’intrigue, le délice vient d’ailleurs. De la mise en scène pétillante et sophistiquée, du charme époustouflant du couple vedette. La perfection !</desc>
     <date>1963</date>
     <category lang="fr">film de suspense</category>
-    <length units="minutes">75</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bc0960f5-e06a-4705-b970-8d8328a4598c.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -319,6 +337,15 @@
     <star-rating>
       <value>5/5</value>
     </star-rating>
+  </programme>
+  <programme channel="C1045.api.telerama.fr" start="20200203120000" stop="20200203123000">
+    <title>Sur ma route</title>
+    <category lang="fr">magazine régional</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200203123000" stop="20200203133000">
     <title>Terres de France</title>
@@ -330,7 +357,7 @@
     </rating>
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200203133000" stop="20200203140000">
-    <title>1, 2, 3 musette</title>
+    <title>1, 2, 3 dansez !</title>
     <category lang="fr">magazine musical</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/53f03499-1e38-4a03-a63e-df8ae7b78205.jpg" />
@@ -339,7 +366,7 @@
     </rating>
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200203140000" stop="20200203143000">
-    <title>1, 2, 3 dansez !</title>
+    <title>1, 2, 3 musette</title>
     <category lang="fr">magazine musical</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/53f03499-1e38-4a03-a63e-df8ae7b78205.jpg" />
@@ -357,18 +384,17 @@
     </rating>
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200203160000" stop="20200203163000">
-    <title>Mirabelle gourmande</title>
+    <title>Welcome In France</title>
     <desc lang="fr">Une personnalité lorraine dévoile les secrets de sa recette préférée.</desc>
-    <category lang="fr">magazine culinaire</category>
+    <category lang="fr">documentaire : découvertes</category>
     <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200203163000" stop="20200203170000">
-    <title>A feu doux</title>
-    <desc lang="fr">Le rendez-vous avec la cuisine et les produits du terroir et la rencontre d'un chef de la région.</desc>
+    <title>Mirabelle gourmande</title>
+    <desc lang="fr">Une personnalité lorraine dévoile les secrets de sa recette préférée.</desc>
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
@@ -394,17 +420,25 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200203200000" stop="20200203210000">
+  <programme channel="C1045.api.telerama.fr" start="20200203180000" stop="20200203183000">
+    <title>Mirabelle Sport</title>
+    <category lang="fr">magazine sportif</category>
+    <length units="minutes">30</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1045.api.telerama.fr" start="20200203183000" stop="20200203220000">
     <title>Graoully mag</title>
     <desc lang="fr">Vianney Tritz-Kayser présente toute l'actualité du Football Club de Metz : résultats, analyses, interviews, coulisses.</desc>
     <category lang="fr">magazine sportif</category>
-    <length units="hours">1</length>
+    <length units="minutes">210</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/de82fd67-a9f8-45b4-8b9d-e04880ac824e.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200203210000" stop="20200203220000">
+  <programme channel="C1045.api.telerama.fr" start="20200203220000" stop="20200203230000">
     <title>Graoully Match</title>
     <category lang="fr">football</category>
     <length units="hours">1</length>
@@ -661,7 +695,7 @@
     <title>Le cimetière des éléphants</title>
     <desc lang="fr">Récit de la vie tumultueuse des missionnaires Pères blancs dans leur périple à travers l'Afrique, leur itinéraire, depuis l'arrivée des premiers d'entre eux avant la colonisation, jusqu'à leur retour en France, à un âge avancé, pour achever leur existence dans une maison de retraite. Cette maison de repos est située à Bry-sur-Marne, en banlieue parisienne. Les riverains l'appellent le cimetière des éléphants. Elle accueille une trentaine de pensionnaires, parmi lesquels père François de Gaulle, neveu du général.</desc>
     <date>2016</date>
-    <category lang="fr">documentaire religions</category>
+    <category lang="fr">documentaire : religions</category>
     <length units="minutes">55</length>
     <previously-shown />
     <rating system="CSA">
@@ -717,7 +751,7 @@
   <programme channel="C110.api.telerama.fr" start="20200203133000" stop="20200203142000">
     <title>L'indomptable cardinal</title>
     <date>2014</date>
-    <category lang="fr">documentaire religions</category>
+    <category lang="fr">documentaire : religions</category>
     <length units="minutes">50</length>
     <previously-shown />
     <rating system="CSA">
@@ -807,7 +841,7 @@
     <title>Paraboles d'un curé de campagne</title>
     <sub-title>Vivante parole</sub-title>
     <desc lang="fr">Au travers d'anecdotes, récit de petites histoires parlant de l'amour de Dieu, de l'Eglise, de l'espérance et de la foi.</desc>
-    <category lang="fr">documentaire religions</category>
+    <category lang="fr">documentaire : religions</category>
     <length units="minutes">10</length>
     <previously-shown />
     <rating system="CSA">
@@ -858,7 +892,7 @@
     <title>Les Nouveaux Convertis</title>
     <desc lang="fr">Ce documentaire s`intéresse aux musulmans qui ont embrassé la religion chrétienne, plusieurs centaines chaque année en France. Ces nouveaux convertis payent parfois cher leur choix, confrontés au rejet de leur famille et de leur communauté.</desc>
     <date>2019</date>
-    <category lang="fr">documentaire religions</category>
+    <category lang="fr">documentaire : religions</category>
     <length units="minutes">40</length>
     <premiere />
     <rating system="CSA">
@@ -935,7 +969,7 @@
   <programme channel="C110.api.telerama.fr" start="20200203223400" stop="20200203224100">
     <title>Missionnaire au Japon : faire vivre la foi</title>
     <date>2019</date>
-    <category lang="fr">documentaire religions</category>
+    <category lang="fr">documentaire : religions</category>
     <length units="minutes">7</length>
     <previously-shown />
     <rating system="CSA">
@@ -980,7 +1014,7 @@
     <title>Les Nouveaux Convertis</title>
     <desc lang="fr">Ce documentaire s`intéresse aux musulmans qui ont embrassé la religion chrétienne, plusieurs centaines chaque année en France. Ces nouveaux convertis payent parfois cher leur choix, confrontés au rejet de leur famille et de leur communauté.</desc>
     <date>2019</date>
-    <category lang="fr">documentaire religions</category>
+    <category lang="fr">documentaire : religions</category>
     <length units="minutes">45</length>
     <previously-shown />
     <rating system="CSA">
@@ -1196,8 +1230,8 @@
   </programme>
   <programme channel="C111.api.telerama.fr" start="20200203120000" stop="20200203123000">
     <title>Arte regards</title>
-    <sub-title>Peut-on encore sauver la cité des Doges ?</sub-title>
-    <desc lang="fr">En prise avec un thème d'actualité, des reportages vont à la rencontre de citoyens européens et proposent une plongée inédite dans leurs réalités quotidiennes.</desc>
+    <sub-title>Venise se noie : peut-on encore sauver la cité des Doges ?</sub-title>
+    <desc lang="fr">Venise continue de subir les conséquences d'une crue sans précédent. Les Vénitiens sauvent, nettoient, restaurent, en attendant la prochaine catastrophe.</desc>
     <date>2020</date>
     <category lang="fr">documentaire : société</category>
     <length units="minutes">30</length>
@@ -2716,26 +2750,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1401.api.telerama.fr" start="20200203080500" stop="20200203090000">
-    <title>L'Équipe Aventure</title>
-    <category lang="fr">sports extrêmes</category>
-    <length units="minutes">55</length>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1401.api.telerama.fr" start="20200203090000" stop="20200203100000">
-    <title>L'Équipe Aventure</title>
-    <category lang="fr">sports extrêmes</category>
-    <length units="hours">1</length>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1401.api.telerama.fr" start="20200203100000" stop="20200203110000">
-    <title>L'Équipe Aventure</title>
-    <category lang="fr">sports extrêmes</category>
-    <length units="hours">1</length>
+  <programme channel="C1401.api.telerama.fr" start="20200203080500" stop="20200203110000">
+    <title>Enduro (Enduropale du Touquet 2020)</title>
+    <category lang="fr">enduro</category>
+    <length units="minutes">175</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/89227cbf-e4c3-41b8-8ace-fa1fac2b9eb3.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3040,6 +3060,7 @@
     <desc lang="fr">Gros plan sur trois familles qui étaient à bord du Titanic lors de son naufrage, le 14 avril 1912. Parmi les passagers, John Jacob Astor IV, l'un des hommes les plus riches des Etats-Unis. Roi de l'immobilier, il revenait de sa lune de miel avec son épouse, qui a survécu au drame. Quant aux Goodwin, une famille pauvre qui a embarqué en 3e classe, ils n'ont jamais atteint les canots de sauvetage.</desc>
     <category lang="fr">magazine historique</category>
     <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/db2f51fd-cbb0-4dd3-907f-d5e861fcf590.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3800,15 +3821,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200203035000" stop="20200203040500">
-    <title>Journal Nouvelle-Calédonie</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C160.api.telerama.fr" start="20200203052000" stop="20200203054500">
     <title>Journal Guyane</title>
     <category lang="fr">journal</category>
@@ -4186,12 +4198,22 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200203174500" stop="20200203175000">
+  <programme channel="C160.api.telerama.fr" start="20200203174500" stop="20200203174700">
+    <title>La famille tout écran</title>
+    <sub-title>J'ai effacé mon pire cauchemar</sub-title>
+    <category lang="fr">magazine de services</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ac935704-da8b-4ed4-80eb-34ccacfc5b6f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200203174700" stop="20200203175000">
     <title>Rencontre</title>
     <sub-title>Tchucky</sub-title>
     <desc lang="fr">Trois minutes d'entretien avec des artistes de Nouvelle-Calédonie, dans les coulisses de leur création.</desc>
     <category lang="fr">magazine culturel</category>
-    <length units="minutes">5</length>
+    <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -4236,7 +4258,7 @@
     <date>2017</date>
     <category lang="fr">documentaire : animalier</category>
     <length units="minutes">50</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/be9d5f4a-806c-4dfc-8754-1462122617b5.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cebf3e82-5190-4fee-b50c-ba075a44f610.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -5508,16 +5530,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1922.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -5535,39 +5547,6 @@
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
     <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200203110000" stop="20200203111000">
-    <title>13 Alsace</title>
-    <desc lang="fr">Présenté en alternance par Claire Peyrot et Karine Gélébart. Toute l'actualité de la mi-journée en Alsace.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200203111000" stop="20200203112500">
-    <title>Rund Um</title>
-    <desc lang="fr">Magazine d'information en alsacien sous-titré en français, «Rund Um» rend compte de la richesse régionale.</desc>
-    <category lang="fr">magazine d'information</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
-    <subtitles type="onscreen">
-      <language>fr</language>
-    </subtitles>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -5667,37 +5646,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>Rund Um</title>
-    <desc lang="fr">Magazine d'information en alsacien sous-titré en français, «Rund Um» rend compte de la richesse régionale.</desc>
-    <category lang="fr">magazine d'information</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200203180000" stop="20200203181500">
-    <title>20 Alsace</title>
-    <desc lang="fr">Présenté en alternance par David Marcelin et Caroline Moreau. Toute l'actualité en Alsace et la page estivale «Sur les routes».</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200203181500" stop="20200203183000">
-    <title>20 Editions locales</title>
-    <desc lang="fr">L'information au plus près de la vie locale. Au sommaire :</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1922.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -5724,15 +5672,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -5789,16 +5728,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>La France en vrai</title>
-    <desc lang="fr">La collection documentaire «La France en vrai» traite les grands sujets de société d'un point de vue local, à travers les 13 antennes régionales du réseau de France 3. Ainsi, chaque sujet est-il raconté de plusieurs points de vue compplémentaires. De quoi découvrir une France plurielle et riche, qui s'interroge et qui s'oppose, au coeur des territoires. De quoi, également, permettre aux acteurs de la vie locale de faire entendre leur voix, grâce à 13 films ancrés dans chacune des 13 régions, soit 250 films chaque année.</desc>
-    <date>2019</date>
-    <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">55</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -6131,16 +6060,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1923.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -6157,26 +6076,6 @@
     <category lang="fr">journal</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200203110000" stop="20200203112500">
-    <title>13 Aquitaine</title>
-    <desc lang="fr">Toute l'actualité régionale de la mi-journée.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -6277,26 +6176,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>20 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200203180000" stop="20200203183000">
-    <title>20 Aquitaine</title>
-    <desc lang="fr">Toute l'actualité de la région.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1923.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -6323,15 +6202,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -6388,17 +6258,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>A quatre ou rien</title>
-    <desc lang="fr">Louise, altiste au sein du quatuor Akilone depuis 2011, décide de quitter le groupe ; commence alors une période de doute pour la formation musicale.</desc>
-    <date>2019</date>
-    <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d9fc7329-2895-4b3a-8bd9-895f869d9fa9.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7261,16 +7120,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1925.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -7287,26 +7136,6 @@
     <category lang="fr">journal</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200203110000" stop="20200203112500">
-    <title>13 Normandie</title>
-    <desc lang="fr">Edition régionale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -7407,26 +7236,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>20 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200203180000" stop="20200203183000">
-    <title>20 Normandie</title>
-    <desc lang="fr">Edition régionale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1925.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -7453,15 +7262,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7518,16 +7318,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>Michel Bussi et le roman populaire</title>
-    <desc lang="fr">Professeur de géographie à Rouen, Michel Bussi est devenu en 2016 le deuxième plus gros vendeur de livres en France, derrière Guillaume Musso et devant Marc Levy.</desc>
-    <category lang="fr">documentaire : société</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7860,16 +7650,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1926.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -7887,25 +7667,6 @@
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
     <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité - Rendez-vous chez vous Bourgogne</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200203110000" stop="20200203112500">
-    <title>13 Bourgogne</title>
-    <desc lang="fr">Présenté en alternance par Clément Jeannin, Elsa Bezin, Emmanuel Pinsonneaux, Florence Cicolella, Fabienne Acosta, Jean-Christophe Galeazzi, Jérémy Chevreuil, Arnaud Lefèvre, Aude Sillans. Toute l'actualité régionale de la mi-journée. Avec la rubrique «Sur ma route».</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8005,25 +7766,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>20 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200203180000" stop="20200203183000">
-    <title>20 Bourgogne</title>
-    <desc lang="fr">Présenté en alternance par Clément Jeannin, Elsa Bezin, Emmanuel Pinsonneaux, Florence Cicolella, Fabienne Acosta, Jean-Christophe Galeazzi, Jérémy Chevreuil, Arnaud Lefèvre, Aude Sillans. Toute l'actualité de la région.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1926.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -8050,15 +7792,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8115,16 +7848,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>Anne Seibel, une femme au coeur de l'illusion</title>
-    <desc lang="fr">Le cinéma, art de l'illusion par excellence, est encore majoritairement un métier d’hommes. Parmi les femmes qui ont réussi à se faire un nom au niveau international, figure une française : Anne Seibel. Chef décoratrice, elle est l'une des plus respectées dans le milieu, tant en Europe qu'aux Etats-Unis. Elle a travaillé avec les plus grands, de Clint Eastwood à Woody Allen en passant par Spielberg ou Benegal. Où puise-t-elle son inspiration et comment arrive-t-elle à la renouveler, elle qui s'adapte à des univers si différents ?</desc>
-    <category lang="fr">documentaire : société</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8457,16 +8180,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1927.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -8483,25 +8196,6 @@
     <category lang="fr">journal</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>Itinéraire Bretagne</title>
-    <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">10</length>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200203110000" stop="20200203112500">
-    <title>13 Bretagne</title>
-    <desc lang="fr">Toute l'actualité régionale de la mi-journée.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -8602,26 +8296,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>20 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200203180000" stop="20200203183000">
-    <title>20 Bretagne</title>
-    <desc lang="fr">Toute l'actualité de la région.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1927.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -8648,15 +8322,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8713,15 +8378,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>La France en vrai</title>
-    <desc lang="fr">La collection documentaire «La France en vrai» traite les grands sujets de société d'un point de vue local, à travers les 13 antennes régionales du réseau de France 3. Ainsi, chaque sujet est-il raconté de plusieurs points de vue compplémentaires. De quoi découvrir une France plurielle et riche, qui s'interroge et qui s'oppose, au coeur des territoires. De quoi, également, permettre aux acteurs de la vie locale de faire entendre leur voix, grâce à 13 films ancrés dans chacune des 13 régions, soit 250 films chaque année.</desc>
-    <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">55</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9054,16 +8710,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1928.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -9081,26 +8727,6 @@
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
     <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité - Faites-nous voir !</title>
-    <desc lang="fr">Chaque jour, dans une commune ou un canton, rencontre avec des citoyens qui font bouger leur territoire ou qui sont attachés à leurs univers.</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200203110000" stop="20200203112500">
-    <title>13 Centre-Val de Loire</title>
-    <desc lang="fr">Toute l'actualité régionale de la mi-journée.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9200,26 +8826,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>20 : Edition de proximité - Faites-nous voir !</title>
-    <desc lang="fr">Chaque jour, dans une commune ou un canton, rencontre avec des citoyens qui font bouger leur territoire ou qui sont attachés à leurs univers.</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200203180000" stop="20200203183000">
-    <title>20 Centre-Val de Loire</title>
-    <desc lang="fr">Toute l'actualité de la région.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1928.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -9246,15 +8852,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9311,15 +8908,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>La France en vrai</title>
-    <desc lang="fr">La collection documentaire «La France en vrai» traite les grands sujets de société d'un point de vue local, à travers les 13 antennes régionales du réseau de France 3. Ainsi, chaque sujet est-il raconté de plusieurs points de vue compplémentaires. De quoi découvrir une France plurielle et riche, qui s'interroge et qui s'oppose, au coeur des territoires. De quoi, également, permettre aux acteurs de la vie locale de faire entendre leur voix, grâce à 13 films ancrés dans chacune des 13 régions, soit 250 films chaque année.</desc>
-    <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">55</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9652,16 +9240,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1929.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -9679,34 +9257,6 @@
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
     <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200203110000" stop="20200203111500">
-    <title>13 Champagne-Ardenne</title>
-    <desc lang="fr">Toute l'actualité de la mi-journée en Champagne-Ardenne.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200203111500" stop="20200203112500">
-    <title>Sortir</title>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9806,35 +9356,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>20 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200203180000" stop="20200203181500">
-    <title>20 Champagne-Ardenne</title>
-    <desc lang="fr">Présenté en alternance par Ophélie Masure, Laurence Laborie, Mathieu Guillerot et Vincent Thollet. Toute l'actualité de la journée en Champagne-Ardenne et la page estivale «Sur les routes».</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200203181500" stop="20200203183000">
-    <title>Ici et pas ailleurs</title>
-    <desc lang="fr">Chaque jour, un regard décalé sur la Champagne-Ardenne.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1929.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -9861,15 +9382,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9926,15 +9438,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>La France en vrai</title>
-    <desc lang="fr">La collection documentaire «La France en vrai» traite les grands sujets de société d'un point de vue local, à travers les 13 antennes régionales du réseau de France 3. Ainsi, chaque sujet est-il raconté de plusieurs points de vue compplémentaires. De quoi découvrir une France plurielle et riche, qui s'interroge et qui s'oppose, au coeur des territoires. De quoi, également, permettre aux acteurs de la vie locale de faire entendre leur voix, grâce à 13 films ancrés dans chacune des 13 régions, soit 250 films chaque année.</desc>
-    <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">55</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10105,15 +9608,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200203060000" stop="20200203074000">
-    <title>France Bleu Azur matin</title>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">100</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1931.api.telerama.fr" start="20200203074000" stop="20200203081000">
     <title>Les témoins d'outre-mer</title>
     <desc lang="fr">Saison:5 - Des contributeurs citoyens témoignent, questionnent, interpellent grâce à une plateforme numérique et une application mobile dédiée.</desc>
@@ -10177,16 +9671,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1931.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -10204,36 +9688,6 @@
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
     <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité - Place publique</title>
-    <desc lang="fr">Au coeur de notre territoire, au centre de nos vies. Bienvenue dans «Place publique».</desc>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200203110000" stop="20200203112000">
-    <title>13 Côte d'Azur</title>
-    <desc lang="fr">L'actualité du matin, les grandes tendances de la journée. Le 12/13 Côte d'Azur vous accompagne à la mi-journée.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200203112000" stop="20200203112500">
-    <title>Météo régionale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10333,45 +9787,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200203175000" stop="20200203175500">
-    <title>20 : Edition de proximité - La page niçoise</title>
-    <desc lang="fr">Toute l'actualité niçoise en 6 minutes.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200203175500" stop="20200203180000">
-    <title>Météo régionale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200203180000" stop="20200203182500">
-    <title>20 Côte d'Azur</title>
-    <desc lang="fr">Découvrez l'actu qui fait la Une sur la Côte d'Azur et les clés pour en décrypter les enjeux. Le 19/20 Côte d'Azur, c'est le moment incontournable pour comprendre notre région.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200203182500" stop="20200203183000">
-    <title>Météo régionale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1931.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -10398,15 +9813,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10463,17 +9869,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>Lieux de crime</title>
-    <sub-title>Les damnés de la terre</sub-title>
-    <desc lang="fr">Certains lieux ayant été le théâtre d'affaires criminelles pendant la deuxième moitié du vingtième siècle sont restés gravés dans la mémoire collective.</desc>
-    <category lang="fr">documentaire : société</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10806,16 +10201,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1932.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -10833,25 +10218,6 @@
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
     <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité - Rendez-vous chez vous Franche-Comté</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200203110000" stop="20200203112500">
-    <title>13 Franche-Comté</title>
-    <desc lang="fr">Présenté en alternance par Clément Jeannin, Elsa Bezin, Emmanuel Pinsonneaux, Florence Cicolella, Fabienne Acosta, Jean-Christophe Galeazzi, Jérémy Chevreuil, Arnaud Lefèvre, Aude Sillans. Toute l'actualité régionale de la mi-journée. Avec la rubrique «C'est votre tour».</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10951,25 +10317,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>20 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200203180000" stop="20200203183000">
-    <title>20 Franche-Comté</title>
-    <desc lang="fr">Présenté en alternance par Clément Jeannin, Elsa Bezin, Emmanuel Pinsonneaux, Florence Cicolella, Fabienne Acosta, Jean-Christophe Galeazzi, Jérémy Chevreuil, Arnaud Lefèvre, Aude Sillans. Toute l'actualité de la région.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1932.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -10996,15 +10343,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -11061,16 +10399,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>Anne Seibel, une femme au coeur de l'illusion</title>
-    <desc lang="fr">Le cinéma, art de l'illusion par excellence, est encore majoritairement un métier d’hommes. Parmi les femmes qui ont réussi à se faire un nom au niveau international, figure une française : Anne Seibel. Chef décoratrice, elle est l'une des plus respectées dans le milieu, tant en Europe qu'aux Etats-Unis. Elle a travaillé avec les plus grands, de Clint Eastwood à Woody Allen en passant par Spielberg ou Benegal. Où puise-t-elle son inspiration et comment arrive-t-elle à la renouveler, elle qui s'adapte à des univers si différents ?</desc>
-    <category lang="fr">documentaire : société</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -11403,16 +10731,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1933.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -11429,26 +10747,6 @@
     <category lang="fr">journal</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200203110000" stop="20200203112500">
-    <title>13 Normandie</title>
-    <desc lang="fr">Edition régionale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -11549,26 +10847,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>20 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200203180000" stop="20200203183000">
-    <title>20 Normandie</title>
-    <desc lang="fr">Edition régionale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1933.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -11595,15 +10873,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -11660,16 +10929,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>Michel Bussi et le roman populaire</title>
-    <desc lang="fr">Professeur de géographie à Rouen, Michel Bussi est devenu en 2016 le deuxième plus gros vendeur de livres en France, derrière Guillaume Musso et devant Marc Levy.</desc>
-    <category lang="fr">documentaire : société</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -12002,16 +11261,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1934.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -12028,26 +11277,6 @@
     <category lang="fr">journal</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200203110000" stop="20200203112500">
-    <title>13 Languedoc-Roussillon</title>
-    <desc lang="fr">Toute l'actualité régionale de la mi-journée.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -12148,26 +11377,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>20 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200203180000" stop="20200203183000">
-    <title>20 Languedoc-Roussillon</title>
-    <desc lang="fr">Toute l'actualité de la région.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1934.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -12194,15 +11403,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -12259,15 +11459,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>La France en vrai</title>
-    <desc lang="fr">La collection documentaire «La France en vrai» traite les grands sujets de société d'un point de vue local, à travers les 13 antennes régionales du réseau de France 3. Ainsi, chaque sujet est-il raconté de plusieurs points de vue compplémentaires. De quoi découvrir une France plurielle et riche, qui s'interroge et qui s'oppose, au coeur des territoires. De quoi, également, permettre aux acteurs de la vie locale de faire entendre leur voix, grâce à 13 films ancrés dans chacune des 13 régions, soit 250 films chaque année.</desc>
-    <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">55</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -12600,16 +11791,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1935.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -12626,27 +11807,6 @@
     <category lang="fr">journal</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200203110000" stop="20200203112500">
-    <title>13 Limousin</title>
-    <desc lang="fr">Toute l'actualité de la mi-journée avec les 24 éditions régionales simultanées.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -12747,27 +11907,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>13 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200203180000" stop="20200203183000">
-    <title>20 Limousin</title>
-    <desc lang="fr">Toute l'actualité des régions avec les 24 éditions régionales simultanées.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1935.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -12794,15 +11933,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -12859,17 +11989,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>A quatre ou rien</title>
-    <desc lang="fr">Louise, altiste au sein du quatuor Akilone depuis 2011, décide de quitter le groupe ; commence alors une période de doute pour la formation musicale.</desc>
-    <date>2019</date>
-    <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d9fc7329-2895-4b3a-8bd9-895f869d9fa9.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -13202,16 +12321,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1936.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -13229,35 +12338,6 @@
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
     <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200203110000" stop="20200203111500">
-    <title>13 Lorraine</title>
-    <desc lang="fr">Présenté en alternance par Céline Tognazzi et Céline Boisson. Toute l'actualité en Lorraine à la mi-journée.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200203111500" stop="20200203112500">
-    <title>Sortir</title>
-    <desc lang="fr">Des idées de loisirs, de sorties, de spectacles, d'expositions, concerts ou encore festivals en Lorraine.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -13357,25 +12437,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>20 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200203180000" stop="20200203183000">
-    <title>20 Lorraine</title>
-    <desc lang="fr">Présenté en alternance par Régis Gaudu, Thierry Gelhaye, Arnaud Salvini. Toute l'actualité en Lorraine et la page estivale «Sur les routes».</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1936.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -13402,15 +12463,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -13467,16 +12519,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>La France en vrai</title>
-    <desc lang="fr">La collection documentaire «La France en vrai» traite les grands sujets de société d'un point de vue local, à travers les 13 antennes régionales du réseau de France 3. Ainsi, chaque sujet est-il raconté de plusieurs points de vue compplémentaires. De quoi découvrir une France plurielle et riche, qui s'interroge et qui s'oppose, au coeur des territoires. De quoi, également, permettre aux acteurs de la vie locale de faire entendre leur voix, grâce à 13 films ancrés dans chacune des 13 régions, soit 250 films chaque année.</desc>
-    <date>2019</date>
-    <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">55</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -13809,16 +12851,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1937.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -13835,26 +12867,6 @@
     <category lang="fr">journal</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200203110000" stop="20200203112500">
-    <title>13 Midi-Pyrénées</title>
-    <desc lang="fr">Toute l'actualité régionale de la mi-journée.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -13955,26 +12967,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>20 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200203180000" stop="20200203183000">
-    <title>20 Midi-Pyrénées</title>
-    <desc lang="fr">Toute l'actualité de la région.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1937.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -14001,15 +12993,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -14066,15 +13049,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>La France en vrai</title>
-    <desc lang="fr">La collection documentaire «La France en vrai» traite les grands sujets de société d'un point de vue local, à travers les 13 antennes régionales du réseau de France 3. Ainsi, chaque sujet est-il raconté de plusieurs points de vue compplémentaires. De quoi découvrir une France plurielle et riche, qui s'interroge et qui s'oppose, au coeur des territoires. De quoi, également, permettre aux acteurs de la vie locale de faire entendre leur voix, grâce à 13 films ancrés dans chacune des 13 régions, soit 250 films chaque année.</desc>
-    <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">55</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -14828,17 +13802,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Saison:2 - Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1939.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -14856,25 +13819,6 @@
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
     <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200203110000" stop="20200203112500">
-    <title>13 Paris Ile-de-France</title>
-    <desc lang="fr">Toute l'actualité régionale de la mi-journée, avec un invité lié à l'actualité, en plateau ou en duplex.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -14974,34 +13918,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>20 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200203180000" stop="20200203181500">
-    <title>20 Paris Ile-de-France</title>
-    <desc lang="fr">Toute l'actualité de la région Paris Ile-de-France.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200203181500" stop="20200203183000">
-    <title>20 Edition locale</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1939.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -15028,15 +13944,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -15093,17 +14000,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>Mes parents sont homophobes</title>
-    <desc lang="fr">Chloé, 22 ans, Dorian, 20 ans, Mehdi, 27 ans et Mick, 23 ans, témoignent face caméra. Ils racontent leur parcours de jeunes homosexuels rejetés par leurs parents, qui ont préfèré briser le lien de filiation plutôt que d'accepter la différence de leur enfant. Leurs récits posent d'autres questions : existe-t-il une sexualité normale ? Est-ce la société, la science, la morale ou la religion qui en définissent les critères ? Pourquoi certains parents ne supportent-ils pas que leurs enfants soient différents ? Ont-ils peur ou honte et comment en arrivent-ils à exclure leur propre enfant ? Anelyse Lafay-Delhautal recueille les paroles de ces victimes d'homophobie parentale.</desc>
-    <date>2018</date>
-    <category lang="fr">documentaire : société</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/63a94e5f-1dc3-486b-a6ac-4fb66bba8c26.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -15436,16 +14332,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1940.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -15462,26 +14348,6 @@
     <category lang="fr">journal</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200203110000" stop="20200203112500">
-    <title>13 Pays de la Loire</title>
-    <desc lang="fr">Toute l'actualité régionale de la mi-journée.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -15582,26 +14448,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>20 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200203180000" stop="20200203183000">
-    <title>20 Pays de la Loire</title>
-    <desc lang="fr">Toute l'actualité de la région.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1940.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -15628,15 +14474,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -15693,15 +14530,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>La France en vrai</title>
-    <desc lang="fr">La collection documentaire «La France en vrai» traite les grands sujets de société d'un point de vue local, à travers les 13 antennes régionales du réseau de France 3. Ainsi, chaque sujet est-il raconté de plusieurs points de vue compplémentaires. De quoi découvrir une France plurielle et riche, qui s'interroge et qui s'oppose, au coeur des territoires. De quoi, également, permettre aux acteurs de la vie locale de faire entendre leur voix, grâce à 13 films ancrés dans chacune des 13 régions, soit 250 films chaque année.</desc>
-    <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">55</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -16544,16 +15372,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1942.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -16570,27 +15388,6 @@
     <category lang="fr">journal</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200203110000" stop="20200203112500">
-    <title>13 Poitou-Charentes</title>
-    <desc lang="fr">Toute l'actualité de la mi-journée avec les 24 éditions régionales simultanées.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -16691,27 +15488,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200203175000" stop="20200203180000">
-    <title>13 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200203180000" stop="20200203183000">
-    <title>20 Poitou-Charentes</title>
-    <desc lang="fr">Toute l'actualité de la région.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1942.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -16738,15 +15514,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -16803,17 +15570,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>A quatre ou rien</title>
-    <desc lang="fr">Louise, altiste au sein du quatuor Akilone depuis 2011, décide de quitter le groupe ; commence alors une période de doute pour la formation musicale.</desc>
-    <date>2019</date>
-    <category lang="fr">documentaire : musique classique</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d9fc7329-2895-4b3a-8bd9-895f869d9fa9.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -17146,16 +15902,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200203094500" stop="20200203103000">
-    <title>Ensemble c'est mieux !</title>
-    <desc lang="fr">Treize magazines régionaux déclinent, à leur manière, tout l'art du bien-vivre ensemble. Au programme : des rencontres, des invités et des échanges de bons plans. Chaque jour, les téléspectateurs posent leurs questions, les invités proposent des solutions.</desc>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1943.api.telerama.fr" start="20200203103000" stop="20200203103500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -17173,36 +15919,6 @@
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
     <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200203105000" stop="20200203110000">
-    <title>13 : Edition de proximité - Ici, maintenant</title>
-    <desc lang="fr">Paroles aux gens d'ici, avec des rencontres au plus près de la vie quotidienne.</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200203110000" stop="20200203112000">
-    <title>13 Provence-Alpes</title>
-    <desc lang="fr">Toute l'actualité de la mi-journée en Provence-Alpes.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200203112000" stop="20200203112500">
-    <title>Météo régionale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -17302,44 +16018,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200203175000" stop="20200203175500">
-    <title>20 : Edition de proximité</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200203175500" stop="20200203180000">
-    <title>Météo régionale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200203180000" stop="20200203182500">
-    <title>20 Provence-Alpes</title>
-    <desc lang="fr">Toute l'actualité du jour en Provence-Alpes.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200203182500" stop="20200203183000">
-    <title>Météo régionale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1943.api.telerama.fr" start="20200203183000" stop="20200203185500">
     <title>20 : Journal national</title>
     <category lang="fr">journal</category>
@@ -17366,15 +16044,6 @@
     <category lang="fr">divertissement</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200203191000" stop="20200203192000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -17431,17 +16100,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200203215500" stop="20200203225000">
-    <title>Lieux de crime</title>
-    <sub-title>Les damnés de la terre</sub-title>
-    <desc lang="fr">Certains lieux ayant été le théâtre d'affaires criminelles pendant la deuxième moitié du vingtième siècle sont restés gravés dans la mémoire collective.</desc>
-    <category lang="fr">documentaire : société</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -18582,7 +17240,7 @@
   </programme>
   <programme channel="C2111.api.telerama.fr" start="20200203145100" stop="20200203145500">
     <title>La justice décodée</title>
-    <category lang="fr">magazine judiciaire</category>
+    <category lang="fr">magazine magazine judiciaire</category>
     <length units="minutes">4</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <rating system="CSA">
@@ -18832,7 +17490,7 @@
     <desc lang="fr">La matinale propose de décrypter l'information dans sa globalité : faits d'actualité, économie, événements sportifs, culture et politique sont analysés en détail. Avec l'interview politique à 8h15.</desc>
     <category lang="fr">magazine d'information</category>
     <length units="hours">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f693bf55-f24b-41a6-af52-32df07ecee97.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -18843,7 +17501,7 @@
     <desc lang="fr">Des débats autour de l'actualité, mettant en exergue des sujets éclectiques, avec un plateau de spécialistes, experts et éditorialistes.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="minutes">90</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/42de89d8-3e2e-4a29-9ff3-dcbe44fecbb7.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -18854,7 +17512,7 @@
     <desc lang="fr">Chroniques, décryptages, reportages et débats autour des différents sujets qui font l'actualité, avec l'expertise d'invités issus de la sphère médiatique.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ccd804dd-f8a7-41a0-b57c-dee38886b312.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -18865,7 +17523,7 @@
     <desc lang="fr">La tranche d'info 100% direct avec des acteurs de l'information du jour, des experts, des journalistes en plateau ou sur le terrain.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="minutes">150</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d06b7030-a6ab-4e1d-ab8d-85a7b6727bb0.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -18875,7 +17533,7 @@
     <desc lang="fr">Un grand journal ponctué de duplex et de reportages afin de rester au coeur des événements majeurs de la mi-journée.</desc>
     <category lang="fr">magazine d'information</category>
     <length units="minutes">50</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f9a9c102-f411-4434-a3cf-be2631d9fd4a.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -18886,7 +17544,7 @@
     <desc lang="fr">Nouvelles, essais, romans français ou étrangers : les ouvrages qui font l'actualité littéraire sont présentés chaque semaine.</desc>
     <category lang="fr">magazine littéraire</category>
     <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e9db942a-f274-46cc-a624-88108fc0f774.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -18896,7 +17554,7 @@
     <desc lang="fr">Un grand journal ponctué de duplex et de reportages afin de rester au coeur des événements majeurs de la mi-journée.</desc>
     <category lang="fr">magazine d'information</category>
     <length units="minutes">50</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f9a9c102-f411-4434-a3cf-be2631d9fd4a.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -18907,7 +17565,7 @@
     <desc lang="fr">Nouvelles, essais, romans français ou étrangers : les ouvrages qui font l'actualité littéraire sont présentés chaque semaine.</desc>
     <category lang="fr">magazine littéraire</category>
     <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e9db942a-f274-46cc-a624-88108fc0f774.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -18917,7 +17575,7 @@
     <desc lang="fr">Un grand journal ponctué de duplex et de reportages afin de rester au coeur des événements majeurs de la mi-journée.</desc>
     <category lang="fr">magazine d'information</category>
     <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f9a9c102-f411-4434-a3cf-be2631d9fd4a.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -18928,7 +17586,7 @@
     <desc lang="fr">Décryptage des phrases fortes qui font l'actualité et les formules ciselées des hommes politiques. Comment se construit une punchline et comment explique-t-on son succès ? Quelles sont celles qui influencent durablement l'opinion ?</desc>
     <category lang="fr">magazine politique</category>
     <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1d0b0155-6d48-44b4-9299-3cf8f8f5f2bc.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -18939,7 +17597,7 @@
     <desc lang="fr">Des débats autour de l'actualité avec un plateau d'éditorialistes, suivis d'un face-à-face entre un invité et Eric Zemmour sur le fait principal de l'actualité du jour.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e5295fa0-dffc-4425-9c51-93c79c3f678a.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -18950,7 +17608,7 @@
     <desc lang="fr">Des débats autour de l'actualité, mettant en exergue des sujets éclectiques, avec un plateau de spécialistes, experts et éditorialistes.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/103b87f9-5ae2-4c76-8e62-b405d6f350b9.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -18961,7 +17619,7 @@
     <desc lang="fr">Le grand journal du soir, qui décrypte et analyse l'actualité du jour en compagnie de ses invités.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="minutes">150</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/82ff26c3-5c28-4533-840c-51686b77c0b2.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -18972,7 +17630,7 @@
     <desc lang="fr">Grand rendez-vous d'information, «L'Info du vrai» impose sa marque de fabrique en voulant offrir aux téléspectateurs la possibilité de toujours mieux décrypter, analyser et comprendre l'actualité. De manière quotidienne, avec l'aide d'invités, cette émission fait la part de l'information et de la communication. Elle sépare le sérieux de l'anecdotique, le vrai du faux. «Fake news» et «faits alternatifs» se propagent souvent sans contrôle. Le «buzz» impose son rythme. A contre-courant, l'émission constitue une mise au point sur la réalité.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="minutes">50</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1e8c9758-8e21-48a7-a5bd-decad9cbdc7b.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -18982,7 +17640,7 @@
     <desc lang="fr">Nouvelles, essais, romans français ou étrangers : les ouvrages qui font l'actualité littéraire sont présentés chaque semaine.</desc>
     <category lang="fr">magazine littéraire</category>
     <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e9db942a-f274-46cc-a624-88108fc0f774.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -18992,7 +17650,7 @@
     <desc lang="fr">Un journal complet de l'actualité nationale et internationale, suivi de la méteo.</desc>
     <category lang="fr">journal</category>
     <length units="minutes">330</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d2411c34-9753-4a79-a718-40f41ae4cbed.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -19417,6 +18075,9 @@
     <category lang="fr">cérémonie</category>
     <length units="minutes">117</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d8142b88-347d-4284-a9c2-c7445dde59d8.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -19444,16 +18105,48 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200203053000" stop="20200203060000">
-    <title>Course sur glace (Trophée Andros 2019/2020)</title>
-    <desc lang="fr">Des sujets et reportages sur la société, la politique, en France et à l'étranger, lancés par des sketches en situation. En pleine rue, dans un café, un bowling ou au beau milieu d'une manifestation il est sur le terrain pour rencontrer personnalités ou quidams. L'occasion de moments déroutants, drôles et révélateurs.</desc>
-    <category lang="fr">sport : course sur glace</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8bbe9db2-0220-459d-b0ba-395bc33e6322.jpg" />
+  <programme channel="C34.api.telerama.fr" start="20200203014500" stop="20200203015500">
+    <title>Zapsport la compile (L'actualité du sport sous forme de zapping)</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/427376b2-8229-462a-945b-ae57acc8a493.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C34.api.telerama.fr" start="20200203015500" stop="20200203025000">
+    <title>Voile (World Cup Series 2020)</title>
+    <category lang="fr">sport : voile</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c7681dfe-20cd-4e82-b90b-c9ca89215741.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C34.api.telerama.fr" start="20200203025000" stop="20200203045000">
+    <title>Rugby à 7 (Super Sevens 2020)</title>
+    <category lang="fr">sport : rugby à 7</category>
+    <length units="hours">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c9565ae7-31ec-4ba9-92de-eb0cdb9e1dbd.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+  </programme>
+  <programme channel="C34.api.telerama.fr" start="20200203054500" stop="20200203060000">
+    <title>Je sors acheter des cigarettes</title>
+    <desc lang="fr">Jonathan, douze ans, cohabite avec sa soeur, sa mère et aussi des hommes. Ils ont tous la même tête et nichent dans les placards, les tiroirs, le poste de télévision...</desc>
+    <date>2018</date>
+    <category lang="fr">film : court métrage d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/75d5cfed-e3cc-44dd-a6e6-80ca120cf3a8.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
   </programme>
   <programme channel="C34.api.telerama.fr" start="20200203060000" stop="20200203062500">
     <title>Catastrophe</title>
@@ -19585,11 +18278,11 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200203105500" stop="20200203114400">
+  <programme channel="C34.api.telerama.fr" start="20200203105500" stop="20200203114500">
     <title>Le cercle</title>
     <desc lang="fr">Désireux de partager sa passion pour la culture, Augustin Trapenard convoque une petite bande de chroniqueurs afin de passer en revue les sorties et les tournages qui font l'actualité du grand écran. Une émission pleine d'enthousiasme destinée aux amoureux du cinéma.</desc>
     <category lang="fr">magazine du cinéma</category>
-    <length units="minutes">49</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e0deada-a314-4869-b2e6-0881e109e471.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -19764,12 +18457,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200203233500" stop="20200204010500">
+  <programme channel="C34.api.telerama.fr" start="20200203233500" stop="20200204010000">
     <title>Voyez comme on danse</title>
     <desc lang="fr">Julien, partagé entre sa maîtresse Serena et son épouse Lucie, se sent observé en permanence. Ses deux relations amoureuses s'en ressentent. Alex, le fils de Julien, apprend qu'Eva, une lycéenne de 17 ans est enceinte de ses oeuvres. Véro, la mère d'Eva, est très inquiète pour l'avenir de l'adolescente. Alors que son mari Bertrand, a disparu, Elizabeth est choquée : sa maison est brutalement perquisitionnée par la police...</desc>
     <date>2018</date>
     <category lang="fr">film : comédie dramatique</category>
-    <length units="minutes">90</length>
+    <length units="minutes">85</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e943d331-2139-4f4e-bfe4-ee0bbe2ff45b.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -20600,15 +19293,6 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200202233000" stop="20200203050000">
-    <title>Programmes de la nuit</title>
-    <category lang="fr">programme indéterminé</category>
-    <length units="minutes">330</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C445.api.telerama.fr" start="20200203050000" stop="20200203053000">
     <title>Gym direct</title>
     <category lang="fr">fitness</category>
@@ -20625,36 +19309,6 @@
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c68e7ce-c7bf-4d16-9e83-0463a7b293fd.jpg" />
     <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C445.api.telerama.fr" start="20200203060000" stop="20200203074500">
-    <title>Télé-achat</title>
-    <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
-    <category lang="fr">magazine de télé-achat</category>
-    <length units="minutes">105</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C445.api.telerama.fr" start="20200203074500" stop="20200203100000">
-    <title>Touche pas à mon poste !</title>
-    <desc lang="fr">Chacun des chroniqueurs donne son avis sur l'actualité des médias et les dossiers du moment tout en relevant des défis en compagnie d'invités venus de divers horizons.</desc>
-    <category lang="fr">divertissement-humour</category>
-    <length units="minutes">135</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bbf60a41-80d0-4e78-bde4-fdc793e04fa8.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C445.api.telerama.fr" start="20200203100000" stop="20200203114500">
-    <title>Touche pas à mon poste !</title>
-    <desc lang="fr">Chacun des chroniqueurs donne son avis sur l'actualité des médias et les dossiers du moment tout en relevant des défis en compagnie d'invités venus de divers horizons.</desc>
-    <category lang="fr">divertissement-humour</category>
-    <length units="minutes">105</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bbf60a41-80d0-4e78-bde4-fdc793e04fa8.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -21343,10 +19997,10 @@
   </programme>
   <programme channel="C459.api.telerama.fr" start="20200203005300" stop="20200203014700">
     <title>La Buse, l'or maudit des pirates</title>
-    <desc lang="fr">Ponctué d’entretiens et de séquences fiction qui plongent au cœur des faits historiques, ce documentaire entend ressusciter à l’écran la grande aventure des Pirates de l’océan Indien et la légende de leurs trésors maudits. Des intervenants de renom, spécialistes de l’Histoire maritime et de la Piraterie, écrivains et chercheurs de trésors, seront au rendez-vous pour tisser un récit autour de ces chroniques sanglantes.</desc>
+    <desc lang="fr">Au cours des années 1719 et 1720, un groupe de pirates fuyant les Caraïbes pénètre dans l'océan Indien pour rejoindre le sanctuaire forban de l'île Sainte-Marie, à Madagascar. Dans ce groupe de pirates majoritairement anglo-saxons, on note la présence d'un capitaine jouissant parmi eux d'un profond respect. Olivier Levasseur, dit la Buse, est un ancien corsaire du Roi, venu combattre aux Antilles quelques années plus tôt avant de tourner forban à la fin de la guerre d'Espagne. Gros plan sur son parcours.</desc>
     <category lang="fr">documentaire : culture</category>
     <length units="minutes">54</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3edc2030-754d-48f9-8d9b-3da258bcfed7.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -21427,6 +20081,41 @@
     <category lang="fr">journal</category>
     <length units="minutes">27</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C459.api.telerama.fr" start="20200203042400" stop="20200203043500">
+    <title>Furiki</title>
+    <sub-title>Accro à la vitesse</sub-title>
+    <desc lang="fr">Saison:1 - André écope d'une semaine de suspension de cours à cause de sa conduite hyperactive. Il va devoir retourner dans sa famille pour apprendre à vivre à un autre rythme...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">11</length>
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C459.api.telerama.fr" start="20200203043500" stop="20200203044700">
+    <title>Frankie et les Zhuzhus Pets</title>
+    <sub-title>Abracadabramaster ! - Mini Frankie</sub-title>
+    <desc lang="fr">Saison:1 - Episode:20 - Après un tour de magie, Frankie croit avoir fait disparaître Chunk. Il est en fait tombé dans le tube, mais il est persuadé d'être invisible. Il se met à faire toutes sortes de mauvaises blagues à travers la ville, convaincu que personne ne peut le voir. - Frankie aimerait être toute petite comme les Zhuzhus Pets. Et le lendemain matin, elle a la taille d'un hamster. Frankie s'amuse beaucoup jusqu'à ce qu'elle tombe nez à nez avec un chat...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">12</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/73ff343b-f22c-4a0c-992d-39985ed05e62.jpg" />
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C459.api.telerama.fr" start="20200203044700" stop="20200203045900">
+    <title>Dr Pantastique</title>
+    <sub-title>Plus haut, plus vite, plus paresseux</sub-title>
+    <desc lang="fr">Saison:1 - Episode:35 - Cherchant à impressionner Rebecca une fois de plus, Karl essaye tous les sports à son école. Mais son manque d'habiletés sportives le force à abandonner...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">12</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7bd7b10d-ff5a-4685-a614-6651694cc84c.jpg" />
+    <episode-num system="xmltv_ns">0.34.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -21822,16 +20511,6 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6017d496-7980-48a6-bd8d-2da165921610.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C47.api.telerama.fr" start="20200203021000" stop="20200203041500">
-    <title>La nuit France 5</title>
-    <desc lang="fr">Des rediffusions de documentaires.</desc>
-    <category lang="fr">magazine de reportages</category>
-    <length units="minutes">125</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -22406,7 +21085,7 @@
     <desc lang="fr">Tout voir, tout savoir avant d'aller travailler.</desc>
     <category lang="fr">journal</category>
     <length units="minutes">155</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e4d8f3f3-f3d6-4fc8-8431-04e159966a94.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -22417,7 +21096,7 @@
     <desc lang="fr">Un face à face percutant avec une personnalité qui fait l'actualité.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c3a7d587-71cc-46ef-a59f-eb24b5432728.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -22428,7 +21107,7 @@
     <desc lang="fr">Toute l'info constamment mise à jour.</desc>
     <category lang="fr">journal</category>
     <length units="hours">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2a26f784-168b-4178-9dd6-e7134334ddcc.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -22439,7 +21118,7 @@
     <desc lang="fr">Le cocktail d'infos de la mi-journée.</desc>
     <category lang="fr">journal</category>
     <length units="hours">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c7f91bf3-84ea-40d0-827a-2519a2f52ec9.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -22450,7 +21129,7 @@
     <desc lang="fr">Toute l'info constamment mise à jour, avec un rappel des titres, les résultats sportifs en images et l'info économique.</desc>
     <category lang="fr">journal</category>
     <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1ee6ee9b-005f-4adf-9bc1-52b9b7503fb7.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -22461,7 +21140,7 @@
     <desc lang="fr">Retour sur le fait marquant du jour.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4a2fde29-0ded-4a7b-a9a8-49e998f99ed1.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -22472,7 +21151,7 @@
     <desc lang="fr">En compagnie d'invités, Ruth Elkrief revient sur l'actualité politique du jour.</desc>
     <category lang="fr">journal</category>
     <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1a5ca3ac-5690-4ffe-b426-1c905e12db6a.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -22483,7 +21162,7 @@
     <desc lang="fr">«20h politique» revisite et décrypte l'actualité politique du jour.</desc>
     <category lang="fr">magazine politique</category>
     <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/795d5cad-9dee-4c64-9b0d-0e0429b22ac4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -22493,7 +21172,7 @@
     <desc lang="fr">En compagnie des spécialistes de la chaîne, Alain Marschall dresse un tour d'horizon de l'actualité du jour.</desc>
     <category lang="fr">journal</category>
     <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3621aab2-b6b1-4a6d-84c6-628ec4dc0c14.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -22504,7 +21183,7 @@
     <desc lang="fr">Un long format de 26 minutes réalisé par la rédaction de la chaîne suivi d'un débat en plateau animé par Aurélie Casse.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/12f52531-00f3-4fb1-b070-1391f9dabc49.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -22515,7 +21194,7 @@
     <desc lang="fr">Retour sur les sujets qui font la une, revus et corrigés par Bruce Toussaint et sa bande, composée de Bruno Jeudy, Catherine Tricot, Benoît Gallerey et Jeanne Daudet.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2293c76c-0107-40c7-8be1-96cf911dc41a.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -22525,7 +21204,7 @@
     <title>Le journal de la nuit</title>
     <category lang="fr">journal</category>
     <length units="minutes">270</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2d7e88b5-3205-49b3-b97c-f0bc63ac6570.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -23779,25 +22458,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200203014500" stop="20200203045000">
-    <title>Programmes de la nuit</title>
-    <category lang="fr">programme indéterminé</category>
-    <length units="minutes">185</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200203060000" stop="20200203072400">
-    <title>Oscar &amp; Malika, toujours en retard</title>
-    <desc lang="fr">Saison:1 - Tous les matins, Oscar et sa voisine Malika font ensemble le chemin jusqu'à l'école. Tous les matins, en dépit de leurs efforts, ils arrivent en retard à cause d'un événement extraordinaire.</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">84</length>
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C78.api.telerama.fr" start="20200203072400" stop="20200203072500">
     <title>Un jour, une question</title>
     <sub-title>Pourquoi y a-t-il eu la Seconde Guerre mondiale ?</sub-title>
@@ -23807,26 +22467,6 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/42577ce7-b0c2-4d8d-8cd7-77ed08d7e6b7.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200203072500" stop="20200203084000">
-    <title>Les Dalton</title>
-    <desc lang="fr">Les frères Dalton, Joe, William, Jack et Averell, sont les pires bandits du Far West. Condamnés aux travaux forcés dans un pénitencier de haute sécurité, ils mettent tout en oeuvre pour s'évader. Seulement, les Dalton sont plus stupides que malins.</desc>
-    <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">75</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/573f1745-150e-4a8f-b3fe-17ab08b878a3.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200203084000" stop="20200203094000">
-    <title>Titeuf</title>
-    <desc lang="fr">Sa mèche jaune plantée sur la tête, Titeuf est reconnaissable entre mille. En compagnie de ses amis, Manu, Hugo, François, Jean-Claude ou Vomito, Titeuf déploie des trésors d'imagination pour faire des bêtises.</desc>
-    <category lang="fr">jeunesse : dessin animé</category>
-    <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/106afc80-0120-481a-881d-a5bdaa9c506f.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -23844,14 +22484,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200203094500" stop="20200203102000">
-    <title>Anatole Latuile</title>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">35</length>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C78.api.telerama.fr" start="20200203102000" stop="20200203102500">
     <title>A table les enfants</title>
     <sub-title>Le guacamole</sub-title>
@@ -23859,16 +22491,6 @@
     <category lang="fr">jeunesse : dessin animé jeunesse</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b4e99f21-81ee-46bf-95dd-7854bb8e00bc.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200203102500" stop="20200203105900">
-    <title>Martin Matin</title>
-    <desc lang="fr">Martin est un petit garçon de sept ans qui semble tout à fait ordinaire. Mais il vit des aventures extraordinaires tous les matins, en se réveillant dans la peau d'un nouveau personnage. Ses histoires le mènent parfois jusqu'au bout du monde.</desc>
-    <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">34</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6cc8f959-2811-4f7e-bc9d-cda8fc2135a2.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -23882,24 +22504,6 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/42577ce7-b0c2-4d8d-8cd7-77ed08d7e6b7.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200203110000" stop="20200203115000">
-    <title>La famille Blaireau-Renard</title>
-    <desc lang="fr">La famille Blaireau mène une vie tranquille dans un terrier au fond des bois jusqu'au jour où madame Renarde et sa fille Roussette, délogées de leur tanière par des chasseurs, emménagent chez elle.</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">50</length>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200203115000" stop="20200203122900">
-    <title>Sam le pompier</title>
-    <desc lang="fr">A Pontypandy, armé de sa lance à incendie et de beaucoup de courage, Sam le pompier est sur tous les fronts.</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">39</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -23981,33 +22585,13 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200203151000" stop="20200203153000">
-    <title>Les lapins crétins : invasion</title>
-    <desc lang="fr">Les Lapins crétins découvrent le monde, mais leur mémoire étant particulièrement limitée, ils se retrouvent dans des situations saugrenues.</desc>
-    <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200203153000" stop="20200203172000">
-    <title>Minikeums</title>
-    <desc lang="fr">Programme jeunesse culte des années 90, les «Minikeums» sont de retour avec de nouveaux animateurs. Les cinq personnages, Keva, Riha, Loulou, Normy et Pog partagent leur passion pour les nouvelles technologies, la danse, le chant, la mode et le sport.</desc>
-    <category lang="fr">emission jeunesse</category>
-    <length units="minutes">110</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4eb91730-5194-4cff-8f2e-51bf50ea28ab.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C78.api.telerama.fr" start="20200203172000" stop="20200203191500">
     <title>Minikeums</title>
     <sub-title>La fausse note</sub-title>
     <desc lang="fr">Programme jeunesse culte des années 90, les «Minikeums» sont de retour avec de nouveaux animateurs. Les cinq personnages, Keva, Riha, Loulou, Normy et Pog partagent leur passion pour les nouvelles technologies, la danse, le chant, la mode et le sport.</desc>
     <category lang="fr">emission jeunesse</category>
     <length units="minutes">115</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/52d802db-75da-474d-a361-129b0e405816.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4eb91730-5194-4cff-8f2e-51bf50ea28ab.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
