@@ -929,7 +929,7 @@
   </programme>
   <programme channel="C110.api.telerama.fr" start="20200204204000" stop="20200204204500">
     <title>Pourquoi, Padre ?</title>
-    <desc lang="fr">Le père Jean-Baptiste Bienvenu répond en trois minutes aux questions de jeunes chrétiens sur leurs vies au quotidien.</desc>
+    <desc lang="fr">Les prêtres, animateurs du Padreblog, et notamment l'abbé Grosjean, l'abbé Amar et le père Bienvenu répondent aux questions du grand public.</desc>
     <category lang="fr">magazine religieux</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3dc54c15-3448-4557-ad1a-413051dea95e.jpg" />
@@ -1440,7 +1440,7 @@
     <desc lang="fr">Débats, reportages et interventions d'experts permettent d'approfondir l'actualité du jour. Placé sous le signe de la pédagogie, cette nouvelle émission est segmentée en trois parties : le débat du jour, un sujet politique ou portant sur l'économie et une dernière partie qui concerne la science, l'international ou la société. Les téléspectateurs sont invités à réagir via les réseaux sociaux.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2176a5f9-7f9d-4832-8b2e-73422cc172de.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2662,6 +2662,7 @@
     <sub-title>1re partie</sub-title>
     <category lang="fr">sport : multisports</category>
     <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9440623b-e81b-465f-a10c-aac69dac93b7.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2671,6 +2672,7 @@
     <title>L'Équipe d'Estelle</title>
     <category lang="fr">sport : multisports</category>
     <length units="minutes">105</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9440623b-e81b-465f-a10c-aac69dac93b7.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3628,12 +3630,34 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200204025000" stop="20200204030500">
+  <programme channel="C160.api.telerama.fr" start="20200204025000" stop="20200204025500">
     <title>Outremer tout court</title>
     <sub-title>Martinique : renaissance du Bèlè</sub-title>
     <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">15</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/67414d70-449a-4454-ad3e-c6d9b4c553c7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200204025500" stop="20200204030100">
+    <title>Outremer tout court</title>
+    <sub-title>Mayotte : la nuit des tortues</sub-title>
+    <category lang="fr">documentaire : découvertes</category>
+    <length units="minutes">6</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/67414d70-449a-4454-ad3e-c6d9b4c553c7.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200204030100" stop="20200204030500">
+    <title>Outremer tout court</title>
+    <sub-title>Parcours des cîmes : la plante de Georges</sub-title>
+    <category lang="fr">documentaire : découvertes</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/67414d70-449a-4454-ad3e-c6d9b4c553c7.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -4435,16 +4459,6 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C192.api.telerama.fr" start="20200204160500" stop="20200204171000">
-    <title>Les plus belles mariées</title>
-    <desc lang="fr">Quatre futures mariées préparent le plus beau jour de leur vie en compagnie de deux de leurs proches. Les quatre concurrentes doivent ainsi se choisir une robe, une mise en beauté et un accessoire magnifiant leur tenue. Elles sont ainsi jugées et notées sur ces trois critères puis, le vendredi, s'attribuent mutuellement une ultime note : celle de la transformation qu'elles ont su opérer pour être les plus belles pour leurs noces.</desc>
-    <category lang="fr">téléréalité</category>
-    <length units="minutes">65</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2ace8271-3a55-4b6d-8318-075460dc5867.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C192.api.telerama.fr" start="20200204171000" stop="20200204182000">
     <title>Bienvenue chez nous</title>
     <sub-title>Laura et Fabien</sub-title>
@@ -4900,10 +4914,12 @@
   </programme>
   <programme channel="C1921.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -5464,10 +5480,12 @@
   </programme>
   <programme channel="C1922.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -6028,10 +6046,12 @@
   </programme>
   <programme channel="C1923.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -6592,10 +6612,12 @@
   </programme>
   <programme channel="C1924.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7156,10 +7178,12 @@
   </programme>
   <programme channel="C1925.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7720,10 +7744,12 @@
   </programme>
   <programme channel="C1926.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8284,10 +8310,12 @@
   </programme>
   <programme channel="C1927.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8848,10 +8876,12 @@
   </programme>
   <programme channel="C1928.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9412,10 +9442,12 @@
   </programme>
   <programme channel="C1929.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9878,10 +9910,12 @@
   </programme>
   <programme channel="C1931.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10442,10 +10476,12 @@
   </programme>
   <programme channel="C1932.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -11006,10 +11042,12 @@
   </programme>
   <programme channel="C1933.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -11570,10 +11608,12 @@
   </programme>
   <programme channel="C1934.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -12134,10 +12174,12 @@
   </programme>
   <programme channel="C1935.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -12698,10 +12740,12 @@
   </programme>
   <programme channel="C1936.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -13262,10 +13306,12 @@
   </programme>
   <programme channel="C1937.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -13718,10 +13764,12 @@
   </programme>
   <programme channel="C1938.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -14282,10 +14330,12 @@
   </programme>
   <programme channel="C1939.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -14846,10 +14896,12 @@
   </programme>
   <programme channel="C1940.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -15400,10 +15452,12 @@
   </programme>
   <programme channel="C1941.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -15964,10 +16018,12 @@
   </programme>
   <programme channel="C1942.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -16528,10 +16584,12 @@
   </programme>
   <programme channel="C1943.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -17092,10 +17150,12 @@
   </programme>
   <programme channel="C1944.api.telerama.fr" start="20200204093500" stop="20200204094400">
     <title>Consomag</title>
+    <sub-title>Les nouvelles règles de l'encadrement des loyers</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -18934,7 +18994,7 @@
     <title>Intégrale des symphonies de Beethoven</title>
     <sub-title>Symphonies n°1 et n°2</sub-title>
     <desc lang="fr">Composées à la fin du XVIIIe siècle et influencées par Haydn et Mozart, les deux révolutionniaires du genre, les symphonies n°1 et 2 de Beethoven révèlent la modernité du compositeur, alors à l'apogée de son art. La Première symphonie est particulièrement marquée par les audaces harmoniques de Beethoven, qui fête en 2020, le 250ème anniversaire de sa naissance.</desc>
-    <category lang="fr">classique</category>
+    <category lang="fr">autre</category>
     <length units="minutes">70</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/471fbcac-2121-4599-ad30-eb003b27ed58.jpg" />
     <premiere />
@@ -18949,7 +19009,7 @@
     <title>Intégrale des symphonies de Beethoven</title>
     <sub-title>Symphonies n°3 et 4</sub-title>
     <desc lang="fr">Les symphonies n°3 et 4 de Beethoven révèlent la modernité du composieur, alors à l'apogée de son art.</desc>
-    <category lang="fr">classique</category>
+    <category lang="fr">autre</category>
     <length units="minutes">89</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/471fbcac-2121-4599-ad30-eb003b27ed58.jpg" />
     <premiere />
@@ -19721,7 +19781,7 @@
     <date>1996</date>
     <category lang="fr">film de science-fiction</category>
     <length units="minutes">150</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/169_emi_79061.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c5d88c7b-7d5f-48cf-a1bf-1df22cf07c79.jpg" />
     <audio>
       <stereo>bilingual</stereo>
     </audio>
@@ -19733,6 +19793,32 @@
     <star-rating>
       <value>1/5</value>
     </star-rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200204004000" stop="20200204022500">
+    <title>Enquête sous haute tension</title>
+    <sub-title>100 jours avec les gendarmes de choc de l'Hérault (n°2)</sub-title>
+    <desc lang="fr">Pendant tout un été, les gendarmes de l'Hérault ouvrent leurs portes. Ils partagent leur quotidien dans le cadre de leurs missions mais aussi les temps forts de leur vie en dehors du travail. Les 200 gendarmes de la compagnie de Lunel sont chargés de surveiller les bords de la Méditerranée.</desc>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">105</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ce821e53-8bf6-4183-9caf-cb2af286e3a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200204022500" stop="20200204041500">
+    <title>Enquête sous haute tension</title>
+    <sub-title>100 jours avec les gendarmes de choc de l'Hérault (n°2)</sub-title>
+    <desc lang="fr">Pendant tout un été, les gendarmes de l'Hérault ouvrent leurs portes. Ils partagent leur quotidien dans le cadre de leurs missions mais aussi les temps forts de leur vie en dehors du travail. Les 200 gendarmes de la compagnie de Lunel sont chargés de surveiller les bords de la Méditerranée.</desc>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">110</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ce821e53-8bf6-4183-9caf-cb2af286e3a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
   </programme>
   <programme channel="C445.api.telerama.fr" start="20200204050000" stop="20200204053000">
     <title>Gym direct</title>
@@ -20413,50 +20499,6 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C459.api.telerama.fr" start="20200203235700" stop="20200204005200">
-    <title>Le prix de la passion</title>
-    <desc lang="fr">Saison:1 - Episode:80 -</desc>
-    <category lang="fr">feuilleton dramatique</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/620c57d8-db4c-4a12-89c9-d2ce4ec7a7af.jpg" />
-    <episode-num system="xmltv_ns">0.79.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C459.api.telerama.fr" start="20200204005200" stop="20200204011700">
-    <title>OPJ, Pacifique Sud</title>
-    <sub-title>Coquillage et macchabee</sub-title>
-    <desc lang="fr">Saison:1 - Episode:26 - Gaspard ne trouve toujours pas chaussure à son pied, malgré les nombreux rendez-vous organisés par Joséphine. Kelly a pris son courage à deux mains pour annoncer à son clan qu'elle n'épouserait pas Kowi. Et contre toute attente, personne ne lui en tient rigueur. Gaspard se plaint d'avoir beaucoup de travail lors des congés de Jackson...</desc>
-    <category lang="fr">série policière</category>
-    <length units="minutes">25</length>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C459.api.telerama.fr" start="20200204011700" stop="20200204021000">
-    <title>Nous, gens de la terre</title>
-    <sub-title>Saint-Pierre-et-Miquelon</sub-title>
-    <desc lang="fr">Vingt-cinq ans après le moratoire canadien sur la pêche, Saint-Pierre-et-Miquelon a tenté de refaire surface en se diversifiant. L'île a développé le fret, le tourisme et exploité de nouvelles espèces. Mais le réchauffement climatique a fait fuir de nombreuses espèces. Inquiets, les pêcheurs saint-pierrais tirent la sonnette d'alarme, mais craignent qu'il ne soit trop tard.</desc>
-    <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">53</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/610d5d07-3960-4e7f-aee0-1387ab09067b.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C459.api.telerama.fr" start="20200204021000" stop="20200204023600">
-    <title>Couleurs outremers</title>
-    <sub-title>Episode 25</sub-title>
-    <desc lang="fr">Saison:7 - Au sommaire :</desc>
-    <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">26</length>
-    <episode-num system="xmltv_ns">6..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C459.api.telerama.fr" start="20200204023600" stop="20200204030300">
     <title>Couleurs outremers</title>
     <sub-title>La réserve naturelle de Saint-Barth</sub-title>
@@ -20496,50 +20538,6 @@
     <category lang="fr">journal</category>
     <length units="minutes">23</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C459.api.telerama.fr" start="20200204040000" stop="20200204042400">
-    <title>Journal Polynésie</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">24</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C459.api.telerama.fr" start="20200204042400" stop="20200204043500">
-    <title>Furiki</title>
-    <sub-title>Accro à la vitesse</sub-title>
-    <desc lang="fr">Saison:1 - André écope d'une semaine de suspension de cours à cause de sa conduite hyperactive. Il va devoir retourner dans sa famille pour apprendre à vivre à un autre rythme...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">11</length>
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C459.api.telerama.fr" start="20200204043500" stop="20200204044700">
-    <title>Frankie et les Zhuzhus Pets</title>
-    <sub-title>Abracadabramaster ! - Mini Frankie</sub-title>
-    <desc lang="fr">Saison:1 - Episode:20 - Après un tour de magie, Frankie croit avoir fait disparaître Chunk. Il est en fait tombé dans le tube, mais il est persuadé d'être invisible. Il se met à faire toutes sortes de mauvaises blagues à travers la ville, convaincu que personne ne peut le voir. - Frankie aimerait être toute petite comme les Zhuzhus Pets. Et le lendemain matin, elle a la taille d'un hamster. Frankie s'amuse beaucoup jusqu'à ce qu'elle tombe nez à nez avec un chat...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">12</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/73ff343b-f22c-4a0c-992d-39985ed05e62.jpg" />
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C459.api.telerama.fr" start="20200204044700" stop="20200204045900">
-    <title>Dr Pantastique</title>
-    <sub-title>La nuisance fantôme</sub-title>
-    <desc lang="fr">Saison:1 - Episode:36 - Dutch joue un tour d'épouvante à Karl et, pour se venger, ce dernier ramène un fantôme de la dimension Fantôme...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">12</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7bd7b10d-ff5a-4685-a614-6651694cc84c.jpg" />
-    <episode-num system="xmltv_ns">0.35.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -22859,11 +22857,11 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200203232500" stop="20200204011500">
+  <programme channel="C78.api.telerama.fr" start="20200203232500" stop="20200204011000">
     <title>L'heureux élu</title>
     <desc lang="fr">Charline se réjouit. Elle a tout pour être heureuse, maintenant qu'elle s'apprête à épouser Noël, l'homme de sa vie, un Français de Manhattan. Avant de le présenter à ses meilleurs amis, bobos parisiens installés à Bastille, elle prend toutefois quelques précautions, et leur fait savoir qu'il est un peu spécial. Son fiancé a beau être riche, poli, et séduisant, il pense «différemment». Que faire face à l'heureux élu, un homme d'affaires tiré à quatre épingles qui n'hésite pas à prendre des positions politiquement incorrectes sur des sujets houleux ? Respecter sa parole, débattre ou le rejeter pour ses idées ?</desc>
     <category lang="fr">pièce de théâtre</category>
-    <length units="minutes">110</length>
+    <length units="minutes">105</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e1f8c538-d00a-4694-a36f-c11f1ab7d519.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -22872,6 +22870,155 @@
     <star-rating>
       <value>3/5</value>
     </star-rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200204011000" stop="20200204013500">
+    <title>Une saison au zoo</title>
+    <desc lang="fr">Rencontre avec les hommes et les femmes qui travaillent au parc zoologique de La Flèche, situé à proximité du Mans : soigneurs, vétérinaires, responsables, commerciaux ou jardiniers évoquent leur passion pour les animaux, la nature. Une caméra les suit dans leurs tâches quotidiennes durant plusieurs semaines.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0b035e93-134b-4f4a-a0fb-6fc98c746fcb.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200204013500" stop="20200204020500">
+    <title>Une saison au zoo</title>
+    <desc lang="fr">Rencontre avec les hommes et les femmes qui travaillent au parc zoologique de La Flèche, situé à proximité du Mans : soigneurs, vétérinaires, responsables, commerciaux ou jardiniers évoquent leur passion pour les animaux, la nature. Une caméra les suit dans leurs tâches quotidiennes durant plusieurs semaines.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0b035e93-134b-4f4a-a0fb-6fc98c746fcb.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200204020500" stop="20200204021500">
+    <title>Bienvenue chez les Ronks !</title>
+    <sub-title>Le confort moderne</sub-title>
+    <desc lang="fr">Saison:1 - Episode:9 - Flash ne supporte plus la saleté de la grotte, ni les moeurs répugnantes de Walter. Il décide de se construire une maison high-tech à l'écart du village. Il invite Mila et Walter à venir vivre avec lui mais Walter refuse...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/801b43fb-0c90-4138-94c2-bb76d9288e0d.jpg" />
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200204021500" stop="20200204023000">
+    <title>Bienvenue chez les Ronks !</title>
+    <sub-title>Flash et les mutants</sub-title>
+    <desc lang="fr">Saison:1 - Episode:10 - Pour démontrer à Walter que la science peut tout faire, Flash manipule génétiquement une fleur pour la rendre bleue. Une guêpe la butine et devient monstrueuse et agressive. Il faut l'éliminer, mais la mutation se répand de plus en plus vite...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/801b43fb-0c90-4138-94c2-bb76d9288e0d.jpg" />
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200204023000" stop="20200204024000">
+    <title>Bienvenue chez les Ronks !</title>
+    <sub-title>Course pour les Ronks</sub-title>
+    <desc lang="fr">Saison:1 - Episode:11 - Rob rend visite à Flash et se moque de lui : il n'a pas vraiment fait évoluer les Ronks. Pour lui prouver qu'il est un agent efficace, Flash lance un défi à Rob et aux extraterrestres qui l'accompagnent : une grande course...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/801b43fb-0c90-4138-94c2-bb76d9288e0d.jpg" />
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200204024000" stop="20200204025000">
+    <title>Bienvenue chez les Ronks !</title>
+    <sub-title>Déboussolés</sub-title>
+    <desc lang="fr">Saison:1 - Episode:12 - Pour échapper aux leçons de Flash, Walter fabrique une fausse carte au trésor et envoie Flash chercher le trésor, armé de sa boussole. Mais Mila décide de se joindre à l'aventure, et Walter se retrouve obligé d'y aller aussi pour la protéger...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/801b43fb-0c90-4138-94c2-bb76d9288e0d.jpg" />
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200204025000" stop="20200204030000">
+    <title>Bienvenue chez les Ronks !</title>
+    <sub-title>Le dodo volant</sub-title>
+    <desc lang="fr">Saison:1 - Episode:13 - Mila a l'impression de ne pas être à la hauteur de la réputation de son oncle quand il était enfant : champion incontesté de lancer de dodos et garnement infatigable. Pour aider Mila, Flash lui apprend le Krong-Fu. Comme elle apprend vite, elle bat rapidement tous les Ronks au lancer de dodos...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/801b43fb-0c90-4138-94c2-bb76d9288e0d.jpg" />
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200204030000" stop="20200204031500">
+    <title>Bienvenue chez les Ronks !</title>
+    <sub-title>Retiens la nuit</sub-title>
+    <desc lang="fr">Saison:1 - Episode:14 - Mila rêve d'adopter la lumière électrique, qui lui permettrait de découvrir les animaux nocturnes et de se coucher tard. Comme Mama ne comprend rien aux explications techniques de Flash et ne se montre pas intéressée, Mila fait croire que les «géants de feu qui déchirent le ciel avec des éclairs», ont prêté leur feu magique à l'alien. Mais Mila n'avait pas prévu que les Ronks deviendraient accros à la lumière électrique, au point de ne plus dormir la nuit...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/801b43fb-0c90-4138-94c2-bb76d9288e0d.jpg" />
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200204031500" stop="20200204032500">
+    <title>Tempête de boulettes géantes</title>
+    <sub-title>Réservé aux inventeurs</sub-title>
+    <desc lang="fr">Saison:1 - Episode:11 - Une de ses inventions ayant créé quelques dégâts dans une demeure de la ville, Flint s'y rend pour présenter ses excuses. Surprise, il tombe sur un vieil inventeur qui manifeste un grand intérêt pour ses inventions. Un peu trop au goût de Sam...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2c8fcc58-f708-4a7c-bbc4-a52e0f663b9f.jpg" />
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200204032500" stop="20200204034000">
+    <title>Tempête de boulettes géantes</title>
+    <sub-title>Robo-coq</sub-title>
+    <desc lang="fr">Saison:1 - Episode:12 - Un des plus gros problèmes de Flint, est de se réveiller, ou plutôt, de ne pas se réveiller. Toujours en retard en cours, il finit par provoquer la colère du directeur. Pour y remédier, il invente le robo-coq. Un réveille-matin censé veiller aux grains...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2c8fcc58-f708-4a7c-bbc4-a52e0f663b9f.jpg" />
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200204034000" stop="20200204035000">
+    <title>Zip Zip</title>
+    <sub-title>Mon vieux Wash</sub-title>
+    <desc lang="fr">Saison:1 - Episode:39 - Après avoir découvert un pauvre poil gris dans ses moustaches, Victoria convainc Washington qu’il a un pied dans la tombe. Elle calcule qu’en années de chien, il doit avoir au moins 32 ans. Incapable d’accepter la vieillesse, Washington décide de prouver à ses amis qu’il a toujours la forme. Mais quand les preuves de son grand âge s’accumulent, Washington est forcé de regarder les choses en face. Peut-être que ses meilleures années sont derrière lui...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a0674390-615b-40ca-a8db-3304894962d2.jpg" />
+    <episode-num system="xmltv_ns">0.38.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200204035000" stop="20200204045000">
+    <title>Zip Zip</title>
+    <sub-title>Au sec-ours</sub-title>
+    <desc lang="fr">Saison:1 - Episode:40 - Mitch, l’ours réussit à se faire passer pour un bébé ours et adopter par les Livingstone. Très mignon en leur présence, il redevient la terreur que les Sauvages connaissent dès qu’ils s’absentent. Washington tente de négocier les conditions d’une cohabitation harmonieuse mais Mitch ne veut rien entendre. Pire, il prend de plus en plus ses aises, mange la nourriture de ses colocataires et les fait accuser de ses bêtises...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a0674390-615b-40ca-a8db-3304894962d2.jpg" />
+    <episode-num system="xmltv_ns">0.39.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
   </programme>
   <programme channel="C78.api.telerama.fr" start="20200204060000" stop="20200204072000">
     <title>Oscar &amp; Malika, toujours en retard</title>
