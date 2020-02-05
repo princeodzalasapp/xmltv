@@ -1,10 +1,10 @@
-- Start script at 04/02/2020 01:00:01-CET in /home/admin/xmltv/scripts
+- Start script at 05/02/2020 01:00:01-CET in /home/admin/xmltv/scripts
 - To avoid any git conflict we do a force pull first
 Récupération de origin
-HEAD est maintenant à 8ad8dfd Auto update TV guides (03/02/2020 01:00:01-CET)
+HEAD est maintenant à 0f967b3 Auto update TV guides (04/02/2020 01:00:01-CET)
 - Remove xmltv files
 - Update raw 7 days guides (tv_guide_XX.xml files in raw fodler)
-getting listings: getting listings: [Tue Feb  4 01:00:05 2020] Fetching listings:   0%
+getting listings: getting listings: [Wed Feb  5 01:00:05 2020] Fetching listings:   0%
 getting list of channels: #######***Channel |Sky Cinema Uno HD| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Sky Cinema Due HD| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Sky Cinema Oscar HD| for 'skylife' is not in channel_ids, should be updated.
@@ -23,7 +23,7 @@ getting list of channels: #######***Channel |Sky Cinema Uno HD| for 'skylife' is
 ***Channel |Premium Energy| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Premium Emotion| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Premium Comedy| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Discovery| for 'skylife' is not in channel_ids, should be updated.
+#***Channel |Discovery| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Discovery +1| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |NationalGeo| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |NationalGeo +1| for 'skylife' is not in channel_ids, should be updated.
@@ -37,7 +37,7 @@ getting list of channels: #######***Channel |Sky Cinema Uno HD| for 'skylife' is
 ***Channel |Food Network HD| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Motor Trend HD| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Motor Trend| for 'skylife' is not in channel_ids, should be updated.
-#***Channel |Sky Sport Uno| for 'skylife' is not in channel_ids, should be updated.
+##***Channel |Sky Sport Uno| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Sky Sport Serie A HD| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Sky Sport Football HD| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Sky Sport Arena| for 'skylife' is not in channel_ids, should be updated.
@@ -75,7 +75,7 @@ getting list of channels: #######***Channel |Sky Cinema Uno HD| for 'skylife' is
 ***Channel |i24news| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |France 24 Francais HD| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |RT Doc HD| for 'skylife' is not in channel_ids, should be updated.
-##***Channel |DeAKids +1| for 'skylife' is not in channel_ids, should be updated.
+***Channel |DeAKids +1| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Nick Jr| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Nick Jr +1| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Nickelodeon +1| for 'skylife' is not in channel_ids, should be updated.
@@ -87,13 +87,13 @@ getting list of channels: #######***Channel |Sky Cinema Uno HD| for 'skylife' is
 ***Channel |DeAJunior| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |-frisbee-| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |CARTOONITO DTT| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Radio Italia TV HD| for 'skylife' is not in channel_ids, should be updated.
+#***Channel |Radio Italia TV HD| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |RADIONORBA TV| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |RTL 102.5 HD| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |RADIOFRECCIA HD| for 'skylife' is not in channel_ids, should be updated.
-#[Tue Feb  4 01:00:21 2020] Fetching listings:   0%
 ***Channel |Sky Uno +1| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Sky Atlantic +1 HD| for 'skylife' is not in channel_ids, should be updated.
+***Channel |Fox On Fire| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |FoxLife +1| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |FoxCrime +1| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Premium Crime HD| for 'skylife' is not in channel_ids, should be updated.
@@ -124,180 +124,171 @@ getting list of channels: #######***Channel |Sky Cinema Uno HD| for 'skylife' is
 ***Channel |cielo| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |GIALLO| for 'skylife' is not in channel_ids, should be updated.
 ###***Channel |Canale 5 DTT| for 'skylife' is not in channel_ids, should be updated.
-###############***Channel |Premium Stories| for 'mediaset_guidatv' is not in channel_ids, should be updated.
+#############***Channel |Premium Stories| for 'mediaset_guidatv' is not in channel_ids, should be updated.
 ################################
-getting listings: ##I couldn't fetch data for channel rainews.guidatv.sky.it, day 0 from any backend!!
-##I couldn't fetch data for channel raisport.guidatv.sky.it, day 0 from any backend!!
-######################I couldn't fetch data for channel raisport.guidatv.sky.it, day 1 from any backend!!
-###################################
-Grabber process finished in 117 seconds.
-######[Tue Feb  4 01:02:17 2020] Fetching listings:   1%
-################errore get_nice at ./tv_grab_it/tv_grab_it line 2963.
-I couldn't fetch data for channel www.la7.it, day 5 from any backend!!
-##I couldn't fetch data for channel raisport.guidatv.sky.it, day 5 from any backend!!
-########errore get_nice at ./tv_grab_it/tv_grab_it line 2963.
-I couldn't fetch data for channel www.la7.it, day 6 from any backend!!
-##I couldn't fetch data for channel www.raiuno.rai.it, day 6 from any backend!!
-[Tue Feb  4 01:04:07 2020] Fetching listings:   2%
+getting listings: #####[Wed Feb  5 01:00:37 2020] Fetching listings:   0%
+##############################################################
+Grabber process finished in 119 seconds.
+###########[Wed Feb  5 01:02:39 2020] Fetching listings:   1%
+####################I couldn't fetch data for channel www.raiuno.rai.it, day 6 from any backend!!
 I couldn't fetch data for channel www.raidue.rai.it, day 6 from any backend!!
 #I couldn't fetch data for channel www.raitre.rai.it, day 6 from any backend!!
-#I couldn't fetch data for channel rai4.raisat.it, day 6 from any backend!!
-##I couldn't fetch data for channel raiscuola.rai.it, day 6 from any backend!!
-##I couldn't fetch data for channel raistoria.rai.it, day 6 from any backend!!
-#I couldn't fetch data for channel yoyo.raisat.it, day 6 from any backend!!
-#
-####[Tue Feb  4 01:05:56 2020] Fetching listings:   3%
-########[Tue Feb  4 01:08:12 2020] Fetching listings:   4%
-#######[Tue Feb  4 01:10:10 2020] Fetching listings:   5%
-#######[Tue Feb  4 01:11:43 2020] Fetching listings:   6%
-#####[Tue Feb  4 01:13:17 2020] Fetching listings:   7%
-#[Tue Feb  4 01:13:41 2020] Fetching listings:   8%
+###I couldn't fetch data for channel raiscuola.rai.it, day 6 from any backend!!
 ###
-Grabber process finished in 863 seconds.
-[Tue Feb  4 01:15:14 2020] Fetching listings:   9%
-[Tue Feb  4 01:16:23 2020] Fetching listings:  10%
-[Tue Feb  4 01:17:58 2020] Fetching listings:  11%
-Unable to retrieve web page for 432
-[Tue Feb  4 01:19:06 2020] Fetching listings:  12%
-[Tue Feb  4 01:20:41 2020] Fetching listings:  13%
-[Tue Feb  4 01:21:59 2020] Fetching listings:  14%
-[Tue Feb  4 01:22:15 2020] Fetching listings:  15%
-[Tue Feb  4 01:23:24 2020] Fetching listings:  16%
-[Tue Feb  4 01:24:26 2020] Fetching listings:  17%
-[Tue Feb  4 01:25:29 2020] Fetching listings:  18%
-[Tue Feb  4 01:26:28 2020] Fetching listings:  19%
-[Tue Feb  4 01:27:24 2020] Fetching listings:  20%
-[Tue Feb  4 01:28:34 2020] Fetching listings:  21%
-[Tue Feb  4 01:29:58 2020] Fetching listings:  22%
-[Tue Feb  4 01:30:05 2020] Fetching listings:  23%
-Unable to retrieve web page for 871
-[Tue Feb  4 01:30:59 2020] Fetching listings:  24%
-[Tue Feb  4 01:32:08 2020] Fetching listings:  25%
-Unable to retrieve web page for 871
-[Tue Feb  4 01:33:15 2020] Fetching listings:  25%
-[Tue Feb  4 01:34:16 2020] Fetching listings:  26%
-[Tue Feb  4 01:35:18 2020] Fetching listings:  27%
-[Tue Feb  4 01:35:57 2020] Fetching listings:  28%
-[Tue Feb  4 01:38:17 2020] Fetching listings:  29%
-[Tue Feb  4 01:40:44 2020] Fetching listings:  30%
-[Tue Feb  4 01:43:20 2020] Fetching listings:  31%
-[Tue Feb  4 01:45:26 2020] Fetching listings:  32%
-[Tue Feb  4 01:47:33 2020] Fetching listings:  33%
-[Tue Feb  4 01:49:55 2020] Fetching listings:  34%
-[Tue Feb  4 01:51:54 2020] Fetching listings:  35%
-[Tue Feb  4 01:52:07 2020] Fetching listings:  36%
-[Tue Feb  4 01:53:16 2020] Fetching listings:  37%
-[Tue Feb  4 01:54:30 2020] Fetching listings:  38%
-[Tue Feb  4 01:55:46 2020] Fetching listings:  39%
-[Tue Feb  4 01:57:15 2020] Fetching listings:  40%
-[Tue Feb  4 01:58:26 2020] Fetching listings:  41%
-Unable to retrieve web page for 178
-[Tue Feb  4 02:00:15 2020] Fetching listings:  42%
+##[Wed Feb  5 01:04:49 2020] Fetching listings:   2%
+#######[Wed Feb  5 01:06:49 2020] Fetching listings:   3%
+######[Wed Feb  5 01:08:36 2020] Fetching listings:   4%
+######[Wed Feb  5 01:10:06 2020] Fetching listings:   5%
+######[Wed Feb  5 01:11:52 2020] Fetching listings:   6%
+#######[Wed Feb  5 01:13:45 2020] Fetching listings:   7%
+#
+Grabber process finished in 828 seconds.
+[Wed Feb  5 01:14:07 2020] Fetching listings:   8%
+[Wed Feb  5 01:15:20 2020] Fetching listings:   9%
+[Wed Feb  5 01:16:45 2020] Fetching listings:  10%
+[Wed Feb  5 01:18:10 2020] Fetching listings:  11%
+[Wed Feb  5 01:19:31 2020] Fetching listings:  12%
+[Wed Feb  5 01:20:52 2020] Fetching listings:  13%
+[Wed Feb  5 01:22:13 2020] Fetching listings:  14%
+[Wed Feb  5 01:23:25 2020] Fetching listings:  15%
+[Wed Feb  5 01:23:40 2020] Fetching listings:  16%
+[Wed Feb  5 01:24:44 2020] Fetching listings:  17%
+[Wed Feb  5 01:25:47 2020] Fetching listings:  18%
+[Wed Feb  5 01:27:01 2020] Fetching listings:  19%
+[Wed Feb  5 01:28:10 2020] Fetching listings:  20%
+[Wed Feb  5 01:29:12 2020] Fetching listings:  21%
+[Wed Feb  5 01:30:27 2020] Fetching listings:  22%
+[Wed Feb  5 01:31:35 2020] Fetching listings:  23%
+[Wed Feb  5 01:31:48 2020] Fetching listings:  24%
+[Wed Feb  5 01:33:21 2020] Fetching listings:  25%
+[Wed Feb  5 01:34:23 2020] Fetching listings:  25%
+[Wed Feb  5 01:35:27 2020] Fetching listings:  26%
+[Wed Feb  5 01:36:36 2020] Fetching listings:  27%
+[Wed Feb  5 01:37:31 2020] Fetching listings:  28%
+[Wed Feb  5 01:38:30 2020] Fetching listings:  29%
+[Wed Feb  5 01:39:33 2020] Fetching listings:  30%
+[Wed Feb  5 01:40:15 2020] Fetching listings:  31%
+[Wed Feb  5 01:42:38 2020] Fetching listings:  32%
+[Wed Feb  5 01:44:47 2020] Fetching listings:  33%
+[Wed Feb  5 01:46:57 2020] Fetching listings:  34%
+[Wed Feb  5 01:49:07 2020] Fetching listings:  35%
+[Wed Feb  5 01:51:08 2020] Fetching listings:  36%
+[Wed Feb  5 01:53:02 2020] Fetching listings:  37%
+[Wed Feb  5 01:55:35 2020] Fetching listings:  38%
+[Wed Feb  5 01:55:49 2020] Fetching listings:  39%
+[Wed Feb  5 01:56:56 2020] Fetching listings:  40%
+[Wed Feb  5 01:57:55 2020] Fetching listings:  41%
+[Wed Feb  5 01:59:07 2020] Fetching listings:  42%
+[Wed Feb  5 02:00:01 2020] Fetching listings:  43%
+[Wed Feb  5 02:01:40 2020] Fetching listings:  44%
+[Wed Feb  5 02:03:43 2020] Fetching listings:  45%
+[Wed Feb  5 02:04:55 2020] Fetching listings:  46%
 No schedule found
-[Tue Feb  4 02:00:19 2020] Fetching listings:  43%
+[Wed Feb  5 02:04:57 2020] Fetching listings:  47%
 No schedule found
-[Tue Feb  4 02:00:20 2020] Fetching listings:  44%
+[Wed Feb  5 02:04:59 2020] Fetching listings:  48%
 No schedule found
-[Tue Feb  4 02:00:25 2020] Fetching listings:  45%
+[Wed Feb  5 02:05:02 2020] Fetching listings:  49%
 No schedule found
-[Tue Feb  4 02:00:27 2020] Fetching listings:  46%
-Unable to retrieve web page for 1207
+[Wed Feb  5 02:05:05 2020] Fetching listings:  50%
 No schedule found
-[Tue Feb  4 02:00:32 2020] Fetching listings:  47%
+[Wed Feb  5 02:05:10 2020] Fetching listings:  50%
 No schedule found
-[Tue Feb  4 02:00:36 2020] Fetching listings:  48%
+[Wed Feb  5 02:05:13 2020] Fetching listings:  51%
 No schedule found
-[Tue Feb  4 02:00:41 2020] Fetching listings:  49%
-[Tue Feb  4 02:00:47 2020] Fetching listings:  50%
-[Tue Feb  4 02:01:21 2020] Fetching listings:  50%
-[Tue Feb  4 02:01:59 2020] Fetching listings:  51%
-[Tue Feb  4 02:02:40 2020] Fetching listings:  52%
-[Tue Feb  4 02:03:26 2020] Fetching listings:  53%
-[Tue Feb  4 02:04:04 2020] Fetching listings:  54%
-[Tue Feb  4 02:04:49 2020] Fetching listings:  55%
-[Tue Feb  4 02:05:30 2020] Fetching listings:  56%
-Unable to retrieve web page for 182
-[Tue Feb  4 02:06:29 2020] Fetching listings:  57%
-Unable to retrieve web page for 182
-[Tue Feb  4 02:07:22 2020] Fetching listings:  58%
-[Tue Feb  4 02:07:59 2020] Fetching listings:  59%
-[Tue Feb  4 02:08:39 2020] Fetching listings:  60%
-[Tue Feb  4 02:09:18 2020] Fetching listings:  61%
-[Tue Feb  4 02:10:00 2020] Fetching listings:  62%
-[Tue Feb  4 02:10:03 2020] Fetching listings:  63%
-[Tue Feb  4 02:11:03 2020] Fetching listings:  64%
-[Tue Feb  4 02:11:44 2020] Fetching listings:  65%
-[Tue Feb  4 02:12:34 2020] Fetching listings:  66%
-[Tue Feb  4 02:13:15 2020] Fetching listings:  67%
-[Tue Feb  4 02:13:51 2020] Fetching listings:  68%
-[Tue Feb  4 02:14:24 2020] Fetching listings:  69%
-[Tue Feb  4 02:15:09 2020] Fetching listings:  70%
-[Tue Feb  4 02:15:11 2020] Fetching listings:  71%
-[Tue Feb  4 02:15:58 2020] Fetching listings:  72%
-[Tue Feb  4 02:16:49 2020] Fetching listings:  73%
-[Tue Feb  4 02:17:33 2020] Fetching listings:  74%
-[Tue Feb  4 02:18:12 2020] Fetching listings:  75%
-[Tue Feb  4 02:18:53 2020] Fetching listings:  75%
-[Tue Feb  4 02:19:24 2020] Fetching listings:  76%
-[Tue Feb  4 02:20:06 2020] Fetching listings:  77%
-[Tue Feb  4 02:20:33 2020] Fetching listings:  78%
-[Tue Feb  4 02:21:55 2020] Fetching listings:  79%
-[Tue Feb  4 02:23:10 2020] Fetching listings:  80%
-[Tue Feb  4 02:24:35 2020] Fetching listings:  81%
-[Tue Feb  4 02:26:00 2020] Fetching listings:  82%
-[Tue Feb  4 02:27:27 2020] Fetching listings:  83%
-[Tue Feb  4 02:28:54 2020] Fetching listings:  84%
-[Tue Feb  4 02:30:15 2020] Fetching listings:  85%
-[Tue Feb  4 02:30:42 2020] Fetching listings:  86%
+[Wed Feb  5 02:05:14 2020] Fetching listings:  52%
+No schedule found
+[Wed Feb  5 02:05:16 2020] Fetching listings:  53%
+[Wed Feb  5 02:05:26 2020] Fetching listings:  54%
+[Wed Feb  5 02:06:06 2020] Fetching listings:  55%
+[Wed Feb  5 02:06:47 2020] Fetching listings:  56%
+[Wed Feb  5 02:07:16 2020] Fetching listings:  57%
+[Wed Feb  5 02:07:48 2020] Fetching listings:  58%
+[Wed Feb  5 02:08:25 2020] Fetching listings:  59%
+[Wed Feb  5 02:09:02 2020] Fetching listings:  60%
+[Wed Feb  5 02:09:40 2020] Fetching listings:  61%
+[Wed Feb  5 02:09:49 2020] Fetching listings:  62%
+[Wed Feb  5 02:10:35 2020] Fetching listings:  63%
+[Wed Feb  5 02:11:18 2020] Fetching listings:  64%
+[Wed Feb  5 02:12:14 2020] Fetching listings:  65%
+[Wed Feb  5 02:12:51 2020] Fetching listings:  66%
+[Wed Feb  5 02:13:27 2020] Fetching listings:  67%
+[Wed Feb  5 02:14:08 2020] Fetching listings:  68%
+[Wed Feb  5 02:14:56 2020] Fetching listings:  69%
+[Wed Feb  5 02:15:00 2020] Fetching listings:  70%
+[Wed Feb  5 02:15:43 2020] Fetching listings:  71%
+[Wed Feb  5 02:16:29 2020] Fetching listings:  72%
+[Wed Feb  5 02:17:11 2020] Fetching listings:  73%
+[Wed Feb  5 02:17:51 2020] Fetching listings:  74%
+[Wed Feb  5 02:18:18 2020] Fetching listings:  75%
+[Wed Feb  5 02:18:59 2020] Fetching listings:  75%
+[Wed Feb  5 02:19:57 2020] Fetching listings:  76%
+[Wed Feb  5 02:20:04 2020] Fetching listings:  77%
+[Wed Feb  5 02:20:38 2020] Fetching listings:  78%
+[Wed Feb  5 02:21:25 2020] Fetching listings:  79%
+[Wed Feb  5 02:22:16 2020] Fetching listings:  80%
+[Wed Feb  5 02:23:06 2020] Fetching listings:  81%
+[Wed Feb  5 02:23:33 2020] Fetching listings:  82%
+[Wed Feb  5 02:24:18 2020] Fetching listings:  83%
+[Wed Feb  5 02:25:08 2020] Fetching listings:  84%
+[Wed Feb  5 02:25:40 2020] Fetching listings:  85%
+[Wed Feb  5 02:26:52 2020] Fetching listings:  86%
+[Wed Feb  5 02:28:15 2020] Fetching listings:  87%
+[Wed Feb  5 02:29:46 2020] Fetching listings:  88%
+[Wed Feb  5 02:31:06 2020] Fetching listings:  89%
+[Wed Feb  5 02:32:40 2020] Fetching listings:  90%
+[Wed Feb  5 02:33:59 2020] Fetching listings:  91%
+[Wed Feb  5 02:35:11 2020] Fetching listings:  92%
 Unable to retrieve web page for 1014
-[Tue Feb  4 02:31:58 2020] Fetching listings:  87%
-[Tue Feb  4 02:33:31 2020] Fetching listings:  88%
-[Tue Feb  4 02:34:46 2020] Fetching listings:  89%
-[Tue Feb  4 02:35:58 2020] Fetching listings:  90%
-[Tue Feb  4 02:37:07 2020] Fetching listings:  91%
-[Tue Feb  4 02:38:30 2020] Fetching listings:  92%
+Unable to retrieve web page for 1014
+Unable to retrieve web page for 1014
+[Wed Feb  5 02:36:58 2020] Fetching listings:  93%
+[Wed Feb  5 02:38:26 2020] Fetching listings:  94%
+[Wed Feb  5 02:40:03 2020] Fetching listings:  95%
+[Wed Feb  5 02:41:30 2020] Fetching listings:  96%
+[Wed Feb  5 02:43:06 2020] Fetching listings:  97%
 Use of uninitialized value in concatenation (.) or string at /usr/share/perl5/XMLTV.pm line 2320.
 - Use python script to post treat tv guides (UTC time, split, merge, ...)
 * Processing of be country:
 	- Write corrected full xmltv file in tv_guide_be.xml
 	- Write one day xmltv files:
-		* Write day 20200203 in tv_guide_be_20200203.xml
 		* Write day 20200204 in tv_guide_be_20200204.xml
 		* Write day 20200205 in tv_guide_be_20200205.xml
 		* Write day 20200206 in tv_guide_be_20200206.xml
 		* Write day 20200207 in tv_guide_be_20200207.xml
 		* Write day 20200208 in tv_guide_be_20200208.xml
 		* Write day 20200209 in tv_guide_be_20200209.xml
+		* Write day 20200210 in tv_guide_be_20200210.xml
 * Processing of fr country:
 	- Write corrected full xmltv file in tv_guide_fr.xml
 	- Write one day xmltv files:
-		* Write day 20200203 in tv_guide_fr_20200203.xml
 		* Write day 20200204 in tv_guide_fr_20200204.xml
 		* Write day 20200205 in tv_guide_fr_20200205.xml
 		* Write day 20200206 in tv_guide_fr_20200206.xml
 		* Write day 20200207 in tv_guide_fr_20200207.xml
 		* Write day 20200208 in tv_guide_fr_20200208.xml
 		* Write day 20200209 in tv_guide_fr_20200209.xml
+		* Write day 20200210 in tv_guide_fr_20200210.xml
 * Processing of it country:
 	- Write corrected full xmltv file in tv_guide_it.xml
 	- Write one day xmltv files:
-		* Write day 20200203 in tv_guide_it_20200203.xml
 		* Write day 20200204 in tv_guide_it_20200204.xml
 		* Write day 20200205 in tv_guide_it_20200205.xml
 		* Write day 20200206 in tv_guide_it_20200206.xml
 		* Write day 20200207 in tv_guide_it_20200207.xml
 		* Write day 20200208 in tv_guide_it_20200208.xml
 		* Write day 20200209 in tv_guide_it_20200209.xml
+		* Write day 20200210 in tv_guide_it_20200210.xml
 * Processing of uk country:
 	- Write corrected full xmltv file in tv_guide_uk.xml
 	- Write one day xmltv files:
-		* Write day 20200203 in tv_guide_uk_20200203.xml
 		* Write day 20200204 in tv_guide_uk_20200204.xml
 		* Write day 20200205 in tv_guide_uk_20200205.xml
 		* Write day 20200206 in tv_guide_uk_20200206.xml
 		* Write day 20200207 in tv_guide_uk_20200207.xml
 		* Write day 20200208 in tv_guide_uk_20200208.xml
 		* Write day 20200209 in tv_guide_uk_20200209.xml
+		* Write day 20200210 in tv_guide_uk_20200210.xml
 * Merge all country tv guides in tv_guide_all.xml
-- Add log file if needed at 04/02/2020 02:38:37-CET
+- Add log file if needed at 05/02/2020 02:43:14-CET
 - Push changes
