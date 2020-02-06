@@ -48,26 +48,6 @@
   <channel id="yoyo.raisat.it">
     <display-name>Yoyo</display-name>
   </channel>
-  <programme channel="raimovie.rai.it" start="20200205224000" stop="20200206005500">
-    <title lang="it">On the Milky Road - Sulla Via Lattea</title>
-    <desc lang="it">Regia di E. Kusturica,...</desc>
-    <category lang="it">drammatico</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200205223500" stop="20200206003500">
-    <title lang="it">La vita promessa</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">La straordinaria...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raistoria.rai.it" start="20200205193000" stop="20200206013000">
-    <title lang="it">Rai Storia</title>
-    <sub-title lang="it">Altri Programmi</sub-title>
-    <desc lang="it">Altri Canali</desc>
-    <category lang="it">altri canali</category>
-    <category lang="it">altri programmi</category>
-  </programme>
   <programme channel="www.la7.it" start="20200205235000" stop="20200206000000">
     <title lang="it">Tg La7</title>
     <desc lang="it">Le notizie d'attualita' e...</desc>
@@ -220,13 +200,6 @@
     <category lang="it">news</category>
     <category lang="it">informazione</category>
   </programme>
-  <programme channel="www.la7.it" start="20200206160000" stop="20200206170000">
-    <title lang="it">Tagada' Doc</title>
-    <sub-title lang="it">Intrattenimento</sub-title>
-    <desc lang="it">Show</desc>
-    <category lang="it">show</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
   <programme channel="www.la7.it" start="20200206190000" stop="20200206193500">
     <title lang="it">Tg La7</title>
     <desc lang="it">Le notizie d'attualita' e...</desc>
@@ -247,16 +220,22 @@
     <category lang="it">show</category>
     <category lang="it">intrattenimento</category>
   </programme>
+  <programme channel="www.la7.it" start="20200206160000" stop="20200206170000">
+    <title lang="it">Taga Doc presenta: San Francesco...</title>
+    <sub-title lang="it">...d'Assisi</sub-title>
+    <desc lang="it">La vita del...</desc>
+    <category lang="it">documentario</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
   <programme channel="www.la7.it" start="20200206170000" stop="20200206180000">
     <title lang="it">Perception</title>
-    <desc lang="it">S1 Ep3 L'estate dell'86 -...</desc>
+    <desc lang="it">S2 Ep9 Ferite di guerra -...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
   <programme channel="www.la7.it" start="20200206180000" stop="20200206190000">
     <title lang="it">Perception</title>
-    <sub-title lang="it">S1 Ep4 Mittente</sub-title>
-    <desc lang="it">Daniel...</desc>
+    <desc lang="it">S2 Ep10 Seconda chance -...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
@@ -781,13 +760,13 @@
     <category lang="it">sport</category>
   </programme>
   <programme channel="raisport.guidatv.sky.it" start="20200206043500" stop="20200206050000">
-    <title lang="it">Sci di fondo: Coppa del Mondo</title>
+    <title lang="it">Sci Alpino: Coppa del Mondo</title>
     <desc lang="it">Slalom Gigante M 2a...</desc>
     <category lang="it">sci</category>
     <category lang="it">sport</category>
   </programme>
   <programme channel="raisport.guidatv.sky.it" start="20200206050000" stop="20200206053000">
-    <title lang="it">Sci di fondo: Coppa del Mondo</title>
+    <title lang="it">Sci Alpino: Coppa del Mondo</title>
     <desc lang="it">Slalom Gigante M 2a...</desc>
     <category lang="it">sci</category>
     <category lang="it">sport</category>
@@ -827,7 +806,7 @@
     <category lang="it">sport</category>
   </programme>
   <programme channel="raisport.guidatv.sky.it" start="20200206114000" stop="20200206133500">
-    <title lang="it">Sci di fondo: Coppa del Mondo</title>
+    <title lang="it">Sci Alpino: Coppa del Mondo</title>
     <desc lang="it">La 37a edizione della...</desc>
     <category lang="it">sci</category>
     <category lang="it">sport</category>
@@ -1642,148 +1621,154 @@
     <category lang="it">thriller</category>
     <category lang="it">film</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206003500" stop="20200206013000">
-    <title lang="it">L'ispettore Sarti</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">In una Bologna...</desc>
+  <programme channel="raipremium.guidatv.sky.it" start="20200206040000" stop="20200206050000">
+    <title lang="it">Incantesimo</title>
+    <sub-title lang="it">Episodio 1</sub-title>
+    <desc lang="it">Le...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200205230000" stop="20200206010500">
+    <title lang="it">La vita promessa</title>
+    <sub-title lang="it">S1 Ep4</sub-title>
+    <desc lang="it">Dopo aver visto...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206013000" stop="20200206022500">
+  <programme channel="raipremium.guidatv.sky.it" start="20200206010500" stop="20200206020000">
     <title lang="it">L'ispettore Sarti</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">In una Bologna...</desc>
+    <desc lang="it">S1 Ep9 Un caffe' molto...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206022500" stop="20200206040000">
+  <programme channel="raipremium.guidatv.sky.it" start="20200206020000" stop="20200206023000">
+    <title lang="it">Intramontabili</title>
+    <sub-title lang="it">Ep. 5</sub-title>
+    <desc lang="it">I programmi e i...</desc>
+    <category lang="it">mondi e culture</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200206023000" stop="20200206040000">
     <title lang="it">La nave dei sogni: viaggio di nozze</title>
-    <desc lang="it">A bordo di navi da...</desc>
+    <sub-title lang="it">Ep10 Bermuda</sub-title>
+    <desc lang="it">Diretta...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206040000" stop="20200206045500">
+  <programme channel="raipremium.guidatv.sky.it" start="20200206050000" stop="20200206055000">
     <title lang="it">Incantesimo</title>
-    <sub-title lang="it">S5</sub-title>
-    <desc lang="it">Le appassionanti...</desc>
+    <sub-title lang="it">Episodio 2</sub-title>
+    <desc lang="it">Le...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206045500" stop="20200206054500">
-    <title lang="it">Incantesimo</title>
-    <sub-title lang="it">S5</sub-title>
-    <desc lang="it">Le appassionanti...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206054500" stop="20200206061000">
+  <programme channel="raipremium.guidatv.sky.it" start="20200206055000" stop="20200206061500">
     <title lang="it">Un posto al Sole</title>
-    <sub-title lang="it">S21</sub-title>
-    <desc lang="it">Le appassionanti...</desc>
+    <sub-title lang="it">Episodio 8</sub-title>
+    <desc lang="it">Le...</desc>
     <category lang="it">soap opera</category>
     <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 8</episode-num>
+    <episode-num system="xmltv_ns">.7.0/1</episode-num>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206061000" stop="20200206063500">
+  <programme channel="raipremium.guidatv.sky.it" start="20200206061500" stop="20200206064000">
     <title lang="it">Un posto al Sole</title>
-    <sub-title lang="it">S21</sub-title>
-    <desc lang="it">Le appassionanti...</desc>
+    <sub-title lang="it">Episodio 9</sub-title>
+    <desc lang="it">Le...</desc>
     <category lang="it">soap opera</category>
     <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 9</episode-num>
+    <episode-num system="xmltv_ns">.8.0/1</episode-num>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206063500" stop="20200206073500">
+  <programme channel="raipremium.guidatv.sky.it" start="20200206064000" stop="20200206070500">
+    <title lang="it">Un posto al Sole</title>
+    <sub-title lang="it">Episodio 00</sub-title>
+    <desc lang="it">Le...</desc>
+    <category lang="it">soap opera</category>
+    <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 00</episode-num>
+    <episode-num system="xmltv_ns">.-1.0/1</episode-num>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200206070500" stop="20200206080500">
     <title lang="it">Un medico in famiglia</title>
-    <sub-title lang="it">S7</sub-title>
-    <desc lang="it">Nuove vicende della...</desc>
+    <desc lang="it">S8 Ep5A Amore a prima...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206073500" stop="20200206084500">
+  <programme channel="raipremium.guidatv.sky.it" start="20200206080500" stop="20200206090000">
     <title lang="it">Un medico in famiglia</title>
-    <sub-title lang="it">S7</sub-title>
-    <desc lang="it">Nuove vicende della...</desc>
+    <desc lang="it">S8 Ep5B Sensi di colpa -...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206084500" stop="20200206103500">
-    <title lang="it">Lo zio d'America 2</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">La famiglia di...</desc>
+  <programme channel="raipremium.guidatv.sky.it" start="20200206090000" stop="20200206110000">
+    <title lang="it">Grand Hotel-</title>
+    <sub-title lang="it">S1 Ep2</sub-title>
+    <desc lang="it">L'ispettore...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206103500" stop="20200206123500">
+  <programme channel="raipremium.guidatv.sky.it" start="20200206110000" stop="20200206125500">
     <title lang="it">Capri - La nuova serie</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Amori, equivoci,...</desc>
+    <sub-title lang="it">Episodio 2</sub-title>
+    <desc lang="it">Vittoria, per...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206123500" stop="20200206142000">
-    <title lang="it">Provaci ancora Prof 7</title>
-    <sub-title lang="it">S7</sub-title>
-    <desc lang="it">Tornano le avventure...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206142000" stop="20200206142500">
+  <programme channel="raipremium.guidatv.sky.it" start="20200206125500" stop="20200206130000">
     <title lang="it">Anica Appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione...</desc>
     <category lang="it">magazine cinema</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206142500" stop="20200206160500">
-    <title lang="it">La nave dei sogni: viaggio di nozze</title>
-    <desc lang="it">A bordo di navi da...</desc>
-    <category lang="it">fiction</category>
+  <programme channel="raipremium.guidatv.sky.it" start="20200206130000" stop="20200206171500">
+    <title lang="it">70esimo Festival della Canzone Italiana</title>
+    <sub-title lang="it">2a serata</sub-title>
+    <desc lang="it">In diretta...</desc>
+    <category lang="it">musica</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200206171500" stop="20200206175500">
+    <title lang="it">Allora in onda</title>
+    <desc lang="it">Il segno del comando -...</desc>
+    <category lang="it">mondi e culture</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200206175500" stop="20200206180000">
+    <title lang="it">Camera Cafe'</title>
+    <desc lang="it">S6 Ep3 Minuscola Betty -...</desc>
+    <category lang="it">sit com</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206160500" stop="20200206170500">
-    <title lang="it">Che Dio ci aiuti</title>
-    <sub-title lang="it">S4</sub-title>
-    <desc lang="it">Le vicende di suor...</desc>
-    <category lang="it">fiction</category>
+  <programme channel="raipremium.guidatv.sky.it" start="20200206180000" stop="20200206180500">
+    <title lang="it">Camera Cafe'</title>
+    <desc lang="it">S6 Ep4 Mannequin...</desc>
+    <category lang="it">sit com</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206170500" stop="20200206180500">
-    <title lang="it">Che Dio ci aiuti</title>
-    <sub-title lang="it">S4</sub-title>
-    <desc lang="it">Le vicende di suor...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206180500" stop="20200206190500">
+  <programme channel="raipremium.guidatv.sky.it" start="20200206180500" stop="20200206191000">
     <title lang="it">Un passo dal cielo</title>
-    <sub-title lang="it">S3</sub-title>
-    <desc lang="it">Pietro, capo delle...</desc>
+    <desc lang="it">S4 Ep8 Oltre l'infinito -...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206190500" stop="20200206202000">
+  <programme channel="raipremium.guidatv.sky.it" start="20200206191000" stop="20200206202000">
     <title lang="it">Un passo dal cielo</title>
-    <sub-title lang="it">S3</sub-title>
-    <desc lang="it">Pietro, capo delle...</desc>
+    <desc lang="it">S4 Ep9 La ragazza del...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206202000" stop="20200206215500">
-    <title lang="it">Dolci e delitti: il mistero della...</title>
-    <desc lang="it">...crostata di pesche -...</desc>
-    <category lang="it">romantico</category>
+  <programme channel="raipremium.guidatv.sky.it" start="20200206202000" stop="20200207000000">
+    <title lang="it">Barbarossa</title>
+    <desc lang="it">Regia di R. Martinelli,...</desc>
+    <category lang="it">drammatico</category>
     <category lang="it">film</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206215500" stop="20200206224500">
-    <title lang="it">Medium</title>
-    <sub-title lang="it">S6</sub-title>
-    <desc lang="it">Moglie e madre di...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200206224500" stop="20200206233000">
-    <title lang="it">Medium</title>
-    <sub-title lang="it">S6</sub-title>
-    <desc lang="it">Moglie e madre di...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
   </programme>
   <programme channel="raistoria.rai.it" start="20200206013000" stop="20200206073000">
     <title lang="it">Rai Storia</title>
