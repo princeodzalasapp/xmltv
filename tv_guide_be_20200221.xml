@@ -37,6 +37,9 @@
     <category lang="fr">fin</category>
     <length units="minutes">515</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <subtitles type="onscreen">
+      <language>fr</language>
+    </subtitles>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -221,6 +224,17 @@
     <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200221072500" stop="20200221073500">
+    <title>Dorothy la vagabonde</title>
+    <desc lang="fr">Dorothy est une vache avec de très longs poils qui vient de loin. Elle demande l'hospitalité à un petit troupeau. Celui-ci va-t-il accepter cette étrangère dans leur champ ?</desc>
+    <date>2018</date>
+    <category lang="fr">film</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/65a8cd7a-7f4f-461b-92cb-33bb938095cd.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -674,7 +688,7 @@
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200221155500" stop="20200221162000">
     <title>Nachtwacht</title>
-    <category lang="fr">magazine magazine de société</category>
+    <category lang="fr">magazine de société</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
     <rating system="CSA">
@@ -834,7 +848,7 @@
   <programme channel="C164.api.telerama.fr" start="20200221010500" stop="20200221015100">
     <title>On n'est pas des pigeons</title>
     <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
-    <category lang="fr">magazine magazine du consommateur</category>
+    <category lang="fr">magazine du consommateur</category>
     <length units="minutes">46</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
     <previously-shown />
@@ -906,7 +920,7 @@
   <programme channel="C164.api.telerama.fr" start="20200221093000" stop="20200221103000">
     <title>On n'est pas des pigeons</title>
     <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
-    <category lang="fr">magazine magazine du consommateur</category>
+    <category lang="fr">magazine du consommateur</category>
     <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
     <previously-shown />
@@ -987,7 +1001,7 @@
   <programme channel="C164.api.telerama.fr" start="20200221123500" stop="20200221132000">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
-    <category lang="fr">magazine de l'art de vivre</category>
+    <category lang="fr">magazine magazine de l'art de vivre</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
     <premiere />
@@ -998,7 +1012,7 @@
   <programme channel="C164.api.telerama.fr" start="20200221132000" stop="20200221141000">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
-    <category lang="fr">magazine de l'art de vivre</category>
+    <category lang="fr">magazine magazine de l'art de vivre</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
     <rating system="CSA">
@@ -1020,7 +1034,7 @@
   </programme>
   <programme channel="C164.api.telerama.fr" start="20200221155500" stop="20200221165500">
     <title>Doc animalier</title>
-    <category lang="fr">documentaire animalier</category>
+    <category lang="fr">documentaire : animalier</category>
     <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/be9d5f4a-806c-4dfc-8754-1462122617b5.jpg" />
     <rating system="CSA">
@@ -1049,7 +1063,7 @@
   <programme channel="C164.api.telerama.fr" start="20200221173000" stop="20200221182000">
     <title>On n'est pas des pigeons</title>
     <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
-    <category lang="fr">magazine magazine du consommateur</category>
+    <category lang="fr">magazine du consommateur</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
     <rating system="CSA">
@@ -1097,7 +1111,7 @@
   <programme channel="C164.api.telerama.fr" start="20200221192000" stop="20200221195000">
     <title>C'est du belge</title>
     <desc lang="fr">Gerald Watelet dresse le portrait de ces Belges qui font la fierté du pays. L'art de vivre et l'actualité royale sont mis à l'honneur. Un trio féminin présente en alternance une chronique une fois par mois. Au programme également : des émissions spéciales autour de documentaires ou de grands évènements.</desc>
-    <category lang="fr">magazine magazine de société</category>
+    <category lang="fr">magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/aa871d27-7a53-487f-a2f9-ec6e891214ce.jpg" />
     <rating system="CSA">
@@ -1158,7 +1172,7 @@
   <programme channel="C164.api.telerama.fr" start="20200221231500" stop="20200222000300">
     <title>On n'est pas des pigeons</title>
     <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
-    <category lang="fr">magazine magazine du consommateur</category>
+    <category lang="fr">magazine du consommateur</category>
     <length units="minutes">48</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
     <previously-shown />
@@ -1483,10 +1497,11 @@
     </rating>
   </programme>
   <programme channel="C187.api.telerama.fr" start="20200220233000" stop="20200221005000">
-    <title>Programme non communiqué</title>
-    <category lang="fr">programme indéterminé</category>
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
     <length units="minutes">80</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1541,7 +1556,7 @@
     <title>Si près de chez vous</title>
     <sub-title>Une femme pêcheur retrouvée étranglée</sub-title>
     <desc lang="fr">Saison:1 - Au Crozet, dans la Manche, quelqu'un a tenté d'étrangler Quitterie près de son bateau, à l'aide d'un filet. S'agit-il d'un règlement de comptes machiste dans ce port où Quitterie était la seule femme à travailler dans la pêche ?</desc>
-    <category lang="fr">magazine magazine de société</category>
+    <category lang="fr">magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -1553,7 +1568,7 @@
     <title>Si près de chez vous</title>
     <sub-title>Une femme amnésique empoisonnée</sub-title>
     <desc lang="fr">Saison:1 - Sophie, 40 ans, partiellement amnésique après avoir été dans le coma, est victime d'une tentative d'empoisonnement peu de temps après son retour de l'hôpital. Qui, dans son entourage, pourrait être l'auteur de cet acte ?</desc>
-    <category lang="fr">magazine magazine de société</category>
+    <category lang="fr">magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -1630,9 +1645,9 @@
   </programme>
   <programme channel="C187.api.telerama.fr" start="20200221160000" stop="20200221163500">
     <title>Si près de chez vous</title>
-    <sub-title>L'adjointe au maire arrêtée pour séquestration</sub-title>
-    <desc lang="fr">Saison:1 - Les habitants de Saint-Bazier, dans la vallée de l'Hérault, ont la surprise de voir Anne-France emmenée par les gendarmes. Quel crime a-t-elle commis ?</desc>
-    <category lang="fr">magazine magazine de société</category>
+    <sub-title>Un enfant à tout prix</sub-title>
+    <desc lang="fr">Saison:1 - Dans la banlieue de Saint-Etienne, Eva, 40 ans, vendeuse dans une parfumerie, est retrouvée inconsciente sur le sol de sa cuisine. S'agit-il d'un simple malaise, ou la jeune femme, enceinte, a-t-elle été victime d'une agression ?</desc>
+    <category lang="fr">magazine de société</category>
     <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -1708,6 +1723,7 @@
   </programme>
   <programme channel="C187.api.telerama.fr" start="20200221193000" stop="20200221193100">
     <title>Decibels - Quotidienne</title>
+    <sub-title>Glauque : Robot (4/80)</sub-title>
     <category lang="fr">magazine musical</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/53f03499-1e38-4a03-a63e-df8ae7b78205.jpg" />
@@ -1719,7 +1735,7 @@
     <title>Non élucidé</title>
     <sub-title>Affaire Jacques Heusèle</sub-title>
     <desc lang="fr">Saison:5 - En novembre 2008, Jacques Heusèle, un assureur d'Arras de 59 ans, disparait. Deux mois plus tard, son cadavre est repêché dans une rivière belge. Depuis 2010, une information pour chantage, vol, assassinat est ouverte par le parquet de Béthune. Mais, pour l'instant, le mystère reste entier.</desc>
-    <category lang="fr">magazine magazine de société</category>
+    <category lang="fr">magazine de société</category>
     <length units="minutes">99</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9aaa4b98-0aaa-4df5-9443-846f2d5276e5.jpg" />
     <episode-num system="xmltv_ns">4..</episode-num>
@@ -2954,7 +2970,6 @@
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0df63cc9-a971-4637-8872-927c69a29d91.jpg" />
     <episode-num system="xmltv_ns">0.6.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2967,7 +2982,28 @@
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f62d04fe-cfef-4303-9382-4f86aa3c0aa2.jpg" />
     <episode-num system="xmltv_ns">0.7.</episode-num>
-    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200221090000" stop="20200221092500">
+    <title>Les mystérieuses cités d'or</title>
+    <desc lang="fr">Saison:2 - Esteban, Tao et Zia vivent d'extraordinaires et périlleuses aventures en Asie, à la recherche des mystérieuses cités d'or.</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fb2bf013-95a7-4d13-8ed5-cd5a844e5c30.jpg" />
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200221092500" stop="20200221094500">
+    <title>Les mystérieuses cités d'or</title>
+    <desc lang="fr">Saison:2 - Esteban, Tao et Zia vivent d'extraordinaires et périlleuses aventures en Asie, à la recherche des mystérieuses cités d'or.</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fb2bf013-95a7-4d13-8ed5-cd5a844e5c30.jpg" />
+    <episode-num system="xmltv_ns">1..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3460,6 +3496,7 @@
     <category lang="fr">magazine culturel</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1fc4910-8a7c-4098-b252-0d227d90fbd5.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3480,7 +3517,7 @@
     <title>L'île aux loutres</title>
     <sub-title>Une affaire de famille</sub-title>
     <date>2019</date>
-    <category lang="fr">documentaire animalier</category>
+    <category lang="fr">documentaire : animalier</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/be9d5f4a-806c-4dfc-8754-1462122617b5.jpg" />
     <rating system="CSA">
