@@ -32,15 +32,6 @@
     <display-name>La Trois</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
   </channel>
-  <programme channel="C1280.api.telerama.fr" start="20200222194500" stop="20200223050000">
-    <title>Geen uitzending</title>
-    <category lang="fr">fin</category>
-    <length units="minutes">555</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1280.api.telerama.fr" start="20200223050000" stop="20200223050500">
     <title>Tik Tak</title>
     <desc lang="fr">Saison:1 - Episode:5 -</desc>
@@ -1146,6 +1137,7 @@
   </programme>
   <programme channel="C168.api.telerama.fr" start="20200223185000" stop="20200223194000">
     <title>Face au juge</title>
+    <sub-title>Episode 1</sub-title>
     <desc lang="fr">Saison:6 - Medhi est accusé d'avoir frappé sa mère et son petit frère de 16 ans. Mais il affirme les avoir simplement bousculés à cause d'une histoire de chien.</desc>
     <category lang="fr">magazine magazine de société</category>
     <length units="minutes">50</length>
@@ -2029,26 +2021,38 @@
   </programme>
   <programme channel="C50.api.telerama.fr" start="20200223072000" stop="20200223074000">
     <title>Pokémon</title>
-    <sub-title>Episode 53</sub-title>
-    <desc lang="fr">Saison:22 - Episode:53 - Après leur dernier combat contre Lunala et Necrozma, Sacha et ses amis reprennent paisiblement le cours de leur vie sur l'archipel d'Alola. Voyage à travers les îles de l'archipel et dans des dimensions parallèles, la bande ne connaîtra aucun répit. De nouveaux dresseurs, tout droit venus des jeux vidéo Pokémon feront leur apparition.</desc>
+    <sub-title>Une confusion étincelante !</sub-title>
+    <desc lang="fr">Saison:22 - Episode:3 - Les Ultra-Gardiens sont appelés pour enquêter sur le Mont Wela, où un pic d'activité magnétique a été repéré. Ils y découvrent un groupe de Gravalanch et de Racaillou d'Alola, en train de dévorer des Pierres Éclair...</desc>
     <category lang="fr">jeunesse : dessin animé manga</category>
     <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d377990-aaec-4fcd-b15f-3081ec09f4bb.jpg" />
-    <episode-num system="xmltv_ns">21.52.</episode-num>
+    <episode-num system="xmltv_ns">21.2.</episode-num>
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200223074000" stop="20200223082500">
+  <programme channel="C50.api.telerama.fr" start="20200223074000" stop="20200223080500">
     <title>Pokémon</title>
-    <sub-title>Episode 54</sub-title>
-    <desc lang="fr">Saison:22 - Episode:54 - Après leur dernier combat contre Lunala et Necrozma, Sacha et ses amis reprennent paisiblement le cours de leur vie sur l'archipel d'Alola. Voyage à travers les îles de l'archipel et dans des dimensions parallèles, la bande ne connaîtra aucun répit. De nouveaux dresseurs, tout droit venus des jeux vidéo Pokémon feront leur apparition.</desc>
+    <sub-title>Le Nounourson des légendes !</sub-title>
+    <desc lang="fr">Saison:22 - Episode:4 - Sacha se rend au Paradis Aether pour apporter leur déjeuner au Professeur Pimprenelle et à son Goinfrex. Tout le monde est heureux de revoir les Pokémon qui y vivent, mais la Team Rocket est là aussi, déguisée en agents d'entretien, dans le but de capturer les Pokémon...</desc>
     <category lang="fr">jeunesse : dessin animé manga</category>
-    <length units="minutes">45</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d377990-aaec-4fcd-b15f-3081ec09f4bb.jpg" />
-    <episode-num system="xmltv_ns">21.53.</episode-num>
+    <episode-num system="xmltv_ns">21.3.</episode-num>
     <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200223080500" stop="20200223082500">
+    <title>Pokémon</title>
+    <sub-title>On retourne chaque pierre !</sub-title>
+    <desc lang="fr">Saison:22 - Episode:5 - Tili et son coéquipier Efflèche s'entraînent dur pour entreprendre le Tour des Iles lorsqu'ils rencontrent soudain Sacha et Brindibou. Sacha apprend que le jeune garçon est le petit-fils du Doyen Pectorius et défie alors son nouvel ami dans un combat Pokémon...</desc>
+    <category lang="fr">jeunesse : dessin animé manga</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d377990-aaec-4fcd-b15f-3081ec09f4bb.jpg" />
+    <episode-num system="xmltv_ns">21.4.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2305,7 +2309,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222225000" stop="20200223004000">
+  <programme channel="C892.api.telerama.fr" start="20200222224500" stop="20200223003500">
     <title>Birdman</title>
     <desc lang="fr">Le retour sur les planches d'un ex-superhéros de cinéma… Farce baroque et misanthrope qui renvoie Hollywood et Broadway dos à dos en un seul (faux) plan séquence !</desc>
     <date>2014</date>
@@ -2319,26 +2323,41 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200223004000" stop="20200223011000">
+  <programme channel="C892.api.telerama.fr" start="20200223003500" stop="20200223011300">
     <title>JT traduction gestuelle</title>
     <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">30</length>
+    <length units="minutes">38</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200223011000" stop="20200223011500">
+  <programme channel="C892.api.telerama.fr" start="20200223011300" stop="20200223011500">
     <title>Météo internationale</title>
     <category lang="fr">météo</category>
-    <length units="minutes">5</length>
+    <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200223011500" stop="20200223014500">
+    <title>Une soeur</title>
+    <desc lang="fr">Une nuit. Une voiture. Une femme en danger. Un appel...</desc>
+    <date>2018</date>
+    <category lang="fr">film : court métrage</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/37f8c38f-1513-4b35-b81c-549f46515d6e.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
   </programme>
   <programme channel="C892.api.telerama.fr" start="20200223014500" stop="20200223050000">
     <title>Boucle de nuit</title>

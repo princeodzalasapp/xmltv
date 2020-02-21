@@ -32,15 +32,6 @@
     <display-name>La Trois</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
   </channel>
-  <programme channel="C1280.api.telerama.fr" start="20200221195500" stop="20200222050000">
-    <title>Geen uitzending</title>
-    <category lang="fr">fin</category>
-    <length units="minutes">545</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1280.api.telerama.fr" start="20200222050000" stop="20200222050500">
     <title>Tik Tak</title>
     <desc lang="fr">Saison:1 - Episode:3 -</desc>
@@ -249,16 +240,6 @@
     <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200222104000" stop="20200222104500">
-    <title>Shaun het schaap</title>
-    <desc lang="fr">Saison:4 - Episode:15 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">5</length>
-    <episode-num system="xmltv_ns">3.14.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -570,34 +551,6 @@
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/45f1ca42-21b6-40b5-b650-2a34314bdfe5.jpg" />
     <episode-num system="xmltv_ns">0.29.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200222190000" stop="20200222191500">
-    <title>Geen uitzending</title>
-    <category lang="fr">fin</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200222191500" stop="20200222194500">
-    <title>Het journaal met VGT</title>
-    <sub-title>Het journaal met VGT</sub-title>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200222194500" stop="20200223050000">
-    <title>Geen uitzending</title>
-    <category lang="fr">fin</category>
-    <length units="minutes">555</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2103,6 +2056,16 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C50.api.telerama.fr" start="20200222040000" stop="20200222043000">
+    <title>Journal luxembourgeois</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C50.api.telerama.fr" start="20200222060000" stop="20200222062500">
     <title>Flipper &amp; Lopaka</title>
     <sub-title>Le démon de Tabou</sub-title>
@@ -2115,13 +2078,25 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200222062500" stop="20200222065500">
+  <programme channel="C50.api.telerama.fr" start="20200222062500" stop="20200222064000">
     <title>Vic le Viking 3D</title>
     <sub-title>Le canal</sub-title>
     <desc lang="fr">Saison:1 - Episode:63 - Vic, petit garçon débrouillard, est le fils d'Halvar, un grand Viking. Son père l'emmène à bord de son drakkar pour participer à ses expéditions.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">30</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">0.62.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200222064000" stop="20200222065500">
+    <title>Maya l'abeille 3D</title>
+    <sub-title>Gare à l'ours</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Willy a vu un ours. Maya alerte la reine qui fait évacuer toute la ruche. Quand Maya et Willy se rendent compte qu'il s'agit d'une peluche, ils ont peur d'avouer leur méprise à la reine...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d16d8bfe-79c1-4a5c-a312-9247b02bef06.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2440,16 +2415,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222002000" stop="20200222050000">
-    <title>Boucle de nuit</title>
-    <desc lang="fr">Emissions en boucle jusqu'au matin.</desc>
-    <category lang="fr">programme indéterminé</category>
-    <length units="minutes">280</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C892.api.telerama.fr" start="20200222050000" stop="20200222052500">
     <title>Les Schtroumpfs</title>
     <sub-title>La légende des Schtroumpfs. - Les dernières heures de Gargamel</sub-title>
@@ -2462,12 +2427,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222052500" stop="20200222055000">
+  <programme channel="C892.api.telerama.fr" start="20200222052500" stop="20200222054500">
     <title>Les Schtroumpfs</title>
     <sub-title>Le grand amour de Gargamel</sub-title>
     <desc lang="fr">Saison:2 - Episode:32 - Les aventures de gentils petits lutins bleus, toujours heureux, constamment en butte à l'hostilité de Gargamel et de son affreux chat Azraël.</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dfdda1e-e7c5-4c48-a14e-2b67b1148aed.jpg" />
     <episode-num system="xmltv_ns">1.31.</episode-num>
     <rating system="CSA">
@@ -2477,12 +2442,12 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222055000" stop="20200222061000">
+  <programme channel="C892.api.telerama.fr" start="20200222054500" stop="20200222061000">
     <title>Tom et Jerry Show</title>
     <sub-title>Les oeufs frais. - Le mouton vorace. - Le chat invisible</sub-title>
     <desc lang="fr">Saison:3 - Episode:10 -</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/133f158e-6a8a-4507-8702-62cbf621ea9b.jpg" />
     <episode-num system="xmltv_ns">2.9.</episode-num>
     <previously-shown />
@@ -2510,7 +2475,6 @@
     <category lang="fr">jeunesse : dessin animé jeunesse</category>
     <length units="minutes">5</length>
     <episode-num system="xmltv_ns">0..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2522,35 +2486,33 @@
     <category lang="fr">jeunesse : dessin animé jeunesse</category>
     <length units="minutes">10</length>
     <episode-num system="xmltv_ns">0..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222064500" stop="20200222070000">
+  <programme channel="C892.api.telerama.fr" start="20200222064500" stop="20200222065000">
     <title>Loup</title>
     <sub-title>Le Loup qui voulait faire de l'art</sub-title>
     <desc lang="fr">Pour assouvir son désir de nouveauté, Loup ne recule devant aucun défi. Chaque journée est pour lui une nouvelle aventure.</desc>
     <category lang="fr">jeunesse : dessin animé jeunesse</category>
-    <length units="minutes">15</length>
-    <previously-shown />
+    <length units="minutes">5</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222070000" stop="20200222071000">
+  <programme channel="C892.api.telerama.fr" start="20200222065000" stop="20200222070500">
     <title>Les Pyjamasques</title>
     <sub-title>Yoyo pas rapido</sub-title>
     <desc lang="fr">Saison:2 - Quand sonne minuit, Yoyo, Gluglu et Bibou enfilent leurs pyjamas spéciaux. Ils deviennent les Pyjamasques et déambulent dans la nuit, au lieu d'être dans leur lit. Dotés de pouvoirs particuliers, les trois inséparables vivent des aventures extraordinaires.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222071000" stop="20200222072000">
+  <programme channel="C892.api.telerama.fr" start="20200222070500" stop="20200222071500">
     <title>Les Pyjamasques</title>
     <sub-title>Gluglu et le Contrario-Laser</sub-title>
     <desc lang="fr">Episode:49 - Quand sonne minuit, Yoyo, Gluglu et Bibou enfilent leurs pyjamas spéciaux. Ils deviennent les Pyjamasques et déambulent dans la nuit, au lieu d'être dans leur lit. Dotés de pouvoirs particuliers, les trois inséparables vivent des aventures extraordinaires.</desc>
@@ -2562,24 +2524,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222072000" stop="20200222073500">
+  <programme channel="C892.api.telerama.fr" start="20200222071500" stop="20200222072500">
     <title>Les Pyjamasques</title>
     <sub-title>Yoyo pas rapido</sub-title>
     <desc lang="fr">Saison:2 - Quand sonne minuit, Yoyo, Gluglu et Bibou enfilent leurs pyjamas spéciaux. Ils deviennent les Pyjamasques et déambulent dans la nuit, au lieu d'être dans leur lit. Dotés de pouvoirs particuliers, les trois inséparables vivent des aventures extraordinaires.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222073500" stop="20200222074500">
+  <programme channel="C892.api.telerama.fr" start="20200222072500" stop="20200222074000">
     <title>Les Pyjamasques</title>
     <sub-title>Les Pyjamasques fêtent Halloween</sub-title>
     <desc lang="fr">Saison:2 - Episode:52 - Le soir d'Halloween, Ninjaka, Sorceline et les Farfeloups jouent des tours aux enfants pour leur prendre leurs sacs de bonbons. Les Pyjamasques font tout pour les en empêcher, tout en prenant garde à ce que leurs camarades de classe ne les reconnaissent pas...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5745705d-5d26-4fcf-a952-b5440da1b715.jpg" />
     <episode-num system="xmltv_ns">1.51.</episode-num>
     <previously-shown />
@@ -2587,12 +2549,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222074500" stop="20200222080000">
+  <programme channel="C892.api.telerama.fr" start="20200222074000" stop="20200222075000">
     <title>Sonic Boom</title>
     <sub-title>Hé, il est passé où mon Eggman ?</sub-title>
     <desc lang="fr">Saison:1 - Episode:10 - Eggman a disparu. Orbot et Cubot, ses fidèles acolytes, partent à sa recherche...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b18eab9b-c2e7-4664-984e-71ce1c53df03.jpg" />
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <previously-shown />
@@ -2600,12 +2562,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222080000" stop="20200222081000">
+  <programme channel="C892.api.telerama.fr" start="20200222075000" stop="20200222080500">
     <title>Sonic Boom</title>
     <sub-title>Devenir un génie du mal en dix leçons</sub-title>
     <desc lang="fr">Saison:1 - Episode:16 - Tails se retrouve, malgré lui, enrôlé par une étrange confrérie, qui tente d'être diabolique...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1d223d59-ef74-4dc4-b0a6-fe85b7ec245a.jpg" />
     <episode-num system="xmltv_ns">0.15.</episode-num>
     <previously-shown />
@@ -2613,7 +2575,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222081000" stop="20200222082000">
+  <programme channel="C892.api.telerama.fr" start="20200222080500" stop="20200222081500">
     <title>Sonic Boom</title>
     <sub-title>Ne me jugez pas</sub-title>
     <desc lang="fr">Saison:1 - Episode:17 - En triomphant d'Eggman une énième fois, Sonic ne s'attend pas à ce que ce dernier le poursuive en justice...</desc>
@@ -2626,7 +2588,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222082000" stop="20200222084000">
+  <programme channel="C892.api.telerama.fr" start="20200222081500" stop="20200222083500">
     <title>Yo-kai Watch</title>
     <sub-title>Yo-kai : Curryeux. - Les petits monstres - Camaïeul flétri !. Yo-kai Les Trois Royaumes III. - Le taxi de Komasan - Whisper à bord</sub-title>
     <desc lang="fr">Les aventures de Nathan, jeune garçon capable de percevoir des entités étranges, les «Yo-kai», grâce à une montre spéciale. Dans sa quête pour faire cesser les nuisances que causent ces créatures, il traverse bien des péripéties et des situations comiques.</desc>
@@ -2636,7 +2598,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222084000" stop="20200222090500">
+  <programme channel="C892.api.telerama.fr" start="20200222083500" stop="20200222090000">
     <title>Yo-kai Watch</title>
     <sub-title>Yo-kai : Curryeux. - Les petits monstres - Camaïeul flétri !. Yo-kai Les Trois Royaumes III. - Le taxi de Komasan - Whisper à bord</sub-title>
     <desc lang="fr">Les aventures de Nathan, jeune garçon capable de percevoir des entités étranges, les «Yo-kai», grâce à une montre spéciale. Dans sa quête pour faire cesser les nuisances que causent ces créatures, il traverse bien des péripéties et des situations comiques.</desc>
@@ -2646,12 +2608,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222090500" stop="20200222092500">
+  <programme channel="C892.api.telerama.fr" start="20200222090000" stop="20200222092500">
     <title>Teen Titans Go !</title>
     <sub-title>La jambe gauche</sub-title>
     <desc lang="fr">Saison:1 - Episode:26 - Cyborg présente à ses amis sa nouvelle création mécanique : un robot géant. Chacun d'eux peut en contrôler une partie. Robin, en tant que chef du groupe, est persuadé qu'il va diriger la tête mais Cyborg lui confie le pied gauche. Il a beaucoup de mal à accepter sa nouvelle mission...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/edba1c98-7b01-47f1-9e18-2a6ecbc4feba.jpg" />
     <episode-num system="xmltv_ns">0.25.</episode-num>
     <rating system="CSA">
@@ -2670,12 +2632,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222094500" stop="20200222101000">
+  <programme channel="C892.api.telerama.fr" start="20200222094500" stop="20200222100500">
     <title>Ninjago</title>
     <sub-title>Un temps de traître</sub-title>
     <desc lang="fr">Saison:7 - Episode:3 - Kai mène l'enquête sur un casque appartenant à un Guerrier Vermillion et découvre que Krux est en vie et se trouve à Ninjago, sous une fausse identité. Pendant ce temps, les Guerriers Vermillions kidnappent des citoyens. Lloyd a du mal à assurer ses fonctions d'apprenti-maître, et Nya fait de son mieux pour redémarrer Zane, qui a été déconnecté durant son premier combat contre les Vermillions...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fed1c77f-5c36-442a-a845-2de5e52ecd7a.jpg" />
     <episode-num system="xmltv_ns">6.2.</episode-num>
     <previously-shown />
@@ -2683,12 +2645,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222101000" stop="20200222103000">
+  <programme channel="C892.api.telerama.fr" start="20200222100500" stop="20200222103000">
     <title>Ninjago</title>
     <sub-title>Les pilleurs</sub-title>
     <desc lang="fr">Saison:7 - Episode:4 - Les Guerriers Vermillions commettent toute une série de mystérieux vols de métal. Lloyd se rend compte que prendre la place de Maître Wu, qui est souffrant, n'est pas chose aisée...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fed1c77f-5c36-442a-a845-2de5e52ecd7a.jpg" />
     <episode-num system="xmltv_ns">6.3.</episode-num>
     <previously-shown />
@@ -2708,24 +2670,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222105000" stop="20200222111000">
+  <programme channel="C892.api.telerama.fr" start="20200222105000" stop="20200222111500">
     <title>Les légendaires</title>
     <sub-title>Le triangle des maudits</sub-title>
     <desc lang="fr">Saison:1 - Episode:24 - Les légendaires sont cinq justiciers intrépides, protecteurs du monde d'Alysia. Sans relâche, le petit groupe combat Darkhell, le terrible sorcier.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fb2914c0-f533-41a2-812f-ecc34794d8ea.jpg" />
     <episode-num system="xmltv_ns">0.23.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222111000" stop="20200222113500">
+  <programme channel="C892.api.telerama.fr" start="20200222111500" stop="20200222113500">
     <title>Les Croods : Origines</title>
     <sub-title>L'école est finie. - Détente à la Croods</sub-title>
     <desc lang="fr">Saison:4 - Episode:12 - L'école est finie. Thump et Womp doivent suivre des cours de rattrapage. - Détente à la Croods. Grug propose aux Broods de faire la paix et de s'installer dans l'Ahh Vallée...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <episode-num system="xmltv_ns">3.11.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -2742,41 +2704,41 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222120000" stop="20200222121000">
+  <programme channel="C892.api.telerama.fr" start="20200222120000" stop="20200222120500">
     <title>Les Niouzz - Remix</title>
     <category lang="fr">magazine magazine jeunesse</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222121000" stop="20200222122000">
+  <programme channel="C892.api.telerama.fr" start="20200222120500" stop="20200222122000">
     <title>Les super nanas *2016</title>
     <sub-title>Rebelle rockstar</sub-title>
     <desc lang="fr">Saison:1 - Episode:33 - Danny la licorne vient vivre une semaine chez les filles pour un échange élève-licorne. Bulle est folle de joie à l'idée de tout ce qu'elle va pouvoir faire avec son meilleur ami, mais Danny lui fait faux bond après sa rencontre avec Chelsea, une petite fille apparemment encore plus parfaite que Bulle...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3ef6b87-0e4a-4e8e-b757-8a560d1f6ed6.jpg" />
     <episode-num system="xmltv_ns">0.32.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222122000" stop="20200222123500">
+  <programme channel="C892.api.telerama.fr" start="20200222122000" stop="20200222123000">
     <title>Les super nanas *2016</title>
     <sub-title>Dans une bulle</sub-title>
     <desc lang="fr">Saison:1 - Episode:35 - Suite à un accident de laboratoire, les filles se rendent compte des dangers qui guettent le professeur à chaque instant. Elles le protègent dans une bulle et se débarrassent de tout son matériel. Malheureusement, un rayon laser de sa fabrication fait grandir un bébé qui saccage Townsville...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3ef6b87-0e4a-4e8e-b757-8a560d1f6ed6.jpg" />
     <episode-num system="xmltv_ns">0.34.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222123500" stop="20200222124500">
+  <programme channel="C892.api.telerama.fr" start="20200222123000" stop="20200222124000">
     <title>Les super nanas *2016</title>
     <sub-title>Le prix de l'amitié</sub-title>
     <desc lang="fr">Saison:1 - Episode:36 - Après avoir tenté de fabriquer un toboggan aquatique géant dans Townsville, Princesse Plénozas découvre qu'elle est ruinée et vient chercher asile chez les filles. Belle est convaincue qu'elle peut faire d'elle une fille bien, mais l'appât du gain risque fort de contrecarrer ses projets...</desc>
@@ -2788,7 +2750,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222124500" stop="20200222125500">
+  <programme channel="C892.api.telerama.fr" start="20200222124000" stop="20200222125000">
     <title>Les super nanas *2016</title>
     <sub-title>Briser la glace</sub-title>
     <desc lang="fr">Saison:1 - Episode:15 - Après qu'un jour de neige permet à Belle d'éviter le garçon qui l'a invitée à sortir, elle décide d'utiliser son souffle glacé pour faire durer la neige, même si Townsville se trouve plongée dans l'hiver éternel et envahie de yétis monstrueux...</desc>
@@ -2800,12 +2762,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222125500" stop="20200222130500">
+  <programme channel="C892.api.telerama.fr" start="20200222125000" stop="20200222130500">
     <title>Les super nanas *2016</title>
     <sub-title>Au-delà de la balançoire</sub-title>
     <desc lang="fr">Saison:1 - Episode:38 - Un forain installe à Townsville une balançoire stratosphérique à laquelle personne n'arrive à se mesurer, mais les filles sont convaincues de réussir. Elles bravent l'interdiction du professeur et décident de faire un tour complet, mais elles sont loin de se douter de ce qui les attend...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3ef6b87-0e4a-4e8e-b757-8a560d1f6ed6.jpg" />
     <episode-num system="xmltv_ns">0.37.</episode-num>
     <rating system="CSA">
@@ -2862,23 +2824,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222143500" stop="20200222145500">
-    <title>Team Dronix</title>
-    <sub-title>Bienvenue à Hawkins</sub-title>
-    <desc lang="fr">Saison:1 - Buck Roquette, Tim Chessmat et Vicky Risk sont trois passionnés de drone et élèves de la prestigieuse académie Hawkings. Ensemble, ils construisent un drone unique : «DroniX» avec lequel ils vont rivaliser avec les autres élèves, attisant au passage la jalousie de quelques individus malintentionnés...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222145500" stop="20200222152000">
+  <programme channel="C892.api.telerama.fr" start="20200222143500" stop="20200222150000">
     <title>Team Dronix</title>
     <sub-title>Bienvenue à Hawkins</sub-title>
     <desc lang="fr">Saison:1 - Buck Roquette, Tim Chessmat et Vicky Risk sont trois passionnés de drone et élèves de la prestigieuse académie Hawkings. Ensemble, ils construisent un drone unique : «DroniX» avec lequel ils vont rivaliser avec les autres élèves, attisant au passage la jalousie de quelques individus malintentionnés...</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">25</length>
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200222150000" stop="20200222152000">
+    <title>Team Dronix</title>
+    <sub-title>Bienvenue à Hawkins</sub-title>
+    <desc lang="fr">Saison:1 - Buck Roquette, Tim Chessmat et Vicky Risk sont trois passionnés de drone et élèves de la prestigieuse académie Hawkings. Ensemble, ils construisent un drone unique : «DroniX» avec lequel ils vont rivaliser avec les autres élèves, attisant au passage la jalousie de quelques individus malintentionnés...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">20</length>
     <episode-num system="xmltv_ns">0..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -2897,12 +2859,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222154000" stop="20200222160000">
+  <programme channel="C892.api.telerama.fr" start="20200222154000" stop="20200222160500">
     <title>Miraculous, les aventures de Ladybug et Chat Noir</title>
     <sub-title>Volpina</sub-title>
     <desc lang="fr">Saison:1 - Episode:24 - Marinette a une rivale au collège, une nouvelle élève qui s’appelle Lila et qui semble un peu trop s’intéresser à Adrien. La jeune fille raconte à ce dernier qu’elle en sait long sur les super héros, et même qu’elle connaît Ladybug. Furieuse de voir qu’Adrien semble séduit, Marinette se transforme en Ladybug pour confondre Lila. Mais elle s’en fait une ennemie mortelle en l’humiliant devant Adrien...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e3e5c24-a7a1-445f-a3ed-5d3d490a60d8.jpg" />
     <episode-num system="xmltv_ns">0.23.</episode-num>
     <previously-shown />
@@ -2910,29 +2872,29 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222160000" stop="20200222162500">
+  <programme channel="C892.api.telerama.fr" start="20200222160500" stop="20200222162500">
     <title>Dragons : par-delà les rives</title>
     <sub-title>Des masses et des griffes : début de partie</sub-title>
     <desc lang="fr">Saison:2 - Episode:12 - Harold et Astrid s'empressent d'empêcher les chasseurs de dragons de retrouver le Volchemar quand Ingrid révèle les secrets de Viggo Grimborn...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <episode-num system="xmltv_ns">1.11.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222162500" stop="20200222164500">
+  <programme channel="C892.api.telerama.fr" start="20200222162500" stop="20200222165000">
     <title>Dragons : par-delà les rives</title>
     <sub-title>Des masses et des griffes : fin de partie</sub-title>
     <desc lang="fr">Saison:2 - Episode:13 - Ingrid et le Volchemar ayant été capturés par Viggo et les chasseurs de dragons, Harold doit trouver quelque chose pour déjouer les plans de ce redoutable nouvel ennemi...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <episode-num system="xmltv_ns">1.12.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222164500" stop="20200222170500">
+  <programme channel="C892.api.telerama.fr" start="20200222165000" stop="20200222171000">
     <title>Les aventures du Chat Potté</title>
     <sub-title>Si</sub-title>
     <desc lang="fr">Saison:2 - Episode:10 - Le Chat Potté se dispute avec la Duchesse au sujet d'un objet qui pourrait l'aider à restaurer le sort magique qui protège la ville...</desc>
@@ -2944,7 +2906,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222170500" stop="20200222173000">
+  <programme channel="C892.api.telerama.fr" start="20200222171000" stop="20200222173500">
     <title>Les aventures du Chat Potté</title>
     <sub-title>Non</sub-title>
     <desc lang="fr">Saison:2 - Episode:11 - Potté s'introduit subrepticement en ville avec la ferme intention de se débarrasser de la personne malintentionnée qui prétend protéger San Lorenzo...</desc>
@@ -2956,12 +2918,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222173000" stop="20200222190000">
+  <programme channel="C892.api.telerama.fr" start="20200222173500" stop="20200222190000">
     <title>Tout en haut du monde</title>
     <desc lang="fr">Ce film d’animation made in France retrace la quête au bout du monde d’une adolescente russe, héroïne magnifique au tempérament de feu.</desc>
     <date>2015</date>
     <category lang="fr">film d'animation</category>
-    <length units="minutes">90</length>
+    <length units="minutes">85</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7ca51d9e-923c-4daa-bd83-c3b0359d4f9f.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2970,26 +2932,41 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222190000" stop="20200222193500">
+  <programme channel="C892.api.telerama.fr" start="20200222190000" stop="20200222193600">
     <title>JT traduction gestuelle</title>
     <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">35</length>
+    <length units="minutes">36</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222193500" stop="20200222193600">
+  <programme channel="C892.api.telerama.fr" start="20200222193600" stop="20200222194000">
     <title>Météo internationale</title>
     <category lang="fr">météo</category>
-    <length units="minutes">1</length>
+    <length units="minutes">4</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222200000" stop="20200222211500">
+  <programme channel="C892.api.telerama.fr" start="20200222194000" stop="20200222195500">
+    <title>Une soeur</title>
+    <desc lang="fr">Une nuit. Une voiture. Une femme en danger. Un appel...</desc>
+    <date>2018</date>
+    <category lang="fr">film : court métrage</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/37f8c38f-1513-4b35-b81c-549f46515d6e.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200222195500" stop="20200222211000">
     <title>Retour aux sources</title>
     <sub-title>Le fantôme de Spandau</sub-title>
     <desc lang="fr">Rudolf Hess, haut dignitaire nazi, ami intime et bras droit d'Hitler, fut jugé à Nuremberg et emprisonné à vie dans la prison de Spandau. Charles Gabel, son aumônier, fut le seul homme qui put le visiter sans la surveillance étroite des gardiens durant toute sa détention, de 1977 à 1986. Au fil de leurs entretiens, une relation d'amitié hors norme s'est créée entre l'homme de foi et le nazi.</desc>
@@ -3000,7 +2977,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222211500" stop="20200222225000">
+  <programme channel="C892.api.telerama.fr" start="20200222211000" stop="20200222224500">
     <title>Retour aux sources</title>
     <sub-title>Ashcan, the Secret Prison</sub-title>
     <desc lang="fr">Un documentaire français réalisé par Willy Perelsztejn en 2019. L'histoire unique de la collecte de témoignages de nazis dans la période grise, entre la fin de la Seconde Guerre mondiale et le procès de Nuremberg. Après la victoire allée, les principaux dirgieants civils et militaires du IIIe Reich sont retenus dans une prison secrète, gérée par l'armée américaine et située à Mondorf-lès-Bains, au Luxembourg.</desc>
@@ -3011,7 +2988,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200222225000" stop="20200223004000">
+  <programme channel="C892.api.telerama.fr" start="20200222224500" stop="20200223003500">
     <title>Birdman</title>
     <desc lang="fr">Le retour sur les planches d'un ex-superhéros de cinéma… Farce baroque et misanthrope qui renvoie Hollywood et Broadway dos à dos en un seul (faux) plan séquence !</desc>
     <date>2014</date>

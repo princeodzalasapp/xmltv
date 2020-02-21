@@ -220,7 +220,25 @@
     <display-name>France 3</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/80.png" />
   </channel>
-  <programme channel="C1045.api.telerama.fr" start="20200224060000" stop="20200224061500">
+  <programme channel="C1045.api.telerama.fr" start="20200224060000" stop="20200224063500">
+    <title>Le grand JT des Territoires</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1045.api.telerama.fr" start="20200224063500" stop="20200224070000">
+    <title>JT de la Moselle</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1045.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Une semaine dans le Grand Est</title>
     <category lang="fr">magazine régional</category>
     <length units="minutes">15</length>
@@ -229,44 +247,37 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200224061500" stop="20200224064500">
-    <title>JT de la Moselle</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200224064500" stop="20200224070000">
-    <title>Fais ton sport</title>
-    <category lang="fr">magazine sportif</category>
+  <programme channel="C1045.api.telerama.fr" start="20200224071500" stop="20200224073000">
+    <title>Business Club</title>
+    <category lang="fr">magazine de l'économie</category>
     <length units="minutes">15</length>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200224070000" stop="20200224073000">
-    <title>Terres de France</title>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/126f8541-5119-4b25-8604-9f373183c278.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/911e349f-fba4-4492-858c-60b69b49a045.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200224073000" stop="20200224080000">
-    <title>A feu doux</title>
+    <title>Magazine</title>
     <desc lang="fr">Le rendez-vous avec la cuisine et les produits du terroir et la rencontre d'un chef de la région.</desc>
-    <category lang="fr">magazine culinaire</category>
+    <category lang="fr">magazine régional</category>
     <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200224080000" stop="20200224083000">
+    <title>Couliss'conso</title>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6601962c-b576-480d-b5c0-1af9267d3386.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1045.api.telerama.fr" start="20200224083000" stop="20200224090000">
     <title>Sur ma route</title>
+    <sub-title>La compile</sub-title>
     <category lang="fr">magazine régional</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
@@ -275,11 +286,10 @@
     </rating>
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200224090000" stop="20200224100000">
-    <title>Sur ma route</title>
-    <sub-title>La compile</sub-title>
-    <category lang="fr">magazine régional</category>
+    <title>La boîte à m'Alice</title>
+    <category lang="fr">magazine magazine culturel</category>
     <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -304,21 +314,21 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200224110000" stop="20200224111500">
-    <title>Une semaine dans le Grand Est</title>
-    <category lang="fr">magazine régional</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+  <programme channel="C1045.api.telerama.fr" start="20200224110000" stop="20200224113000">
+    <title>Couliss'conso</title>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6601962c-b576-480d-b5c0-1af9267d3386.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200224111500" stop="20200224123000">
+  <programme channel="C1045.api.telerama.fr" start="20200224113000" stop="20200224120000">
     <title>Charade</title>
     <desc lang="fr">Peu importe l’intrigue, le délice vient d’ailleurs. De la mise en scène pétillante et sophistiquée, du charme époustouflant du couple vedette. La perfection !</desc>
     <date>1963</date>
     <category lang="fr">film de suspense</category>
-    <length units="minutes">75</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bc0960f5-e06a-4705-b970-8d8328a4598c.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -326,6 +336,15 @@
     <star-rating>
       <value>5/5</value>
     </star-rating>
+  </programme>
+  <programme channel="C1045.api.telerama.fr" start="20200224120000" stop="20200224123000">
+    <title>Sur ma route</title>
+    <category lang="fr">magazine régional</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200224123000" stop="20200224133000">
     <title>Terres de France</title>
@@ -337,15 +356,6 @@
     </rating>
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200224133000" stop="20200224140000">
-    <title>1, 2, 3 musette</title>
-    <category lang="fr">magazine musical</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/53f03499-1e38-4a03-a63e-df8ae7b78205.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200224140000" stop="20200224143000">
     <title>1, 2, 3 dansez !</title>
     <category lang="fr">magazine musical</category>
     <length units="minutes">30</length>
@@ -354,16 +364,33 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200224143000" stop="20200224160000">
+  <programme channel="C1045.api.telerama.fr" start="20200224140000" stop="20200224143000">
+    <title>1, 2, 3 musette</title>
+    <category lang="fr">magazine musical</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/53f03499-1e38-4a03-a63e-df8ae7b78205.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1045.api.telerama.fr" start="20200224143000" stop="20200224153000">
     <title>La boîte à m'Alice</title>
     <category lang="fr">magazine magazine culturel</category>
-    <length units="minutes">90</length>
+    <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200224160000" stop="20200224163000">
+  <programme channel="C1045.api.telerama.fr" start="20200224153000" stop="20200224163000">
+    <title>Documentaire</title>
+    <category lang="fr">documentaire : découvertes</category>
+    <length units="hours">1</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1045.api.telerama.fr" start="20200224163000" stop="20200224170000">
     <title>Mirabelle gourmande</title>
     <desc lang="fr">Une personnalité lorraine dévoile les secrets de sa recette préférée.</desc>
     <category lang="fr">magazine culinaire</category>
@@ -391,26 +418,25 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200224180000" stop="20200224200000">
-    <title>Vivre en Grand Est</title>
-    <category lang="fr">magazine régional</category>
-    <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+  <programme channel="C1045.api.telerama.fr" start="20200224180000" stop="20200224183000">
+    <title>Mirabelle Sport</title>
+    <category lang="fr">magazine sportif</category>
+    <length units="minutes">30</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200224200000" stop="20200224210000">
+  <programme channel="C1045.api.telerama.fr" start="20200224183000" stop="20200224220000">
     <title>Graoully mag</title>
     <desc lang="fr">Vianney Tritz-Kayser présente toute l'actualité du Football Club de Metz : résultats, analyses, interviews, coulisses.</desc>
     <category lang="fr">magazine sportif</category>
-    <length units="hours">1</length>
+    <length units="minutes">210</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/de82fd67-a9f8-45b4-8b9d-e04880ac824e.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1045.api.telerama.fr" start="20200224210000" stop="20200224220000">
+  <programme channel="C1045.api.telerama.fr" start="20200224220000" stop="20200224230000">
     <title>Graoully Match</title>
     <category lang="fr">football</category>
     <length units="hours">1</length>
@@ -2648,6 +2674,17 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C1401.api.telerama.fr" start="20200224043000" stop="20200224050000">
+    <title>L'Équipe du soir</title>
+    <sub-title>La prolongation</sub-title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9d11b641-54b2-48e2-a054-f64a4855c669.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C1401.api.telerama.fr" start="20200224050000" stop="20200224080500">
     <title>Best of Shopping</title>
     <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
@@ -2678,16 +2715,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1401.api.telerama.fr" start="20200224100000" stop="20200224110000">
-    <title>Top Gear</title>
-    <category lang="fr">magazine de l'automobile</category>
-    <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0ddf476a-bb47-43b7-81f5-92fd02a0476d.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1401.api.telerama.fr" start="20200224110000" stop="20200224121000">
     <title>Pétanque (Trophée L'Équipe 2018)</title>
     <category lang="fr">sport : pétanque</category>
@@ -2702,7 +2729,7 @@
     <title>Pétanque (Trophée L'Équipe 2018)</title>
     <category lang="fr">sport : pétanque</category>
     <length units="minutes">110</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/32bce6c6-9532-49ec-a1a2-45b0501b7bcb.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1db5d5fd-87b4-4564-8f95-5b476bc740ce.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2763,17 +2790,8 @@
     <sub-title>1re partie</sub-title>
     <category lang="fr">sport : multisports</category>
     <length units="minutes">80</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9d11b641-54b2-48e2-a054-f64a4855c669.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/37dbc3ec-194b-4c8a-b2ca-41c1b5fd0572.jpg" />
     <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1401.api.telerama.fr" start="20200224200500" stop="20200224215500">
-    <title>Rugby (Tarbes / Lannemezan)</title>
-    <category lang="fr">sport : rugby</category>
-    <length units="minutes">110</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bcaebbde-1847-429f-be4e-c82a08a908f1.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3701,21 +3719,21 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200224024000" stop="20200224025000">
+  <programme channel="C160.api.telerama.fr" start="20200224024000" stop="20200224024500">
     <title>Outremer tout court</title>
     <sub-title>Face-à-face avec les requins</sub-title>
     <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/67414d70-449a-4454-ad3e-c6d9b4c553c7.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200224025000" stop="20200224025500">
+  <programme channel="C160.api.telerama.fr" start="20200224024500" stop="20200224025500">
     <title>Outremer tout court</title>
     <sub-title>Guadeloupe : en kayak au coeur de la mangrove</sub-title>
     <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/67414d70-449a-4454-ad3e-c6d9b4c553c7.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -4751,24 +4769,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1921.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1921.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1921.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1921.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -4811,24 +4829,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1921.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1921.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1921.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1921.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -4867,23 +4885,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1921.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1921.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1921.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1921.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -5379,24 +5397,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1922.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1922.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -5439,24 +5457,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1922.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1922.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -5495,23 +5513,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1922.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1922.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -6007,24 +6025,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1923.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1923.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -6067,24 +6085,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1923.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1923.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -6123,23 +6141,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1923.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1923.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -6635,24 +6653,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1924.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1924.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1924.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1924.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -6695,24 +6713,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1924.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1924.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1924.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1924.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -6751,23 +6769,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1924.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1924.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1924.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1924.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -7263,24 +7281,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1925.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1925.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -7323,24 +7341,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1925.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1925.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -7379,23 +7397,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1925.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1925.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -7891,24 +7909,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1926.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1926.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -7951,24 +7969,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1926.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1926.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -8007,23 +8025,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1926.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1926.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -8519,24 +8537,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1927.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1927.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -8579,24 +8597,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1927.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1927.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -8635,23 +8653,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1927.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1927.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -9147,24 +9165,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1928.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1928.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -9207,24 +9225,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1928.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1928.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -9263,23 +9281,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1928.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1928.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -9775,24 +9793,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1929.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1929.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -9835,24 +9853,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1929.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1929.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -9891,23 +9909,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1929.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1929.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -10435,23 +10453,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1931.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1931.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -10947,24 +10965,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1932.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1932.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -11007,24 +11025,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1932.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1932.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -11063,23 +11081,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1932.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1932.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -11575,24 +11593,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1933.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1933.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -11635,24 +11653,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1933.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1933.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -11691,23 +11709,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1933.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1933.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -12203,24 +12221,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1934.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1934.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -12263,24 +12281,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1934.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1934.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -12319,23 +12337,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1934.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1934.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -12831,24 +12849,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1935.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1935.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -12891,24 +12909,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1935.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1935.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -12947,23 +12965,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1935.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1935.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -13459,24 +13477,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1936.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1936.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -13519,24 +13537,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1936.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1936.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -13575,23 +13593,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1936.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1936.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -14087,24 +14105,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1937.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1937.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -14147,24 +14165,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1937.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1937.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -14203,23 +14221,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1937.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1937.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -14715,23 +14733,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1938.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1938.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1938.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1938.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -15227,24 +15245,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1939.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1939.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -15287,24 +15305,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1939.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1939.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -15343,23 +15361,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1939.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1939.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -15843,24 +15861,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1940.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1940.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -15903,24 +15921,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1940.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1940.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -15959,23 +15977,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1940.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1940.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -16471,24 +16489,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1941.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1941.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1941.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1941.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -16531,24 +16549,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1941.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1941.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1941.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1941.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -16587,23 +16605,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1941.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1941.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1941.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1941.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -17099,24 +17117,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1942.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1942.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -17159,24 +17177,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1942.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1942.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -17215,23 +17233,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1942.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1942.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -17727,24 +17745,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1943.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1943.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -17787,24 +17805,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1943.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1943.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -17843,23 +17861,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1943.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1943.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -18355,24 +18373,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1944.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C1944.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1944.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C1944.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -18415,24 +18433,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1944.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C1944.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1944.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C1944.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -18471,23 +18489,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1944.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1944.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C1944.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1944.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -20975,6 +20993,7 @@
   </programme>
   <programme channel="C4.api.telerama.fr" start="20200224193900" stop="20200224194000">
     <title>Laisse entrer la nature</title>
+    <sub-title>Les bogues du blat</sub-title>
     <category lang="fr">magazine de services</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
@@ -21099,12 +21118,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224083500" stop="20200224090500">
+  <programme channel="C444.api.telerama.fr" start="20200224083500" stop="20200224091000">
     <title>Si près de chez vous</title>
     <sub-title>Les bijoux de la discorde</sub-title>
     <desc lang="fr">Saison:1 - A Pithiviers, dans le Loiret, Nicolas, 48 ans, est retrouvé inconscient dans son bureau. Les bijoux de son ancienne femme, Hélène, ont été volés. Trois femmes, qui se disputent cette parure, sont soupçonnées.</desc>
     <category lang="fr">magazine magazine de société</category>
-    <length units="minutes">30</length>
+    <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
@@ -21112,7 +21131,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224090500" stop="20200224093500">
+  <programme channel="C444.api.telerama.fr" start="20200224091000" stop="20200224094000">
     <title>Si près de chez vous</title>
     <sub-title>Identité(s)</sub-title>
     <desc lang="fr">Saison:1 - Une jeune femme, victime d'une agression, se réveille amnésique après un mois de coma. Les médecins l'ont baptisée Léa en attendant de trouver son identité. Mais qui est l'auteur de ce crime ?</desc>
@@ -21125,12 +21144,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224093500" stop="20200224101000">
+  <programme channel="C444.api.telerama.fr" start="20200224094000" stop="20200224101000">
     <title>Si près de chez vous</title>
     <sub-title>Un enfant à tout prix</sub-title>
     <desc lang="fr">Saison:1 - Dans la banlieue de Saint-Etienne, Eva, 40 ans, vendeuse dans une parfumerie, est retrouvée inconsciente sur le sol de sa cuisine. S'agit-il d'un simple malaise, ou la jeune femme, enceinte, a-t-elle été victime d'une agression ?</desc>
     <category lang="fr">magazine magazine de société</category>
-    <length units="minutes">35</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
@@ -21177,19 +21196,19 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224120000" stop="20200224123500">
+  <programme channel="C444.api.telerama.fr" start="20200224120000" stop="20200224124000">
     <title>Si près de chez vous</title>
     <sub-title>La boisson des dieux</sub-title>
     <desc lang="fr">Saison:1 - Marc, 53 ans, collectionneur de grands vins, est effondré. Il vient de perdre son graal : un lot de trois bouteilles intactes d'un grand cru bordelais de 1942, estimé à près de 70 000 euros. Trois personnes de son entourage sont suspectées. Jean, son assistant, Léa, 24 ans, sa fille, et Marcelline, 53 ans, sa soeur.</desc>
     <category lang="fr">magazine magazine de société</category>
-    <length units="minutes">35</length>
+    <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224123500" stop="20200224135500">
+  <programme channel="C444.api.telerama.fr" start="20200224124000" stop="20200224140000">
     <title>Crimes et faits divers : la quotidienne</title>
     <sub-title>Emission 116</sub-title>
     <desc lang="fr">Saison:2 - Entouré d'une équipe d'experts, Jean-Marc Morandini décrypte des faits divers aussi fascinants qu'effrayants. Avocats, psychiatres et anciens policiers reviennent sur le parcours de ces acteurs involontaires des faits divers.</desc>
@@ -21203,38 +21222,24 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224135500" stop="20200224143000">
+  <programme channel="C444.api.telerama.fr" start="20200224140000" stop="20200224143000">
     <title>Si près de chez vous</title>
-    <sub-title>L'heure de la retraite</sub-title>
-    <desc lang="fr">Saison:1 - Evelyne, militante écologiste, disparaît lors d'une promenade à bicyclette près de Salins-les-Bains, dans le Jura. Qui aurait pu vouloir se débarrasser de cette jeune retraitée ?</desc>
-    <category lang="fr">magazine magazine de société</category>
-    <length units="minutes">35</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224143000" stop="20200224150000">
-    <title>Si près de chez vous</title>
-    <sub-title>Souviens-toi de cette date</sub-title>
-    <desc lang="fr">Saison:1 - Jean-Baptiste, chef d'entreprise, se réveille attaché dans un sous-sol. Un message est posé devant lui, faisant référence à une date. A quoi correspond-elle ? Qui a séquestré Jean-Baptiste ?</desc>
+    <sub-title>Au-delà du handicap</sub-title>
+    <desc lang="fr">Saison:1 - Dans la région de Dijon, Anne-Marie est retrouvée morte dans sa chambre, de vieilles poupées placées en cercle autour d'elle. Trois personnes de son entourage sont soupçonnées du crime.</desc>
     <category lang="fr">magazine magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224153500" stop="20200224163000">
+  <programme channel="C444.api.telerama.fr" start="20200224143000" stop="20200224152000">
     <title>Les anges 12, Asian Dream</title>
     <sub-title>Episode 14 : Moments de vérité</sub-title>
     <desc lang="fr">Saison:12 - Quatorze candidats participent à cette nouvelle édition baptisée «Asian Dream» afin de conquérir l'Asie. Pour la première fois de leur histoire, les Anges vont poser leurs valises dans une luxueuse villa située dans les quartiers huppés de Honk Kong.</desc>
     <category lang="fr">téléréalité</category>
-    <length units="minutes">55</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/35d3e063-84cd-43bc-88b8-288ddbc5a5b9.jpg" />
     <episode-num system="xmltv_ns">11..</episode-num>
     <previously-shown />
@@ -21243,7 +21248,7 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224163000" stop="20200224172500">
+  <programme channel="C444.api.telerama.fr" start="20200224152000" stop="20200224161500">
     <title>Les anges 12, Asian Dream</title>
     <sub-title>Episode 15 : Ton ex, c'est mon mec !</sub-title>
     <desc lang="fr">Saison:12 - Quatorze candidats participent à cette nouvelle édition baptisée «Asian Dream» afin de conquérir l'Asie. Pour la première fois de leur histoire, les Anges vont poser leurs valises dans une luxueuse villa située dans les quartiers huppés de Honk Kong.</desc>
@@ -21257,12 +21262,12 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224172500" stop="20200224181500">
+  <programme channel="C444.api.telerama.fr" start="20200224161500" stop="20200224171000">
     <title>Les anges 12, Asian Dream</title>
     <sub-title>Episode 16 : Voler la vedette</sub-title>
     <desc lang="fr">Saison:12 - Quatorze candidats participent à cette nouvelle édition baptisée «Asian Dream» afin de conquérir l'Asie. Pour la première fois de leur histoire, les Anges vont poser leurs valises dans une luxueuse villa située dans les quartiers huppés de Honk Kong.</desc>
     <category lang="fr">téléréalité</category>
-    <length units="minutes">50</length>
+    <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/35d3e063-84cd-43bc-88b8-288ddbc5a5b9.jpg" />
     <episode-num system="xmltv_ns">11..</episode-num>
     <previously-shown />
@@ -21271,7 +21276,7 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224181500" stop="20200224191000">
+  <programme channel="C444.api.telerama.fr" start="20200224171000" stop="20200224180500">
     <title>Les anges 12, Asian Dream</title>
     <sub-title>Episode 17 : Le gage de trop</sub-title>
     <desc lang="fr">Saison:12 - Quatorze candidats participent à cette nouvelle édition baptisée «Asian Dream» afin de conquérir l'Asie. Pour la première fois de leur histoire, les Anges vont poser leurs valises dans une luxueuse villa située dans les quartiers huppés de Honk Kong.</desc>
@@ -21284,14 +21289,14 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224191000" stop="20200224193500">
+  <programme channel="C444.api.telerama.fr" start="20200224180500" stop="20200224182500">
     <title>Big Bang Theory</title>
-    <sub-title>Un fil à souder à la patte</sub-title>
-    <desc lang="fr">Saison:9 - Episode:19 - Amy prend l'initiative d'acheter un nouvel ordinateur portable à Sheldon. Une révélation de son fiancé provoque un choc à la jeune femme. De son côté, Raj dénonce Leonard et Howard, qui ont menti à leurs moitiés respectives pour pouvoir assister à la projection d'un film en avant-première...</desc>
+    <sub-title>Bernadette va déguster</sub-title>
+    <desc lang="fr">Saison:9 - Episode:22 - Le groupe se rend dans un bar à vin et y croise par hasard l'ex-petit ami de Penny, Zack. Bernadette, qui ne peut pas prendre part à la dégustation, se retrouve coincée pour la soirée avec Sheldon. Raj présente Claire, sa nouvelle copine, au reste de la bande, mais les choses ne se passent pas comme il l'espérait...</desc>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e5c7d53d-b656-438d-87f7-6573accea61b.jpg" />
-    <episode-num system="xmltv_ns">8.18.</episode-num>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c46ba18-72c0-4019-bf35-3e09dea77219.jpg" />
+    <episode-num system="xmltv_ns">8.21.</episode-num>
     <audio>
       <stereo>bilingual</stereo>
     </audio>
@@ -21300,14 +21305,46 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224193500" stop="20200224195500">
+  <programme channel="C444.api.telerama.fr" start="20200224182500" stop="20200224185000">
     <title>Big Bang Theory</title>
-    <sub-title>La précipitation de la grande ourse</sub-title>
-    <desc lang="fr">Saison:9 - Episode:20 - Sheldon dévoile un secret concernant Leonard, alors qu'ils sont tous deux en week-end avec Penny et Amy. La situation dérape. De son côté, Raj semble plus excité par la grossesse de Bernadette que la jeune femme elle-même. Il prévoit une montagne de cadeaux pour le couple...</desc>
+    <sub-title>La théorie des files d'attente</sub-title>
+    <desc lang="fr">Saison:9 - Episode:23 - La mère de Leonard, Beverly, arrive en ville pour une visite. Mais le courant ne passe pas avec Penny, malgré la bonne volonté de la jeune femme. Sheldon demande à Stuart d'occuper Amy pour la journée, pendant que lui-même se rend à une projection...</desc>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/894771b2-d62d-46a2-92a2-295bdbe507d5.jpg" />
-    <episode-num system="xmltv_ns">8.19.</episode-num>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4a787012-9936-4b57-89d3-8bfbea472c60.jpg" />
+    <episode-num system="xmltv_ns">8.22.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C444.api.telerama.fr" start="20200224185000" stop="20200224191500">
+    <title>Big Bang Theory</title>
+    <sub-title>Convergence, confluence, méfiance</sub-title>
+    <desc lang="fr">Saison:9 - Episode:24 - Leonard et Penny se plient en quatre pour organiser une cérémonie qui conviendra à tous. Mais l'arrivée des parents de Leonard, fraîchement divorcés, et de la mère de Sheldon, dévote notoire, sème le chaos. Des conflits éclatent. Parallèlement, l'invention d'Howard suscite l'intérêt du gouvernement...</desc>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4a28e759-6aee-46d0-b14d-752b2182c906.jpg" />
+    <episode-num system="xmltv_ns">8.23.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C444.api.telerama.fr" start="20200224191500" stop="20200224194000">
+    <title>Big Bang Theory</title>
+    <sub-title>Probabilités matrimoniales</sub-title>
+    <desc lang="fr">Saison:10 - Episode:1 - Leonard et Penny font beaucoup d'efforts pour que la cérémonie de mariage plaise à tous les invités. Ils doivent pour cela composer avec la famille de Penny. Le père de Leonard montre beaucoup d'intérêt pour la mère de Penny. Cette attirance est réciproque...</desc>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/136b593f-9b6b-4079-98eb-f9f2d0cbdc16.jpg" />
+    <episode-num system="xmltv_ns">9.0.</episode-num>
     <audio>
       <stereo>bilingual</stereo>
     </audio>
@@ -21315,36 +21352,51 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224195500" stop="20200224200500">
+  <programme channel="C444.api.telerama.fr" start="20200224194000" stop="20200224200000">
+    <title>Big Bang Theory</title>
+    <sub-title>La miniaturisation militaire</sub-title>
+    <desc lang="fr">Saison:10 - Episode:2 - Howard reçoit la visiste d'un capitaine de l'Air Force, très intéressé par sa dernière invention. De son côté, Penny se montre trop bavarde à son travail. Elle raconte à des collègues que Bernadette est enceinte, alors que l'intéressée voulait encore garder le secret...</desc>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/88a30815-312c-434b-9dbd-cf0c61bc3feb.jpg" />
+    <episode-num system="xmltv_ns">9.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C444.api.telerama.fr" start="20200224200000" stop="20200224200500">
     <title>C'Cauet Le meilleur</title>
     <sub-title>Episode 16</sub-title>
     <desc lang="fr">Chaque semaine, retour en images sur les meilleurs moments de l'émission de radio que Cauet anime avec toute sa bande de chroniqueurs sur NRJ.</desc>
     <category lang="fr">divertissement-humour</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b7451314-d010-486e-8ce7-c2d22ee22cb0.jpg" />
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224200500" stop="20200224215000">
+  <programme channel="C444.api.telerama.fr" start="20200224200500" stop="20200224215500">
     <title>Crimes</title>
     <sub-title>Spéciale : ces familles qui veulent la vérité</sub-title>
     <desc lang="fr">Au sommaire : Le prédateur du Grand Est. Sophie, une étudiante strasbourgeoise, disparaît alors qu'elle avait rendez-vous pour visiter un appartement. - La disparue d'Oléron. Lysiane, 54 ans, divorcée, retrouve l'amour l'été 2015 sur l'île d'Oléron mais disparaît trois mois plus tard.</desc>
     <category lang="fr">magazine magazine de société</category>
-    <length units="minutes">105</length>
+    <length units="minutes">110</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c664c29f-ccf6-44f8-bcb4-fceab3394deb.jpg" />
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224215000" stop="20200224233500">
+  <programme channel="C444.api.telerama.fr" start="20200224215500" stop="20200224234500">
     <title>Crimes</title>
     <sub-title>Panique à Rouen</sub-title>
     <desc lang="fr">Au sommaire : Une soirée en enfer. En 2015 à Rouen, Elise et Julien sont retrouvés morts, tués par un dangereux criminel. - Drames à la patinoire. En 2008, Vincent, ancien sportif de haut niveau est accusé d'agression sexuelle sur mineurs dans les années 80 alors qu'il était manager d'un club de hockey.</desc>
     <category lang="fr">magazine magazine de société</category>
-    <length units="minutes">105</length>
+    <length units="minutes">110</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cc54a923-37d4-44af-b7f6-49c2d1a1f161.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -21352,12 +21404,12 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C444.api.telerama.fr" start="20200224233500" stop="20200225013500">
+  <programme channel="C444.api.telerama.fr" start="20200224234500" stop="20200225013500">
     <title>Crimes et faits divers : le prime</title>
     <sub-title>La 300e en direct</sub-title>
     <desc lang="fr">A l'occasion de la 300e émission de «Crimes et Faits Divers», Jean-Marc Morandini et ses équipes seront en direct et proposeront de revenir sur trois affaires exceptionnelles. Des témoins interviendront en direct sur le plateau pour partager leurs histoires hors du commun.</desc>
     <category lang="fr">magazine magazine de société</category>
-    <length units="hours">2</length>
+    <length units="minutes">110</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c664c29f-ccf6-44f8-bcb4-fceab3394deb.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -22263,24 +22315,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C459.api.telerama.fr" start="20200224040000" stop="20200224042700">
-    <title>Ve'a Tahiti (en tahitien)</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">27</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C459.api.telerama.fr" start="20200224042700" stop="20200224045600">
-    <title>Journal Polynésie</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">29</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C459.api.telerama.fr" start="20200224050800" stop="20200224052000">
     <title>Martin Matin</title>
     <sub-title>Magic Martin</sub-title>
@@ -22310,7 +22344,7 @@
     <desc lang="fr">Saison:5 - Des contributeurs citoyens témoignent, questionnent, interpellent grâce à une plateforme numérique et une application mobile dédiée. La personnalité invitée réagit à ces contributions et répond aux questions de Nella Bipat.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="minutes">27</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92208700-b69c-428b-b2b5-213fe08b6056.jpg" />
     <episode-num system="xmltv_ns">4..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -22469,7 +22503,7 @@
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
     <length units="minutes">58</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1d3d4858-dacd-485d-b200-45bfd75e25d4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -22880,7 +22914,6 @@
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/19073f75-449a-4a40-b292-457e11c2d1cc.jpg" />
     <episode-num system="xmltv_ns">0.26.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -22991,7 +23024,7 @@
     <desc lang="fr">Saison:1 - Tous les jours de la semaine, Le journal des maternelles traite de l'actualité de la grossesse, la naissance et la petite enfance. Le journaliste Benjamin Muller fait état des dernières enquêtes de santé, des avancées scientifiques et des enjeux de société qui concernent les jeunes parents. Ses invités et les reportages de la rédaction permettent de décrypter cet univers foisonnant et riche d'incroyables nouveautés pour les parents. Très réactif, l'oeil sur les dernières tendances et les réseaux sociaux, Le journal des maternelles démêle le vrai du faux et délivre, dans la bonne humeur chère à Agathe Lecaron, une information de qualité indispensable dans la période si délicate où l'on devient parent.</desc>
     <category lang="fr">magazine magazine de société</category>
     <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4d94a012-b012-46de-a5af-0b14189bb65c.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3609d429-af11-476d-9331-adf1fd9d2237.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <new />
     <rating system="CSA">
@@ -23176,6 +23209,7 @@
   </programme>
   <programme channel="C47.api.telerama.fr" start="20200224194500" stop="20200224195000">
     <title>Laisse entrer la nature</title>
+    <sub-title>La Provence japonaise</sub-title>
     <category lang="fr">magazine de services</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
@@ -23656,24 +23690,59 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200224052700" stop="20200224053000">
+  <programme channel="C482.api.telerama.fr" start="20200224052700" stop="20200224052800">
     <title>Bande de sportifs</title>
     <sub-title>Le foot-volley</sub-title>
     <desc lang="fr">Saison:2 - Episode:28 - Théo découvre le foot-volley, un sport créé au Brésil...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">3</length>
+    <length units="minutes">1</length>
     <episode-num system="xmltv_ns">1.27.</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200224053000" stop="20200224053200">
+  <programme channel="C482.api.telerama.fr" start="20200224052800" stop="20200224052900">
+    <title>Bande de sportifs</title>
+    <sub-title>La lutte</sub-title>
+    <desc lang="fr">Saison:1 - Episode:30 - Théo rencontre Basile et Lucien, qui lui enseignent toutes les règles de leur art : la lutte...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">1</length>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200224052900" stop="20200224053000">
+    <title>Bande de sportifs</title>
+    <sub-title>Le ski à bosses</sub-title>
+    <desc lang="fr">Saison:1 - Episode:31 - Dans un paysage enneigé, Théo fait la rencontre de la courageuse Selma qui lui apprend à faire du ski de bosses...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">1</length>
+    <episode-num system="xmltv_ns">0.30.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200224053000" stop="20200224053100">
     <title>C'est bon signe</title>
     <sub-title>L'interphone</sub-title>
     <desc lang="fr">Saison:1 - Le comédien Luca Gelberg partage sa connaissance de la culture sourde sur un ton décalé en balayant de nombreux sujets d'actualités comme le sport, l'école ou les filles.</desc>
     <category lang="fr">emission jeunesse</category>
-    <length units="minutes">2</length>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/af7e00a0-db5c-4be2-8651-00edbe952551.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200224053100" stop="20200224053200">
+    <title>C'est bon signe</title>
+    <sub-title>L'interprète</sub-title>
+    <desc lang="fr">Saison:1 - Le comédien Luca Gelberg partage sa connaissance de la culture sourde sur un ton décalé en balayant de nombreux sujets d'actualités comme le sport, l'école ou les filles.</desc>
+    <category lang="fr">emission jeunesse</category>
+    <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/af7e00a0-db5c-4be2-8651-00edbe952551.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
@@ -23820,14 +23889,26 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200224073000" stop="20200224074100">
+  <programme channel="C482.api.telerama.fr" start="20200224073000" stop="20200224073500">
     <title>Alvinnn !!! et les Chipmunks</title>
     <sub-title>Le piège à parents</sub-title>
     <desc lang="fr">Saison:2 - Episode:36 - Bocarter est aidé par son père pour son projet de classe, aussi Alvin enrôle Dave pour contrebalancer les forces. La compétition est vite hors de contrôle, et les parents sont montés les uns contre les autres...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">11</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/15033561-052c-4bed-af3c-84e65169b192.jpg" />
     <episode-num system="xmltv_ns">1.35.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200224073500" stop="20200224074100">
+    <title>Bim Bam Toi</title>
+    <desc lang="fr">Saison:1 -</desc>
+    <category lang="fr">magazine magazine jeunesse</category>
+    <length units="minutes">6</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -24015,12 +24096,12 @@
   </programme>
   <programme channel="C482.api.telerama.fr" start="20200224105600" stop="20200224111000">
     <title>Le monde incroyable de Gumball</title>
-    <sub-title>La pizza</sub-title>
-    <desc lang="fr">Saison:3 - Episode:25 - Tous les membres de la famille Watterson ont eu une dure journée. Ils décident donc de commander une pizza. Mais Larry a démissionné et la ville ne tarde pas à être sens dessus dessous...</desc>
+    <sub-title>Les origines</sub-title>
+    <desc lang="fr">Saison:4 - Episode:20 - Après avoir été malencontreusement jeté dans les toilettes par Richard, Darwin se retrouve au milieu de l'océan. Mais, déterminé à retrouver sa famille, il entreprend un long périple. De son côté, Gumball ne peut se résoudre à acheter un autre poisson...</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">14</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d5939500-2719-4006-9055-5de27be6d878.jpg" />
-    <episode-num system="xmltv_ns">2.24.</episode-num>
+    <episode-num system="xmltv_ns">3.19.</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -24052,15 +24133,27 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200224113400" stop="20200224114500">
+  <programme channel="C482.api.telerama.fr" start="20200224113400" stop="20200224113700">
     <title>Alvinnn !!! et les Chipmunks</title>
     <sub-title>Le courriel</sub-title>
     <desc lang="fr">Saison:2 - Episode:23 - Simon est en colère contre son professeur, qui se montre très exigeant. Alvin l'encourage à écrire un mail pour vider son sac. Lorsque le message est accidentellement envoyé, les garçons font tout leur possible pour empêcher l'enseignant de le lire...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">11</length>
+    <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/15033561-052c-4bed-af3c-84e65169b192.jpg" />
     <episode-num system="xmltv_ns">1.22.</episode-num>
     <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200224113700" stop="20200224114500">
+    <title>Alvinnn !!! et les Chipmunks</title>
+    <sub-title>Les pouvoirs secrets d'Alvin</sub-title>
+    <desc lang="fr">Saison:1 - Episode:47 - Pour que Théodore se plie à ses quatre volontés, Alvin lui dit qu'il a des pouvoirs secrets et qu'il peut changer les déchets en friandises. Quand Derek vole les sucreries de Théodore, ce dernier lui dit qu'Alvin va le venger grâce à ses pouvoirs secrets...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">8</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5eae0905-7b2c-4437-afc5-ca1b53bfc958.jpg" />
+    <episode-num system="xmltv_ns">0.46.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -24103,14 +24196,26 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200224122000" stop="20200224123500">
+  <programme channel="C482.api.telerama.fr" start="20200224122000" stop="20200224123100">
     <title>Alvinnn !!! et les Chipmunks</title>
     <sub-title>Les survivants</sub-title>
     <desc lang="fr">Saison:1 - Episode:49 - Alvin est blessé. Simon accepte d'affronter Derek dans une émission de survie où il ne peut y avoir qu'un seul vainqueur. Les coups bas sont-ils la seule façon de gagner ?...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">15</length>
+    <length units="minutes">11</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5eae0905-7b2c-4437-afc5-ca1b53bfc958.jpg" />
     <episode-num system="xmltv_ns">0.48.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200224123100" stop="20200224123500">
+    <title>Bim Bam Toi</title>
+    <desc lang="fr">Saison:1 -</desc>
+    <category lang="fr">magazine magazine jeunesse</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -24188,26 +24293,26 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200224135000" stop="20200224140500">
+  <programme channel="C482.api.telerama.fr" start="20200224135000" stop="20200224143500">
     <title>SheZow</title>
     <sub-title>Jour de neige</sub-title>
     <desc lang="fr">Saison:1 - Episode:46 - Le Givré sort de la boule à neige où SheZow l'avait enfermé. Il est bien décidé à se venger...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea1e2459-9179-4f94-a7ec-48cc24a712cc.jpg" />
     <episode-num system="xmltv_ns">0.45.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200224142500" stop="20200224144000">
-    <title>SheZow</title>
-    <sub-title>Il faut sauver Noël</sub-title>
-    <desc lang="fr">Saison:1 - Episode:45 - Tatoozzila a capturé le Père-Noël. Finalement, il accepte de collaborer pour livrer les cadeaux...</desc>
+  <programme channel="C482.api.telerama.fr" start="20200224143500" stop="20200224144000">
+    <title>Dragons : par-delà les rives</title>
+    <sub-title>Rustik et ses drôles de dames</sub-title>
+    <desc lang="fr">Saison:5 - Episode:4 - Après un violent orage, Rustik est sauvé par une étrange tribu de femmes ailées. Le jeune homme pense alors, à tort, être arrivé à Valhalla alors qu'en fait ces drôles de dames ont prévu de le dévorer pour le dîner...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea1e2459-9179-4f94-a7ec-48cc24a712cc.jpg" />
-    <episode-num system="xmltv_ns">0.44.</episode-num>
+    <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">4.3.</episode-num>
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -24351,12 +24456,12 @@
   </programme>
   <programme channel="C482.api.telerama.fr" start="20200224175500" stop="20200224180600">
     <title>Le monde incroyable de Gumball</title>
-    <sub-title>Les vacances</sub-title>
-    <desc lang="fr">Saison:3 - Episode:10 - Ce sont les vacances. En route pour le camping, Gumball, Darwin et Anaïs se racontent des histoires qui font peur. Pour contredire Darwin, qui la traite de vieille, Maman en raconte une à son tour, terrifiante. Quelques minutes plus tard, la voiture tombe en panne, au milieu du désert. Et si l'histoire de Maman s'avérait vraie ?...</desc>
+    <sub-title>Les raleurs</sub-title>
+    <desc lang="fr">Saison:3 - Episode:9 - Gumball et Darwin n'arrêtent pas de se plaindre pour des choses sans importance. Ils se plaignent tellement que tout le monde pense qu'ils sont maltraités et les prend en pitié. Ne voulant pas les contredire, Gumball et Darwin finissent par jouer le jeu. Mais, pris à leur propre piège, ils n'arrivent plus à revenir en arrière...</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">11</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d5939500-2719-4006-9055-5de27be6d878.jpg" />
-    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -24426,13 +24531,25 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200224192500" stop="20200224195000">
+  <programme channel="C482.api.telerama.fr" start="20200224192500" stop="20200224194600">
     <title>Sabrina, l'apprentie sorcière</title>
     <sub-title>Un amour de proviseur</sub-title>
     <desc lang="fr">Saison:2 - Episode:3 - Sabrina se heurte au sous-directeur de l'établissement lorsqu'il découvre la nature d'un article dans lequel elle vante l'importance du sport dans l'éducation. Fâché, monsieur Kraft rend visite aux tantes de Sabrina, pour tenter de la faire revenir sur sa décision...</desc>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">25</length>
+    <length units="minutes">21</length>
     <episode-num system="xmltv_ns">1.2.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200224194600" stop="20200224195000">
+    <title>Bim Bam Toi</title>
+    <desc lang="fr">Saison:1 -</desc>
+    <category lang="fr">magazine magazine jeunesse</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -25075,24 +25192,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200224060000" stop="20200224061000">
+  <programme channel="C80.api.telerama.fr" start="20200224060000" stop="20200224061500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200224061000" stop="20200224062500">
+  <programme channel="C80.api.telerama.fr" start="20200224061500" stop="20200224062500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -25135,24 +25252,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200224070000" stop="20200224071000">
+  <programme channel="C80.api.telerama.fr" start="20200224070000" stop="20200224071500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200224071000" stop="20200224072500">
+  <programme channel="C80.api.telerama.fr" start="20200224071500" stop="20200224072500">
     <title>Boule et Bill</title>
     <sub-title>Il faut sauver Caporal</sub-title>
     <desc lang="fr">Saison:2 - Les aventures de Bill, le chien le plus célèbre de la bande dessinée, de son meilleur ami Boule, un petit garçon facétieux, et de la tortue Caroline.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -25191,23 +25308,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200224074000" stop="20200224075000">
-    <title>Tom et Jerry Show</title>
-    <sub-title>Les bonnes recettes de Rosemary</sub-title>
-    <desc lang="fr">Saison:2 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C80.api.telerama.fr" start="20200224075000" stop="20200224075500">
+  <programme channel="C80.api.telerama.fr" start="20200224074000" stop="20200224074500">
     <title>Tom et Jerry Show</title>
     <sub-title>Les bonnes recettes de Rosemary</sub-title>
     <desc lang="fr">Saison:2 -</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200224074500" stop="20200224075500">
+    <title>Tom et Jerry Show</title>
+    <sub-title>Les bonnes recettes de Rosemary</sub-title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <previously-shown />
     <rating system="CSA">
