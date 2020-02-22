@@ -32,6 +32,15 @@
     <display-name>La Trois</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
   </channel>
+  <programme channel="C1280.api.telerama.fr" start="20200222194500" stop="20200223050000">
+    <title>Geen uitzending</title>
+    <category lang="fr">fin</category>
+    <length units="minutes">555</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C1280.api.telerama.fr" start="20200223050000" stop="20200223050500">
     <title>Tik Tak</title>
     <desc lang="fr">Saison:1 - Episode:5 -</desc>
@@ -240,7 +249,7 @@
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200223102500" stop="20200223103500">
     <title>De week van Karrewiet</title>
-    <category lang="fr">magazine d'information</category>
+    <category lang="fr">magazine magazine d'information</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <previously-shown />
@@ -250,7 +259,7 @@
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200223103500" stop="20200223105000">
     <title>Later als ik groot ben</title>
-    <category lang="fr">magazine magazine jeunesse</category>
+    <category lang="fr">magazine jeunesse</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
     <rating system="CSA">
@@ -452,7 +461,7 @@
   <programme channel="C1280.api.telerama.fr" start="20200223145500" stop="20200223152000">
     <title>Helden</title>
     <sub-title>Blob</sub-title>
-    <category lang="fr">magazine magazine jeunesse</category>
+    <category lang="fr">magazine jeunesse</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
     <rating system="CSA">
@@ -502,7 +511,7 @@
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200223164500" stop="20200223170000">
     <title>De week van Karrewiet</title>
-    <category lang="fr">magazine d'information</category>
+    <category lang="fr">magazine magazine d'information</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <previously-shown />
@@ -615,7 +624,7 @@
   <programme channel="C164.api.telerama.fr" start="20200223005400" stop="20200223005600">
     <title>Air de familles</title>
     <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
-    <category lang="fr">magazine magazine de société</category>
+    <category lang="fr">magazine de société</category>
     <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
     <rating system="CSA">
@@ -683,7 +692,7 @@
     <title>Air de familles</title>
     <sub-title>Enceinte : Quelles protections juridiques ?</sub-title>
     <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
-    <category lang="fr">magazine magazine de société</category>
+    <category lang="fr">magazine de société</category>
     <length units="minutes">4</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
     <previously-shown />
@@ -777,7 +786,7 @@
     <title>Opération girafes</title>
     <desc lang="fr">Accompagné de rangers ougandais, le docteur Julian Fennessy va déplacer un groupe de girafes rares et menacées pour les emmener de l'autre côté du Nil.</desc>
     <date>2016</date>
-    <category lang="fr">documentaire animalier</category>
+    <category lang="fr">documentaire : animalier</category>
     <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/be9d5f4a-806c-4dfc-8754-1462122617b5.jpg" />
     <rating system="CSA">
@@ -787,7 +796,7 @@
   <programme channel="C164.api.telerama.fr" start="20200223141000" stop="20200223144500">
     <title>C'est du belge</title>
     <desc lang="fr">Gerald Watelet dresse le portrait de ces Belges qui font la fierté du pays. L'art de vivre et l'actualité royale sont mis à l'honneur. Un trio féminin présente en alternance une chronique une fois par mois. Au programme également : des émissions spéciales autour de documentaires ou de grands évènements.</desc>
-    <category lang="fr">magazine magazine de société</category>
+    <category lang="fr">magazine de société</category>
     <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/aa871d27-7a53-487f-a2f9-ec6e891214ce.jpg" />
     <previously-shown />
@@ -995,9 +1004,9 @@
   </programme>
   <programme channel="C168.api.telerama.fr" start="20200223095000" stop="20200223102500">
     <title>Tout s'explique</title>
-    <sub-title>Le ski vert</sub-title>
+    <sub-title>Le ski en sursis</sub-title>
     <desc lang="fr">A l'heure du réchauffement climatique, les vacances aux sports d'hiver ne sont pas l'idéal quand on veut minimiser son impact sur la planète : transports, remontées mécaniques, dameuses, neige de culture. Mais dans tous les massifs, l'heure est à la prise de conscience collective. Réduire son empreinte carbone devient petit à petit une priorité. Les stations ne peuvent plus ignorer l'impact qu'elles ont sur leur environnement ni l'urgence qu'il y a à le préserver. Comment économiser de l'énergie ? Faut-il utiliser des sources d'énergies renouvelables grâce à des panneaux photovoltaïques alimentant les remontées ? Fabriquer de manière plus raisonnée la neige de culture en tenant compte des ressources en eau et damer les pistes avec des machines moins polluantes ?</desc>
-    <category lang="fr">magazine d'information</category>
+    <category lang="fr">magazine magazine d'information</category>
     <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dd2a9569-0317-4cc2-9257-679428685364.jpg" />
     <rating system="CSA">
@@ -1049,7 +1058,7 @@
   <programme channel="C168.api.telerama.fr" start="20200223125000" stop="20200223132000">
     <title>Les Belges et la dolce vita</title>
     <desc lang="fr">En quête d'une truffe blanche exceptionnelle pour son restaurant italien de Waterloo, Jean-Michel Zecca se rend dans une grande région de la truffe, entre montagne et mer : les Marches, en Italie. Lors de cette épopée, Jean-Michel traverse des paysages à couper le souffle, descend en rappel dans la plus grande grotte d'Europe, et s'arrête dans des vignobles aux vins délicieux. Sur place, il peut compter sur l'aide de Brigitte, Antonio, Kathleen et Véronique, des Belges qui ont choisi de s'installer en Italie pour sa douceur de vivre. Ils vont l'aider à trouver la truffe de ses rêves, tout en lui faisant vivre des expériences inoubliables dans le pays de la «dolce vita».</desc>
-    <category lang="fr">magazine magazine de société</category>
+    <category lang="fr">magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9f01b53e-a66e-4b16-baa0-6ba3e33d6592.jpg" />
     <rating system="CSA">
@@ -1139,7 +1148,7 @@
     <title>Face au juge</title>
     <sub-title>Episode 1</sub-title>
     <desc lang="fr">Saison:6 - Medhi est accusé d'avoir frappé sa mère et son petit frère de 16 ans. Mais il affirme les avoir simplement bousculés à cause d'une histoire de chien.</desc>
-    <category lang="fr">magazine magazine de société</category>
+    <category lang="fr">magazine de société</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3a82cc80-9b56-4732-84a8-d8df67fe3530.jpg" />
     <episode-num system="xmltv_ns">5..</episode-num>
@@ -1559,7 +1568,7 @@
   </programme>
   <programme channel="C23.api.telerama.fr" start="20200223100000" stop="20200223120000">
     <title>De zevende dag</title>
-    <category lang="fr">magazine magazine de société</category>
+    <category lang="fr">magazine de société</category>
     <length units="hours">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
     <rating system="CSA">
@@ -1730,7 +1739,7 @@
   </programme>
   <programme channel="C23.api.telerama.fr" start="20200223230000" stop="20200224010000">
     <title>De zevende dag</title>
-    <category lang="fr">magazine magazine de société</category>
+    <category lang="fr">magazine de société</category>
     <length units="hours">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
     <previously-shown />
@@ -1843,13 +1852,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200223143500" stop="20200223152000">
+  <programme channel="C377.api.telerama.fr" start="20200223143500" stop="20200223150500">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:2 - Episode:131 - Tout ne se passe pas comme prévu au cours de la soirée d'inauguration de l'Escape Game. Par ailleurs, Virgile reçoit un appel qui bouleverse totalement ses plans...</desc>
     <category lang="fr">feuilleton policier</category>
-    <length units="minutes">45</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
     <episode-num system="xmltv_ns">1.130.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C377.api.telerama.fr" start="20200223150500" stop="20200223152000">
+    <title>Good News</title>
+    <desc lang="fr">«Good News», c'est l'émission d'actu des bonnes nouvelles musicales, cinéma, culture, loisirs, évènements. Au programme : des reportages, interviews, making of, le tout, dans la bonne humeur grâce au peps légendaire de Sandrine.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c9e21ed8-92d8-45b8-b341-70c52273082a.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1984,13 +2003,25 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200223063000" stop="20200223065500">
+  <programme channel="C50.api.telerama.fr" start="20200223063000" stop="20200223064000">
     <title>Vic le Viking 3D</title>
     <sub-title>Invasion de punaises</sub-title>
     <desc lang="fr">Saison:1 - Episode:55 - Les Vikings chassent dans la forêt quand ils tombent sur une colonie de punaises malodorantes. Dans le même temps, Sven attaque le village et fait prisonniers les femmes et les enfants...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">25</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">0.54.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200223064000" stop="20200223065500">
+    <title>Heidi *2015</title>
+    <sub-title>Le printemps est arrivé</sub-title>
+    <desc lang="fr">Episode:1 - A la mort de ses parents, Heidi, petite fille de 7 ans, est confiée à son grand-père, un vieil homme sévère et taciturne qui habite au coeur des Alpes suisses. En même temps qu'elle apprend à connaître son aïeul, la fillette découvre les joies de vivre en montagne et se lie d'amitié avec Peter, un jeune chevrier débrouillard, et Clara, une enfant de son âge, clouée dans un fauteuil roulant. Cette version en 3D permet de donner une autre dimension aux paysages de montagne, aux grands espaces, à la faune et la flore.</desc>
+    <length units="minutes">15</length>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <previously-shown />
+    <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2086,7 +2117,7 @@
     <title>Véto &amp; Co</title>
     <desc lang="fr">Des vétérinaires, aux personnalités fortes et attachantes, et dont le professionnalisme est au coeur de l'aventure, soignent et sauvent chaque jour des animaux.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire animalier</category>
+    <category lang="fr">documentaire : animalier</category>
     <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/41b5895d-4f07-4835-927e-18fec442b073.jpg" />
     <rating system="CSA">
@@ -2358,16 +2389,6 @@
     <star-rating>
       <value>1/5</value>
     </star-rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200223014500" stop="20200223050000">
-    <title>Boucle de nuit</title>
-    <desc lang="fr">Emissions en boucle jusqu'au matin.</desc>
-    <category lang="fr">programme indéterminé</category>
-    <length units="minutes">195</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
   </programme>
   <programme channel="C892.api.telerama.fr" start="20200223050000" stop="20200223052500">
     <title>Les Schtroumpfs</title>
@@ -2877,17 +2898,6 @@ Elle peut non seulement repérer mais aussi attraper les mouchards. Pour libére
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200223184500" stop="20200223190000">
-    <title>Je voudrais devenir...</title>
-    <sub-title>Taxidermiste</sub-title>
-    <desc lang="fr">Jean-Pierre a su très vite quel métier il souhaitait exercer, car sa famille en est à la cinquième génération de taxidermistes, une profession particulière.</desc>
-    <date>2014</date>
-    <category lang="fr">documentaire : education</category>
-    <length units="minutes">15</length>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C892.api.telerama.fr" start="20200223190000" stop="20200223193500">
     <title>JT traduction gestuelle</title>
     <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
@@ -2911,7 +2921,7 @@ Elle peut non seulement repérer mais aussi attraper les mouchards. Pour libére
     <title>Hep taxi !</title>
     <sub-title>Loïc Nottet</sub-title>
     <desc lang="fr">Finaliste de «The Voice Belgique», vainqueur de «Danse avec les stars», «Selfocracy», sorti en 2017, déjà disque de platine, Loïc Nottet, 21 ans, n'arrive pas à se réjouir de ses succès. Il se livre sur ses doutes, ses souffrances et sur ses rêves.</desc>
-    <category lang="fr">magazine magazine culturel</category>
+    <category lang="fr">magazine culturel</category>
     <length units="minutes">29</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/aa1c89d3-bec8-47f2-994f-c89bc8c061e3.jpg" />
     <rating system="CSA">
@@ -2944,7 +2954,7 @@ Elle peut non seulement repérer mais aussi attraper les mouchards. Pour libére
   <programme channel="C892.api.telerama.fr" start="20200223221000" stop="20200223221500">
     <title>KIOSK, le magazine des arts de la scène</title>
     <desc lang="fr">Présenté par Cindya Izzarelli, «Kiosk» met en avant, chaque semaine, les arts de la scène.</desc>
-    <category lang="fr">magazine magazine culturel</category>
+    <category lang="fr">magazine culturel</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1fc4910-8a7c-4098-b252-0d227d90fbd5.jpg" />
     <previously-shown />
@@ -2954,7 +2964,7 @@ Elle peut non seulement repérer mais aussi attraper les mouchards. Pour libére
   </programme>
   <programme channel="C892.api.telerama.fr" start="20200223221500" stop="20200223225500">
     <title>Le grand oral</title>
-    <desc lang="fr">Un acteur majeur de la vie politique ou économique se livre à une interview grand format. Face à trois journalistes, l'invité a 45 minutes pour aller au fond des choses, sans langue de bois, en partant de l'actualité de la semaine. Une émission réalisée en collaboration avec le journal «Le Soir».</desc>
+    <desc lang="fr">Vincent de Coorebyter, professeur de philosophie politique à l'ULB, président du CRISP, auteur du livre «Dis, c'est quoi la démocratie ?», est l'invité de la semaine. Au menu de l'émission : l'état de santé de la démocratie, le phénomène du populisme, la crise politique belge. L'interview sera menée par Bertrand Henne (La Première), Béatrice Delvaux (Le Soir), Jean Pierre Jacqmin (RTBF).</desc>
     <category lang="fr">interview</category>
     <length units="minutes">40</length>
     <rating system="CSA">
