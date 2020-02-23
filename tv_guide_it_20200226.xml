@@ -48,12 +48,6 @@
   <channel id="yoyo.raisat.it">
     <display-name>Yoyo</display-name>
   </channel>
-  <programme channel="raipremium.guidatv.sky.it" start="20200225220000" stop="20200226000500">
-    <title lang="it">Il cacciatore</title>
-    <desc lang="it">S2 Ep1 Fino a che non...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
   <programme channel="www.la7.it" start="20200225235000" stop="20200226000000">
     <title lang="it">Tg La7</title>
     <desc lang="it">Le notizie d'attualita' e...</desc>
@@ -206,13 +200,6 @@
     <category lang="it">news</category>
     <category lang="it">informazione</category>
   </programme>
-  <programme channel="www.la7.it" start="20200226160000" stop="20200226170000">
-    <title lang="it">Tagada' Doc</title>
-    <sub-title lang="it">Intrattenimento</sub-title>
-    <desc lang="it">Show</desc>
-    <category lang="it">show</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
   <programme channel="www.la7.it" start="20200226190000" stop="20200226193500">
     <title lang="it">Tg La7</title>
     <desc lang="it">Le notizie d'attualita' e...</desc>
@@ -240,9 +227,16 @@
   </programme>
   <programme channel="www.la7.it" start="20200226201500" stop="20200226235000">
     <title lang="it">Atlantide</title>
-    <sub-title lang="it">Ep. 3</sub-title>
-    <desc lang="it">Nel programma di...</desc>
+    <sub-title lang="it">Sindrome Cinese</sub-title>
+    <desc lang="it">Nel...</desc>
     <category lang="it">storia</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="www.la7.it" start="20200226160000" stop="20200226170000">
+    <title lang="it">Taga Doc presenta: Dentro la sindrome</title>
+    <sub-title lang="it">2a parte</sub-title>
+    <desc lang="it">Taga Doc...</desc>
+    <category lang="it">attualita</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
   <programme channel="raisport.guidatv.sky.it" start="20200225233000" stop="20200226010000">
@@ -712,7 +706,7 @@
     <episode-num system="xmltv_ns">.2.0/1</episode-num>
   </programme>
   <programme channel="raigulp.rai.it" start="20200226145500" stop="20200226152000">
-    <title lang="it">Le avventure di Rapunzel</title>
+    <title lang="it">Rapunzel: la serie</title>
     <desc lang="it">S1 Ep17 L'ira di Violetta...</desc>
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
@@ -1037,106 +1031,113 @@
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
   </programme>
-  <programme channel="raimovie.rai.it" start="20200225232500" stop="20200226005500">
-    <title lang="it">W la foca</title>
-    <desc lang="it">Regia di N. Cicero, con...</desc>
-    <category lang="it">commedia</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raimovie.rai.it" start="20200226005500" stop="20200226010000">
+  <programme channel="raimovie.rai.it" start="20200226010500" stop="20200226011000">
     <title lang="it">Anica Appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione...</desc>
     <category lang="it">magazine cinema</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="raimovie.rai.it" start="20200226010000" stop="20200226023000">
-    <title lang="it">Desiderio</title>
-    <desc lang="it">Regia di A. Tato', con...</desc>
-    <category lang="it">drammatico</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raimovie.rai.it" start="20200226023000" stop="20200226040000">
-    <title lang="it">Dieci piccoli indiani</title>
-    <desc lang="it">Regia di G. Pollock, con...</desc>
-    <category lang="it">thriller</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raimovie.rai.it" start="20200226040000" stop="20200226054000">
-    <title lang="it">Missione di morte</title>
-    <desc lang="it">Regia di E. Dmytryk, con...</desc>
-    <category lang="it">drammatico</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raimovie.rai.it" start="20200226054000" stop="20200226072000">
-    <title lang="it">Un italiano in America</title>
-    <desc lang="it">Regia di A. Sordi, con...</desc>
-    <category lang="it">commedia</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raimovie.rai.it" start="20200226072000" stop="20200226072500">
-    <title lang="it">Anica Appuntamento al cinema</title>
-    <desc lang="it">Rubrica per la promozione...</desc>
-    <category lang="it">magazine cinema</category>
-    <category lang="it">mondo e tendenze</category>
-  </programme>
-  <programme channel="raimovie.rai.it" start="20200226072500" stop="20200226094000">
-    <title lang="it">Zorro</title>
-    <desc lang="it">Regia di D. Tessari, con...</desc>
-    <category lang="it">avventura</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raimovie.rai.it" start="20200226094000" stop="20200226111500">
-    <title lang="it">Pensando a te</title>
-    <desc lang="it">Regia di A. Grimaldi, con...</desc>
-    <category lang="it">commedia</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raimovie.rai.it" start="20200226111500" stop="20200226125000">
-    <title lang="it">Gringo, getta il fucile!</title>
-    <desc lang="it">Regia di J. Romero...</desc>
-    <category lang="it">western</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raimovie.rai.it" start="20200226125000" stop="20200226150000">
-    <title lang="it">Boston - Caccia all'uomo</title>
-    <desc lang="it">Regia di P. Berg, con...</desc>
-    <category lang="it">thriller</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raimovie.rai.it" start="20200226150000" stop="20200226163500">
-    <title lang="it">Romanzo nel west</title>
-    <desc lang="it">Regia di E. Marin, con...</desc>
-    <category lang="it">western</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raimovie.rai.it" start="20200226163500" stop="20200226181500">
-    <title lang="it">Sfida infernale</title>
-    <desc lang="it">Regia di J. Ford, con...</desc>
-    <category lang="it">western</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raimovie.rai.it" start="20200226181500" stop="20200226201000">
-    <title lang="it">Cuori nella tormenta</title>
-    <desc lang="it">Regia di E. Oldoini, con...</desc>
-    <category lang="it">commedia</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raimovie.rai.it" start="20200226201000" stop="20200226220000">
-    <title lang="it">Miracles From Heaven</title>
-    <desc lang="it">Regia di P. Riggen, con...</desc>
-    <category lang="it">drammatico</category>
-    <category lang="it">film</category>
-  </programme>
-  <programme channel="raimovie.rai.it" start="20200226220000" stop="20200226222500">
+  <programme channel="raimovie.rai.it" start="20200226221500" stop="20200226224000">
     <title lang="it">Movie Mag</title>
     <desc lang="it">Il magazine che,...</desc>
     <category lang="it">magazine cinema</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="raimovie.rai.it" start="20200226222500" stop="20200227002500">
-    <title lang="it">Il coraggio della verita'</title>
-    <desc lang="it">Regia di E. Zwick, con...</desc>
+  <programme channel="raimovie.rai.it" start="20200225233500" stop="20200226010500">
+    <title lang="it">Cha Cha Cha</title>
+    <desc lang="it">Regia di M. Risi, con...</desc>
+    <category lang="it">thriller</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200226011000" stop="20200226023500">
+    <title lang="it">L'estate del mio primo bacio</title>
+    <desc lang="it">Regia di C. Virzi', con...</desc>
+    <category lang="it">commedia</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200226023500" stop="20200226040000">
+    <title lang="it">L'amore non perdona</title>
+    <desc lang="it">Regia di S. Consiglio,...</desc>
     <category lang="it">drammatico</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200226040000" stop="20200226052500">
+    <title lang="it">Il re dell'Africa</title>
+    <desc lang="it">Regia di E. B....</desc>
+    <category lang="it">avventura</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200226052500" stop="20200226065500">
+    <title lang="it">Situazione imbarazzante</title>
+    <desc lang="it">Regia di G. Kanin, con...</desc>
+    <category lang="it">commedia</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200226065500" stop="20200226082500">
+    <title lang="it">La settimana bianca</title>
+    <desc lang="it">Regia di M. Laurenti, con...</desc>
+    <category lang="it">commedia</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200226082500" stop="20200226083000">
+    <title lang="it">Anica Appuntamento al cinema</title>
+    <desc lang="it">Rubrica per la promozione...</desc>
+    <category lang="it">magazine cinema</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200226083000" stop="20200226100000">
+    <title lang="it">Io, mammeta e tu</title>
+    <desc lang="it">Regia di C.L. Bragaglia,...</desc>
+    <category lang="it">commedia</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200226100000" stop="20200226113000">
+    <title lang="it">Mio figlio Nerone</title>
+    <desc lang="it">Regia di Steno, con...</desc>
+    <category lang="it">comico</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200226113000" stop="20200226131000">
+    <title lang="it">Sfida infernale</title>
+    <desc lang="it">Regia di J. Ford, con...</desc>
+    <category lang="it">western</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200226131000" stop="20200226144500">
+    <title lang="it">Vivo per la tua morte</title>
+    <desc lang="it">Regia di C. Bazzoni, con...</desc>
+    <category lang="it">western</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200226144500" stop="20200226163000">
+    <title lang="it">La vendetta e' un piatto che si serve...</title>
+    <sub-title lang="it">...freddo</sub-title>
+    <desc lang="it">Regia di P....</desc>
+    <category lang="it">western</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200226163000" stop="20200226182000">
+    <title lang="it">John il bastardo</title>
+    <desc lang="it">Regia di A. Crispino, con...</desc>
+    <category lang="it">western</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200226182000" stop="20200226201000">
+    <title lang="it">Al bar dello sport</title>
+    <desc lang="it">Regia di F. Massaro, con...</desc>
+    <category lang="it">comico</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200226201000" stop="20200226221500">
+    <title lang="it">Gli invisibili</title>
+    <desc lang="it">Regia di O. Moverman, con...</desc>
+    <category lang="it">drammatico</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200226224000" stop="20200227005000">
+    <title lang="it">Copycat - Omicidi in serie</title>
+    <desc lang="it">Regia di J. Amiel, con...</desc>
+    <category lang="it">thriller</category>
     <category lang="it">film</category>
   </programme>
   <programme channel="raipremium.guidatv.sky.it" start="20200226040000" stop="20200226050000">
@@ -1462,6 +1463,191 @@
     <title lang="it">La festa dello scarlo</title>
     <desc lang="it">Documentario dedicato...</desc>
     <category lang="it">societa</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226003500" stop="20200226004000">
+    <title lang="it">Rai News notte</title>
+    <desc lang="it">Cronaca, politica,...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226084000" stop="20200226084500">
+    <title lang="it">Anica Appuntamento al cinema</title>
+    <desc lang="it">Rubrica per la promozione...</desc>
+    <category lang="it">magazine cinema</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226173000" stop="20200226173500">
+    <title lang="it">Rai News giorno</title>
+    <desc lang="it">Cronaca, politica,...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200225233500" stop="20200226003500">
+    <title lang="it">The Who - The Story of Quadrophenia</title>
+    <desc lang="it">Pete Townshend racconta...</desc>
+    <category lang="it">musica</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226004000" stop="20200226013000">
+    <title lang="it">Quando l'Impressionismo invento' la moda</title>
+    <desc lang="it">Gli Impressionisti,...</desc>
+    <category lang="it">arte e cultura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226013000" stop="20200226023000">
+    <title lang="it">Ghost Town</title>
+    <sub-title lang="it">Isole Svalbard</sub-title>
+    <desc lang="it">Un...</desc>
+    <category lang="it">arte e cultura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226023000" stop="20200226032000">
+    <title lang="it">La foresta delle meraviglie</title>
+    <desc lang="it">Un emozionante viaggio...</desc>
+    <category lang="it">natura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226032000" stop="20200226041000">
+    <title lang="it">Hotspots, l'ultima speranza</title>
+    <sub-title lang="it">Borneo</sub-title>
+    <desc lang="it">Ogni giorno si...</desc>
+    <category lang="it">natura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226041000" stop="20200226050000">
+    <title lang="it">La foresta delle meraviglie</title>
+    <desc lang="it">Un emozionante viaggio...</desc>
+    <category lang="it">natura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226050000" stop="20200226053000">
+    <title lang="it">Cinekino</title>
+    <sub-title lang="it">Germania</sub-title>
+    <desc lang="it">Il cinema...</desc>
+    <category lang="it">cinema</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226053000" stop="20200226062000">
+    <title lang="it">Hotspots, l'ultima speranza</title>
+    <sub-title lang="it">Borneo</sub-title>
+    <desc lang="it">Ogni giorno si...</desc>
+    <category lang="it">natura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226062000" stop="20200226065000">
+    <title lang="it">Cinekino</title>
+    <sub-title lang="it">Francia</sub-title>
+    <desc lang="it">La storia del...</desc>
+    <category lang="it">cinema</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226065000" stop="20200226074500">
+    <title lang="it">Quando l'Impressionismo invento' la moda</title>
+    <desc lang="it">Gli Impressionisti,...</desc>
+    <category lang="it">arte e cultura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226074500" stop="20200226084000">
+    <title lang="it">Ghost Town</title>
+    <sub-title lang="it">Pyramiden / Svalbard</sub-title>
+    <desc lang="it">Un...</desc>
+    <category lang="it">arte e cultura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226084500" stop="20200226101500">
+    <title lang="it">Hocus molto pocus</title>
+    <desc lang="it">Magia, chiaroveggenza,...</desc>
+    <category lang="it">teatro</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226101500" stop="20200226104500">
+    <title lang="it">Save the Date</title>
+    <sub-title lang="it">Ep. 18</sub-title>
+    <desc lang="it">Gli appuntamenti...</desc>
+    <category lang="it">magazine cultura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226104500" stop="20200226113500">
+    <title lang="it">Art of... Francia</title>
+    <desc lang="it">Scorrera' il sangue -...</desc>
+    <category lang="it">arte e cultura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226113500" stop="20200226122500">
+    <title lang="it">Pacific with Sam Neill</title>
+    <desc lang="it">Verso il passaggio a Nord...</desc>
+    <category lang="it">avventura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226122500" stop="20200226125500">
+    <title lang="it">Cinekino</title>
+    <sub-title lang="it">Francia</sub-title>
+    <desc lang="it">La storia del...</desc>
+    <category lang="it">cinema</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226125500" stop="20200226134500">
+    <title lang="it">Misteri delle paludi americane</title>
+    <desc lang="it">Okefenokee, la terra che...</desc>
+    <category lang="it">natura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226134500" stop="20200226143500">
+    <title lang="it">Hotspots, l'ultima speranza</title>
+    <sub-title lang="it">America centrale</sub-title>
+    <desc lang="it">Ogni...</desc>
+    <category lang="it">natura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226143500" stop="20200226153000">
+    <title lang="it">Ghost Town</title>
+    <sub-title lang="it">Pyramiden / Svalbard</sub-title>
+    <desc lang="it">Un...</desc>
+    <category lang="it">arte e cultura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226153000" stop="20200226163000">
+    <title lang="it">L'orologio di Monaco</title>
+    <desc lang="it">Regia di M. Caputo; ITA...</desc>
+    <category lang="it">cinema</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226163000" stop="20200226173000">
+    <title lang="it">Freddy Mercury - The Ultimate Showman</title>
+    <desc lang="it">Sul palco, come nella...</desc>
+    <category lang="it">documentario</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226173500" stop="20200226183000">
+    <title lang="it">Quando l'Impressionismo invento' la moda</title>
+    <desc lang="it">Gli Impressionisti,...</desc>
+    <category lang="it">arte e cultura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226183000" stop="20200226192500">
+    <title lang="it">Kupka, astrattismo e modernita'</title>
+    <desc lang="it">Regia di J. Loeuille. La...</desc>
+    <category lang="it">documentario</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226192500" stop="20200226201500">
+    <title lang="it">Ghost Town</title>
+    <sub-title lang="it">Apice (Campania)</sub-title>
+    <desc lang="it">Le...</desc>
+    <category lang="it">arte e cultura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226201500" stop="20200226220000">
+    <title lang="it">Janis - Little Girl Blue</title>
+    <desc lang="it">La breve e intensa vita...</desc>
+    <category lang="it">musica</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200226220000" stop="20200226233000">
+    <title lang="it">BB King Life of Riley</title>
+    <desc lang="it">Regia di J. Brewer. Il...</desc>
+    <category lang="it">musica</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
   <programme channel="yoyo.raisat.it" start="20200225235500" stop="20200226000000">
@@ -2719,6 +2905,24 @@
     <category lang="it">notiziario</category>
     <category lang="it">informazione</category>
   </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200226230000" stop="20200226233000">
+    <title lang="it">News</title>
+    <desc lang="it">Notizie, i fatti ed i...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200226233000" stop="20200226235500">
+    <title lang="it">News + Rassegna stampa</title>
+    <desc lang="it">La rassegna stampa delle...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200226235500" stop="20200227000000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Informazioni sul tempo...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
   <programme channel="raisport.guidatv.sky.it" start="20200226230000" stop="20200226231500">
     <title lang="it">Tg Rai Sport  (live)</title>
     <desc lang="it">Ogni giorno le notizie...</desc>
@@ -2738,43 +2942,6 @@
     <desc lang="it">A York, Bjorn...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raigulp.rai.it" start="20200226230000" stop="20200226232500">
-    <title lang="it">Sailor Moon Crystal</title>
-    <sub-title lang="it">Ep2</sub-title>
-    <desc lang="it">La giovane Usagi...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="raigulp.rai.it" start="20200226234500" stop="20200227001000">
-    <title lang="it">Zorro: la leggenda</title>
-    <desc lang="it">S1 Ep16 Il falso Zorro -...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="raigulp.rai.it" start="20200226232500" stop="20200226233500">
-    <title lang="it">Il libro della giungla</title>
-    <desc lang="it">S2 Ep5 L'isola delle...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="raigulp.rai.it" start="20200226233500" stop="20200226234500">
-    <title lang="it">Il libro della giungla</title>
-    <desc lang="it">S2 Ep6 Mowgli il ladro -...</desc>
-    <category lang="it">cartoni animati</category>
-    <category lang="it">ragazzi e musica</category>
-  </programme>
-  <programme channel="raistoria.rai.it" start="20200226230500" stop="20200226232000">
-    <title lang="it">Il giorno e la storia</title>
-    <desc lang="it">Una selezioni dei...</desc>
-    <category lang="it">storia</category>
-    <category lang="it">mondo e tendenze</category>
-  </programme>
-  <programme channel="raistoria.rai.it" start="20200226232000" stop="20200227000000">
-    <title lang="it">Passato e Presente</title>
-    <desc lang="it">1947. La rottura tra De...</desc>
-    <category lang="it">storia</category>
-    <category lang="it">mondo e tendenze</category>
   </programme>
   <programme channel="rai5.rai.it" start="20200226233000" stop="20200227002500">
     <title lang="it">The Carole King Story</title>
