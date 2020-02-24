@@ -531,7 +531,7 @@
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200227165000" stop="20200227170500">
     <title>Karrewiet</title>
-    <category lang="fr">magazine magazine d'information</category>
+    <category lang="fr">magazine d'information</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <rating system="CSA">
@@ -571,7 +571,7 @@
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200227175000" stop="20200227180500">
     <title>Karrewiet</title>
-    <category lang="fr">magazine magazine d'information</category>
+    <category lang="fr">magazine d'information</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <previously-shown />
@@ -1152,6 +1152,7 @@
     <category lang="fr">journal</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1171,6 +1172,7 @@
     <category lang="fr">journal</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1278,7 +1280,7 @@
     <title>Tout s'explique</title>
     <sub-title>Les frites</sub-title>
     <desc lang="fr">Un Belge sur deux mange des frites chaque semaine. Découpe, température ou encore temps de cuisson, chaque détail peut faire la différence. Préparer des frites, c'est toute une science. L'émisison remonte les origines de ce délice salé, et plonge dans les secrets de frituristes préférés. Ketchup, mayonnaise, andalouse, que seraient les frites sans sauce ? Nathan créée sa propre sauce.</desc>
-    <category lang="fr">magazine magazine d'information</category>
+    <category lang="fr">magazine d'information</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ec1c0fb9-1fcf-4749-8ffe-cd0455418534.jpg" />
     <premiere />
@@ -1594,9 +1596,9 @@
     <title>Matière grise</title>
     <sub-title>L'histoire secrète de nos organes</sub-title>
     <desc lang="fr">Si un ingénieur devait aujourd'hui fabriquer une humain idéal, il le concevrait sans doute très différemment des êtres existants. Il irait au plus logique, au plus efficace, au plus rationnel. Or, à y regarder de près, le fonctionnement du corps humain ne répond pas toujours à cette logique rationnelle.</desc>
-    <category lang="fr">magazine scientifique</category>
+    <category lang="fr">magazine magazine scientifique</category>
     <length units="minutes">35</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/93daefda-9769-4b2c-be07-ef29f286607a.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9ada500b-e439-441c-b436-ef1bd1c5ded3.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2226,6 +2228,16 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C50.api.telerama.fr" start="20200227040000" stop="20200227043000">
+    <title>Journal luxembourgeois</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C50.api.telerama.fr" start="20200227053500" stop="20200227060000">
     <title>Flipper &amp; Lopaka</title>
     <sub-title>Le concours de surf</sub-title>
@@ -2262,13 +2274,14 @@
     </rating>
   </programme>
   <programme channel="C50.api.telerama.fr" start="20200227062500" stop="20200227064000">
-    <title>Maya l'abeille 3D</title>
-    <sub-title>La ruche au bois dormant</sub-title>
-    <desc lang="fr">Saison:1 - Episode:7 - Le grand jour du butinage de pollen de liserons venu, Maya et Willy endorment toute la ruche par erreur. Pour ne pas râter l'unique jour de récolte de ce mets rare Maya va mobiliser ses amis de la prairie...</desc>
-    <category lang="fr">série d'animation</category>
+    <title>Heidi *2015</title>
+    <sub-title>Le printemps est arrivé</sub-title>
+    <desc lang="fr">Episode:1 - A la mort de ses parents, Heidi, petite fille de 7 ans, est confiée à son grand-père, un vieil homme sévère et taciturne qui habite au coeur des Alpes suisses. En même temps qu'elle apprend à connaître son aïeul, la fillette découvre les joies de vivre en montagne et se lie d'amitié avec Peter, un jeune chevrier débrouillard, et Clara, une enfant de son âge, clouée dans un fauteuil roulant. Cette version en 3D permet de donner une autre dimension aux paysages de montagne, aux grands espaces, à la faune et la flore.</desc>
+    <category lang="fr">série</category>
     <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/23ad80d0-c91e-4eda-ac78-8c95414ea7e2.jpg" />
-    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <previously-shown />
+    <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2344,7 +2357,7 @@
   <programme channel="C50.api.telerama.fr" start="20200227090000" stop="20200227092000">
     <title>Radical Fitness Training</title>
     <desc lang="fr">Composé de 5 programmes : du body fitness, du hit training programme, de la megadanz, le programme Eleven ou encore de l'Oxigeno stretching.</desc>
-    <category lang="fr">magazine magazine sportif</category>
+    <category lang="fr">magazine sportif</category>
     <length units="minutes">20</length>
     <rating system="CSA">
       <value>Tout public</value>
