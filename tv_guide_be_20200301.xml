@@ -263,12 +263,22 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200301105000" stop="20200301110000">
+  <programme channel="C1280.api.telerama.fr" start="20200301105000" stop="20200301105500">
     <title>Shaun het schaap</title>
     <desc lang="fr">Saison:1 - Episode:14 -</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <episode-num system="xmltv_ns">0.13.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200301105500" stop="20200301110000">
+    <title>Shaun het schaap</title>
+    <desc lang="fr">Saison:4 - Episode:7 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">3.6.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -414,22 +424,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200301141500" stop="20200301142000">
+  <programme channel="C1280.api.telerama.fr" start="20200301141500" stop="20200301142700">
     <title>Shaun het schaap</title>
     <desc lang="fr">Saison:1 - Episode:18 -</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">5</length>
+    <length units="minutes">12</length>
     <episode-num system="xmltv_ns">0.17.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200301142000" stop="20200301142700">
-    <title>Shaun het schaap</title>
-    <desc lang="fr">Saison:1 - Episode:19 -</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">7</length>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -605,34 +605,120 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200229235000" stop="20200301005300">
+  <programme channel="C164.api.telerama.fr" start="20200229235000" stop="20200301005000">
     <title>Studio Foot</title>
     <sub-title>Championnat de Belgique D1A 2019/2020, 28e journée</sub-title>
     <category lang="fr">sport : football</category>
-    <length units="minutes">63</length>
+    <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/16f7d086-90e6-4bbb-b065-0a7fc70801b6.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200301005300" stop="20200301005500">
+  <programme channel="C164.api.telerama.fr" start="20200301005000" stop="20200301005300">
     <title>Air de familles</title>
     <sub-title>Fêtes : Quels rythmes ?</sub-title>
     <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
     <category lang="fr">magazine de société</category>
-    <length units="minutes">2</length>
+    <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200301005500" stop="20200301005600">
+  <programme channel="C164.api.telerama.fr" start="20200301005300" stop="20200301005500">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">1</length>
+    <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200301005500" stop="20200301013000">
+    <title>JT 19h30</title>
+    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200301013000" stop="20200301013500">
+    <title>Contacts</title>
+    <sub-title>L'écoconduite : sûre et économe</sub-title>
+    <desc lang="fr">Il y a plusieurs manières de conduire, mais la plus respectueuse, c'est celle qui combine à la fois une approche préventive et économe en carburant. On appelle cela l'éco-conduite. Et cela vaut bien quelques petits conseils pratiques.</desc>
+    <category lang="fr">magazine éducatif</category>
+    <length units="minutes">5</length>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200301013500" stop="20200301023900">
+    <title>Studio Foot</title>
+    <sub-title>Championnat de Belgique D1A 2019/2020, 28e journée</sub-title>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">64</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/16f7d086-90e6-4bbb-b065-0a7fc70801b6.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200301023900" stop="20200301024200">
+    <title>Air de familles</title>
+    <sub-title>Fêtes : Quels rythmes ?</sub-title>
+    <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200301024200" stop="20200301024500">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200301024500" stop="20200301032000">
+    <title>JT 19h30</title>
+    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200301032000" stop="20200301032500">
+    <title>Contacts</title>
+    <sub-title>L'écoconduite : sûre et économe</sub-title>
+    <desc lang="fr">Il y a plusieurs manières de conduire, mais la plus respectueuse, c'est celle qui combine à la fois une approche préventive et économe en carburant. On appelle cela l'éco-conduite. Et cela vaut bien quelques petits conseils pratiques.</desc>
+    <category lang="fr">magazine éducatif</category>
+    <length units="minutes">5</length>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200301032500" stop="20200301042500">
+    <title>Studio Foot</title>
+    <sub-title>Championnat de Belgique D1A 2019/2020, 28e journée</sub-title>
+    <category lang="fr">sport : football</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/16f7d086-90e6-4bbb-b065-0a7fc70801b6.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -678,7 +764,7 @@
   <programme channel="C164.api.telerama.fr" start="20200301075000" stop="20200301082000">
     <title>Une brique dans le ventre</title>
     <desc lang="fr">Cédric Wautier et Virginie Jacobs visitent de nouvelles habitations insolites en Belgique comme à l'étranger. Comme toujours, ces découvertes de maisons, appartements et lofts de tous budgets, sont l'occasion de prodiguer des conseils juridiques, pratiques, techniques, énergétiques et esthétiques.</desc>
-    <category lang="fr">magazine de l'art de vivre</category>
+    <category lang="fr">magazine magazine de l'art de vivre</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/280631a5-e820-4724-920a-9d9ef5f9de5d.jpg" />
     <previously-shown />
@@ -1044,13 +1130,25 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200301124500" stop="20200301131500">
+  <programme channel="C168.api.telerama.fr" start="20200301124500" stop="20200301130500">
     <title>C'est moi le chef !</title>
     <sub-title>Conseils matrimoniaux</sub-title>
     <desc lang="fr">Saison:5 - Episode:21 - Quand il découvre que son futur gendre Kyle a peur de rencontrer le nouveau pasteur, Mike lui dit de prendre exemple sur son mariage très solide avec Vanessa. Au lieu de cela, ils se retrouvent eux-mêmes devant le pasteur après une dispute...</desc>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">30</length>
+    <length units="minutes">20</length>
     <episode-num system="xmltv_ns">4.20.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20200301130500" stop="20200301131500">
+    <title>C'est moi le chef !</title>
+    <sub-title>Mandy brûle les étapes</sub-title>
+    <desc lang="fr">Saison:5 - Episode:22 - Pour fêter les 25 ans de Mike chez Outdoor Man, Ed lui organise un dîner surprise et demande à Joe et Chuck de préparer un discours...</desc>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">10</length>
+    <episode-num system="xmltv_ns">4.21.</episode-num>
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1066,12 +1164,22 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200301135500" stop="20200301153000">
+  <programme channel="C168.api.telerama.fr" start="20200301135500" stop="20200301152900">
     <title>Comme dans un roman</title>
     <desc lang="fr">Romancière à succès, Abby Houston parcourt les Etats-Unis pour la promotion de son nouveau livre. Les habitants de Bliss, petit village du Mississippi, l'accueillent à bras ouverts. Ils n'ont qu'une idée en tête : faire en sorte qu'elle épouse leur maire adoré, Spencer, veuf depuis trois ans et père de deux enfants...</desc>
     <category lang="fr">téléfilm romanesque</category>
-    <length units="minutes">95</length>
+    <length units="minutes">94</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3ef3e8aa-81c1-47dd-aa58-5bac0e549e2f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20200301152900" stop="20200301153000">
+    <title>Good News</title>
+    <desc lang="fr">«Good News», c'est l'émission d'actu des bonnes nouvelles musicales, cinéma, culture, loisirs, évènements. Au programme : des reportages, interviews, making of, le tout, dans la bonne humeur grâce au peps légendaire de Sandrine.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1d8ac3fe-689b-4b98-b9b0-07dafdeb11b5.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1231,11 +1339,11 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200229230500" stop="20200301001000">
+  <programme channel="C187.api.telerama.fr" start="20200229230000" stop="20200301003500">
     <title>Le grand cactus</title>
     <desc lang="fr">Saison:4 - Ce jeudi, «Le Grand Cactus» retourne en enfance avec Barbie et accueille la famille Borlée et Kikileurilet. La Ligue Belge d'Athlétisme et les sportifs ne sont plus sur la même longueur de piste. Jacques Borlée revient en compagnie de sa famille, sur les problèmes rencontrés avec la fédération. L'Europe veut supprimer le changement d'heure en 2021. Kikileurilet a son avis sur la question.</desc>
     <category lang="fr">divertissement</category>
-    <length units="minutes">65</length>
+    <length units="minutes">95</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a1ca0428-e2c9-4302-974c-25be0035e8f7.jpg" />
     <episode-num system="xmltv_ns">3..</episode-num>
     <previously-shown />
@@ -1243,7 +1351,69 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301064000" stop="20200301071000">
+  <programme channel="C187.api.telerama.fr" start="20200301003500" stop="20200301004300">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">8</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200301004300" stop="20200301004500">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200301004500" stop="20200301022000">
+    <title>Le grand cactus</title>
+    <desc lang="fr">Saison:4 - Ce jeudi, «Le Grand Cactus» retourne en enfance avec Barbie et accueille la famille Borlée et Kikileurilet. La Ligue Belge d'Athlétisme et les sportifs ne sont plus sur la même longueur de piste. Jacques Borlée revient en compagnie de sa famille, sur les problèmes rencontrés avec la fédération. L'Europe veut supprimer le changement d'heure en 2021. Kikileurilet a son avis sur la question.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">95</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a1ca0428-e2c9-4302-974c-25be0035e8f7.jpg" />
+    <episode-num system="xmltv_ns">3..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200301022000" stop="20200301022800">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">8</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200301022800" stop="20200301023000">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200301023000" stop="20200301040500">
+    <title>Le grand cactus</title>
+    <desc lang="fr">Saison:4 - Ce jeudi, «Le Grand Cactus» retourne en enfance avec Barbie et accueille la famille Borlée et Kikileurilet. La Ligue Belge d'Athlétisme et les sportifs ne sont plus sur la même longueur de piste. Jacques Borlée revient en compagnie de sa famille, sur les problèmes rencontrés avec la fédération. L'Europe veut supprimer le changement d'heure en 2021. Kikileurilet a son avis sur la question.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">95</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a1ca0428-e2c9-4302-974c-25be0035e8f7.jpg" />
+    <episode-num system="xmltv_ns">3..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200301065000" stop="20200301072000">
     <title>Fit Tonic</title>
     <sub-title>Fit zen &amp; sculpt</sub-title>
     <desc lang="fr">Une demi-heure de gymnastique en rythme, en compagnie de Stéphanie Dermaux.</desc>
@@ -1254,7 +1424,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301071000" stop="20200301074000">
+  <programme channel="C187.api.telerama.fr" start="20200301072000" stop="20200301075000">
     <title>Fit Tonic</title>
     <sub-title>Fit gym douce</sub-title>
     <desc lang="fr">Une demi-heure de gymnastique en rythme, en compagnie de Stéphanie Dermaux.</desc>
@@ -1265,7 +1435,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301074000" stop="20200301075000">
+  <programme channel="C187.api.telerama.fr" start="20200301075000" stop="20200301080000">
     <title>En quête de sens</title>
     <sub-title>Présence protestante: Quand la Bande Dessinée rencontre la foi (17/62)</sub-title>
     <category lang="fr">magazine religieux</category>
@@ -1275,7 +1445,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301075000" stop="20200301081500">
+  <programme channel="C187.api.telerama.fr" start="20200301080000" stop="20200301082500">
     <title>Friends</title>
     <sub-title>Celui qui avait un poussin</sub-title>
     <desc lang="fr">Saison:3 - Episode:21 - Pete achète un restaurant et demande à son amie Monica de prendre en charge la gérance de l'établissement. D'abord enchantée, elle préfère toutefois refuser son offre. Joey fait l'acquisition d'un animal domestique plutôt inhabituel, qu'il souhaite offrir à Chandler. Ross, quant à lui, doit participer à une importante émission de télévision, mais Rachel s'étant cassé une côte, il décide de rester auprès d'elle...</desc>
@@ -1287,7 +1457,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301081500" stop="20200301083500">
+  <programme channel="C187.api.telerama.fr" start="20200301082500" stop="20200301084500">
     <title>Friends</title>
     <sub-title>Celui qui s'énervait</sub-title>
     <desc lang="fr">Saison:3 - Episode:22 - Le groupe d'amis décide d'assister à la première d'une pièce dans laquelle joue Joey. Quand Rachel découvre que Ross a prévu de venir accompagné d'une petite amie, elle se met en tête immédiatement d'inviter Tommy. Or, ce jeune homme s'avère être d'un tempérament particulièrement colérique. Ross, témoin d'une altercation, tente alors de convaincre la bande que Tommy est dangereux. Selon lui, il s'agirait même d'un psychopathe potentiel. Pendant ce temps, Joey découvre avec dépit que la critique n'est pas tendre avec son jeu de comédien...</desc>
@@ -1300,7 +1470,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301083500" stop="20200301090000">
+  <programme channel="C187.api.telerama.fr" start="20200301084500" stop="20200301091000">
     <title>Friends</title>
     <sub-title>Celui qui avait un truc dans le dos</sub-title>
     <desc lang="fr">Saison:3 - Episode:23 - Ross découvre une excroissance sur l'une de ses fesses. Inquiet, il se rend chez différents médecins pour avoir un avis mais aucun praticien ne parvient à identifier cette protubérance incongrue. Avant de l'enlever, ils préfèrent tous l'étudier. Pendant ce temps, le coeur de Phoebe balance entre deux hommes foncièrement différents. L'un est pompier, dur au mal et a un physique d'athlète, alors que l'autre est un enseignant, sensible et fragile. Monica, quant à elle, trouve par hasard un document qui lui laisse supposer que Pete va la demander en mariage...</desc>
@@ -1313,7 +1483,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301090000" stop="20200301092500">
+  <programme channel="C187.api.telerama.fr" start="20200301091000" stop="20200301093500">
     <title>Friends</title>
     <sub-title>Celui qui voulait être l'ultime champion</sub-title>
     <desc lang="fr">Saison:3 - Episode:24 - Monica est désemparée : elle a appris que Pete, son petit ami du moment, ne peut pas s'empêcher de jouer des poings avec les autres garçons. D'ailleurs, il s'est même mis en tête de participer à un tournoi de lutte. Monica s'y oppose formellement...</desc>
@@ -1325,19 +1495,19 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301092500" stop="20200301095000">
+  <programme channel="C187.api.telerama.fr" start="20200301093500" stop="20200301095500">
     <title>Friends</title>
     <sub-title>Celui qui allait à la plage</sub-title>
     <desc lang="fr">Saison:3 - Episode:25 - Phoebe a invité toute la bande à passer le week-end à Montauk, dans une superbe villa située au bord de la plage prêtée par l'un de ses clients. Pour la jeune femme, c'est l'occasion de rencontrer une ancienne amie de sa mère, qui lui fait de curieuses révélations. Rachel, quant à elle, a décidé de tout mettre en oeuvre pour reconquérir Ross. De son côté, Chandler avoue à Monica qu'il la trouve vraiment très séduisante, mais la soeur de Ross lui fait comprendre qu'elle n'aime que les hommes mûrs. Ainsi, les couples se font, se défont et se refont...</desc>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <episode-num system="xmltv_ns">2.24.</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301095000" stop="20200301101500">
+  <programme channel="C187.api.telerama.fr" start="20200301095500" stop="20200301102000">
     <title>Friends</title>
     <sub-title>Celui qui soignait les piqûres de méduses</sub-title>
     <desc lang="fr">Saison:4 - Episode:1 - Ross et Rachel sont peut-être sur le point de se réconcilier. Tous deux en rêvent, mais Rachel n'est prête à franchir le pas que sous certaines conditions. Phoebe, quant à elle, est bien décidée à dire tout ce qu'elle a sur le coeur à sa mère, qui l'a abandonnée. De son côté, Monica, piquée par une méduse, accumule les ennuis...</desc>
@@ -1350,19 +1520,19 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301101500" stop="20200301103500">
+  <programme channel="C187.api.telerama.fr" start="20200301102000" stop="20200301104500">
     <title>Friends</title>
     <sub-title>Celui qui ne voyait qu'un chat</sub-title>
     <desc lang="fr">Saison:4 - Episode:2 - Phoebe Buffay est persuadée qu'un chat errant, qui a sauté dans la boîte de sa guitare au «Central Perk», est habité par l'esprit de sa mère adoptive, décédée depuis peu. De son côté, Joey Tribbiani tente de réaliser une bonne affaire en vendant une étagère qu'il a lui-même construite. Quant à Rachel Greene, toujours jalouse, elle médite sur un moyen de reconquérir l'élu de son coeur. Monica Geller a rendez-vous avec le petit ami que Rachel fréquentait au lycée. Le jeune homme, qui était très agréable à l'époque, est cependant devenu particulièrement ennuyeux...</desc>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <episode-num system="xmltv_ns">3.1.</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301103500" stop="20200301110000">
+  <programme channel="C187.api.telerama.fr" start="20200301104500" stop="20200301111000">
     <title>Friends</title>
     <sub-title>Celui qui avait des menottes</sub-title>
     <desc lang="fr">Saison:4 - Episode:3 - Malgré les problèmes de communication qui persistent entre elles, Monica, qui manque cruellement d'argent, accepte de faire la cuisine pour sa mère, qui organise une soirée très importante. Mais par mégarde, elle égare un de ses faux ongles dans une quiche. Loin de ces problèmes culinaires et esthétiques, Chandler souffre de son aventure avec la patronne de Rachel et ne sait pas comment la quitter sans mettre son amie dans une situation embarrassante. De son côté, Joey s'est pris de passion pour les encyclopédies que lui a proposées un vendeur à domicile, mais il ne sait pas comment trouver l'argent pour payer ces ouvrages...</desc>
@@ -1374,7 +1544,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301110000" stop="20200301120000">
+  <programme channel="C187.api.telerama.fr" start="20200301111000" stop="20200301121000">
     <title>Europa League</title>
     <category lang="fr">sport : football</category>
     <length units="hours">1</length>
@@ -1383,35 +1553,35 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301120000" stop="20200301133000">
+  <programme channel="C187.api.telerama.fr" start="20200301121000" stop="20200301134500">
     <title>Fast and Furious, la saga no limit</title>
     <desc lang="fr">Alors que le huitième volet de Fast and Furious sort en salles le 12 avril, zoom sur cette saga culte et ses coulisses. En compagnie de Vin Diesel, Michelle Rodriguez, Dwayne Johnson, Jason Statham et Charlize Theron, à l'affiche du nouvel opus, cette émission retrace l'histoire de cette franchise et ses secrets de fabrication, sans oublier la mort tragique de Paul Walker, qui en était l'un des héros. Comment l'équipe qui gravite autour de ces films est parvenue à surmonter ce drame ?</desc>
     <date>2017</date>
     <category lang="fr">documentaire : cinéma</category>
-    <length units="minutes">90</length>
+    <length units="minutes">95</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/93e69807-b714-4b58-8e7e-819604e68e19.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301133000" stop="20200301151000">
+  <programme channel="C187.api.telerama.fr" start="20200301134500" stop="20200301151500">
     <title>C'est plus marrant en chantant</title>
     <desc lang="fr">De «Tout va très bien, madame la Marquise» de Ray Ventura, à «Señor Meteo» de Carlos, en passant par «Merci patron !» des Charlots, la chanson comique a traversé les modes et les époques. Depuis toujours, on y moque pêle-mêle la difficulté de trouver l'âme soeur, l'autorité, la fête, les vapeurs de l'alcool ou le sexe. Après «La Tactique du gendarme» de Bourvil et «La Bonne du curé» d'Annie Cordy, la jeune génération prend aujourd'hui le relai, à l'image de Michaël Youn, Frédéric Fromet, GiedRé ou Oldelaf.</desc>
     <date>2016</date>
     <category lang="fr">documentaire : culture</category>
-    <length units="minutes">100</length>
+    <length units="minutes">90</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a284d920-a06e-4f5f-87ad-8255c4802dd0.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301151000" stop="20200301170500">
+  <programme channel="C187.api.telerama.fr" start="20200301151500" stop="20200301170500">
     <title>Le grand cactus</title>
     <desc lang="fr">Saison:4 - Sophie Wilmès a été nommée Premier ministre le 27 octobre dernier. Elle est la première femme à occuper cette fonction en Belgique. Quelles sont ses impressions ? Cette femme de pouvoir témoigne de son nouveau rôle sur le plateau du «Grand Cactus». La cuvée 2019 du Beaujolais nouveau est attendue pour le jeudi 21 novembre 2019. Sera-t-il à la hauteur de celui de l'année précédente ?</desc>
     <category lang="fr">divertissement</category>
-    <length units="minutes">115</length>
+    <length units="minutes">110</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a1ca0428-e2c9-4302-974c-25be0035e8f7.jpg" />
     <episode-num system="xmltv_ns">3..</episode-num>
     <previously-shown />
@@ -1434,12 +1604,12 @@
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301190500" stop="20200301215500">
+  <programme channel="C187.api.telerama.fr" start="20200301190500" stop="20200301215000">
     <title>The Dark Knight Rises</title>
     <desc lang="fr">Le troisième &lt;I&gt;Batman&lt;I&gt; conjugue virtuosité et sous-texte politique douteux, et colle un peu trop à l'idéal sécuritaire de ses personnages.</desc>
     <date>2012</date>
     <category lang="fr">film d'action</category>
-    <length units="minutes">170</length>
+    <length units="minutes">165</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5a20efd5-2ec9-4d3e-be84-9021d7aaf33d.jpg" />
     <rating system="CSA">
       <value>-12</value>
@@ -1449,32 +1619,32 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301215500" stop="20200301220600">
+  <programme channel="C187.api.telerama.fr" start="20200301215000" stop="20200301220200">
     <title>Vews</title>
     <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
     <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">11</length>
+    <length units="minutes">12</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301220600" stop="20200301221000">
+  <programme channel="C187.api.telerama.fr" start="20200301220200" stop="20200301220500">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">4</length>
+    <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301221000" stop="20200301230000">
+  <programme channel="C187.api.telerama.fr" start="20200301220500" stop="20200301230000">
     <title>Game of Thrones</title>
     <sub-title>Briseur de serments</sub-title>
     <desc lang="fr">Saison:6 - Episode:3 - Jon Snow revient d'entre les morts, mais ce voyage dans l'au-delà semble avoir profondément affecté sa personnalité. Cependant, dans l'antre de la Corneille, Bran continue de se plonger dans le passé de sa famille, tandis qu'à Braavos, Arya poursuit son initiation pour devenir une sans-visage. Quant à Daenerys, elle est capturée par les Dhotrakis, puis conduite dans un monastère...</desc>
     <category lang="fr">série fantastique</category>
-    <length units="minutes">50</length>
+    <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b02d3456-71fa-46fa-a40d-3eb908e435cd.jpg" />
     <episode-num system="xmltv_ns">5.2.</episode-num>
     <rating system="CSA">
@@ -1482,12 +1652,12 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200301230000" stop="20200302000500">
+  <programme channel="C187.api.telerama.fr" start="20200301230000" stop="20200302000000">
     <title>Game of Thrones</title>
     <sub-title>Le livre de l'étranger</sub-title>
     <desc lang="fr">Saison:6 - Episode:4 - Alors qu'il s'apprête à quitter définitivement la Garde de Nuit, Jon Snow voit arriver Sansa, Brienne et Podrick à Châteaunoir. Sansa veut que Jon engage une lutte contre les Bolton afin de reprendre le contrôle de Winterfell. Dans la contrée des Dothraki, Jorah et Daario sont sur la piste de Daenerys...</desc>
     <category lang="fr">série fantastique</category>
-    <length units="minutes">65</length>
+    <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/aaf81fb7-d7dc-4046-8447-ba8822a379fa.jpg" />
     <episode-num system="xmltv_ns">5.3.</episode-num>
     <rating system="CSA">
@@ -1526,7 +1696,7 @@
   <programme channel="C23.api.telerama.fr" start="20200301100500" stop="20200301104500">
     <title>Raymond !</title>
     <sub-title>De jeugdjaren</sub-title>
-    <category lang="fr">documentaire : société</category>
+    <category lang="fr">documentaire société</category>
     <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f88d8c22-e503-4001-91ac-798788bce734.jpg" />
     <previously-shown />
@@ -1537,7 +1707,7 @@
   <programme channel="C23.api.telerama.fr" start="20200301104500" stop="20200301112500">
     <title>Raymond !</title>
     <sub-title>De doorbraak</sub-title>
-    <category lang="fr">documentaire : société</category>
+    <category lang="fr">documentaire société</category>
     <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f88d8c22-e503-4001-91ac-798788bce734.jpg" />
     <previously-shown />
@@ -1548,7 +1718,7 @@
   <programme channel="C23.api.telerama.fr" start="20200301112500" stop="20200301120000">
     <title>Raymond !</title>
     <sub-title>Bewaken en bewaren</sub-title>
-    <category lang="fr">documentaire : société</category>
+    <category lang="fr">documentaire société</category>
     <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f88d8c22-e503-4001-91ac-798788bce734.jpg" />
     <previously-shown />
@@ -1596,15 +1766,6 @@
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20200301180000" stop="20200301185500">
-    <title>Het journaal : Sportweekend</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1683,17 +1844,6 @@
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/be238b92-c3bb-4bb0-9812-003a8c7a1123.jpg" />
     <episode-num system="xmltv_ns">4..</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20200301224000" stop="20200301225000">
-    <title>Journaallus</title>
-    <sub-title>Het journaal laat</sub-title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1830,7 +1980,7 @@
     <title>Les mamans</title>
     <desc lang="fr">Pour cette seconde saison, six jeunes mamans âgées de 24 à 30 ans nous font partager leur quotidien de mères et leur vie de femmes, leurs petits succès et leurs grandes victoires : les sorties, les fêtes de famille, les premiers pas des enfants ou encore les rencontres amoureuses.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire : société</category>
+    <category lang="fr">documentaire société</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/04ca6d95-5e7d-42ce-8eab-9b78805502f5.jpg" />
     <rating system="CSA">
@@ -1841,7 +1991,7 @@
     <title>Les mamans</title>
     <desc lang="fr">Pour cette seconde saison, six jeunes mamans âgées de 24 à 30 ans nous font partager leur quotidien de mères et leur vie de femmes, leurs petits succès et leurs grandes victoires : les sorties, les fêtes de famille, les premiers pas des enfants ou encore les rencontres amoureuses.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire : société</category>
+    <category lang="fr">documentaire société</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/04ca6d95-5e7d-42ce-8eab-9b78805502f5.jpg" />
     <rating system="CSA">
@@ -1852,7 +2002,7 @@
     <title>Les mamans</title>
     <desc lang="fr">Pour cette seconde saison, six jeunes mamans âgées de 24 à 30 ans nous font partager leur quotidien de mères et leur vie de femmes, leurs petits succès et leurs grandes victoires : les sorties, les fêtes de famille, les premiers pas des enfants ou encore les rencontres amoureuses.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire : société</category>
+    <category lang="fr">documentaire société</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/04ca6d95-5e7d-42ce-8eab-9b78805502f5.jpg" />
     <rating system="CSA">
@@ -1996,7 +2146,6 @@
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fb2bf013-95a7-4d13-8ed5-cd5a844e5c30.jpg" />
     <episode-num system="xmltv_ns">0.47.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2073,17 +2222,61 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200301093500" stop="20200301100500">
+  <programme channel="C50.api.telerama.fr" start="20200301090000" stop="20200301093500">
+    <title>Véto &amp; Co</title>
+    <desc lang="fr">Des vétérinaires, aux personnalités fortes et attachantes, et dont le professionnalisme est au coeur de l'aventure, soignent et sauvent chaque jour des animaux.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/41b5895d-4f07-4835-927e-18fec442b073.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200301093500" stop="20200301100000">
     <title>UEFA Champions League</title>
     <category lang="fr">sport : football</category>
-    <length units="minutes">30</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/95daa173-3046-4fff-90bb-be32842e1acf.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200301100500" stop="20200301105000">
+  <programme channel="C50.api.telerama.fr" start="20200301100000" stop="20200301101000">
+    <title>Good News</title>
+    <desc lang="fr">«Good News», c'est l'émission d'actu des bonnes nouvelles musicales, cinéma, culture, loisirs, évènements. Au programme : des reportages, interviews, making of, le tout, dans la bonne humeur grâce au peps légendaire de Sandrine.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1d8ac3fe-689b-4b98-b9b0-07dafdeb11b5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200301101000" stop="20200301103500">
+    <title>Kaboom !</title>
+    <sub-title>Spiegelman et Mouly, une folie à deux !</sub-title>
+    <desc lang="fr">Saison:6 - Art Spiegelman s'est vu décerner un Prix Pullitzer spécial, en 1992 pour «Maus», un événement sans précédent dans la bande dessinée.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f09f09b7-babb-454f-82e8-e602aede5491.jpg" />
+    <episode-num system="xmltv_ns">5..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200301103500" stop="20200301104000">
+    <title>Scènes de ménages</title>
+    <desc lang="fr">Saison:5 - Les conflits du quotidien de quatre couples d'âges différents, Emma et Fabien, Marion et Cédric, Liliane et José et Huguette et Raymond.</desc>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">4..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200301104000" stop="20200301112500">
     <title>Les experts : Manhattan</title>
     <sub-title>Mort imminente</sub-title>
     <desc lang="fr">Saison:8 - Episode:18 - Alors qu'il mène une enquête sur le terrain, Mac n'a pas le temps de réaliser ce qui se trame lorsque des coups de feu retentissent en plein centre de New York. Cible des tirs, il s'effondre, grièvement blessé. Les secours arrivent très vite et le conduisent sans délai aux urgences car le pronostic vital est engagé. Entre la vie et la mort, Mac ne parvient plus à s'exprimer mais se retrouve plongé dans un abîme de questions. Alors que les médecins tentent de le sauver, ses équipiers se mobilisent immédiatement afin de trouver des indices sur la scène de crime...</desc>
@@ -2096,12 +2289,12 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200301105000" stop="20200301114000">
+  <programme channel="C50.api.telerama.fr" start="20200301112500" stop="20200301121000">
     <title>Les experts</title>
     <sub-title>Epreuve d'amour</sub-title>
     <desc lang="fr">Saison:4 - Episode:1 - Quatre jeunes gens se rencontrent dans un bar. En quittant l'établissement, l'un des deux couples est massacré avec une brutalité peu commune. Quelque temps plus tard, un second couple connaît le même sort. Les experts sont persuadés qu'il s'agit là de l'oeuvre d'un tueur en série. L'affaire se complique lorsque la presse est informée des faits par des fuites au plus haut niveau. La population cède à la panique et le juge d'instruction doit diriger son enquête dans des conditions délicates. Par ailleurs, Catherine reçoit des nouvelles peu encourageantes au sujet du procès du meurtre de son père...</desc>
     <category lang="fr">série policière</category>
-    <length units="minutes">50</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/726c7338-b7e5-4bf7-a8ce-258253f46ad6.jpg" />
     <episode-num system="xmltv_ns">3.0.</episode-num>
     <rating system="CSA">
@@ -2109,7 +2302,7 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200301114000" stop="20200301122500">
+  <programme channel="C50.api.telerama.fr" start="20200301121000" stop="20200301125500">
     <title>Les experts</title>
     <sub-title>Eau morte</sub-title>
     <desc lang="fr">Saison:4 - Episode:2 - Grissom enquête sur plusieurs meurtres qui font penser aux autorités qu'un tueur en série sévit en ville. Heureusement, des suspects possèdent des informations cruciales pour la résolution de cette affaire. Lorsque ceux-ci sont assassinés, Grissom s'interroge. Il soupçonne un policier d'avoir commis les crimes. Brass ne croit guère à cette hypothèse. De leur côté, Catherine et Sara tentent de recueillir des indices dans la chambre d'un étudiant. Le jeune homme a été retrouvé mort dans sa douche. Il pourrait avoir été tué par l'un de ses camarades. Les éléments recueillis sur le terrain devraient en fournir la preuve...</desc>
@@ -2122,7 +2315,7 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200301122500" stop="20200301131000">
+  <programme channel="C50.api.telerama.fr" start="20200301125500" stop="20200301134000">
     <title>Les experts</title>
     <sub-title>Péril en la demeure</sub-title>
     <desc lang="fr">Saison:4 - Episode:3 - Partis à la recherche d'une vieille femme, les inspecteurs Grissom et Brown découvrent son cadavre momifié dans un placard. De leur côté, Nick et Sara enquêtent sur une série de crimes qui endeuille la ville. Leur seule piste est le déroulement toujours similaire des meurtres. Ils commencent bientôt à penser que l'assassinat de la vieille dame est peut-être lié aux affaires qui les occupent, bien que les dossiers n'aient apparemment rien à voir entre eux. Catherine, elle, inspecte un revolver que lui a rapporté un enfant et fait le rapprochement avec un crime dont s'était occupé Warrick une semaine plus tôt...</desc>
@@ -2135,12 +2328,12 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200301131000" stop="20200301140000">
+  <programme channel="C50.api.telerama.fr" start="20200301134000" stop="20200301142500">
     <title>Les experts</title>
     <sub-title>Canicule</sub-title>
     <desc lang="fr">Saison:4 - Episode:4 - Sur un parking, dans un Las Vegas surchauffé par une canicule sans précédent, une femme aperçoit un garçon inconscient dans une voiture. Elle appelle à l'aide. Un passant intervient et parvient à briser une vitre du véhicule pendant que la police arrive. Malheureusement, l'enfant est déjà mort, victime de déshydratation. Les experts sont chargés de faire toute la lumière sur l'affaire. Pendant ce temps, Warrick prend des clichés d'un homme décédé chez lui. En surpoids, la victime prenait des médicaments et se livrait à des exercices intensifs. La chaleur aurait pu causer un arrêt cardiaque. Mais les enquêteurs s'interdisent toute conclusion hâtive...</desc>
     <category lang="fr">série policière</category>
-    <length units="minutes">50</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/db166a03-0d93-4952-8ee6-542fec7208b9.jpg" />
     <episode-num system="xmltv_ns">3.3.</episode-num>
     <rating system="CSA">
@@ -2148,12 +2341,12 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200301140000" stop="20200301145000">
+  <programme channel="C50.api.telerama.fr" start="20200301142500" stop="20200301151000">
     <title>Les experts</title>
     <sub-title>Pas si bêtes</sub-title>
     <desc lang="fr">Saison:4 - Episode:5 - La nuit, une femme roule sur une route de Las Vegas. Soudain, elle entend un bruit sourd : elle vient de heurter quelque chose, un animal croit-elle. En s'approchant du cadavre qui gît sur la chaussée, elle s'aperçoit qu'il s'agit en fait d'un homme affublé d'un costume insolite. L'équipe du CSI confirme ses premières impressions et s'interroge sur les raisons d'une telle mise en scène. Cet étrange raton laveur serait-il la mascotte d'une équipe sportive ou le personnage d'un show télévisé de leur enfance ? Parallèlement, Grissom et ses experts enquêtent sur le meurtre d'une femme, abattue alors qu'elle se trouvait dans une chambre froide...</desc>
     <category lang="fr">série policière</category>
-    <length units="minutes">50</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d11f52e5-5a7d-4cc9-9630-b3078bed0eed.jpg" />
     <episode-num system="xmltv_ns">3.4.</episode-num>
     <rating system="CSA">
@@ -2161,12 +2354,12 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200301145000" stop="20200301154000">
+  <programme channel="C50.api.telerama.fr" start="20200301151000" stop="20200301155500">
     <title>Les experts</title>
     <sub-title>Vols d'identités</sub-title>
     <desc lang="fr">Saison:11 - Episode:7 - Des fragments de restes humains ont été découverts dans un camion transportant des déchets broyés. Les experts sont chargés de découvrir ce qui s'est passé et d'établir l'identité de la victime. Bientôt, ils se rendent compte que leur défunt se faisait passer pour le directeur d'une société spécialisée dans la protection des données personnelles. L'affaire se complique encore lorsque les agents comprennent que ce dernier avait lui-même usurpé l'identité du premier, six ans auparavant, quand ils étaient associés, après lui avoir tiré dessus dans une ruelle à Reno. Les indices recueillis sur la scène de crime permettent d'établir une chronologie logique des événements...</desc>
     <category lang="fr">série policière</category>
-    <length units="minutes">50</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4fcb0647-3a68-4af5-8bda-39e7da104602.jpg" />
     <episode-num system="xmltv_ns">10.6.</episode-num>
     <previously-shown />
@@ -2175,12 +2368,12 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200301154000" stop="20200301163000">
+  <programme channel="C50.api.telerama.fr" start="20200301155500" stop="20200301164000">
     <title>Les experts</title>
     <sub-title>Eau-de-mort</sub-title>
     <desc lang="fr">Saison:11 - Episode:8 - Un quadragénaire a été retrouvé mort dans une source d'eau chaude sulfureuse. L'autopsie permet d'établir qu'il s'est noyée, mais pas à l'endroit où la police a repêché son corps, où l'eau est très chargée en polluants hautement cancérigènes. Le défunt, un éleveur de la région qui habitait dans un ranch, était également très malade et rongé par des tumeurs. Peu de temps après, un ingénieur d'une compagnie de gaz, chargé de vérifier la sécurité des sites de prospection de gaz de schiste dans les ranches, est retrouvé mort dans un quartier fréquenté par des prostituées à Las Vegas. Ces deux décès sont-ils liés ?...</desc>
     <category lang="fr">série policière</category>
-    <length units="minutes">50</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/31f61d26-f360-4ba7-8d87-0e2b621b49a3.jpg" />
     <episode-num system="xmltv_ns">10.7.</episode-num>
     <previously-shown />
@@ -2189,12 +2382,12 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200301163000" stop="20200301172000">
+  <programme channel="C50.api.telerama.fr" start="20200301164000" stop="20200301172500">
     <title>Les experts</title>
     <sub-title>Nuit d'ivresse</sub-title>
     <desc lang="fr">Saison:11 - Episode:9 - Le client d'un hôtel a été retrouvé mort. Stacey et Dana, deux femmes qui ont passé la nuit avec lui, prétendent ne se souvenir de rien. Des tests démontrent bientôt que Dana a eu des relations sexuelles avec la victime. Quant à Stacey, elle a eu une relation avec un inconnu. Dana confie alors qu'elle aurait été violée après avoir bu de l'alcool, ce que démentent les analyses. Elle avoue alors avoir rencontré le client de l'hôtel dans le hall avant cette fameuse nuit. Il l'avait aidée à échapper à l'inconnu qui a eu une aventure avec Stacey par la suite. De leur côté, Sara et Greg enquêtent sur la mort d'un couple...</desc>
     <category lang="fr">série policière</category>
-    <length units="minutes">50</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/26cf5ca8-a307-4892-97aa-3a70047476d9.jpg" />
     <episode-num system="xmltv_ns">10.8.</episode-num>
     <previously-shown />
@@ -2203,12 +2396,12 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200301172000" stop="20200301181000">
+  <programme channel="C50.api.telerama.fr" start="20200301172500" stop="20200301181000">
     <title>Les experts</title>
     <sub-title>L'ennemi intime</sub-title>
     <desc lang="fr">Saison:11 - Episode:10 - Une femme est retrouvée morte sur un parking. Les enquêteurs découvrent que la victime, Christine Moore, est en fait l'épouse d'un agent du FBI. Au moment du drame, elle était accompagnée de sa petite fille, laquelle a disparu. Les experts soupçonnent un pédophile d'avoir enlevé l'enfant. Le criminel était d'ailleurs activement recherché par le mari de Christine Moore, Daniel. Alors que l'enquête avance, de nouvelles pistes se présentent. En effet, Daniel et Christine étaient sur le point de divorcer et leurs relations s'étaient passablement détériorées. Une course contre la montre est lancée pour retrouver la petite fille saine et sauve...</desc>
     <category lang="fr">série policière</category>
-    <length units="minutes">50</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a8f38c76-80f8-4866-989e-4dca4111efe3.jpg" />
     <episode-num system="xmltv_ns">10.9.</episode-num>
     <previously-shown />
@@ -2305,12 +2498,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200229224000" stop="20200301002000">
+  <programme channel="C892.api.telerama.fr" start="20200229225000" stop="20200301002500">
     <title>Cake</title>
     <desc lang="fr">Mélo brouillon sur un sujet potentiellement fort — la reconstruction d’une mère face au pire des traumatismes, la perte de son fils —, plombé par le jeu doloriste et affecté de Jennifer Aniston (la Rachel de "Friends"), dans un rôle à contre-emploi.</desc>
     <date>2014</date>
     <category lang="fr">film : drame</category>
-    <length units="minutes">100</length>
+    <length units="minutes">95</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/829248bf-b2d8-4db4-af8a-e74287e9247a.jpg" />
     <audio>
       <stereo>bilingual</stereo>
@@ -2323,33 +2516,122 @@
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301002000" stop="20200301005500">
+  <programme channel="C892.api.telerama.fr" start="20200301002500" stop="20200301010100">
     <title>JT traduction gestuelle</title>
     <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">35</length>
+    <length units="minutes">36</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301005500" stop="20200301005600">
+  <programme channel="C892.api.telerama.fr" start="20200301010100" stop="20200301010500">
     <title>Météo internationale</title>
     <category lang="fr">météo</category>
-    <length units="minutes">1</length>
+    <length units="minutes">4</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301050000" stop="20200301052500">
+  <programme channel="C892.api.telerama.fr" start="20200301010500" stop="20200301013000">
+    <title>Plan Cult</title>
+    <desc lang="fr">Saison:1 - Félicien Bogaerts a rendez-vous avec Barbara Abel au Musée royal de Mariemont où se tient l'exposition «Bye Bye Future ! L'art de voyager dans le temps». Barbara Abel sort son treizième roman, «Et les vivants autour».</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2eb04dfd-3b5c-4066-8fc8-53520d4c182a.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200301013000" stop="20200301014000">
+    <title>KIOSK, le magazine des arts de la scène</title>
+    <desc lang="fr">Présenté par Cindya Izzarelli, «Kiosk» met en avant, chaque semaine, les arts de la scène.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1fc4910-8a7c-4098-b252-0d227d90fbd5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200301014000" stop="20200301024500">
+    <title>Tiré à part</title>
+    <sub-title>Les enfants de Harlem</sub-title>
+    <desc lang="fr">En 1967, Pierre Manuel et son équipe ont vécu pendant plusieurs semaines dans le ghetto noir de Harlem, à New York. Ils y ont partagé le quotidien d'enfants, d'adolescents et de jeunes adultes pour tenter de capter leurs conditions de vie et leur impact sur leur vie future. Grandissant souvent dans un environnement familial instable, au milieu de l'insécurité, du chômage, de la violence et de la drogue, ces enfants constituaient des recrues idéales pour les groupes religieux extrémistes, les sectes et les gangs.</desc>
+    <date>1967</date>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200301024500" stop="20200301031900">
+    <title>JT traduction gestuelle</title>
+    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">34</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200301031900" stop="20200301032000">
+    <title>Météo internationale</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200301032000" stop="20200301034500">
+    <title>Plan Cult</title>
+    <desc lang="fr">Saison:1 - Félicien Bogaerts a rendez-vous avec Barbara Abel au Musée royal de Mariemont où se tient l'exposition «Bye Bye Future ! L'art de voyager dans le temps». Barbara Abel sort son treizième roman, «Et les vivants autour».</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2eb04dfd-3b5c-4066-8fc8-53520d4c182a.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200301034500" stop="20200301035500">
+    <title>KIOSK, le magazine des arts de la scène</title>
+    <desc lang="fr">Présenté par Cindya Izzarelli, «Kiosk» met en avant, chaque semaine, les arts de la scène.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1fc4910-8a7c-4098-b252-0d227d90fbd5.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200301035500" stop="20200301050000">
+    <title>Tiré à part</title>
+    <sub-title>Les enfants de Harlem</sub-title>
+    <desc lang="fr">En 1967, Pierre Manuel et son équipe ont vécu pendant plusieurs semaines dans le ghetto noir de Harlem, à New York. Ils y ont partagé le quotidien d'enfants, d'adolescents et de jeunes adultes pour tenter de capter leurs conditions de vie et leur impact sur leur vie future. Grandissant souvent dans un environnement familial instable, au milieu de l'insécurité, du chômage, de la violence et de la drogue, ces enfants constituaient des recrues idéales pour les groupes religieux extrémistes, les sectes et les gangs.</desc>
+    <date>1967</date>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200301050000" stop="20200301052000">
     <title>Les Schtroumpfs</title>
     <sub-title>Le manoir des maléfices</sub-title>
     <desc lang="fr">Saison:2 - Episode:44 - Les aventures de gentils petits lutins bleus, toujours heureux, constamment en butte à l'hostilité de Gargamel et de son affreux chat Azraël.</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dfdda1e-e7c5-4c48-a14e-2b67b1148aed.jpg" />
     <episode-num system="xmltv_ns">1.43.</episode-num>
     <rating system="CSA">
@@ -2359,7 +2641,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301052500" stop="20200301055000">
+  <programme channel="C892.api.telerama.fr" start="20200301052000" stop="20200301054500">
     <title>Les Schtroumpfs</title>
     <sub-title>Les histoires du Vieux Vieux Schtroumpf. - Le manoir des miroirs</sub-title>
     <desc lang="fr">Saison:2 - Episode:47 - Les aventures de gentils petits lutins bleus, toujours heureux, constamment en butte à l'hostilité de Gargamel et de son affreux chat Azraël.</desc>
@@ -2371,7 +2653,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301055000" stop="20200301061000">
+  <programme channel="C892.api.telerama.fr" start="20200301054500" stop="20200301060500">
     <title>Tom et Jerry Show</title>
     <sub-title>Le blues de la luciole. - Embaumé, c'est pesé. - Effluves et conséquences</sub-title>
     <desc lang="fr">Saison:3 - Episode:16 -</desc>
@@ -2384,15 +2666,14 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301061000" stop="20200301063000">
+  <programme channel="C892.api.telerama.fr" start="20200301060500" stop="20200301063000">
     <title>Tom et Jerry Show</title>
     <sub-title>La leçon de maintien. - Balade en voiture. - L'envahisseur</sub-title>
     <desc lang="fr">Saison:3 - Episode:17 - «La leçon de maintien». Outrée par les vilaines manière de Tom et Butch, Toodles leur conseille d'aller prendre des leçons de maintien. - «Balade en voiture». Le Duc et la Duchesse veulent aller faire une promenade en voiture et demande à Cates de préparer le véhicule. - «L'envahisseur». Butch ne quitte plus le jardin, au grand dam de Tom, Jerry et Spike. Mais ces derniers finissent par comprendre qu'un petit chat violent a envahi la place et en a chassé sans pitié le pauvre chat de gouttière.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/133f158e-6a8a-4507-8702-62cbf621ea9b.jpg" />
     <episode-num system="xmltv_ns">2.16.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2408,33 +2689,33 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301063500" stop="20200301064500">
+  <programme channel="C892.api.telerama.fr" start="20200301063500" stop="20200301064000">
     <title>Loup</title>
     <sub-title>Le loup qui voulait être un agent spécial</sub-title>
     <desc lang="fr">Loup possède une montre incroyable. Elle recèle une infinité de gadgets et d'objets tous plus fascinants les uns que les autres. Une vraie montre d'espion ! Ah mais oui, c'est décidé, Loup veut devenir agent spécial ! Quand pof ! Un oeuf lui tombe dans les mains. Vite ! Il faut retrouver sa maman ! Voilà une mission pour Loup et sa comparse, l'agent spécial Titi...</desc>
     <category lang="fr">jeunesse : dessin animé jeunesse</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301064500" stop="20200301065000">
+  <programme channel="C892.api.telerama.fr" start="20200301064000" stop="20200301065000">
     <title>Loup</title>
     <sub-title>Le Loup qui voulait faire des farces</sub-title>
     <desc lang="fr">Saison:1 - Pour fêter dignement le 1er avril, Loup fait des farces à Valentin, Alfred et Titi. Mais les blagues, c'est drôle quand ce sont les autres qui les subissent. Lorsque ses amis décident de se venger, Loup, se fait tout petit...</desc>
     <category lang="fr">jeunesse : dessin animé jeunesse</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">0..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301065000" stop="20200301070500">
+  <programme channel="C892.api.telerama.fr" start="20200301065000" stop="20200301070000">
     <title>Alvinnn !!! et les Chipmunks</title>
     <sub-title>L'ami des bébés</sub-title>
     <desc lang="fr">Saison:2 - Episode:11 - Afin d'impressionner la fille de ses rêves, Alvin imagine un stratagème des plus singuliers : il déguise Theodore en bébé afin d'émouvoir celle dont il veut prendre le coeur...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5eae0905-7b2c-4437-afc5-ca1b53bfc958.jpg" />
     <episode-num system="xmltv_ns">1.10.</episode-num>
     <previously-shown />
@@ -2442,12 +2723,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301070500" stop="20200301071500">
+  <programme channel="C892.api.telerama.fr" start="20200301070000" stop="20200301071500">
     <title>Alvinnn !!! et les Chipmunks</title>
     <sub-title>Tous en selle</sub-title>
     <desc lang="fr">Saison:2 - Episode:14 - Alvin se fait voler son vélo. Il décide d'aider la police à résoudre l'enquête. Il commence par chercher des indices et suit une piste intéressante...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b9fb3615-4ac6-4261-84bc-830f70fadd3e.jpg" />
     <episode-num system="xmltv_ns">1.13.</episode-num>
     <previously-shown />
@@ -2481,23 +2762,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301073500" stop="20200301075000">
-    <title>Denver *2018</title>
-    <sub-title>Super dino Dan</sub-title>
-    <desc lang="fr">Pour cacher le secret de l'invisibilité de Denver, Dan n'a d'autre choix que d'imaginer un stratagème : il réussit à se faire passer pour un véritable super héros. Mais tout se complique lorsqu'il est confronté à la réalité de ses maigres pouvoirs...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301075000" stop="20200301080000">
+  <programme channel="C892.api.telerama.fr" start="20200301073500" stop="20200301074500">
     <title>Denver *2018</title>
     <sub-title>Super dino Dan</sub-title>
     <desc lang="fr">Pour cacher le secret de l'invisibilité de Denver, Dan n'a d'autre choix que d'imaginer un stratagème : il réussit à se faire passer pour un véritable super héros. Mais tout se complique lorsqu'il est confronté à la réalité de ses maigres pouvoirs...</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200301074500" stop="20200301080000">
+    <title>Denver *2018</title>
+    <sub-title>Super dino Dan</sub-title>
+    <desc lang="fr">Pour cacher le secret de l'invisibilité de Denver, Dan n'a d'autre choix que d'imaginer un stratagème : il réussit à se faire passer pour un véritable super héros. Mais tout se complique lorsqu'il est confronté à la réalité de ses maigres pouvoirs...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2590,33 +2871,21 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301113000" stop="20200301115000">
+  <programme channel="C892.api.telerama.fr" start="20200301113000" stop="20200301115500">
     <title>Mia et moi</title>
     <sub-title>Le dernier combat</sub-title>
     <desc lang="fr">Saison:3 - Episode:26 - La tristesse règne sur Centopia, recouverte de Lierre Ténébreux, et sur ses habitants, plongés dans un profond sommeil. Suivant le conseil de l'oracle, Sara parvient à associer tous les fragments du Coeur pour le réassembler...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e344ca81-8a3c-4fe0-ab12-3da53167f001.jpg" />
     <episode-num system="xmltv_ns">2.25.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301115000" stop="20200301120000">
+  <programme channel="C892.api.telerama.fr" start="20200301115500" stop="20200301120000">
     <title>C'est dans la boîte</title>
     <sub-title>Rocky costumier</sub-title>
-    <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
-    <category lang="fr">emission jeunesse</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301120000" stop="20200301120500">
-    <title>C'est dans la boîte</title>
-    <sub-title>Rocky réalisateur</sub-title>
     <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
     <category lang="fr">emission jeunesse</category>
     <length units="minutes">5</length>
@@ -2626,7 +2895,19 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301120500" stop="20200301121000">
+  <programme channel="C892.api.telerama.fr" start="20200301120000" stop="20200301121000">
+    <title>C'est dans la boîte</title>
+    <sub-title>Rocky réalisateur</sub-title>
+    <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
+    <category lang="fr">emission jeunesse</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200301121000" stop="20200301121500">
     <title>C'est dans la boîte</title>
     <sub-title>Rocky cascadeur</sub-title>
     <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
@@ -2638,7 +2919,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301121000" stop="20200301121500">
+  <programme channel="C892.api.telerama.fr" start="20200301121500" stop="20200301122000">
     <title>C'est dans la boîte</title>
     <sub-title>Rocky monteur</sub-title>
     <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
@@ -2650,12 +2931,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301121500" stop="20200301123000">
+  <programme channel="C892.api.telerama.fr" start="20200301122000" stop="20200301123000">
     <title>C'est dans la boîte</title>
     <sub-title>La dernière chance</sub-title>
     <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
     <category lang="fr">emission jeunesse</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -2706,7 +2987,6 @@
     <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f5143968-186b-44da-9423-f1cdf9b8d211.jpg" />
     <episode-num system="xmltv_ns">0.7.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2803,7 +3083,6 @@
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/290215f3-4e5d-495a-9a16-1d6b7d428e73.jpg" />
     <episode-num system="xmltv_ns">.1.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2837,12 +3116,12 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301174500" stop="20200301181000">
+  <programme channel="C892.api.telerama.fr" start="20200301174500" stop="20200301180500">
     <title>Léna, rêve d'étoile</title>
     <sub-title>Double jeu</sub-title>
     <desc lang="fr">Saison:2 - Episode:17 - Lorsque les producteurs de Dance Off invitent Léna et les Blokettes au tournage d'une promo pour l'émission, les filles sont sur un petit nuage. Bien décidée à prendre le contrôle des Blokettes, Théa fait jouer ses relations pour obtenir une audition de dernière minute au groupe de Jeff...</desc>
     <category lang="fr">série jeunesse</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c3355a2e-a1e5-49c3-bc9a-7a151dd6acbf.jpg" />
     <episode-num system="xmltv_ns">1.16.</episode-num>
     <previously-shown />
@@ -2850,7 +3129,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301181000" stop="20200301183500">
+  <programme channel="C892.api.telerama.fr" start="20200301180500" stop="20200301183000">
     <title>Léna, rêve d'étoile</title>
     <sub-title>L'expo-Sciences</sub-title>
     <desc lang="fr">Saison:2 - Episode:18 - Lorsque Léna et Max se retrouvent en binôme pour un exposé de sciences, ils sont ravis, mais lorsque Léna suggère d'examiner la blessure de Max dans le cadre de l'exposé, Max le prend mal et la laisse tomber. Après en avoir parlé avec Inès, Léna réalise qu'elle a manqué de tact et s'en excuse...</desc>
@@ -2863,12 +3142,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301183500" stop="20200301190000">
+  <programme channel="C892.api.telerama.fr" start="20200301183000" stop="20200301190000">
     <title>Léna, rêve d'étoile</title>
     <sub-title>Sabotage</sub-title>
     <desc lang="fr">Saison:2 - Episode:19 - Armando annonce que le spectacle de fin d'année, Carte Blanche, sera chorégraphié par les élèves qui sont aux anges, chacun rêvant que son projet soit retenu. Léna choisit un numéro de danse dans l'esprit de 1905, mais Max rafle la mise lorsque Lex débarque et sabote la chorégraphie de Léna...</desc>
     <category lang="fr">série jeunesse</category>
-    <length units="minutes">25</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c3355a2e-a1e5-49c3-bc9a-7a151dd6acbf.jpg" />
     <episode-num system="xmltv_ns">1.18.</episode-num>
     <previously-shown />
@@ -2886,36 +3165,35 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301193500" stop="20200301193600">
+  <programme channel="C892.api.telerama.fr" start="20200301193500" stop="20200301194000">
     <title>Météo internationale</title>
     <category lang="fr">météo</category>
-    <length units="minutes">1</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301193600" stop="20200301200500">
+  <programme channel="C892.api.telerama.fr" start="20200301194000" stop="20200301201000">
     <title>Hep taxi !</title>
     <desc lang="fr">En 2018, à l'occasion de la sortie de son premier livre, «Les Rêveurs», Isabelle Carré levait un coin du voile sur son enfance et son adolescence dans une famille un rien décalée. Aristocrates désargentés du côté de sa mère, prolétaires du côté de son père, ce grand écart entre ces deux mondes opposés lui permet d'apprendre à jongler avec les codes sociaux et à s'y adapter.</desc>
     <category lang="fr">magazine culturel</category>
-    <length units="minutes">29</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/aa1c89d3-bec8-47f2-994f-c89bc8c061e3.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301200500" stop="20200301210000">
+  <programme channel="C892.api.telerama.fr" start="20200301201000" stop="20200301210000">
     <title>Le doc du bourlingueur</title>
     <sub-title>Cuba : viva la vida</sub-title>
     <desc lang="fr">Depuis presque soixante ans, les Cubains sont coupés du reste du monde, les Etats-Unis ayant mis le pays sous embargo économique. Les voitures neuves sont presque inexistantes et les pièces de rechanges quasiment introuvables. Les Cubains sont donc de facto devenus les rois de la débrouille. Et ils maintiennent en vie et en état des voitures qui datent pour la plupart des années 50. Elles sont à leur image, un génial métissage mécanique.</desc>
     <date>2016</date>
     <category lang="fr">magazine de reportages</category>
-    <length units="minutes">55</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/52c3a6b2-5ae9-4fe1-8c56-ad003d03b819.jpg" />
     <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+      <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C892.api.telerama.fr" start="20200301210000" stop="20200301220000">
@@ -2950,13 +3228,25 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200301225000" stop="20200301231500">
+  <programme channel="C892.api.telerama.fr" start="20200301225000" stop="20200301235000">
     <title>Le commerce sexuel secret en Irak</title>
     <desc lang="fr">Plusieurs journalistes de la BBC ont enquêté en Irak, en plein coeur de Bagdad et de Karbala sur le «Mut'a »ou mariage de plaisir. Cette pratique religieuse controversée chez les chiites consiste en une union temporaire, pour laquelle la femme est rémunérée. Un tel mariage n'a pas besoin d'être officialisé : il suffit d'un accord oral par lequel l'homme et la femme se donnent en mariage l'un à l'autre. Selon le droit irakien, le «mariage de plaisir» est illégal. Les autorités religieuses condamnent aujourd'hui officiellement cette pratique. Mais certains responsables religieux, officieusement, tiennent un tout autre discours et valident ces unions de courte durée.</desc>
     <date>2019</date>
     <category lang="fr">documentaire : société</category>
-    <length units="minutes">25</length>
+    <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8f8a478f-a2ea-4c55-9b5f-770c644b7caf.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200301235000" stop="20200302002400">
+    <title>JT traduction gestuelle</title>
+    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">34</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
