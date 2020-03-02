@@ -35,10 +35,10 @@ update_raw_7_days_guides () {
     rm ../raw/*.xml
 
     # FR guide
-    ./tv_grab_fr_telerama/tv_grab_fr_telerama --config-file "$FR_GUIDE_CONFIG" --days 7 --offset -1 --output ../raw/tv_guide_fr_telerama.xml &
+    ./tv_grab_fr_telerama/tv_grab_fr_telerama --config-file "$FR_GUIDE_CONFIG" --no_htmltags --casting --days 7 --offset -1 --output ../raw/tv_guide_fr_telerama.xml &
 
     # BE guide
-    ./tv_grab_fr_telerama/tv_grab_fr_telerama --config-file "$BE_GUIDE_CONFIG" --days 7 --offset -1 --output ../raw/tv_guide_be_telerama.xml &
+    ./tv_grab_fr_telerama/tv_grab_fr_telerama --config-file "$BE_GUIDE_CONFIG" --no_htmltags --casting --days 7 --offset -1 --output ../raw/tv_guide_be_telerama.xml &
 
     # UK guide
     ./tv_grab_uk_tvguide/tv_grab_uk_tvguide --config-file "$UK_GUIDE_CONFIG" --days 7 --offset -1 --output ../raw/tv_guide_uk_tvguide.xml &
