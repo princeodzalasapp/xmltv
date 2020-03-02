@@ -43,6 +43,45 @@ countries = {
         'programmes_list:': [],
         'data_list': []
     },
+    'fr_tnt': {
+        'raw_fp': os.path.join(WD, '../raw/tv_guide_fr_telerama.xml'),
+        'dst_full_fp': os.path.join(WD, '../tv_guide_fr_tnt.xml'),
+        'dst_1_day_fp': os.path.join(WD, '../tv_guide_fr_tnt_{}.xml'),
+        'channels_to_add': [
+            'C192.api.telerama.fr',
+            'C4.api.telerama.fr',
+            'C80.api.telerama.fr',
+            'C34.api.telerama.fr',
+            'C45.api.telerama.fr',
+            'C118.api.telerama.fr',
+            'C111.api.telerama.fr',
+            'C4.api.telerama.fr',
+            'C445.api.telerama.fr',
+            'C119.api.telerama.fr',
+            'C195.api.telerama.fr',
+            'C1404.api.telerama.fr',
+            'C444.api.telerama.fr',
+            'C446.api.telerama.fr',
+            'C234.api.telerama.fr',
+            'C78.api.telerama.fr',
+            'C481.api.telerama.fr',
+            'C226.api.telerama.fr',
+            'C458.api.telerama.fr',
+            'C482.api.telerama.fr',
+            'C160.api.telerama.fr',
+            'C1401.api.telerama.fr',
+            'C1403.api.telerama.fr',
+            'C1402.api.telerama.fr',
+            'C1400.api.telerama.fr',
+            'C1399.api.telerama.fr',
+            'C112.api.telerama.fr',
+            'C2111.api.telerama.fr'
+        ],
+        'tz': 'Europe/Paris',
+        'channels_list': [],
+        'programmes_list:': [],
+        'data_list': []
+    },
     'be': {
         'raw_fp': os.path.join(WD, '../raw/tv_guide_be_telerama.xml'),
         'dst_full_fp': os.path.join(WD, '../tv_guide_be.xml'),
@@ -82,12 +121,23 @@ for country_code, country_infos in countries.items():
     country_infos['programmes_list'] = xmltv.read_programmes(open(country_infos['raw_fp'], 'r'))
     country_infos['data_list'] = xmltv.read_data(open(country_infos['raw_fp'], 'r'))
 
+    if 'channels_to_add' in country_infos:
+        new_channels_list = []
+        for channel in country_infos['channels_list']:
+            if 'id' in channel and channel['id'] in country_infos['channels_to_add']:
+                new_channels_list.append(channel)
+        country_infos['channels_list'] = new_channels_list
+
     # Replace datetime by the UTC one
     programmes = country_infos['programmes_list']
     country_infos['programmes_list'] = []
     for programme in programmes:
         if 'start' in programme and 'stop' in programme:
-            country_infos['programmes_list'].append(programme)
+            if 'channels_to_add' in country_infos:
+                if 'channel' in programme and programme['channel'] in country_infos['channels_to_add']:
+                    country_infos['programmes_list'].append(programme)
+            else:
+                country_infos['programmes_list'].append(programme)
     for programme in country_infos['programmes_list']:
         for elt in ['start', 'stop']:
             s = programme[elt]
