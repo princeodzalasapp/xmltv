@@ -128,11 +128,11 @@ for country_code, country_infos in countries.items():
         if 'start' in programme and 'stop' in programme:
             if 'channels_to_add' in country_infos:
                 if 'channel' in programme and programme['channel'] in country_infos['channels_to_add']:
-                    country_infos['programmes_l'].append(programme)
-                    country_infos['programmes_local_datetime_l'].append(programme)
+                    country_infos['programmes_l'].append(dict(programme))
+                    country_infos['programmes_local_datetime_l'].append(dict(programme))
             else:
-                country_infos['programmes_l'].append(programme)
-                country_infos['programmes_local_datetime_l'].append(programme)
+                country_infos['programmes_l'].append(dict(programme))
+                country_infos['programmes_local_datetime_l'].append(dict(programme))
     
     # Replace local datetime by UTC datetime for programmes entries
     for programme in country_infos['programmes_l']:
@@ -219,11 +219,15 @@ print('* Merge all country tv guides in tv_guide_all.xml')
 w = xmltv.Writer()
 
 for country_code, country_infos in countries.items():
+    if country_code == 'fr_tnt':
+        continue
     if 'channels_l' in country_infos:
         for c in country_infos['channels_l']:
             w.addChannel(c)
 
 for country_code, country_infos in countries.items():
+    if country_code == 'fr_tnt':
+        continue
     if 'programmes_l' in country_infos:
         for p in country_infos['programmes_l']:
             w.addProgramme(p)
@@ -236,11 +240,15 @@ print('* Merge all country tv guides in tv_guide_all_local.xml')
 w = xmltv.Writer()
 
 for country_code, country_infos in countries.items():
+    if country_code == 'fr_tnt':
+        continue
     if 'channels_l' in country_infos:
         for c in country_infos['channels_l']:
             w.addChannel(c)
 
 for country_code, country_infos in countries.items():
+    if country_code == 'fr_tnt':
+        continue
     if 'programmes_local_datetime_l' in country_infos:
         for p in country_infos['programmes_local_datetime_l']:
             w.addProgramme(p)
