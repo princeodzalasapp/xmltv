@@ -117,9 +117,12 @@ for country_code, country_infos in countries.items():
     print('* Processing of {} country:'.format(country_code))
 
     # Parse channels and programmes in the raw xmltv file
-    country_infos['channels_list'] = xmltv.read_channels(open(country_infos['raw_fp'], 'r'))
-    country_infos['programmes_list'] = xmltv.read_programmes(open(country_infos['raw_fp'], 'r'))
-    country_infos['data_list'] = xmltv.read_data(open(country_infos['raw_fp'], 'r'))
+    try:
+        country_infos['channels_list'] = xmltv.read_channels(open(country_infos['raw_fp'], 'r'))
+        country_infos['programmes_list'] = xmltv.read_programmes(open(country_infos['raw_fp'], 'r'))
+        country_infos['data_list'] = xmltv.read_data(open(country_infos['raw_fp'], 'r'))
+    except Exception:
+        continue
 
     if 'channels_to_add' in country_infos:
         new_channels_list = []
@@ -201,12 +204,14 @@ print('* Merge all country tv guides in tv_guide_all.xml')
 w = xmltv.Writer()
 
 for country_code, country_infos in countries.items():
-    for c in country_infos['channels_list']:
-        w.addChannel(c)
+    if 'channels_list' in country_infos:
+        for c in country_infos['channels_list']:
+            w.addChannel(c)
 
 for country_code, country_infos in countries.items():
-    for p in country_infos['programmes_list']:
-        w.addProgramme(p)
+    if 'programmes_list' in country_infos:
+        for p in country_infos['programmes_list']:
+            w.addProgramme(p)
 
 with open(os.path.join(WD, '../tv_guide_all.xml'), 'w') as f:
     w.write(f, pretty_print=True)
