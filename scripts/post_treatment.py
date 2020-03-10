@@ -36,17 +36,13 @@ WD = os.path.dirname(os.path.abspath(__file__))
 countries = {
     'fr': {
         'raw_fp': os.path.join(WD, '../raw/tv_guide_fr_telerama.xml'),
-        'dst_full_fp': os.path.join(WD, '../tv_guide_fr.xml'),
-        'dst_1_day_fp': os.path.join(WD, '../tv_guide_fr_{}.xml'),
-        'tz': 'Europe/Paris',
-        'channels_list': [],
-        'programmes_list:': [],
-        'data_list': []
+        'dst_fp': os.path.join(WD, '../tv_guide_fr{}.xml'),
+        'tz': 'Europe/Paris'
     },
     'fr_tnt': {
         'raw_fp': os.path.join(WD, '../raw/tv_guide_fr_telerama.xml'),
-        'dst_full_fp': os.path.join(WD, '../tv_guide_fr_tnt.xml'),
-        'dst_1_day_fp': os.path.join(WD, '../tv_guide_fr_tnt_{}.xml'),
+        'dst_fp': os.path.join(WD, '../tv_guide_fr_tnt{}.xml'),
+        'tz': 'Europe/Paris',
         'channels_to_add': [
             'C192.api.telerama.fr',
             'C4.api.telerama.fr',
@@ -76,38 +72,22 @@ countries = {
             'C1399.api.telerama.fr',
             'C112.api.telerama.fr',
             'C2111.api.telerama.fr'
-        ],
-        'tz': 'Europe/Paris',
-        'channels_list': [],
-        'programmes_list:': [],
-        'data_list': []
+        ]
     },
     'be': {
         'raw_fp': os.path.join(WD, '../raw/tv_guide_be_telerama.xml'),
-        'dst_full_fp': os.path.join(WD, '../tv_guide_be.xml'),
-        'dst_1_day_fp': os.path.join(WD, '../tv_guide_be_{}.xml'),
-        'tz': 'Europe/Paris',
-        'channels_list': [],
-        'programmes_list:': [],
-        'data_list': []
+        'dst_fp': os.path.join(WD, '../tv_guide_be{}.xml'),
+        'tz': 'Europe/Paris'
     },
     'uk': {
         'raw_fp': os.path.join(WD, '../raw/tv_guide_uk_tvguide.xml'),
-        'dst_full_fp': os.path.join(WD, '../tv_guide_uk.xml'),
-        'dst_1_day_fp': os.path.join(WD, '../tv_guide_uk_{}.xml'),
-        'tz': 'Europe/London',
-        'channels_list': [],
-        'programmes_list:': [],
-        'data_list': []
+        'dst_fp': os.path.join(WD, '../tv_guide_uk{}.xml'),
+        'tz': 'Europe/London'
     },
     'it': {
         'raw_fp': os.path.join(WD, '../raw/tv_guide_it.xml'),
-        'dst_full_fp': os.path.join(WD, '../tv_guide_it.xml'),
-        'dst_1_day_fp': os.path.join(WD, '../tv_guide_it_{}.xml'),
-        'tz': 'Europe/Rome',
-        'channels_list': [],
-        'programmes_list:': [],
-        'data_list': []
+        'dst_fp': os.path.join(WD, '../tv_guide_it{}.xml'),
+        'tz': 'Europe/Rome'
     }
 
 }
@@ -116,32 +96,46 @@ countries = {
 for country_code, country_infos in countries.items():
     print('* Processing of {} country:'.format(country_code))
 
-    # Parse channels and programmes in the raw xmltv file
+    # Parse channels, data and programmes in the raw xmltv file
     try:
-        country_infos['channels_list'] = xmltv.read_channels(open(country_infos['raw_fp'], 'r'))
-        country_infos['programmes_list'] = xmltv.read_programmes(open(country_infos['raw_fp'], 'r'))
-        country_infos['data_list'] = xmltv.read_data(open(country_infos['raw_fp'], 'r'))
+        # country_infos['channels_list'] = xmltv.read_channels(open(country_infos['raw_fp'], 'r'))
+        # country_infos['programmes_list_local_datetime'] = xmltv.read_programmes(open(country_infos['raw_fp'], 'r'))
+        # country_infos['data_list'] = xmltv.read_data(open(country_infos['raw_fp'], 'r'))
+        channels_l = xmltv.read_channels(open(country_infos['raw_fp'], 'r'))
+        programmes_local_datetime_l = xmltv.read_programmes(open(country_infos['raw_fp'], 'r'))
+        data_l = xmltv.read_data(open(country_infos['raw_fp'], 'r'))
     except Exception:
         continue
 
-    if 'channels_to_add' in country_infos:
-        new_channels_list = []
-        for channel in country_infos['channels_list']:
-            if 'id' in channel and channel['id'] in country_infos['channels_to_add']:
-                new_channels_list.append(channel)
-        country_infos['channels_list'] = new_channels_list
+    # XMLTV data stays untouched
+    country_infos['data_l'] = data_l
 
-    # Replace datetime by the UTC one
-    programmes = country_infos['programmes_list']
-    country_infos['programmes_list'] = []
-    for programme in programmes:
+    # If any filter on channels exists, remove unwanted channels
+    if 'channels_to_add' in country_infos:
+        country_infos['channels_l'] = []
+        for channel in channels_l:
+            if 'id' in channel and channel['id'] in country_infos['channels_to_add']:
+                country_infos['channels_l'].append(channel)
+    else:
+        country_infos['channels_l'] = channels_l
+
+    
+    # Programmes
+    country_infos['programmes_l'] = []
+    country_infos['programmes_local_datetime_l'] = []
+
+    for programme in programmes_local_datetime_l:
         if 'start' in programme and 'stop' in programme:
             if 'channels_to_add' in country_infos:
                 if 'channel' in programme and programme['channel'] in country_infos['channels_to_add']:
-                    country_infos['programmes_list'].append(programme)
+                    country_infos['programmes_l'].append(programme)
+                    country_infos['programmes_local_datetime_l'].append(programme)
             else:
-                country_infos['programmes_list'].append(programme)
-    for programme in country_infos['programmes_list']:
+                country_infos['programmes_l'].append(programme)
+                country_infos['programmes_local_datetime_l'].append(programme)
+    
+    # Replace local datetime by UTC datetime for programmes entries
+    for programme in country_infos['programmes_l']:
         for elt in ['start', 'stop']:
             s = programme[elt]
 
@@ -164,39 +158,60 @@ for country_code, country_infos in countries.items():
             # print('Replace {} by {}'.format(programme[elt], s))
             programme[elt] = s
 
-    # Write the corrected full xmltv file
-    print('\t- Write corrected full xmltv file in {}'.format(os.path.basename(country_infos['dst_full_fp'])))
-    w = xmltv.Writer(
-        source_info_url=country_infos['data_list']['source-info-url']
-    )
-    for c in country_infos['channels_list']:
-        w.addChannel(c)
-    for p in country_infos['programmes_list']:
-        w.addProgramme(p)
-    with open(country_infos['dst_full_fp'], 'w') as f:
-        w.write(f, pretty_print=True)
+    # Write corrected full xmltv files
+    for fp_prefix in ['', '_local']:
+        dst_fp = country_infos['dst_fp'].format(fp_prefix)
+        print('\t- Write corrected full xmltv file in {}'.format(os.path.basename(dst_fp)))
+        w = xmltv.Writer(
+            source_info_url=country_infos['data_l']['source-info-url']
+        )
+        
+        # Add channels
+        for c in country_infos['channels_l']:
+            w.addChannel(c)
+        
+        # Add programmes
+        if fp_prefix == '_local':
+            for p in country_infos['programmes_local_datetime_l']:
+                w.addProgramme(p)
+        else:
+            for p in country_infos['programmes_l']:
+                w.addProgramme(p)
+
+        # Write XMLTV file
+        with open(dst_fp, 'w') as f:
+            w.write(f, pretty_print=True)
 
     # Write one day xmltv files
     print('\t- Write one day xmltv files:')
     today = datetime.datetime.now()
-    for offset in range(-1, 6):
-        delta = datetime.timedelta(days=offset)
-        date = today + delta
-        date_s = date.strftime("%Y%m%d")
-        fp = country_infos['dst_1_day_fp'].format(date_s)
-        print('\t\t* Write day {} in {}'.format(date_s, os.path.basename(fp)))
-        w = xmltv.Writer(
-            source_info_url=country_infos['data_list']['source-info-url']
-        )
-        for c in country_infos['channels_list']:
-            w.addChannel(c)
-        for p in country_infos['programmes_list']:
-            start_s = p['start'][0:8]
-            stop_s = p['stop'][0:8]
-            if start_s == date_s or stop_s == date_s:
-                w.addProgramme(p)
-        with open(fp, 'w') as f:
-            w.write(f, pretty_print=True)
+    for fp_prefix in ['', '_local']:
+        for offset in range(-1, 6):
+            delta = datetime.timedelta(days=offset)
+            date = today + delta
+            date_s = date.strftime("%Y%m%d")
+            dst_fp = country_infos['dst_fp'].format(fp_prefix + '_' + date_s)
+            print('\t\t* Write day {} in {}'.format(date_s, os.path.basename(dst_fp)))
+            w = xmltv.Writer(
+                source_info_url=country_infos['data_l']['source-info-url']
+            )
+            
+            # Add channels
+            for c in country_infos['channels_l']:
+                w.addChannel(c)
+            
+            # Add programmes
+            if fp_prefix == '_local':
+                programmes_l = country_infos['programmes_local_datetime_l']
+            else:
+                programmes_l = country_infos['programmes_l']
+            for p in programmes_l:
+                start_s = p['start'][0:8]
+                stop_s = p['stop'][0:8]
+                if start_s == date_s or stop_s == date_s:
+                    w.addProgramme(p)
+            with open(dst_fp, 'w') as f:
+                w.write(f, pretty_print=True)
 
 
 print('* Merge all country tv guides in tv_guide_all.xml')
@@ -204,14 +219,31 @@ print('* Merge all country tv guides in tv_guide_all.xml')
 w = xmltv.Writer()
 
 for country_code, country_infos in countries.items():
-    if 'channels_list' in country_infos:
-        for c in country_infos['channels_list']:
+    if 'channels_l' in country_infos:
+        for c in country_infos['channels_l']:
             w.addChannel(c)
 
 for country_code, country_infos in countries.items():
-    if 'programmes_list' in country_infos:
-        for p in country_infos['programmes_list']:
+    if 'programmes_l' in country_infos:
+        for p in country_infos['programmes_l']:
             w.addProgramme(p)
 
 with open(os.path.join(WD, '../tv_guide_all.xml'), 'w') as f:
+    w.write(f, pretty_print=True)
+
+print('* Merge all country tv guides in tv_guide_all_local.xml')
+
+w = xmltv.Writer()
+
+for country_code, country_infos in countries.items():
+    if 'channels_l' in country_infos:
+        for c in country_infos['channels_l']:
+            w.addChannel(c)
+
+for country_code, country_infos in countries.items():
+    if 'programmes_local_datetime_l' in country_infos:
+        for p in country_infos['programmes_local_datetime_l']:
+            w.addProgramme(p)
+
+with open(os.path.join(WD, '../tv_guide_all_local.xml'), 'w') as f:
     w.write(f, pretty_print=True)
