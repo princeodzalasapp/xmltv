@@ -43,12 +43,13 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200315221500 +0100" stop="20200316001500 +0100">
-    <title>C'est pas tous les jours dimanche</title>
-    <desc lang="fr">En compagnie de ses chroniqueurs, l'animateur décrypte l'actualité aux côtés de personnalités.</desc>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ffb5b2c2-e6f3-461c-9225-07cb6d3f51c7.jpg" />
+  <programme channel="C50.api.telerama.fr" start="20200315234500 +0100" stop="20200316050000 +0100">
+    <title>Télé-achat</title>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">315</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -63,14 +64,31 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200315235500 +0100" stop="20200316000000 +0100">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
-    <premiere />
+  <programme channel="C168.api.telerama.fr" start="20200315231000 +0100" stop="20200316000000 +0100">
+    <title>New York Unité Spéciale</title>
+    <sub-title>La mémoire en exil</sub-title>
+    <desc lang="fr">Saison:20 - Episode:6 - L'équipe se rend à l'hôpital, rencontrer une jeune femme qui a été victime d'une agression sexuelle. Mais lorsqu'elle se réveille, elle ne se souvient de rien. Et son amnésie l'empêche de donner la moindre indication sur son agresseur. Benson, Rollins et les autres se lancent dans des investigations difficiles afin de remonter la piste du violeur...</desc>
+    <credits>
+      <director>Stephanie A Marquardt</director>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+      <actor>Peter Scanavino</actor>
+      <actor>Philip Winchester</actor>
+      <actor>Aimee Spring Fortier</actor>
+      <actor>Jake Robinson</actor>
+      <actor>Mat Vairo</actor>
+      <actor>James Leo Ryan</actor>
+      <writer>Dick Wolf</writer>
+      <writer>Michael S Chernuchin</writer>
+      <writer>Allison Intrieri</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">50</length>
+    <episode-num system="xmltv_ns">19.5.</episode-num>
     <rating system="CSA">
-      <value>Tout public</value>
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
     </rating>
   </programme>
   <programme channel="C187.api.telerama.fr" start="20200315232000 +0100" stop="20200316002000 +0100">
@@ -131,17 +149,6 @@
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200315235500 +0100" stop="20200316004500 +0100">
-    <title>Coronavirus, enquête aux origines du désastre</title>
-    <desc lang="fr">Alors que le coronavirus est aussi diagnostiqué en Europe, voici comment tout a commencé en Chine. A l'aide d'images exclusives, filmées par les habitants de Wuhan, au coeur de l'épidémie, le documentaire revient sur les origines du virus. Une enquête qui démontre comment le premier médecin donneur d'alerte a été réprimé, avant de décéder de la maladie, et la brutalité des autorités chinoises dans l'imposition de la quarantaine sur une population traumatisée.</desc>
-    <date>2020</date>
-    <category lang="fr">documentaire : société</category>
-    <length units="minutes">50</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200315220000 +0100" stop="20200316060000 +0100">
@@ -503,17 +510,6 @@
     <title>Keno</title>
     <category lang="fr">loterie</category>
     <length units="minutes">1</length>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C50.api.telerama.fr" start="20200316001500 +0100" stop="20200316050000 +0100">
-    <title>Télé-achat</title>
-    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
-    <category lang="fr">magazine de télé-achat</category>
-    <length units="minutes">285</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1386,7 +1382,17 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200316000000 +0100" stop="20200316004000 +0100">
+  <programme channel="C168.api.telerama.fr" start="20200316000000 +0100" stop="20200316000500 +0100">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20200316000500 +0100" stop="20200316004500 +0100">
     <title>RTL info 19 heures</title>
     <category lang="fr">journal</category>
     <length units="minutes">40</length>
@@ -1395,7 +1401,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200316004000 +0100" stop="20200316022500 +0100">
+  <programme channel="C168.api.telerama.fr" start="20200316004500 +0100" stop="20200316023000 +0100">
     <title>Jeux de nuit</title>
     <desc lang="fr">Rendez-vous pour une série de jeux télévisés interactifs. En répondant correctement aux nombreuses questions affichées, les téléspectateurs peuvent tenter leur chance afin de remporter différents gains. Ce programme regroupant plusieurs jeux offre un moment de divertissement et de bonne humeur.</desc>
     <category lang="fr">jeu</category>
@@ -1406,10 +1412,10 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200316022500 +0100" stop="20200316050000 +0100">
+  <programme channel="C168.api.telerama.fr" start="20200316023000 +0100" stop="20200316050000 +0100">
     <title>Boucle de nuit</title>
     <category lang="fr">journal</category>
-    <length units="minutes">155</length>
+    <length units="minutes">150</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1927,7 +1933,7 @@
   <programme channel="C187.api.telerama.fr" start="20200316165500 +0100" stop="20200316170500 +0100">
     <title>Matière grise express</title>
     <sub-title>Couverture anti-acariens</sub-title>
-    <category lang="fr">magazine scientifique</category>
+    <category lang="fr">magazine magazine scientifique</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/583f8185-9950-47aa-9cc5-6784df69d2ef.jpg" />
     <rating system="CSA">
@@ -3501,7 +3507,7 @@
     <sub-title>Il était une foi... Haïti, 10 ans après</sub-title>
     <category lang="fr">magazine religieux</category>
     <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3dc54c15-3448-4557-ad1a-413051dea95e.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b25faeac-786e-45f0-a36a-14809b78e0bf.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
