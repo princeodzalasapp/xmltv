@@ -341,7 +341,8 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cc81f9d1-19d3-4f44-ad53-bef7954787cf.jpg" />
     <premiere />
     <rating system="CSA">
-      <value>Tout public</value>
+      <value>-16</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
     </rating>
   </programme>
   <programme channel="C119.api.telerama.fr" start="20200315232500 +0100" stop="20200316001000 +0100">
@@ -482,7 +483,7 @@
     <title>Urgences</title>
     <sub-title>Avoriaz : vacances d'hiver sous haute tension</sub-title>
     <desc lang="fr">Pour ce premier numéro de la deuxième saison d'«Urgences», les équipes de tournage de l'émission ont suivi le quotidien, sous haute tension, des secouristes et pisteurs qui oeuvrent à 1800 mètres d'altitude, à la station de ski Avoriaz, située entre le lac Léman et le Mont-Blanc, au coeur des Alpes.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">115</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1e95b183-5e06-4010-aabf-cc8cca82ea5a.jpg" />
     <previously-shown />
@@ -574,17 +575,6 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C481.api.telerama.fr" start="20200315220000 +0100" stop="20200316000000 +0100">
-    <title>Week-end direct</title>
-    <desc lang="fr">Le tour complet des infos du jour, sur l'ensemble de la planète : un panorama à 360 degrés qui couvre tous les angles de l'actualité internationale.</desc>
-    <category lang="fr">journal</category>
-    <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/81b85b21-e277-4310-8289-94f03848ec6c.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C482.api.telerama.fr" start="20200315234700 +0100" stop="20200316000000 +0100">
     <title>Corneil et Bernie</title>
     <sub-title>Les vacances de milliardaire</sub-title>
@@ -624,7 +614,7 @@
     <title>Crimes</title>
     <sub-title>En région lyonnaise</sub-title>
     <desc lang="fr">Au sommaire : Un instituteur insoupçonnable. - Mon frère a disparu.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">110</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cc54a923-37d4-44af-b7f6-49c2d1a1f161.jpg" />
     <rating system="CSA">
@@ -659,7 +649,7 @@
     <title>Faites entrer l'accusé</title>
     <sub-title>La mort sur rendez-vous</sub-title>
     <desc lang="fr">Saison:10 - Le 8 décembre 1984, à Paris, la police trouve le corps de Gérard Le Laidier, avocat. Le Laidier avait rendez-vous avec une jeune fille qu'il avait peut-être rencontrée dans un restaurant parisien. Le 17 décembre, c'est le cadavre d'un commerçant, Laurent Zarade, qu'on retrouve dans son appartement. Il avait également rendez-vous avec une jeune fille, rencontrée dans le même restaurant.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">95</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/35afc88f-4df7-4f77-82a6-4a729b0c6e31.jpg" />
     <episode-num system="xmltv_ns">9..</episode-num>
@@ -1086,7 +1076,6 @@ Elucider une affaire criminelle ne rentre évidemment pas dans les missions d’
     <category lang="fr">documentaire : découvertes</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8b910c5a-2c66-4b31-a647-f86492b56ddc.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1262,7 +1251,7 @@ Elucider une affaire criminelle ne rentre évidemment pas dans les missions d’
   <programme channel="C4.api.telerama.fr" start="20200316103000 +0100" stop="20200316111500 +0100">
     <title>Ça commence aujourd'hui, des nouvelles de nos invités</title>
     <desc lang="fr">Saison:1 - L'émission retrouve des invités rencontrés au cours des numéros précédents pour découvrir comment leur situation a évolué.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2340cfe5-aea9-4d4e-a391-d576b82dea72.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -1290,11 +1279,20 @@ Elucider une affaire criminelle ne rentre évidemment pas dans les missions d’
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200316125000 +0100" stop="20200316130000 +0100">
+  <programme channel="C4.api.telerama.fr" start="20200316125000 +0100" stop="20200316125500 +0100">
     <title>Météo 2</title>
     <category lang="fr">météo</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bdc838b1-c330-48d4-81db-f5bf34dfbb81.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200316125500 +0100" stop="20200316130000 +0100">
+    <title>Laisse entrer la nature</title>
+    <category lang="fr">magazine de services</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1321,7 +1319,7 @@ Elucider une affaire criminelle ne rentre évidemment pas dans les missions d’
   <programme channel="C4.api.telerama.fr" start="20200316135000 +0100" stop="20200316151000 +0100">
     <title>Ça commence aujourd'hui</title>
     <desc lang="fr">Faustine Bollaert accueille des hommes et des femmes qui évoquent des événements marquants de leur existence, pour permettre à d'autres d'avancer dans leur parcours : un rendez-vous positif et optimiste.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">80</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a482f19d-e9a9-4fc0-b58f-c7b41c42b24e.jpg" />
     <rating system="CSA">
@@ -1331,7 +1329,7 @@ Elucider une affaire criminelle ne rentre évidemment pas dans les missions d’
   <programme channel="C4.api.telerama.fr" start="20200316151000 +0100" stop="20200316161500 +0100">
     <title>Je t'aime, etc.</title>
     <desc lang="fr">Tous les après-midis, Daphné Bürki, à la tête d'une noria de chroniqueurs, parle de l'amour dans tous ses états au cours d'une émission soucieuse de donner la parole aux femmes et de répondre aux questions des téléspectateurs.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">65</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0e7171be-68b7-4d70-8d7f-60e365ce952c.jpg" />
     <rating system="CSA">
@@ -1428,6 +1426,7 @@ Elucider une affaire criminelle ne rentre évidemment pas dans les missions d’
   </programme>
   <programme channel="C4.api.telerama.fr" start="20200316203800 +0100" stop="20200316204000 +0100">
     <title>Laisse entrer la nature</title>
+    <sub-title>Maison passive dans les pins</sub-title>
     <category lang="fr">magazine de services</category>
     <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
@@ -2344,7 +2343,7 @@ Cadavres accrochés à des ponts, incendie géant en pleine mer, sabotages en to
   <programme channel="C47.api.telerama.fr" start="20200316090000 +0100" stop="20200316092000 +0100">
     <title>Le journal des Maternelles</title>
     <desc lang="fr">Saison:1 - Tous les jours de la semaine, Le journal des maternelles traite de l'actualité de la grossesse, la naissance et la petite enfance. Le journaliste Benjamin Muller fait état des dernières enquêtes de santé, des avancées scientifiques et des enjeux de société qui concernent les jeunes parents. Ses invités et les reportages de la rédaction permettent de décrypter cet univers foisonnant et riche d'incroyables nouveautés pour les parents. Très réactif, l'oeil sur les dernières tendances et les réseaux sociaux, Le journal des maternelles démêle le vrai du faux et délivre, dans la bonne humeur chère à Agathe Lecaron, une information de qualité indispensable dans la période si délicate où l'on devient parent.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3609d429-af11-476d-9331-adf1fd9d2237.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -2356,7 +2355,7 @@ Cadavres accrochés à des ponts, incendie géant en pleine mer, sabotages en to
   <programme channel="C47.api.telerama.fr" start="20200316092000 +0100" stop="20200316101000 +0100">
     <title>La maison des Maternelles</title>
     <desc lang="fr">Saison:4 - Entourée de Benjamin Muller et Marie Perarnau, Agathe Lecaron répond aux nombreuses interrogations des parents. L'équipe accueille chaque jour parents et enfants et leur propose de rencontrer les meilleurs spécialistes.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ec4033c0-d833-4fe0-9848-3cc50c0a4af8.jpg" />
     <episode-num system="xmltv_ns">3..</episode-num>
@@ -2416,7 +2415,7 @@ Cadavres accrochés à des ponts, incendie géant en pleine mer, sabotages en to
   <programme channel="C47.api.telerama.fr" start="20200316130500 +0100" stop="20200316134000 +0100">
     <title>Passage des arts</title>
     <desc lang="fr">Saison:2 - Chaque jour, Claire Chazal part à la rencontre d'un artiste. Avec lui, elle explore tous les champs de l'actualité culturelle.</desc>
-    <category lang="fr">magazine culturel</category>
+    <category lang="fr">magazine magazine culturel</category>
     <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/063a0226-cec1-4889-a8c2-12f1b81b5e2d.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
@@ -2533,7 +2532,7 @@ Cadavres accrochés à des ponts, incendie géant en pleine mer, sabotages en to
   <programme channel="C47.api.telerama.fr" start="20200316202000 +0100" stop="20200316204500 +0100">
     <title>Passage des arts</title>
     <desc lang="fr">Saison:2 - Chaque jour, Claire Chazal part à la rencontre d'un artiste. Avec lui, elle explore tous les champs de l'actualité culturelle.</desc>
-    <category lang="fr">magazine culturel</category>
+    <category lang="fr">magazine magazine culturel</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/af20cf3c-0bf1-468a-856d-99837edce9d0.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
@@ -3259,12 +3258,232 @@ Un homme détruit renaît brièvement au contact d’un jeune qu’il veut prot�
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200316060000 +0100" stop="20200316080500 +0100">
+  <programme channel="C80.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
-    <length units="minutes">125</length>
+    <category lang="fr">magazine magazine jeunesse</category>
+    <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316060100 +0100" stop="20200316060500 +0100">
+    <title>Les as de la jungle</title>
+    <sub-title>Batricia est amoureuse</sub-title>
+    <desc lang="fr">Saison:1 - Episode:7 - Batricia est folle amoureuse de Gilbert...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c9376495-88d0-4fc6-8aaa-1125dad66761.jpg" />
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316060500 +0100" stop="20200316061000 +0100">
+    <title>Les lapins crétins : invasion</title>
+    <sub-title>Lapin vache</sub-title>
+    <desc lang="fr">Saison:1 - Episode:24 - Les lapins font connaissance avec les célèbres «boîtes à meuh» et se mettent en tête de retourner tout ce qui s'en rapproche pour provoquer des meuglements divers...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316061000 +0100" stop="20200316061500 +0100">
+    <title>Les lapins crétins : invasion</title>
+    <sub-title>Crétins et balle perdue</sub-title>
+    <desc lang="fr">Saison:3 - Episode:30 - Ils ne se souviennent de rien, ils ne comprennent rien, mais ils ne renoncent jamais : les lapins crétins font de leur quotidien un monde étonnant.</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9ca7a23d-0afa-48e9-b48f-000d462b845a.jpg" />
+    <episode-num system="xmltv_ns">2.29.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316061500 +0100" stop="20200316062500 +0100">
+    <title>Les lapins crétins : invasion</title>
+    <sub-title>Digicode crétin</sub-title>
+    <desc lang="fr">Saison:1 - Episode:22 - Les lapins ont pris en chasse un homme-sandwich déguisé en poivron. L'homme parvient à se réfugier chez lui. Les lapins, qui veulent passer le hall d'entrée de l'immeuble, s'intéressent alors au digicode et à l'interphone...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316062500 +0100" stop="20200316063000 +0100">
+    <title>Les lapins crétins : invasion</title>
+    <sub-title>Espion lapin</sub-title>
+    <desc lang="fr">Saison:1 - Episode:23 - L'irruption des lapins dans un hangar à ogives nucléaires va compliquer la tâche d'un agent secret en mission...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e61a21a-20e9-4c42-a9b7-42c5820c5a82.jpg" />
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
+    <title>Les lapins crétins : invasion</title>
+    <sub-title>Lapin hibernation</sub-title>
+    <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
+    <title>Titeuf</title>
+    <sub-title>Zizique parc</sub-title>
+    <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
+    <episode-num system="xmltv_ns">0.60.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316064500 +0100" stop="20200316065000 +0100">
+    <title>Titeuf</title>
+    <sub-title>Colin traquenard</sub-title>
+    <desc lang="fr">Saison:1 - Episode:6 - Au cours d'une sortie à la campagne, Titeuf, Hugo et Manu proposent un colin-maillard pour digérer le pique-nique. Ils s'en donnent à coeur joie. L'apothéose est atteinte quand Titeuf, yeux bandés, croit reconnaître un Mugul de l'espace à lunettes en la personne de la maîtresse...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fca65b5e-bcf9-4cd0-96ab-375d322f1b09.jpg" />
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316065000 +0100" stop="20200316070000 +0100">
+    <title>Titeuf</title>
+    <sub-title>L'ado</sub-title>
+    <desc lang="fr">Saison:1 - Episode:43 - Titeuf veut emmener Nadia au cinéma. Au moment où il veut l'inviter, Marco débarque. Titeuf est bien déterminé à ne pas se laisser faire cette fois-ci...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/760bd827-abca-4a9e-850d-c786d3967829.jpg" />
+    <episode-num system="xmltv_ns">0.42.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316070000 +0100" stop="20200316071000 +0100">
+    <title>Titeuf</title>
+    <sub-title>Une star est née</sub-title>
+    <desc lang="fr">Saison:1 - Episode:5 - Dans la rue, Titeuf se fait remarquer à cause de sa mèche par une directrice de casting. Il n'en faut pas plus pour qu'il se voit déjà en haut de l'affiche...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/48607674-c277-43b5-87a9-a8de1d7986fc.jpg" />
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316071000 +0100" stop="20200316071500 +0100">
+    <title>Titeuf</title>
+    <sub-title>Télé dure dure réalité</sub-title>
+    <desc lang="fr">Saison:2 - Episode:5 - C'est l'ébullition dans la classe de Titeuf : un élève va être sélectionné pour une émission de télé-réalité. Le casting a lieu à l'école. Titeuf s'imagine déjà l'heureux élu enfermé dans une villa luxueuse avec toute une horde de filles sublimes lui courant après. Il fait tout pour être sélectionné, ne reculant devant aucune ruse pour évincer ses concurrents...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/106afc80-0120-481a-881d-a5bdaa9c506f.jpg" />
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316071500 +0100" stop="20200316072500 +0100">
+    <title>Grizzy et les lemmings</title>
+    <sub-title>De fourrure et d'épée</sub-title>
+    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316072500 +0100" stop="20200316073000 +0100">
+    <title>Grizzy et les lemmings</title>
+    <sub-title>Ours molletonné</sub-title>
+    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316073000 +0100" stop="20200316073500 +0100">
+    <title>Grizzy et les lemmings</title>
+    <sub-title>Ours à scratch</sub-title>
+    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316073500 +0100" stop="20200316074500 +0100">
+    <title>Grizzy et les lemmings</title>
+    <sub-title>Batgrizzy</sub-title>
+    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316074500 +0100" stop="20200316075000 +0100">
+    <title>Mike, une vie de chien</title>
+    <sub-title>Mic maki Mike</sub-title>
+    <desc lang="fr">Saison:1 - Episode:32 - Le quotidien de Mike, brave carlin amoureux de la jolie chienne du voisin, n'est perturbé que par les irruptions intempestives de deux ratons laveurs espiègles...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8f3ebd79-cff2-48fe-802e-a0c5cb05d776.jpg" />
+    <episode-num system="xmltv_ns">0.31.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316075000 +0100" stop="20200316080000 +0100">
+    <title>Mike, une vie de chien</title>
+    <sub-title>A tes souhaits, Mike</sub-title>
+    <desc lang="fr">Saison:1 - Episode:33 - Le quotidien de Mike, brave carlin amoureux de la jolie chienne du voisin, n'est perturbé que par les irruptions intempestives de deux ratons laveurs espiègles...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/666a11ba-80f8-4920-bf7e-2d785f54abad.jpg" />
+    <episode-num system="xmltv_ns">0.32.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200316080000 +0100" stop="20200316080500 +0100">
+    <title>Mike, une vie de chien</title>
+    <sub-title>Mike crooner</sub-title>
+    <desc lang="fr">Saison:1 - Episode:34 - Le quotidien de Mike, brave carlin amoureux de la jolie chienne du voisin, n'est perturbé que par les irruptions intempestives de deux ratons laveurs espiègles...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/af56d04c-0d15-4535-b37f-58fdb5799760.jpg" />
+    <episode-num system="xmltv_ns">0.33.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3346,6 +3565,7 @@ Un homme détruit renaît brièvement au contact d’un jeune qu’il veut prot�
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <new />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3356,6 +3576,7 @@ Un homme détruit renaît brièvement au contact d’un jeune qu’il veut prot�
     <category lang="fr">journal</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9d76d6-da1f-4a7f-8454-7881216eaf4f.jpg" />
+    <new />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3383,6 +3604,7 @@ Un homme détruit renaît brièvement au contact d’un jeune qu’il veut prot�
     <category lang="fr">journal</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e7484d46-d2cc-424d-9155-3513fdfb09d7.jpg" />
+    <new />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3522,12 +3744,14 @@ Un homme détruit renaît brièvement au contact d’un jeune qu’il veut prot�
     <category lang="fr">journal</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/49c7f45e-747a-416e-b340-8974e8f578a4.jpg" />
+    <new />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C80.api.telerama.fr" start="20200316195500 +0100" stop="20200316200000 +0100">
     <title>Ma ville, notre idéal</title>
+    <sub-title>Géo vélo</sub-title>
     <category lang="fr">magazine de services</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
@@ -3572,15 +3796,7 @@ Un homme détruit renaît brièvement au contact d’un jeune qu’il veut prot�
     <category lang="fr">magazine sportif</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/53c82e98-4321-4332-bdbb-dce35e8b9fc1.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C80.api.telerama.fr" start="20200316205500 +0100" stop="20200316210000 +0100">
-    <title>Laisse entrer la nature</title>
-    <category lang="fr">magazine de services</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
+    <new />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3608,21 +3824,21 @@ Un homme détruit renaît brièvement au contact d’un jeune qu’il veut prot�
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200316225500 +0100" stop="20200316230000 +0100">
+  <programme channel="C80.api.telerama.fr" start="20200316225500 +0100" stop="20200316230400 +0100">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">5</length>
+    <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200316230000 +0100" stop="20200316235500 +0100">
+  <programme channel="C80.api.telerama.fr" start="20200316230400 +0100" stop="20200316235500 +0100">
     <title>J'ai peur, histoire(s) et phobie(s)</title>
     <desc lang="fr">Plusieurs personnes atteintes de phobies témoignent, ouvertement. Elles évoquent leurs peurs et expriment à quel point la phobie constitue une souffrance psychologique intense et le plus souvent incontrôlable pour les individus atteints. L'entourage n'a d'autre choix que de composer avec ce malêtre profond. Des thérapies existent et permettent de faire face. Elles offrent le plus souvent des solutions palliatives à celles et ceux qui affrontent cette crainte d'un risque qu'ils redoutent au plus profonde de leur individualité.</desc>
     <date>2020</date>
     <category lang="fr">documentaire : santé</category>
-    <length units="minutes">55</length>
+    <length units="minutes">51</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9a7641d9-0a03-4392-87a3-f4061b552c14.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3685,7 +3901,7 @@ Un homme détruit renaît brièvement au contact d’un jeune qu’il veut prot�
   </programme>
   <programme channel="C110.api.telerama.fr" start="20200316073000 +0100" stop="20200316073500 +0100">
     <title>Agenda</title>
-    <category lang="fr">magazine culturel</category>
+    <category lang="fr">magazine magazine culturel</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
     <previously-shown />
@@ -3821,7 +4037,7 @@ Un homme détruit renaît brièvement au contact d’un jeune qu’il veut prot�
   </programme>
   <programme channel="C110.api.telerama.fr" start="20200316122500 +0100" stop="20200316123000 +0100">
     <title>Agenda</title>
-    <category lang="fr">magazine culturel</category>
+    <category lang="fr">magazine magazine culturel</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
     <previously-shown />
@@ -4055,7 +4271,7 @@ Un homme détruit renaît brièvement au contact d’un jeune qu’il veut prot�
   </programme>
   <programme channel="C110.api.telerama.fr" start="20200316203500 +0100" stop="20200316204000 +0100">
     <title>Agenda</title>
-    <category lang="fr">magazine culturel</category>
+    <category lang="fr">magazine magazine culturel</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
     <rating system="CSA">
@@ -4214,21 +4430,11 @@ Un homme détruit renaît brièvement au contact d’un jeune qu’il veut prot�
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C111.api.telerama.fr" start="20200316050000 +0100" stop="20200316064000 +0100">
-    <title>Thomas Hengelbrock et le NDR Elbphilharmonie Orchester</title>
-    <desc lang="fr">Le 22 mai 2016, dans la toute nouvelle Philharmonie de l'Elbe, le chef d'orchestre Thomas Hengelbrock et l'Orchestre symphonique de la NDR ont accompli un véritable marathon : jouer les quatre symphonies de Johannes Brahms. Extraits de cet exploit avec les première et deuxième symphonies.</desc>
-    <category lang="fr">classique</category>
-    <length units="minutes">100</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/51817efd-938b-4334-994e-3593d318ce46.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C111.api.telerama.fr" start="20200316064000 +0100" stop="20200316070500 +0100">
     <title>Philosophie</title>
     <sub-title>Y a-t-il de bons tyrans ?</sub-title>
     <desc lang="fr">Saison:9 - La scène mondiale a vu ces derniers mois un retour au pouvoir d'hommes dits «forts», qui mettent leurs pas dans ceux des autocrates de jadis et s'affranchissent des procédures démocratiques. Depuis plus de 2500 ans, la philosophie politique condamne pourtant le despotisme. Peut-il y avoir de bons tyrans ?</desc>
-    <category lang="fr">magazine culturel</category>
+    <category lang="fr">magazine magazine culturel</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/999fc5b0-fc7c-4e8a-9c00-de062cfd7359.jpg" />
     <episode-num system="xmltv_ns">8..</episode-num>
@@ -4240,7 +4446,7 @@ Un homme détruit renaît brièvement au contact d’un jeune qu’il veut prot�
   <programme channel="C111.api.telerama.fr" start="20200316070500 +0100" stop="20200316071500 +0100">
     <title>Arte journal junior</title>
     <desc lang="fr">Un journal quotidien de six minutes pour les 10-14 ans. Au programme : un décryptage du monde et de ses enjeux à travers des sujets d'actualité.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2367f971-0da7-4dfe-9961-323e0127406a.jpg" />
     <rating system="CSA">
@@ -4281,7 +4487,7 @@ Un homme détruit renaît brièvement au contact d’un jeune qu’il veut prot�
   <programme channel="C111.api.telerama.fr" start="20200316084500 +0100" stop="20200316092500 +0100">
     <title>Invitation au voyage</title>
     <desc lang="fr">Au sommaire :</desc>
-    <category lang="fr">magazine magazine du tourisme</category>
+    <category lang="fr">magazine du tourisme</category>
     <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c0ec65bd-c41e-4710-9ed9-d7d285528d2e.jpg" />
     <previously-shown />
@@ -4424,7 +4630,7 @@ Un homme détruit renaît brièvement au contact d’un jeune qu’il veut prot�
   <programme channel="C111.api.telerama.fr" start="20200316163000 +0100" stop="20200316171000 +0100">
     <title>Invitation au voyage</title>
     <desc lang="fr">Au sommaire :</desc>
-    <category lang="fr">magazine magazine du tourisme</category>
+    <category lang="fr">magazine du tourisme</category>
     <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c0ec65bd-c41e-4710-9ed9-d7d285528d2e.jpg" />
     <premiere />
@@ -5509,47 +5715,6 @@ Cette production du type foire du Trône n'a visiblement pour ambition que d'enc
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200316041500 +0100" stop="20200316044500 +0100">
-    <title>C'est pas sorcier</title>
-    <sub-title>Mystérieuse mangrove</sub-title>
-    <desc lang="fr">Les mangroves se trouvent le long des côtes tropicales. Ces jungles inextricables s'étendent sur des dizaines de kilomètres de vase. Elles abritent une faune exceptionnelle. Fred, Sabine et Jamy partent à la découverte des mangroves de Guyane. Les palétuviers, grands arbres tropicaux, y plongent leurs racines dans l'eau salée. Pourquoi les bancs de vase sur lesquels se fixent les mangroves bougent-ils ainsi ? Comment les palétuviers éliminent-ils l'eau salée ?</desc>
-    <category lang="fr">magazine éducatif</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/09ea3e22-f611-4cb0-a7a9-39f0c5f31f5b.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C160.api.telerama.fr" start="20200316044500 +0100" stop="20200316051500 +0100">
-    <title>Infô soir</title>
-    <desc lang="fr">Le rendez-vous quotidien de l'actualité ultramarine.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C160.api.telerama.fr" start="20200316060500 +0100" stop="20200316061500 +0100">
-    <title>Journal Mayotte</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e212da2e-d967-4667-bc66-1664f312acd8.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C160.api.telerama.fr" start="20200316061500 +0100" stop="20200316065000 +0100">
-    <title>Journal Réunion</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">35</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C160.api.telerama.fr" start="20200316065000 +0100" stop="20200316071500 +0100">
     <title>Journal Guyane</title>
     <category lang="fr">journal</category>
@@ -6024,7 +6189,7 @@ Cette production du type foire du Trône n'a visiblement pour ambition que d'enc
     <title>Rencontre</title>
     <sub-title>Tchucky</sub-title>
     <desc lang="fr">Trois minutes d'entretien avec des artistes de Nouvelle-Calédonie, dans les coulisses de leur création.</desc>
-    <category lang="fr">magazine culturel</category>
+    <category lang="fr">magazine magazine culturel</category>
     <length units="minutes">7</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
     <rating system="CSA">
@@ -6310,7 +6475,7 @@ Cette production du type foire du Trône n'a visiblement pour ambition que d'enc
   <programme channel="C192.api.telerama.fr" start="20200316062500 +0100" stop="20200316082500 +0100">
     <title>TFou</title>
     <desc lang="fr">Au sommaire :</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="hours">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0f12cd6f-c823-403a-bcde-499598a00334.jpg" />
     <rating system="CSA">
@@ -6709,7 +6874,7 @@ Cette production du type foire du Trône n'a visiblement pour ambition que d'enc
   <programme channel="C195.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Je peux le faire !</title>
     <desc lang="fr">Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
     <previously-shown />
@@ -6720,7 +6885,7 @@ Cette production du type foire du Trône n'a visiblement pour ambition que d'enc
   <programme channel="C195.api.telerama.fr" start="20200316063500 +0100" stop="20200316064000 +0100">
     <title>Je peux le faire !</title>
     <desc lang="fr">Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
     <previously-shown />
@@ -6731,7 +6896,7 @@ Cette production du type foire du Trône n'a visiblement pour ambition que d'enc
   <programme channel="C195.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
     <title>Je peux le faire !</title>
     <desc lang="fr">Chaque téléspectateur, peu importe sa condition physique ou ses moyens, peut effectuer un exercice physique depuis chez lui, avec l'aide d'objets de son quotidien.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
     <previously-shown />
@@ -7609,7 +7774,7 @@ Batailles de momies, nuées de scarabées voraces : le film bifurque rapidement 
     <title>Urgences</title>
     <sub-title>Ces vies sont en danger</sub-title>
     <desc lang="fr">Une équipe de reporters part en immersion avec les pompiers. Ces héros désintéressés interviennent dans des délais très courts lorsque des accidents se produisent. Souvent, il leur arrive de passer à l'acte au péril de leur vie. Une fois pris en charge, que deviennent les blessés conduits aux urgences ?</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">100</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1e95b183-5e06-4010-aabf-cc8cca82ea5a.jpg" />
     <previously-shown />
@@ -7641,7 +7806,7 @@ Batailles de momies, nuées de scarabées voraces : le film bifurque rapidement 
     <title>Si près de chez vous</title>
     <sub-title>Règlement de comptes</sub-title>
     <desc lang="fr">Dans la région de Biarritz, Sébastien est retrouvé poignardé dans le vestiaire de la piscine où il travaille. Entraîneur de renom, il avait récemment pris sous son aile la jeune Lydie, qu'il avait promis de mener à la victoire.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <previously-shown />
@@ -7653,7 +7818,7 @@ Batailles de momies, nuées de scarabées voraces : le film bifurque rapidement 
     <title>Si près de chez vous</title>
     <sub-title>A la veille du bac</sub-title>
     <desc lang="fr">Saison:1 - Dans la banlieue nancéienne, Marion a été enfermée chez elle au moment où elle aurait dû passer une épreuve du baccalauréat. Qui, dans son entourage, pouvait avoir intérêt à lui nuire ?</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -7666,7 +7831,7 @@ Batailles de momies, nuées de scarabées voraces : le film bifurque rapidement 
     <title>Si près de chez vous</title>
     <sub-title>Photos choc</sub-title>
     <desc lang="fr">Saison:1 - Julie, une jeune avocate ambitieuse, découvre des photos d'elle, légèrement vêtue, placardées sur la devanture du cabinet où elle travaille. Qui, dans son entourage, a voulu l'humilier de la sorte ?</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -7679,7 +7844,7 @@ Batailles de momies, nuées de scarabées voraces : le film bifurque rapidement 
     <title>Si près de chez vous</title>
     <sub-title>Bébé disparu</sub-title>
     <desc lang="fr">Saison:1 - Le temps d'aller faire une course, Sandrine a laissé son nourrisson de deux mois tout seul dans sa caravane. A son retour, son enfant n'était plus là. Qui a emmené le bébé, et pourquoi ?</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -7692,7 +7857,7 @@ Batailles de momies, nuées de scarabées voraces : le film bifurque rapidement 
     <title>Si près de chez vous</title>
     <sub-title>A coeur ouvert</sub-title>
     <desc lang="fr">Saison:1 - Dans son haras, en Normandie, Eric fait une chute mortelle. S'agit-il d'un accident ? Joël, son apprenti, et la mère de celui-ci sont entendus par la police.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -7705,7 +7870,7 @@ Batailles de momies, nuées de scarabées voraces : le film bifurque rapidement 
     <title>Si près de chez vous</title>
     <sub-title>Un talent convoité</sub-title>
     <desc lang="fr">Saison:1 - Dans les Alpes-Maritimes, Aurélie, 28 ans, vient de découvrir qu'on lui a volé la formule qui compose son premier parfum. Trois personnes font figure de suspects.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -7718,7 +7883,7 @@ Batailles de momies, nuées de scarabées voraces : le film bifurque rapidement 
     <title>Si près de chez vous</title>
     <sub-title>Une mère de famille intoxiquée aux somnifères</sub-title>
     <desc lang="fr">Saison:1 - Elodie est retrouvée inanimée dans la chambre de son bébé. A-t-elle tenté de se suicider ? Pour quelle raison ? Son mari, sa baby-sitter et sa belle-mère sont suspects.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -7730,7 +7895,7 @@ Batailles de momies, nuées de scarabées voraces : le film bifurque rapidement 
     <title>Crimes et faits divers : la quotidienne</title>
     <sub-title>Episode 131</sub-title>
     <desc lang="fr">Saison:2 - Entouré d'une équipe d'experts, Jean-Marc Morandini décrypte des faits divers aussi fascinants qu'effrayants. Avocats, psychiatres et anciens policiers reviennent sur le parcours de ces acteurs involontaires des faits divers.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">80</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b035f458-7a87-45f8-a5bb-afc668f1bee2.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
@@ -7744,7 +7909,7 @@ Batailles de momies, nuées de scarabées voraces : le film bifurque rapidement 
     <title>Si près de chez vous</title>
     <sub-title>Un domaine viticole vandalisé</sub-title>
     <desc lang="fr">Saison:1 - Paul, 50 ans, propriétaire d'un domaine viticole près de Bordeaux, fait face au désastre : sa vigne a été saccagée. Qui est responsable de cet acte odieux ?</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -7969,7 +8134,7 @@ Batailles de momies, nuées de scarabées voraces : le film bifurque rapidement 
     <title>Crimes</title>
     <sub-title>En Ille-et-Vilaine</sub-title>
     <desc lang="fr">Au sommaire : L'effroyable mensonge. En 2006, une mère de famille annonce la dispartition de son fils de 13 mois. - Qui a tué le DJ ? Un banal accident de la route amène les gendarmes à suspecter un meurtre. - Mystérieuse exécution. Une mère de famille sans histoire est retrouvée morte devant chez elle.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">115</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cc54a923-37d4-44af-b7f6-49c2d1a1f161.jpg" />
     <rating system="CSA">
@@ -7981,7 +8146,7 @@ Batailles de momies, nuées de scarabées voraces : le film bifurque rapidement 
     <title>Crimes</title>
     <sub-title>Le Sud-Ouest dans la tourmente</sub-title>
     <desc lang="fr">Au sommaire : Double homicide volontaire. Dans les Landes, une jeune mère et sa fille de 20 mois sont retrouvées sans vie à leur domicile. - Guet-apens mortel. Près de Toulouse, le PDG d'une importante entreprise de sécurité, apprécié de tous, est retrouvé criblé de balles devant sa propriété.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">110</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c664c29f-ccf6-44f8-bcb4-fceab3394deb.jpg" />
     <previously-shown />
@@ -8072,7 +8237,7 @@ Batailles de momies, nuées de scarabées voraces : le film bifurque rapidement 
   <programme channel="C445.api.telerama.fr" start="20200316124500 +0100" stop="20200316133000 +0100">
     <title>William à midi : première partie</title>
     <desc lang="fr">Pour devenir un consommateur averti, zoom sur des questions de santé, de droit, d'alimentation, relatives à la famille, aux animaux ou au jardin.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64c9689e-5aff-4b5d-8ee9-a2262f87dd18.jpg" />
     <premiere />
@@ -8083,7 +8248,7 @@ Batailles de momies, nuées de scarabées voraces : le film bifurque rapidement 
   <programme channel="C445.api.telerama.fr" start="20200316133000 +0100" stop="20200316140000 +0100">
     <title>William à midi</title>
     <desc lang="fr">Cette émission permet de répondre aux questions du quotidien, pour vérifier ou invalider des idées reçues et bénéficier de conseils pratiques.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64c9689e-5aff-4b5d-8ee9-a2262f87dd18.jpg" />
     <premiere />
@@ -8614,7 +8779,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
     <title>Appels d'urgence</title>
     <sub-title>Urgence absolue pour greffes et dons d'organes</sub-title>
     <desc lang="fr">Chaque année, plus de 5000 personnes sont sauvées en France grâce aux greffes réalisées par les chirurgiens. Impensable il y a seulement 60 ans, ce geste chirurgical permet aujourd'hui de changer le destin de milliers de patients. Mais derrière chacune de ces greffes se cache une course contre la montre.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/08591847-4411-4a25-9e91-88a505f76dc2.jpg" />
     <premiere />
@@ -8626,7 +8791,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
     <title>Appels d'urgence</title>
     <sub-title>Urgences médicales : course contre la montre pour le SAMU</sub-title>
     <desc lang="fr">Des millions de Français passent chaque année par les urgences. L'un des centres les plus actifs de France se trouve en région parisienne, à Créteil : c'est l'hôpital Henri Mondor. Jours et nuits, une trentaine de médecins se relaient auprès des patients dans une situation parfois critique.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">70</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/164567dc-4c8a-4d9c-9507-fb317c83816a.jpg" />
     <rating system="CSA">
@@ -9094,19 +9259,19 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C459.api.telerama.fr" start="20200316070000 +0100" stop="20200316072600 +0100">
+  <programme channel="C459.api.telerama.fr" start="20200316070000 +0100" stop="20200316072500 +0100">
     <title>Radio Vision</title>
     <category lang="fr">magazine d'information</category>
-    <length units="minutes">26</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C459.api.telerama.fr" start="20200316072600 +0100" stop="20200316075800 +0100">
+  <programme channel="C459.api.telerama.fr" start="20200316072500 +0100" stop="20200316075800 +0100">
     <title>Ia ora</title>
     <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">32</length>
+    <length units="minutes">33</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9145,11 +9310,20 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C459.api.telerama.fr" start="20200316085800 +0100" stop="20200316093900 +0100">
+  <programme channel="C459.api.telerama.fr" start="20200316085800 +0100" stop="20200316093500 +0100">
     <title>Journal 20h00</title>
     <category lang="fr">journal</category>
-    <length units="minutes">41</length>
+    <length units="minutes">37</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bd1abc04-6d1d-4258-b872-0f807edc3f48.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C459.api.telerama.fr" start="20200316093500 +0100" stop="20200316093900 +0100">
+    <title>Marathon Polynésie</title>
+    <sub-title>Module 1</sub-title>
+    <category lang="fr">magazine sportif</category>
+    <length units="minutes">4</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9193,11 +9367,40 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C459.api.telerama.fr" start="20200316115100 +0100" stop="20200316124000 +0100">
+  <programme channel="C459.api.telerama.fr" start="20200316115100 +0100" stop="20200316115800 +0100">
     <title>Ha'uti mai</title>
     <category lang="fr">divertissement</category>
-    <length units="minutes">49</length>
+    <length units="minutes">7</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C459.api.telerama.fr" start="20200316115800 +0100" stop="20200316115900 +0100">
+    <title>Marathon Polynésie</title>
+    <sub-title>Module 1</sub-title>
+    <category lang="fr">magazine sportif</category>
+    <length units="minutes">1</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C459.api.telerama.fr" start="20200316115900 +0100" stop="20200316120000 +0100">
+    <title>Fare ma'ohi</title>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1d3d4858-dacd-485d-b200-45bfd75e25d4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C459.api.telerama.fr" start="20200316120000 +0100" stop="20200316124000 +0100">
+    <title>Elections municipales</title>
+    <sub-title>Edition spéciale</sub-title>
+    <desc lang="fr">Les élections municipales auront lieu les 15 et 22 mars 2020 (1er et 2e tour). Elles permettront le renouvellement des conseils municipaux et intercommunaux pour six ans.</desc>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9314,13 +9517,22 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C459.api.telerama.fr" start="20200316182900 +0100" stop="20200316193200 +0100">
+  <programme channel="C459.api.telerama.fr" start="20200316182900 +0100" stop="20200316192900 +0100">
     <title>Elections municipales</title>
     <sub-title>Edition spéciale</sub-title>
     <desc lang="fr">Les élections municipales auront lieu les 15 et 22 mars 2020 (1er et 2e tour). Elles permettront le renouvellement des conseils municipaux et intercommunaux pour six ans.</desc>
     <category lang="fr">magazine d'information</category>
-    <length units="minutes">63</length>
+    <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C459.api.telerama.fr" start="20200316192900 +0100" stop="20200316193200 +0100">
+    <title>Marathon Polynésie</title>
+    <sub-title>Module 1</sub-title>
+    <category lang="fr">magazine sportif</category>
+    <length units="minutes">3</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9334,13 +9546,22 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C459.api.telerama.fr" start="20200316202400 +0100" stop="20200316211000 +0100">
+  <programme channel="C459.api.telerama.fr" start="20200316202400 +0100" stop="20200316210900 +0100">
     <title>A ha amana o na : souviens-toi...</title>
     <sub-title>La marche sur le feu</sub-title>
     <desc lang="fr">Dans A Ha'amana'o na - Souviens toi, Thomas et ses invités se remémorent les évènements, grands et petits, les personnalités, connues ou pas, qui ont construit ou marqué la Polynésie. Des archives et témoignages viennent appuyer l'émission.</desc>
     <category lang="fr">magazine régional</category>
-    <length units="minutes">46</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C459.api.telerama.fr" start="20200316210900 +0100" stop="20200316211000 +0100">
+    <title>Marathon Polynésie</title>
+    <sub-title>Module 1</sub-title>
+    <category lang="fr">magazine sportif</category>
+    <length units="minutes">1</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10044,31 +10265,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316090000 +0100" stop="20200316091000 +0100">
-    <title>Transformers Rescue Bots Academy</title>
-    <sub-title>Le canard de la chance</sub-title>
-    <desc lang="fr">Saison:1 - Episode:22 - Hot Shot combat sa malchance avec l'aide du porte-bonheur de Cody, un canard en plastique...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e7d90bbc-5398-49c0-9cbd-1404c6d29dc9.jpg" />
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316091000 +0100" stop="20200316092000 +0100">
-    <title>Transformers Rescue Bots Academy</title>
-    <sub-title>Un après-midi de chien errant</sub-title>
-    <desc lang="fr">Saison:1 - Episode:21 - Après une mission, un chien adorable a suivi les recrues, qui décident de le garder, bien que ce soit interdit par le règlement de l'Académie. Toutefois, le chien ne les a pas suivi parce qu'il avait besoin d'un foyer, mais parce qu'il était en mission de sauvetage...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e7d90bbc-5398-49c0-9cbd-1404c6d29dc9.jpg" />
-    <episode-num system="xmltv_ns">0.20.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316092000 +0100" stop="20200316092500 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316090000 +0100" stop="20200316090500 +0100">
     <title>La famille Chat</title>
     <sub-title>Chats-volants</sub-title>
     <desc lang="fr">Saison:1 - Chacun des chatons essaie de fabriquer son propre cerf-volant pour le faire voler lors d'une journée ventée, mais finalement il s'avère que le meilleur cerf-volant est un mélange des trois...</desc>
@@ -10080,18 +10277,64 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316094600 +0100" stop="20200316094900 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316090500 +0100" stop="20200316091000 +0100">
+    <title>La famille Chat</title>
+    <sub-title>Chats-volants</sub-title>
+    <desc lang="fr">Saison:1 - Chacun des chatons essaie de fabriquer son propre cerf-volant pour le faire voler lors d'une journée ventée, mais finalement il s'avère que le meilleur cerf-volant est un mélange des trois...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200316091000 +0100" stop="20200316091300 +0100">
+    <title>Cry Babies, larmes magiques : la série</title>
+    <sub-title>Où est Lady ?</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Les bébés font semblant d'être malade pour être chouchoutés...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">3</length>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200316091300 +0100" stop="20200316091600 +0100">
+    <title>Cry Babies, larmes magiques : la série</title>
+    <sub-title>Je suis malade</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Les bébés font semblant d'être malade pour être chouchoutés...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">3</length>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200316091600 +0100" stop="20200316092000 +0100">
     <title>Cry Babies, larmes magiques : la série</title>
     <sub-title>Minou, Minou !</sub-title>
     <desc lang="fr">Saison:1 - Episode:4 - Un des bébés est omnubilé par sa tablette...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">3</length>
+    <length units="minutes">4</length>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316100500 +0100" stop="20200316101600 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316092000 +0100" stop="20200316093500 +0100">
+    <title>Rainbow Ruby</title>
+    <sub-title>Un délicieux fruit</sub-title>
+    <desc lang="fr">Saison:1 - Episode:49 - Ruby, une petite fille de six ans, malicieuse et débrouillarde, rend régulièrement visite à ses amis les jouets en compagnie de son nounours. Elle s'efforce d'aider, de conseiller et de soigner les siens.</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6db127ba-16d2-4a9d-9d5a-bd64ff355bfe.jpg" />
+    <episode-num system="xmltv_ns">0.48.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200316093500 +0100" stop="20200316094600 +0100">
     <title>Rainbow Ruby</title>
     <sub-title>Gare aux bactéries !</sub-title>
     <desc lang="fr">Saison:1 - Episode:50 - Ruby, une petite fille de six ans, malicieuse et débrouillarde, rend régulièrement visite à ses amis les jouets en compagnie de son nounours. Elle s'efforce d'aider, de conseiller et de soigner les siens.</desc>
@@ -10103,14 +10346,27 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C482.api.telerama.fr" start="20200316094600 +0100" stop="20200316101600 +0100">
+    <title>Cry Babies, larmes magiques : la série</title>
+    <sub-title>Minou, Minou !</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - Un des bébés est omnubilé par sa tablette...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">30</length>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C482.api.telerama.fr" start="20200316101600 +0100" stop="20200316104000 +0100">
-    <title>Il était une fois... notre Terre</title>
-    <sub-title>Technologies. - Au service de notre planète</sub-title>
-    <desc lang="fr">Saison:1 - Episode:25 - Technologies :  Depuis l'aube de l'humanité, les progrès techniques ne cessent jamais. Maestro proposede de rendre visite au salon des technologies qui se tient à Tokyo. - Au service de notre planète : Les aventuriers sont en visite dans un centre de contrôle qui recueille les données satellitaires : ozone, qualité de l'air, température des océans...</desc>
+    <title>Totally Spies</title>
+    <sub-title>Surf d'enfer</sub-title>
+    <desc lang="fr">Saison:2 - Episode:9 - Sam se lance dans une grève de la faim pour protester contre le renvoi de l'employée de la cafétéria, madame Muckle. Dans le même temps, quand des tsunamis commencent à balayer les stations balnéaires les plus populaires, le Woohp envoie les Spies enquêter. Elles découvrent que les raz-de-marée sont le fait d'un seul homme : Frankie Dude, un ancien champion de surf, qui projette de rendre aux plages leur état naturel...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
     <length units="minutes">24</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/729aa81e-4314-4372-96ac-8c71fa912ce3.jpg" />
-    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1c6862d7-fadb-456b-b698-a7bb3dc2b87c.jpg" />
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10118,7 +10374,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   <programme channel="C482.api.telerama.fr" start="20200316104000 +0100" stop="20200316105000 +0100">
     <title>Wazup</title>
     <desc lang="fr">Un rendez-vous quotidien avec les news people, l'actualité musique et cinéma, les jeux vidéo, les sorties BD et les tendances de la mode.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0312e76c-ea77-4282-ad73-cdda0eb2c50e.jpg" />
     <rating system="CSA">
@@ -10286,7 +10542,6 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
     <length units="minutes">14</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5eae0905-7b2c-4437-afc5-ca1b53bfc958.jpg" />
     <episode-num system="xmltv_ns">0.7.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10335,7 +10590,6 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
     <length units="minutes">8</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dcc1f7a-0db5-42fa-aa10-4d1d6c05f73e.jpg" />
     <episode-num system="xmltv_ns">1.26.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10348,7 +10602,6 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
     <length units="minutes">7</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dcc1f7a-0db5-42fa-aa10-4d1d6c05f73e.jpg" />
     <episode-num system="xmltv_ns">1.27.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10361,7 +10614,6 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dcc1f7a-0db5-42fa-aa10-4d1d6c05f73e.jpg" />
     <episode-num system="xmltv_ns">1.28.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10374,47 +10626,45 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dcc1f7a-0db5-42fa-aa10-4d1d6c05f73e.jpg" />
     <episode-num system="xmltv_ns">1.29.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316140000 +0100" stop="20200316140500 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316140000 +0100" stop="20200316141000 +0100">
     <title>Zig &amp; Sharko</title>
     <sub-title>Les chauffards de la plage</sub-title>
     <desc lang="fr">Saison:2 - Episode:31 - Sharko a un super plan romantique : Marina et lui, une superbe voiture luxueuse et confortable qui les emmène pique-niquer en tête à tête devant un panorama digne des plus belles couvertures de romans de gare. Sauf que Zig et Bernie s'en mêlent...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dcc1f7a-0db5-42fa-aa10-4d1d6c05f73e.jpg" />
     <episode-num system="xmltv_ns">1.30.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316140500 +0100" stop="20200316141200 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316141000 +0100" stop="20200316141600 +0100">
     <title>G ciné</title>
     <desc lang="fr">L'actualité du 7e art pour les enfants et leurs parents : films en salles, coulisses des tournages, interviews et sorties DVD de la semaine.</desc>
     <category lang="fr">magazine du cinéma</category>
-    <length units="minutes">7</length>
+    <length units="minutes">6</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fda51e1d-d3ee-49dc-aea5-e39376f2bdbc.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316141200 +0100" stop="20200316141500 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316141600 +0100" stop="20200316141900 +0100">
     <title>Parents, un jeu d'enfant</title>
     <sub-title>La cantine</sub-title>
     <desc lang="fr">Un magazine qui oriente et conseille les parents des 6-12 ans face aux questions qu'ils se posent dans leur quotidien.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dc4fc1cc-9ece-40c9-a2a2-60ec211413dc.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316141500 +0100" stop="20200316144000 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316141900 +0100" stop="20200316144400 +0100">
     <title>In ze boîte</title>
     <desc lang="fr">Saison:8 - Coachées par l'animateur Joan Faggianelli, deux équipes, composées de deux adultes et deux enfants d'une même famille, s'affrontent en duel au fil de challenges physiques et intellectuels. L'équipe gagnante peut alors pénètrer dans la boîte noire, une pièce obscure truffée de pièges et d'obsctacles, sous l'oeil de caméras infrarouges.</desc>
     <category lang="fr">jeu</category>
@@ -10425,10 +10675,10 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316144000 +0100" stop="20200316144500 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316144400 +0100" stop="20200316144900 +0100">
     <title>Wazup</title>
     <desc lang="fr">Un rendez-vous quotidien avec les news people, l'actualité musique et cinéma, les jeux vidéo, les sorties BD et les tendances de la mode.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0312e76c-ea77-4282-ad73-cdda0eb2c50e.jpg" />
     <previously-shown />
@@ -10436,7 +10686,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316144500 +0100" stop="20200316151500 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316144900 +0100" stop="20200316151900 +0100">
     <title>In ze boîte</title>
     <desc lang="fr">Saison:8 - Coachées par l'animateur Joan Faggianelli, deux équipes, composées de deux adultes et deux enfants d'une même famille, s'affrontent en duel au fil de challenges physiques et intellectuels. L'équipe gagnante peut alors pénètrer dans la boîte noire, une pièce obscure truffée de pièges et d'obsctacles, sous l'oeil de caméras infrarouges.</desc>
     <category lang="fr">jeu</category>
@@ -10447,48 +10697,50 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316151500 +0100" stop="20200316154000 +0100">
-    <title>In ze boîte</title>
-    <desc lang="fr">Saison:8 - Coachées par l'animateur Joan Faggianelli, deux équipes, composées de deux adultes et deux enfants d'une même famille, s'affrontent en duel au fil de challenges physiques et intellectuels. L'équipe gagnante peut alors pénètrer dans la boîte noire, une pièce obscure truffée de pièges et d'obsctacles, sous l'oeil de caméras infrarouges.</desc>
-    <category lang="fr">jeu</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/53ad1de4-e052-4d4a-991d-d8d0dcffd8da.jpg" />
-    <episode-num system="xmltv_ns">7..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316154000 +0100" stop="20200316160500 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316151900 +0100" stop="20200316154400 +0100">
     <title>Totally Spies</title>
-    <sub-title>Amour, espionnes et Moyen Age</sub-title>
-    <desc lang="fr">Saison:1 - Episode:6 - Un homme machiavélique remonte le temps afin de modifier le cours de l'Histoire. Sam, Alex et Clover se lancent à ses trousses pour l'empêcher de mener à bien son projet. Dans le même temps, les Spies participent au concours du plus beau costume d'Halloween...</desc>
+    <sub-title>Alerte aux Blobs</sub-title>
+    <desc lang="fr">Saison:1 - Episode:5 - Sam sauve la vie de Mandy lors du cours d'art plastique. Celle-ci lui voue alors désormais une reconnaissance éternelle, au point de vouloir devenir sa meilleure amie. Dans le même temps, les Spies se rendent à Bora Bora pour mener une enquête sur d'étranges créatures visqueuses qui hantent les océans...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
     <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1c6862d7-fadb-456b-b698-a7bb3dc2b87c.jpg" />
-    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e0505d96-6e8c-4dfb-8423-e4b805794bbb.jpg" />
+    <episode-num system="xmltv_ns">0.4.</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316160500 +0100" stop="20200316161600 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316154400 +0100" stop="20200316161000 +0100">
+    <title>Totally Spies</title>
+    <sub-title>Les fugitifs</sub-title>
+    <desc lang="fr">Saison:1 - Episode:9 - Jerry convoque les Spies, les accusant, enregistrement vidéo à l'appui, d'avoir braqué une banque. Le trio est immédiatement incarcéré...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">26</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1c6862d7-fadb-456b-b698-a7bb3dc2b87c.jpg" />
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200316161000 +0100" stop="20200316161800 +0100">
     <title>SheZow</title>
     <sub-title>La fête des méchants</sub-title>
     <desc lang="fr">Saison:1 - Episode:39 - Les méchants ont hypnotisé le maire de la ville pour prendre le pouvoir. Ils s'imaginent se la couler douce, mais Guy et ses amis leur font comprendre que ça ne va pas se passer comme ça...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">11</length>
+    <length units="minutes">8</length>
     <episode-num system="xmltv_ns">0.38.</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316161600 +0100" stop="20200316163000 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316161800 +0100" stop="20200316163000 +0100">
     <title>SheZow</title>
     <sub-title>Shezow contre Chacula</sub-title>
     <desc lang="fr">Saison:1 - Episode:40 - Chacula et ses chats-zombis sortent du jeu vidéo pour lequel ils ont été créés et s'incarnent dans le monde réel. SheZow va devoir affronter ce prince des ténèbres...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">14</length>
+    <length units="minutes">12</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea1e2459-9179-4f94-a7ec-48cc24a712cc.jpg" />
     <episode-num system="xmltv_ns">0.39.</episode-num>
     <previously-shown />
@@ -10508,19 +10760,19 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316164100 +0100" stop="20200316165500 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316164100 +0100" stop="20200316170000 +0100">
     <title>La boucle infernale</title>
     <sub-title>Un futur fort fortuit</sub-title>
     <desc lang="fr">Saison:1 - Episode:50 - Luc et Théo ont une prise de bec avec une voyante qui leur donne un aperçu de leur avenir...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">14</length>
+    <length units="minutes">19</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/33c17138-b01a-4960-a296-b418ca7bcc3c.jpg" />
     <episode-num system="xmltv_ns">0.49.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316165500 +0100" stop="20200316170600 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316170000 +0100" stop="20200316171100 +0100">
     <title>La boucle infernale</title>
     <sub-title>Première partie d'un petit déjeuner équilibré</sub-title>
     <desc lang="fr">Saison:1 - Episode:51 - La boîte d'authentiques Petit-Déjeunax est presque vide, ce qui provoque des anomalies à travers toute la ville. Serait-ce la fin de la boucle ?...</desc>
@@ -10532,24 +10784,48 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316170600 +0100" stop="20200316172000 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316171100 +0100" stop="20200316173000 +0100">
     <title>La boucle infernale</title>
     <sub-title>Deuxième partie d'un petit déjeuner équilibré</sub-title>
     <desc lang="fr">Saison:1 - Episode:52 - Luc et Théo doivent convaincre Sarah de chanter pour sauver la boucle. Mais est-elle même capable de parler ?...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">14</length>
+    <length units="minutes">19</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/33c17138-b01a-4960-a296-b418ca7bcc3c.jpg" />
     <episode-num system="xmltv_ns">0.51.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316173000 +0100" stop="20200316174500 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316173000 +0100" stop="20200316174100 +0100">
+    <title>Jamie a des tentacules</title>
+    <sub-title>Jamie est un grand malade</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Jamie découvre les cornichons. Il adore ! Le problème est que ça le rend affreusement malade. Paraffine l'incite donc à en manger des pots entiers. Nerdy très inquiet pour son ami cache son état à ses parents et appelle le médecin. Gratchett et Contact interceptent le docteur, prennent sa place et s'apprêtent à emmener Jamie à l'hôpital. Nerdy va devoir sauver son ami et lui trouver un remède efficace. Avaler Paraffine s'avérera être la bonne solution...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">11</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c5537e4a-e336-4071-b1ac-dee744b9d578.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200316174100 +0100" stop="20200316180000 +0100">
+    <title>Jamie a des tentacules</title>
+    <sub-title>Les garçons viennent de Mars et les filles y retournent</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Une fille est dans la maison. Nerdy est terrifié, Jamie lui est curieux. L'extra-terrestre se sert de ses pouvoirs afin d'aider Nerdy à séduire la petite Iris. Pendant ce temps, Contact se déguise en fillette pour approcher Jamie. A cause d'une mauvaise manipulation, Iris est téléportée à l'autre bout de la galaxie. Jamie doit réparer ses erreurs et ramener la fillette en un seul morceau. Avec l'aide de son père, Jamie tentera de ramener Iris pendant que Nerdy gèrera les angoisses de la mère de la petite disparue...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">19</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e8b73b3f-2e66-46dd-b7db-11a2138bf03e.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200316180000 +0100" stop="20200316181000 +0100">
     <title>Bienvenue chez les Loud</title>
     <sub-title>Frime en limousine</sub-title>
     <desc lang="fr">Saison:1 - Episode:32 - Lincoln a gagné une journée en limousine. Frayant tout à coup avec le beau monde, il se prend vite au jeu et commence à dénigrer ses soeurs. Mais lorsque la journée prend fin, il réalise son erreur et tente de se faire pardonner...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2c1ccffc-baec-43e1-b005-92dd4ba040a2.jpg" />
     <episode-num system="xmltv_ns">0.31.</episode-num>
     <previously-shown />
@@ -10557,7 +10833,20 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316174500 +0100" stop="20200316175600 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316181000 +0100" stop="20200316182500 +0100">
+    <title>Bienvenue chez les Loud</title>
+    <sub-title>La Reine des Likes</sub-title>
+    <desc lang="fr">Saison:3 - Episode:6 - Lori veut avoir plus de likes que Carol sur sa nouvelle appli. Ça en devient une obsession...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2c1ccffc-baec-43e1-b005-92dd4ba040a2.jpg" />
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200316182500 +0100" stop="20200316183600 +0100">
     <title>Bienvenue chez les Loud</title>
     <sub-title>Musique en famille</sub-title>
     <desc lang="fr">Saison:1 - Episode:33 - Les Loud montent un groupe de musique familial afin de jouer lors d'une fête. Luna veut en profiter pour impressionner son idole, Mick Swagger, venue dénicher de nouveaux talents...</desc>
@@ -10570,7 +10859,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316175600 +0100" stop="20200316180700 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316183600 +0100" stop="20200316184700 +0100">
     <title>Bienvenue chez les Loud</title>
     <sub-title>La deuxième salle de bain</sub-title>
     <desc lang="fr">Saison:3 - Episode:11 - Les parents construisent une salle de bain dans leur chambre en secret...</desc>
@@ -10583,7 +10872,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316180700 +0100" stop="20200316182500 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316184700 +0100" stop="20200316190500 +0100">
     <title>Bienvenue chez les Loud</title>
     <sub-title>Les profs ont le béguin</sub-title>
     <desc lang="fr">Saison:3 - Episode:14 - Lincoln et Clyde jouent les cupidons pour que coach Pacowski et Mme Johnson tombent amoureux...</desc>
@@ -10596,12 +10885,25 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316183700 +0100" stop="20200316184800 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316190500 +0100" stop="20200316191600 +0100">
+    <title>Le monde incroyable de Gumball</title>
+    <sub-title>L'argent</sub-title>
+    <desc lang="fr">Saison:3 - Episode:40 - Papa a dilapidé l'argent de la famille et les Watterson se retrouvent ruinés. Pour les aider, Larry leur propose de participer à une publicité pour son fast food. Mais celle-ci est pleine de clichés et Gumball a des principes. Il ne veut pas être un vendu, même pour de l'argent...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">11</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d5939500-2719-4006-9055-5de27be6d878.jpg" />
+    <episode-num system="xmltv_ns">2.39.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200316191600 +0100" stop="20200316193000 +0100">
     <title>Le monde incroyable de Gumball</title>
     <sub-title>Les origines</sub-title>
     <desc lang="fr">Saison:4 - Episode:20 - Après avoir été malencontreusement jeté dans les toilettes par Richard, Darwin se retrouve au milieu de l'océan. Mais, déterminé à retrouver sa famille, il entreprend un long périple. De son côté, Gumball ne peut se résoudre à acheter un autre poisson...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">11</length>
+    <length units="minutes">14</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d5939500-2719-4006-9055-5de27be6d878.jpg" />
     <episode-num system="xmltv_ns">3.19.</episode-num>
     <previously-shown />
@@ -10609,7 +10911,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316190500 +0100" stop="20200316191500 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316193000 +0100" stop="20200316194000 +0100">
     <title>Le monde incroyable de Gumball</title>
     <sub-title>Les procrastinateurs</sub-title>
     <desc lang="fr">Saison:3 - Episode:19 - Maman demande à Gumball et Darwin d'aller sortir la poubelle pendant qu'elle va faire des courses. Mais les deux comparses, adeptes de la procrastination, trouvent mille choses plus intéressantes à faire...</desc>
@@ -10622,36 +10924,26 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316191500 +0100" stop="20200316193000 +0100">
+  <programme channel="C482.api.telerama.fr" start="20200316194000 +0100" stop="20200316201300 +0100">
     <title>Le monde incroyable de Gumball</title>
     <sub-title>L'oeuf</sub-title>
     <desc lang="fr">Saison:3 - Episode:38 - Pour se faire des relations haut placées, Maman invite Madame Parham et son fils, Billy, à déjeuner. Mais, même en donnant une leçon de bonne tenue à Papa, Gumball, Darwin et Anaïs, un monde sépare les deux familles. Sauf Billy et Anaïs qui se trouvent des points communs...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">33</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d5939500-2719-4006-9055-5de27be6d878.jpg" />
     <episode-num system="xmltv_ns">2.37.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200316202500 +0100" stop="20200316205000 +0100">
-    <title>Sabrina, l'apprentie sorcière</title>
-    <sub-title>Un doigt de grippe</sub-title>
-    <desc lang="fr">Saison:2 - Episode:15 - Sabrina vient d'attraper un méchant rhume des doigts ! Son index, tombé malade, transmet malencontreusement les dons magiques de sa propriétaire à madame Quick...</desc>
-    <credits>
-      <director>Gary Halvorson</director>
-      <actor>Melissa Joan Hart</actor>
-      <actor>Caroline Rhea</actor>
-      <actor>Beth Broderick</actor>
-      <actor>Nate Richert</actor>
-      <actor>Mary Gross</actor>
-      <writer>Nell Scovell</writer>
-      <writer>Frank Conniff</writer>
-    </credits>
-    <category lang="fr">série humoristique</category>
-    <length units="minutes">25</length>
-    <episode-num system="xmltv_ns">1.14.</episode-num>
-    <previously-shown />
+  <programme channel="C482.api.telerama.fr" start="20200316201300 +0100" stop="20200316202500 +0100">
+    <title>Kally's Mashup, la voix de la pop</title>
+    <sub-title>Le projet social</sub-title>
+    <desc lang="fr">Saison:1 - Episode:65 - Gloria tente de soudoyer les résidents de la maison de retraite pour qu'ils la soutiennent devant son examinateur, mais les retraités se rebellent. Kally a tout préparé pour l'adoption des chiots, mais elle a oublié de faire venir un vétérinaire. Heureusement, Dante en connaît un : Kylian, son nouveau voisin...</desc>
+    <category lang="fr">série jeunesse</category>
+    <length units="minutes">12</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7c3032bf-baa4-4693-8450-3d839bf7bb38.jpg" />
+    <episode-num system="xmltv_ns">0.64.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10659,7 +10951,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   <programme channel="C482.api.telerama.fr" start="20200316205000 +0100" stop="20200316210000 +0100">
     <title>Wazup</title>
     <desc lang="fr">Un rendez-vous quotidien avec les news people, l'actualité musique et cinéma, les jeux vidéo, les sorties BD et les tendances de la mode.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0312e76c-ea77-4282-ad73-cdda0eb2c50e.jpg" />
     <previously-shown />
@@ -10754,7 +11046,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200316100000 +0100" stop="20200316110000 +0100">
     <title>La boîte à m'Alice</title>
-    <category lang="fr">magazine culturel</category>
+    <category lang="fr">magazine magazine culturel</category>
     <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
     <rating system="CSA">
@@ -10837,7 +11129,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   </programme>
   <programme channel="C1045.api.telerama.fr" start="20200316153000 +0100" stop="20200316163000 +0100">
     <title>La boîte à m'Alice</title>
-    <category lang="fr">magazine culturel</category>
+    <category lang="fr">magazine magazine culturel</category>
     <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
     <rating system="CSA">
@@ -10921,7 +11213,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
     <desc lang="fr">Du lundi au vendredi, de 6h à 9h l'équipe de Good Morning Business décrypte l'essentiel de l'économie française et internationale. Chaque jour, des entrepreneurs, des grands patrons, des fondateurs de start-up, des économistes et autres figures du monde du business, en France et à l'international, sont interviewés à l'antenne. Trois grandes interviews ; celles de 6h20 et 7h20 animées par Christophe Jakubyszyn et celle de 8h15 par Hedwige Chevrillon, ponctuent la matinale avec les rendez-vous : Le journal de l'économie présenté par Faïza Garel-Younsi; La chronique "culture geek" d'Anthony Morel; Une revue de presse quotidienne avec Lorraine Goumot; Un reportage en immersion dans une entreprise pour raconter son histoire et sa vie quotidienne, avec Julien Gagliardi; Une chronique "commerce 2.0" sur les défis des entreprises dans la distribution et la vente, avec Anissa Sekkai; La chronique "happy boulot" de Laure Closier; Une chronique "Mon patrimoine" pour ceux qui veulent investir, avec Guillaume Sommerer ou Cédric Decoeur; La chronique éco de Nicolas Doze; Un débat de 7mn sur la grande actu éco du jour entre Jean-Marc Daniel et un autre économiste; L'actualité des marchés financiers décryptée par David Delos et, chaque jour, par un intervenant en direct d'une salle de marché; L'information internationale traitée par Benaouda Abdeddaïm.</desc>
     <category lang="fr">magazine de l'économie</category>
     <length units="hours">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/911e349f-fba4-4492-858c-60b69b49a045.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1accdb96-4fe3-4767-ab92-3325af70c1fa.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10951,7 +11243,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
     <desc lang="fr">Le magazine de l'actualité économique présenté par Hedwige Chevrillon. Sur un ton très libre, la présentatrice s'entretient avec ses invités sur toutes les questions économiques du moment.</desc>
     <category lang="fr">magazine de l'économie</category>
     <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/911e349f-fba4-4492-858c-60b69b49a045.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1470486b-a728-4a39-80e1-3fe07675826d.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10971,7 +11263,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
     <desc lang="fr">Le magazine de l'actualité économique présenté par Hedwige Chevrillon. Sur un ton très libre, la présentatrice s'entretient avec ses invités sur toutes les questions économiques du moment.</desc>
     <category lang="fr">magazine de l'économie</category>
     <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/911e349f-fba4-4492-858c-60b69b49a045.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1470486b-a728-4a39-80e1-3fe07675826d.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -10990,7 +11282,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
     <title>Inside</title>
     <category lang="fr">magazine de l'économie</category>
     <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/911e349f-fba4-4492-858c-60b69b49a045.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b177ebc8-b1d0-4606-b3fc-628e74867a72.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -11037,7 +11329,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   <programme channel="C1399.api.telerama.fr" start="20200316085500 +0100" stop="20200316092500 +0100">
     <title>Le jour où tout a basculé</title>
     <desc lang="fr">A la suite d'un événement imprévu, des hommes et des femmes ont vu leur vie bouleversée pour le pire et le meilleur. Ces histoires vraies sont interprétées par des comédiens, écrites et réalisées comme un reportage. Pour éclairer ces histoires, Nathalie Fellonneau, avocate spécialisée, apporte son savoir, son expérience, pour éviter les pièges et les dangers auxquels chacun d'entre nous peut être confronté dans sa vie.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b5734d3f-4104-4aaa-90a1-467ccb70b923.jpg" />
     <rating system="CSA">
@@ -11047,7 +11339,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   <programme channel="C1399.api.telerama.fr" start="20200316092500 +0100" stop="20200316095500 +0100">
     <title>Le jour où tout a basculé</title>
     <desc lang="fr">A la suite d'un événement imprévu, des hommes et des femmes ont vu leur vie bouleversée pour le pire et le meilleur. Ces histoires vraies sont interprétées par des comédiens, écrites et réalisées comme un reportage. Pour éclairer ces histoires, Nathalie Fellonneau, avocate spécialisée, apporte son savoir, son expérience, pour éviter les pièges et les dangers auxquels chacun d'entre nous peut être confronté dans sa vie.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b5734d3f-4104-4aaa-90a1-467ccb70b923.jpg" />
     <rating system="CSA">
@@ -11057,7 +11349,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   <programme channel="C1399.api.telerama.fr" start="20200316095500 +0100" stop="20200316102000 +0100">
     <title>Le jour où tout a basculé</title>
     <desc lang="fr">A la suite d'un événement imprévu, des hommes et des femmes ont vu leur vie bouleversée pour le pire et le meilleur. Ces histoires vraies sont interprétées par des comédiens, écrites et réalisées comme un reportage. Pour éclairer ces histoires, Nathalie Fellonneau, avocate spécialisée, apporte son savoir, son expérience, pour éviter les pièges et les dangers auxquels chacun d'entre nous peut être confronté dans sa vie.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b5734d3f-4104-4aaa-90a1-467ccb70b923.jpg" />
     <rating system="CSA">
@@ -11067,7 +11359,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   <programme channel="C1399.api.telerama.fr" start="20200316102000 +0100" stop="20200316105000 +0100">
     <title>Le jour où tout a basculé</title>
     <desc lang="fr">A la suite d'un événement imprévu, des hommes et des femmes ont vu leur vie bouleversée pour le pire et le meilleur. Ces histoires vraies sont interprétées par des comédiens, écrites et réalisées comme un reportage. Pour éclairer ces histoires, Nathalie Fellonneau, avocate spécialisée, apporte son savoir, son expérience, pour éviter les pièges et les dangers auxquels chacun d'entre nous peut être confronté dans sa vie.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b5734d3f-4104-4aaa-90a1-467ccb70b923.jpg" />
     <rating system="CSA">
@@ -11077,7 +11369,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   <programme channel="C1399.api.telerama.fr" start="20200316105000 +0100" stop="20200316112000 +0100">
     <title>Le jour où tout a basculé</title>
     <desc lang="fr">A la suite d'un événement imprévu, des hommes et des femmes ont vu leur vie bouleversée pour le pire et le meilleur. Ces histoires vraies sont interprétées par des comédiens, écrites et réalisées comme un reportage. Pour éclairer ces histoires, Nathalie Fellonneau, avocate spécialisée, apporte son savoir, son expérience, pour éviter les pièges et les dangers auxquels chacun d'entre nous peut être confronté dans sa vie.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b5734d3f-4104-4aaa-90a1-467ccb70b923.jpg" />
     <rating system="CSA">
@@ -11087,7 +11379,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   <programme channel="C1399.api.telerama.fr" start="20200316112000 +0100" stop="20200316115000 +0100">
     <title>Le jour où tout a basculé</title>
     <desc lang="fr">A la suite d'un événement imprévu, des hommes et des femmes ont vu leur vie bouleversée pour le pire et le meilleur. Ces histoires vraies sont interprétées par des comédiens, écrites et réalisées comme un reportage. Pour éclairer ces histoires, Nathalie Fellonneau, avocate spécialisée, apporte son savoir, son expérience, pour éviter les pièges et les dangers auxquels chacun d'entre nous peut être confronté dans sa vie.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b5734d3f-4104-4aaa-90a1-467ccb70b923.jpg" />
     <rating system="CSA">
@@ -11097,7 +11389,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   <programme channel="C1399.api.telerama.fr" start="20200316115000 +0100" stop="20200316122000 +0100">
     <title>Le jour où tout a basculé</title>
     <desc lang="fr">A la suite d'un événement imprévu, des hommes et des femmes ont vu leur vie bouleversée pour le pire et le meilleur. Ces histoires vraies sont interprétées par des comédiens, écrites et réalisées comme un reportage. Pour éclairer ces histoires, Nathalie Fellonneau, avocate spécialisée, apporte son savoir, son expérience, pour éviter les pièges et les dangers auxquels chacun d'entre nous peut être confronté dans sa vie.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b5734d3f-4104-4aaa-90a1-467ccb70b923.jpg" />
     <rating system="CSA">
@@ -11107,7 +11399,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   <programme channel="C1399.api.telerama.fr" start="20200316122000 +0100" stop="20200316125000 +0100">
     <title>Le jour où tout a basculé</title>
     <desc lang="fr">A la suite d'un événement imprévu, des hommes et des femmes ont vu leur vie bouleversée pour le pire et le meilleur. Ces histoires vraies sont interprétées par des comédiens, écrites et réalisées comme un reportage. Pour éclairer ces histoires, Nathalie Fellonneau, avocate spécialisée, apporte son savoir, son expérience, pour éviter les pièges et les dangers auxquels chacun d'entre nous peut être confronté dans sa vie.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b5734d3f-4104-4aaa-90a1-467ccb70b923.jpg" />
     <rating system="CSA">
@@ -11117,7 +11409,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   <programme channel="C1399.api.telerama.fr" start="20200316125000 +0100" stop="20200316132000 +0100">
     <title>Le jour où tout a basculé</title>
     <desc lang="fr">A la suite d'un événement imprévu, des hommes et des femmes ont vu leur vie bouleversée pour le pire et le meilleur. Ces histoires vraies sont interprétées par des comédiens, écrites et réalisées comme un reportage. Pour éclairer ces histoires, Nathalie Fellonneau, avocate spécialisée, apporte son savoir, son expérience, pour éviter les pièges et les dangers auxquels chacun d'entre nous peut être confronté dans sa vie.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b5734d3f-4104-4aaa-90a1-467ccb70b923.jpg" />
     <rating system="CSA">
@@ -11127,7 +11419,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   <programme channel="C1399.api.telerama.fr" start="20200316132000 +0100" stop="20200316135000 +0100">
     <title>Le jour où tout a basculé</title>
     <desc lang="fr">A la suite d'un événement imprévu, des hommes et des femmes ont vu leur vie bouleversée pour le pire et le meilleur. Ces histoires vraies sont interprétées par des comédiens, écrites et réalisées comme un reportage. Pour éclairer ces histoires, Nathalie Fellonneau, avocate spécialisée, apporte son savoir, son expérience, pour éviter les pièges et les dangers auxquels chacun d'entre nous peut être confronté dans sa vie.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b5734d3f-4104-4aaa-90a1-467ccb70b923.jpg" />
     <rating system="CSA">
@@ -11137,7 +11429,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   <programme channel="C1399.api.telerama.fr" start="20200316135000 +0100" stop="20200316141500 +0100">
     <title>Le jour où tout a basculé</title>
     <desc lang="fr">A la suite d'un événement imprévu, des hommes et des femmes ont vu leur vie bouleversée pour le pire et le meilleur. Ces histoires vraies sont interprétées par des comédiens, écrites et réalisées comme un reportage. Pour éclairer ces histoires, Nathalie Fellonneau, avocate spécialisée, apporte son savoir, son expérience, pour éviter les pièges et les dangers auxquels chacun d'entre nous peut être confronté dans sa vie.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b5734d3f-4104-4aaa-90a1-467ccb70b923.jpg" />
     <rating system="CSA">
@@ -11147,7 +11439,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   <programme channel="C1399.api.telerama.fr" start="20200316141500 +0100" stop="20200316144500 +0100">
     <title>Le jour où tout a basculé</title>
     <desc lang="fr">A la suite d'un événement imprévu, des hommes et des femmes ont vu leur vie bouleversée pour le pire et le meilleur. Ces histoires vraies sont interprétées par des comédiens, écrites et réalisées comme un reportage. Pour éclairer ces histoires, Nathalie Fellonneau, avocate spécialisée, apporte son savoir, son expérience, pour éviter les pièges et les dangers auxquels chacun d'entre nous peut être confronté dans sa vie.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b5734d3f-4104-4aaa-90a1-467ccb70b923.jpg" />
     <rating system="CSA">
@@ -11158,7 +11450,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
     <title>Snapped : les femmes tueuses</title>
     <sub-title>Ana Gonzalez-Angulo</sub-title>
     <desc lang="fr">Saison:17 - Ana Gonzalez-Angulo est une femme dévouée à la recherche contre le cancer. Prometteuse et appréciée de ses collègues elle va aussi créer autour d'elle un triangle amoureux mortel pour finalement user de ses talents de chimiste afin de mettre fin au trio infernal.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/caa78126-7795-4877-8b41-8ecf5244dc32.jpg" />
     <episode-num system="xmltv_ns">16..</episode-num>
@@ -11171,7 +11463,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
     <title>Snapped : les femmes tueuses</title>
     <sub-title>Sabrina Zunick</sub-title>
     <desc lang="fr">Saison:17 - Sabrina est une jeune femme qui a passé son enfance de foyer en foyer. A 17 ans, le destin lui sourit enfin, quand elle trouve sa place dans une nouvelle famille : les Knoefels. Alors, lorsque Sabrina atteint sa majorité, elle fait une demande à l'aide sociale afin de rester définitivement dans cette famille d'accueil qu'elle affectionne tant. Mais, quelques mois plus tard, un terrible meurtre se produit dans cette demeure où elle se sentait en sécurité. Que s'est-il passé au sein de ce foyer si aimant ?</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/94284677-094a-4372-8aa5-183e95867190.jpg" />
     <episode-num system="xmltv_ns">16..</episode-num>
@@ -11183,7 +11475,7 @@ Heureuse surprise : voici un Wolverine regardable, le troisième consacré au mu
   <programme channel="C1399.api.telerama.fr" start="20200316163500 +0100" stop="20200316182000 +0100">
     <title>Crimes</title>
     <desc lang="fr">«Crimes» rouvre des dossiers non résolus pour tenter de faire progresser l'affaire vers une élucidation. Familles des victimes, témoins-clés, avocats, experts et proches de suspects reviennent sur les différentes étapes de l'instruction. Plusieurs personnes interviennent pour apporter leur témoignage, dans l'espoir d'apporter un éclairage nouveau sur l'affaire et de progresser vers la vérité.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">105</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cc54a923-37d4-44af-b7f6-49c2d1a1f161.jpg" />
     <rating system="CSA">
@@ -11365,7 +11657,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
     <title>Mission : protection, les anges gardiens de votre quotidien</title>
     <sub-title>Guyane, crack et narcotrafic</sub-title>
     <desc lang="fr">Ce magazine propose une immersion au coeur de missions d'exception, auprès de policiers, de protecteurs des animaux, de gendarmes, de secouristes, de maîtres-nageurs, de pompiers, de médecins et de patrouilleurs de l'autoroute. Ces héros du quotidien, dont le dévouement n'a d'égal que la discrétion, ont accepté d'être suivis par des caméras, en intervention comme à l'entraînement. Sur terre, sur mer et dans les airs, ils mettent parfois leur vie en danger pour sauver celle des autres.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">80</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bacc644e-16a1-48a1-beac-62f9d241c80e.jpg" />
     <rating system="CSA">
@@ -11377,7 +11669,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
     <title>Mission : protection, les anges gardiens de votre quotidien</title>
     <sub-title>Les nouvelles menaces de la route</sub-title>
     <desc lang="fr">Ce magazine propose une immersion au coeur de missions d'exception, auprès de policiers, de protecteurs des animaux, de gendarmes, de secouristes, de maîtres-nageurs, de pompiers, de médecins et de patrouilleurs de l'autoroute. Ces héros du quotidien, dont le dévouement n'a d'égal que la discrétion, ont accepté d'être suivis par des caméras, en intervention comme à l'entraînement. Sur terre, sur mer et dans les airs, ils mettent parfois leur vie en danger pour sauver celle des autres.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">75</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bacc644e-16a1-48a1-beac-62f9d241c80e.jpg" />
     <rating system="CSA">
@@ -11667,11 +11959,31 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1401.api.telerama.fr" start="20200316120000 +0100" stop="20200316133000 +0100">
+  <programme channel="C1401.api.telerama.fr" start="20200316120000 +0100" stop="20200316150000 +0100">
     <title>Pétanque (France / Tunisie)</title>
     <category lang="fr">sport : pétanque</category>
-    <length units="minutes">90</length>
+    <length units="hours">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f329f0ea-b0a2-49e2-9809-db79361a1f03.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1401.api.telerama.fr" start="20200316150000 +0100" stop="20200316160500 +0100">
+    <title>Cyclisme (La Tropicale Amissa Bongo 2020)</title>
+    <category lang="fr">cyclisme</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2ffb1585-a2ea-4207-b24c-b89058d44e74.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1401.api.telerama.fr" start="20200316160500 +0100" stop="20200316173000 +0100">
+    <title>Cyclisme (Milan - San Remo 2016)</title>
+    <category lang="fr">cyclisme</category>
+    <length units="minutes">85</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/683b5ab2-347f-4a1c-9fc0-8e45b0334201.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -11712,7 +12024,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
     <title>Rugby (Blagnac / Albi)</title>
     <category lang="fr">sport : rugby</category>
     <length units="minutes">110</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1f67487a-09c1-44f5-9789-aeea5ef7ec66.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5a8e7c8b-01b1-40f4-9753-ba84ad3f4c83.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -11721,7 +12033,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
     <title>L'Équipe du soir</title>
     <category lang="fr">sport : multisports</category>
     <length units="minutes">65</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/37dbc3ec-194b-4c8a-b2ca-41c1b5fd0572.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9d11b641-54b2-48e2-a054-f64a4855c669.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -11754,7 +12066,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
     <desc lang="fr">L'émission incontournable pour démarrer la journée.</desc>
     <category lang="fr">magazine de l'économie</category>
     <length units="hours">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/911e349f-fba4-4492-858c-60b69b49a045.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1accdb96-4fe3-4767-ab92-3325af70c1fa.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -11776,7 +12088,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
     <title>Enquête prioritaire</title>
     <sub-title>Les nouvelles menaces de la route</sub-title>
     <desc lang="fr">Si le nombre de morts a été divisé par quatre en 40 ans, chaque année, près de 4000 automobilistes sont encore tués sur les routes. La vitesse est un facteur bien connu, mais d'autres causes sont à l'origine d'accidents dramatiques. Les dépassements représentent par exemple un danger sous-estimé.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">70</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b15fe12b-2d8c-4f19-9281-aa3ee415b0ed.jpg" />
     <previously-shown />
@@ -11789,7 +12101,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
     <title>Enquête prioritaire</title>
     <sub-title>Stupéfiants, trafic et coup de filet</sub-title>
     <desc lang="fr">Julien, jeune lieutenant de la brigade de recherche de Nancy, est alerté par le jardinier d'un hôtel. En désherbant les abords de l'établissement, l'homme vient de trouver un sac contenant quatre paquets dans des emballages en plastique. Les enquêteurs font immédiatement analyser ce qu'ils contiennent. Il s'agit d'héroïne. Un toxicomane les met sur la piste de deux trafiquants.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine magazine de société</category>
     <length units="minutes">105</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8a7b6e32-c1cb-4829-906f-9ee7919e4bb6.jpg" />
     <previously-shown />
@@ -11831,7 +12143,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
     <title>Ces crimes qui ont choqué le monde</title>
     <sub-title>Peter Tobin</sub-title>
     <desc lang="fr">Dermot Murnaghan se souvient de l'enquête qui a conduit à l'arrestation de Peter Tobin, un tueur en série écossais qui a sévi de Glasgow à Brighton.</desc>
-    <category lang="fr">documentaire : justice</category>
+    <category lang="fr">documentaire justice</category>
     <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3e9fac03-09aa-4076-87b9-618afd20316d.jpg" />
     <rating system="CSA">
@@ -13024,7 +13336,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1921.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -13095,24 +13407,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1921.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1921.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1921.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1921.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -13672,7 +13984,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1922.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -13743,24 +14055,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1922.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1922.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1922.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -14320,7 +14632,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1923.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -14391,24 +14703,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1923.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1923.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1923.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -14968,7 +15280,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1924.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -15039,24 +15351,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1924.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1924.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1924.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1924.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -15616,7 +15928,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1925.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -15687,24 +15999,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1925.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1925.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1925.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -16264,7 +16576,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1926.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -16335,24 +16647,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1926.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1926.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1926.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -16912,7 +17224,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1927.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -16983,24 +17295,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1927.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1927.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1927.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -17569,7 +17881,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1928.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -17640,24 +17952,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1928.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1928.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1928.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -18217,7 +18529,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1929.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -18288,24 +18600,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1929.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1929.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1929.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -18865,7 +19177,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1931.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -18936,24 +19248,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1931.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1931.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1931.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -19395,7 +19707,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1932.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -19466,24 +19778,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1932.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1932.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1932.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -20043,7 +20355,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1933.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -20114,24 +20426,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1933.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1933.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1933.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -20691,7 +21003,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1934.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -20762,24 +21074,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1934.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1934.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1934.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -21328,7 +21640,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1935.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -21399,24 +21711,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1935.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1935.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1935.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -21976,7 +22288,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1936.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -22047,24 +22359,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1936.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1936.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1936.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -22624,7 +22936,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1937.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -22695,24 +23007,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1937.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1937.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1937.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -23272,7 +23584,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1938.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -23343,24 +23655,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1938.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1938.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1938.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1938.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -23792,7 +24104,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1939.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -23863,24 +24175,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1939.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1939.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1939.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -24440,7 +24752,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1940.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -24511,24 +24823,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1940.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1940.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1940.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -25088,7 +25400,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1941.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -25159,24 +25471,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1941.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1941.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1941.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1941.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -25726,7 +26038,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1942.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -25797,24 +26109,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1942.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1942.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1942.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -26374,7 +26686,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1943.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -26445,24 +26757,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1943.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1943.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1943.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -27022,7 +27334,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   <programme channel="C1944.api.telerama.fr" start="20200316060000 +0100" stop="20200316060100 +0100">
     <title>Okoo</title>
     <desc lang="fr">Des dessins animés, des reportages, des expériences, des découvertes et des exclusivités : avec Okoo, il y en a pour tous les goûts.</desc>
-    <category lang="fr">magazine jeunesse</category>
+    <category lang="fr">magazine magazine jeunesse</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8382546-9d0e-4728-a38f-a6ed54988364.jpg" />
     <rating system="CSA">
@@ -27093,24 +27405,24 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1944.api.telerama.fr" start="20200316063000 +0100" stop="20200316064000 +0100">
+  <programme channel="C1944.api.telerama.fr" start="20200316063000 +0100" stop="20200316063500 +0100">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Lapin hibernation</sub-title>
     <desc lang="fr">Saison:1 - Episode:21 - S'incrustant dans un chantier archéologique, les lapins découvrent un de leurs ancêtres pris dans la glace. Ils le décongèlent aussitôt...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1944.api.telerama.fr" start="20200316064000 +0100" stop="20200316064500 +0100">
+  <programme channel="C1944.api.telerama.fr" start="20200316063500 +0100" stop="20200316064500 +0100">
     <title>Titeuf</title>
     <sub-title>Zizique parc</sub-title>
     <desc lang="fr">Saison:1 - Episode:61 - Alors que Titeuf est en plein triomphe sur sa Game-Boy, sa maman lui confie la garde de sa soeur Zizie. L'euphorie du guerrier aux dents laser retombe d'un coup. Continuer la partie s'avère très difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/603e53d4-c39f-4966-a5ea-6dbcb30cde6c.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <rating system="CSA">
@@ -28091,7 +28403,7 @@ Quand Gaspard Ulliel, que l’on croit être le sosie parfait du couturier, pass
   </programme>
   <programme channel="C2111.api.telerama.fr" start="20200316234900 +0100" stop="20200316235600 +0100">
     <title>La chronique culture</title>
-    <category lang="fr">magazine culturel</category>
+    <category lang="fr">magazine magazine culturel</category>
     <length units="minutes">7</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
     <rating system="CSA">

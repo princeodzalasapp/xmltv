@@ -48,9 +48,10 @@
   <channel id="yoyo.raisat.it">
     <display-name>Yoyo</display-name>
   </channel>
-  <programme channel="www.la7.it" start="20200316211500 +0100" stop="20200317000000 +0100">
-    <title lang="it">Eden un Pianeta da salvare</title>
-    <desc lang="it">Un documentario, condotto...</desc>
+  <programme channel="www.la7.it" start="20200316211500 +0100" stop="20200317003000 +0100">
+    <title lang="it">Eden missione pianeta</title>
+    <sub-title lang="it">Ep. 2</sub-title>
+    <desc lang="it">Licia Colo' alla...</desc>
     <category lang="it">natura</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
@@ -66,12 +67,11 @@
     <category lang="it">calcio</category>
     <category lang="it">sport</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200316235500 +0100" stop="20200317004000 +0100">
-    <title lang="it">Vikings S5 Ep1</title>
-    <sub-title lang="it">S5</sub-title>
-    <desc lang="it">Da una leggenda...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
+  <programme channel="rai4.raisat.it" start="20200316225000 +0100" stop="20200317003500 +0100">
+    <title lang="it">Lo sguardo di Satana - Carrie</title>
+    <desc lang="it">Regia di K. Peirce, con...</desc>
+    <category lang="it">horror</category>
+    <category lang="it">film</category>
   </programme>
   <programme channel="raigulp.rai.it" start="20200316233500 +0100" stop="20200317000000 +0100">
     <title lang="it">Inazuma Eleven Ares</title>
@@ -85,12 +85,14 @@
     <category lang="it">western</category>
     <category lang="it">film</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200316230000 +0100" stop="20200317011000 +0100">
+  <programme channel="raipremium.guidatv.sky.it" start="20200316230000 +0100" stop="20200317004000 +0100">
     <title lang="it">Il paradiso delle signore</title>
-    <sub-title lang="it">S4</sub-title>
-    <desc lang="it">Riapre il Paradiso....</desc>
+    <sub-title lang="it">Episodio 04</sub-title>
+    <desc lang="it">Marina,...</desc>
     <category lang="it">soap opera</category>
     <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 04</episode-num>
+    <episode-num system="xmltv_ns">.3.0/1</episode-num>
   </programme>
   <programme channel="raistoria.rai.it" start="20200316203000 +0100" stop="20200317023000 +0100">
     <title lang="it">Rai Storia</title>
@@ -111,40 +113,10 @@
     <category lang="it">cartoni animati</category>
     <category lang="it">ragazzi e musica</category>
   </programme>
-  <programme channel="www.la7.it" start="20200317000000 +0100" stop="20200317001000 +0100">
+  <programme channel="www.la7.it" start="20200317003000 +0100" stop="20200317004000 +0100">
     <title lang="it">Tg La7</title>
     <desc lang="it">Le notizie d'attualita' e...</desc>
     <category lang="it">notiziario</category>
-    <category lang="it">informazione</category>
-  </programme>
-  <programme channel="www.la7.it" start="20200317001000 +0100" stop="20200317005000 +0100">
-    <title lang="it">Otto e mezzo</title>
-    <desc lang="it">Condotto da Lilli Gruber,...</desc>
-    <category lang="it">talk show</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="www.la7.it" start="20200317005000 +0100" stop="20200317012000 +0100">
-    <title lang="it">Camera con vista</title>
-    <desc lang="it">La sintesi senza filtri...</desc>
-    <category lang="it">magazine</category>
-    <category lang="it">mondo e tendenze</category>
-  </programme>
-  <programme channel="www.la7.it" start="20200317012000 +0100" stop="20200317034000 +0100">
-    <title lang="it">L'aria che tira</title>
-    <desc lang="it">Myrta Merlino racconta...</desc>
-    <category lang="it">news</category>
-    <category lang="it">informazione</category>
-  </programme>
-  <programme channel="www.la7.it" start="20200317034000 +0100" stop="20200317053000 +0100">
-    <title lang="it">Tagada', tutto quanto fa politica</title>
-    <desc lang="it">Il programma di...</desc>
-    <category lang="it">news</category>
-    <category lang="it">informazione</category>
-  </programme>
-  <programme channel="www.la7.it" start="20200317053000 +0100" stop="20200317060000 +0100">
-    <title lang="it">Omnibus La7</title>
-    <desc lang="it">Programma di informazione...</desc>
-    <category lang="it">news</category>
     <category lang="it">informazione</category>
   </programme>
   <programme channel="www.la7.it" start="20200317060000 +0100" stop="20200317060500 +0100">
@@ -220,8 +192,9 @@
     <category lang="it">mondo e tendenze</category>
   </programme>
   <programme channel="www.la7.it" start="20200317070000 +0100" stop="20200317073000 +0100">
-    <title lang="it">Omnibus News</title>
-    <desc lang="it">Programma di informazione...</desc>
+    <title lang="it">Omnibus La7</title>
+    <sub-title lang="it">Ep. 194</sub-title>
+    <desc lang="it">Programma di...</desc>
     <category lang="it">news</category>
     <category lang="it">informazione</category>
   </programme>
@@ -239,19 +212,22 @@
   </programme>
   <programme channel="www.la7.it" start="20200317080000 +0100" stop="20200317094000 +0100">
     <title lang="it">Omnibus La7  (live)</title>
-    <desc lang="it">Programma di informazione...</desc>
+    <sub-title lang="it">Ep. 194</sub-title>
+    <desc lang="it">Programma di...</desc>
     <category lang="it">news</category>
     <category lang="it">informazione</category>
   </programme>
   <programme channel="www.la7.it" start="20200317094000 +0100" stop="20200317110000 +0100">
     <title lang="it">Coffee Break</title>
-    <desc lang="it">Spazio mattutino dedicato...</desc>
+    <sub-title lang="it">Ep. 162</sub-title>
+    <desc lang="it">Spazio...</desc>
     <category lang="it">magazine</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
   <programme channel="www.la7.it" start="20200317110000 +0100" stop="20200317133000 +0100">
     <title lang="it">L'aria che tira  (live)</title>
-    <desc lang="it">Myrta Merlino racconta...</desc>
+    <sub-title lang="it">Ep. 130</sub-title>
+    <desc lang="it">Myrta Merlino...</desc>
     <category lang="it">news</category>
     <category lang="it">informazione</category>
   </programme>
@@ -263,30 +239,10 @@
   </programme>
   <programme channel="www.la7.it" start="20200317141500 +0100" stop="20200317170000 +0100">
     <title lang="it">Tagada', tutto quanto fa politica  (live)</title>
+    <sub-title lang="it">Ep. 125</sub-title>
     <desc lang="it">Il programma di...</desc>
     <category lang="it">news</category>
     <category lang="it">informazione</category>
-  </programme>
-  <programme channel="www.la7.it" start="20200317170000 +0100" stop="20200317180000 +0100">
-    <title lang="it">Tagada' Doc</title>
-    <sub-title lang="it">Intrattenimento</sub-title>
-    <desc lang="it">Show</desc>
-    <category lang="it">show</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="www.la7.it" start="20200317180000 +0100" stop="20200317190000 +0100">
-    <title lang="it">Body of Proof</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Le vicende di Megan...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="www.la7.it" start="20200317190000 +0100" stop="20200317200000 +0100">
-    <title lang="it">Body of Proof</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Le vicende di Megan...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
   </programme>
   <programme channel="www.la7.it" start="20200317200000 +0100" stop="20200317203500 +0100">
     <title lang="it">Tg La7</title>
@@ -296,14 +252,57 @@
   </programme>
   <programme channel="www.la7.it" start="20200317203500 +0100" stop="20200317211500 +0100">
     <title lang="it">Otto e mezzo</title>
-    <desc lang="it">Condotto da Lilli Gruber,...</desc>
+    <sub-title lang="it">Ep. 151</sub-title>
+    <desc lang="it">Condotto da...</desc>
     <category lang="it">talk show</category>
     <category lang="it">intrattenimento</category>
   </programme>
   <programme channel="www.la7.it" start="20200317211500 +0100" stop="20200318005000 +0100">
     <title lang="it">Di martedi'  (live)</title>
-    <desc lang="it">Nel talk-show condotto da...</desc>
+    <sub-title lang="it">Ep. 26</sub-title>
+    <desc lang="it">Nel talk-show...</desc>
     <category lang="it">show</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="www.la7.it" start="20200317004000 +0100" stop="20200317012000 +0100">
+    <title lang="it">Otto e mezzo</title>
+    <sub-title lang="it">Ep. 150</sub-title>
+    <desc lang="it">Condotto da...</desc>
+    <category lang="it">talk show</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="www.la7.it" start="20200317012000 +0100" stop="20200317015000 +0100">
+    <title lang="it">Camera con vista</title>
+    <sub-title lang="it">Ep. 28</sub-title>
+    <desc lang="it">La sintesi senza...</desc>
+    <category lang="it">magazine</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="www.la7.it" start="20200317015000 +0100" stop="20200317041000 +0100">
+    <title lang="it">L'aria che tira</title>
+    <sub-title lang="it">Ep. 129</sub-title>
+    <desc lang="it">Myrta Merlino...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="www.la7.it" start="20200317041000 +0100" stop="20200317060000 +0100">
+    <title lang="it">Aspettando Tagada'</title>
+    <sub-title lang="it">Ep. 124</sub-title>
+    <desc lang="it">Il programma di...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="www.la7.it" start="20200317170000 +0100" stop="20200317180000 +0100">
+    <title lang="it">Taga Doc presenta: Face to Face</title>
+    <desc lang="it">Fellini vs. Visconti -...</desc>
+    <category lang="it">arte e cultura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="www.la7.it" start="20200317180000 +0100" stop="20200317200000 +0100">
+    <title lang="it">Little Murders by Agatha Christie</title>
+    <sub-title lang="it">S1 Ep1 ABC</sub-title>
+    <desc lang="it">Un serial...</desc>
+    <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
   <programme channel="rainews.guidatv.sky.it" start="20200317000000 +0100" stop="20200317003000 +0100">
@@ -883,13 +882,13 @@
     <category lang="it">sport</category>
   </programme>
   <programme channel="raisport.guidatv.sky.it" start="20200317081500 +0100" stop="20200317101000 +0100">
-    <title lang="it">Sci Alpino: Coppa del Mondo</title>
+    <title lang="it">Sci di fondo: Coppa del Mondo</title>
     <desc lang="it">Sprint a Tecnica Classica...</desc>
     <category lang="it">sci</category>
     <category lang="it">sport</category>
   </programme>
   <programme channel="raisport.guidatv.sky.it" start="20200317101000 +0100" stop="20200317115000 +0100">
-    <title lang="it">Sci Alpino: Coppa del Mondo</title>
+    <title lang="it">Sci di fondo: Coppa del Mondo</title>
     <desc lang="it">Sprint a Tecnica Libera...</desc>
     <category lang="it">sci</category>
     <category lang="it">sport</category>
@@ -921,7 +920,7 @@
     <category lang="it">informazione</category>
   </programme>
   <programme channel="raisport.guidatv.sky.it" start="20200317185000 +0100" stop="20200317201500 +0100">
-    <title lang="it">Sci Alpino: Coppa del Mondo</title>
+    <title lang="it">Sci di fondo: Coppa del Mondo</title>
     <desc lang="it">Sprint a Tecnica Libera...</desc>
     <category lang="it">sci</category>
     <category lang="it">sport</category>
@@ -946,210 +945,204 @@
     <category lang="it">sport</category>
     <category lang="it">sport</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317004000 +0100" stop="20200317012000 +0100">
-    <title lang="it">Vikings S5 Ep1</title>
-    <sub-title lang="it">S5</sub-title>
-    <desc lang="it">Da una leggenda...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="rai4.raisat.it" start="20200317012000 +0100" stop="20200317020500 +0100">
-    <title lang="it">Vikings S5 Ep1</title>
-    <sub-title lang="it">S5</sub-title>
-    <desc lang="it">Da una leggenda...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="rai4.raisat.it" start="20200317020500 +0100" stop="20200317021000 +0100">
+  <programme channel="rai4.raisat.it" start="20200317024500 +0100" stop="20200317025000 +0100">
     <title lang="it">Anica Appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione...</desc>
     <category lang="it">magazine cinema</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317021000 +0100" stop="20200317025500 +0100">
+  <programme channel="rai4.raisat.it" start="20200317003500 +0100" stop="20200317014000 +0100">
+    <title lang="it">The Fall - Caccia al Serial Killer</title>
+    <sub-title lang="it">S1 Ep1</sub-title>
+    <desc lang="it">Stella Gibson,...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="rai4.raisat.it" start="20200317014000 +0100" stop="20200317024500 +0100">
+    <title lang="it">The Fall - Caccia al Serial Killer</title>
+    <sub-title lang="it">S1 Ep2</sub-title>
+    <desc lang="it">Il serial killer...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="rai4.raisat.it" start="20200317025000 +0100" stop="20200317033000 +0100">
     <title lang="it">The Americans</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Durante la Guerra...</desc>
+    <sub-title lang="it">S5 Ep6 Ibridi</sub-title>
+    <desc lang="it">Gabriel...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317025500 +0100" stop="20200317034000 +0100">
+  <programme channel="rai4.raisat.it" start="20200317033000 +0100" stop="20200317041000 +0100">
     <title lang="it">The Americans</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Durante la Guerra...</desc>
+    <desc lang="it">S5 Ep7 La Commissione per...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317034000 +0100" stop="20200317050500 +0100">
+  <programme channel="rai4.raisat.it" start="20200317041000 +0100" stop="20200317050000 +0100">
     <title lang="it">Rosewood</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Uno straordinario...</desc>
+    <desc lang="it">S2 Ep22 Amore fraterno -...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317050500 +0100" stop="20200317054500 +0100">
+  <programme channel="rai4.raisat.it" start="20200317050000 +0100" stop="20200317054000 +0100">
     <title lang="it">Senza traccia</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Ritrovare le persone...</desc>
+    <desc lang="it">S4 Ep1 Ragion di Stato -...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317054500 +0100" stop="20200317063000 +0100">
+  <programme channel="rai4.raisat.it" start="20200317054000 +0100" stop="20200317062000 +0100">
     <title lang="it">Senza traccia</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Ritrovare le persone...</desc>
+    <desc lang="it">S4 Ep2 Salvate il bambino...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317063000 +0100" stop="20200317071500 +0100">
+  <programme channel="rai4.raisat.it" start="20200317062000 +0100" stop="20200317070000 +0100">
     <title lang="it">Numb3rs</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Due fratelli, un...</desc>
+    <desc lang="it">S4 Ep11 Fari nella notte...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317071500 +0100" stop="20200317080000 +0100">
+  <programme channel="rai4.raisat.it" start="20200317070000 +0100" stop="20200317074500 +0100">
     <title lang="it">Numb3rs</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Due fratelli, un...</desc>
+    <sub-title lang="it">Episodio 2</sub-title>
+    <desc lang="it">Don si...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317080000 +0100" stop="20200317084500 +0100">
-    <title lang="it">Marvel's Agents of S.H.I.E.L.D.</title>
-    <sub-title lang="it">S5</sub-title>
-    <desc lang="it">Quinta stagione per...</desc>
+  <programme channel="rai4.raisat.it" start="20200317074500 +0100" stop="20200317083000 +0100">
+    <title lang="it">Revenge</title>
+    <sub-title lang="it">Episodio 5</sub-title>
+    <desc lang="it">La festa...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 5</episode-num>
+    <episode-num system="xmltv_ns">.4.0/1</episode-num>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317084500 +0100" stop="20200317093000 +0100">
-    <title lang="it">Marvel's Agents of S.H.I.E.L.D.</title>
-    <sub-title lang="it">S5</sub-title>
-    <desc lang="it">Quinta stagione per...</desc>
+  <programme channel="rai4.raisat.it" start="20200317083000 +0100" stop="20200317091500 +0100">
+    <title lang="it">Revenge</title>
+    <sub-title lang="it">Episodio 6</sub-title>
+    <desc lang="it">Gli...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 6</episode-num>
+    <episode-num system="xmltv_ns">.5.0/1</episode-num>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317093000 +0100" stop="20200317101500 +0100">
+  <programme channel="rai4.raisat.it" start="20200317091500 +0100" stop="20200317100500 +0100">
     <title lang="it">Rosewood</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Uno straordinario...</desc>
+    <desc lang="it">S2 Ep4 Autopsie e bottini...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317101500 +0100" stop="20200317110000 +0100">
+  <programme channel="rai4.raisat.it" start="20200317100500 +0100" stop="20200317105000 +0100">
     <title lang="it">Criminal Minds</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Le avvincenti...</desc>
+    <sub-title lang="it">Episodio 8</sub-title>
+    <desc lang="it">A New...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 8</episode-num>
+    <episode-num system="xmltv_ns">.7.0/1</episode-num>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317110000 +0100" stop="20200317114500 +0100">
+  <programme channel="rai4.raisat.it" start="20200317105000 +0100" stop="20200317114500 +0100">
     <title lang="it">The Americans</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Durante la Guerra...</desc>
+    <sub-title lang="it">S5 Ep8 Addestramento</sub-title>
+    <desc lang="it">Un...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317114500 +0100" stop="20200317123500 +0100">
+  <programme channel="rai4.raisat.it" start="20200317114500 +0100" stop="20200317124000 +0100">
     <title lang="it">The Americans</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Durante la Guerra...</desc>
+    <desc lang="it">S5 Ep9 La casa del...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317123500 +0100" stop="20200317132500 +0100">
+  <programme channel="rai4.raisat.it" start="20200317124000 +0100" stop="20200317133000 +0100">
     <title lang="it">Senza traccia</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Ritrovare le persone...</desc>
+    <desc lang="it">S4 Ep3 Dalle proprie...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317132500 +0100" stop="20200317141500 +0100">
+  <programme channel="rai4.raisat.it" start="20200317133000 +0100" stop="20200317142000 +0100">
     <title lang="it">Senza traccia</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Ritrovare le persone...</desc>
+    <desc lang="it">S4 Ep4 Obblighi d'onore -...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317141500 +0100" stop="20200317150500 +0100">
+  <programme channel="rai4.raisat.it" start="20200317142000 +0100" stop="20200317151000 +0100">
     <title lang="it">Criminal Minds</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Le avvincenti...</desc>
+    <desc lang="it">S2 Ep19 Cenere e polvere...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317150500 +0100" stop="20200317155500 +0100">
+  <programme channel="rai4.raisat.it" start="20200317151000 +0100" stop="20200317155500 +0100">
     <title lang="it">Rosewood</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Uno straordinario...</desc>
+    <desc lang="it">S2 Ep5 Il potere del...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317155500 +0100" stop="20200317164500 +0100">
+  <programme channel="rai4.raisat.it" start="20200317155500 +0100" stop="20200317164000 +0100">
     <title lang="it">Numb3rs</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Due fratelli, un...</desc>
+    <desc lang="it">S4 Ep13 Il cigno nero -...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317164500 +0100" stop="20200317173000 +0100">
+  <programme channel="rai4.raisat.it" start="20200317164000 +0100" stop="20200317173000 +0100">
     <title lang="it">Numb3rs</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Due fratelli, un...</desc>
+    <sub-title lang="it">Episodio 4</sub-title>
+    <desc lang="it">Un...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 4</episode-num>
+    <episode-num system="xmltv_ns">.3.0/1</episode-num>
   </programme>
   <programme channel="rai4.raisat.it" start="20200317173000 +0100" stop="20200317181500 +0100">
-    <title lang="it">Marvel's Agents of S.H.I.E.L.D.</title>
-    <sub-title lang="it">S5</sub-title>
-    <desc lang="it">Quinta stagione per...</desc>
+    <title lang="it">Revenge</title>
+    <desc lang="it">S1 Ep17 Il dubbio -...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
   <programme channel="rai4.raisat.it" start="20200317181500 +0100" stop="20200317190000 +0100">
-    <title lang="it">Marvel's Agents of S.H.I.E.L.D.</title>
-    <sub-title lang="it">S5</sub-title>
-    <desc lang="it">Quinta stagione per...</desc>
+    <title lang="it">Revenge</title>
+    <desc lang="it">S1 Ep18 Giustizia -...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317190000 +0100" stop="20200317195000 +0100">
+  <programme channel="rai4.raisat.it" start="20200317190000 +0100" stop="20200317194500 +0100">
     <title lang="it">Senza traccia</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Ritrovare le persone...</desc>
+    <desc lang="it">S4 Ep5 Il tempo perduto -...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317195000 +0100" stop="20200317203500 +0100">
+  <programme channel="rai4.raisat.it" start="20200317194500 +0100" stop="20200317203000 +0100">
     <title lang="it">Senza traccia</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Ritrovare le persone...</desc>
+    <desc lang="it">S4 Ep6 Il sequestro -...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317203500 +0100" stop="20200317212000 +0100">
+  <programme channel="rai4.raisat.it" start="20200317203000 +0100" stop="20200317212000 +0100">
     <title lang="it">Criminal Minds</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Le avvincenti...</desc>
+    <desc lang="it">S2 Ep20 Il codice dei...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317212000 +0100" stop="20200317230000 +0100">
-    <title lang="it">Stolen</title>
-    <desc lang="it">Regia di S. West, con...</desc>
-    <category lang="it">azione</category>
+  <programme channel="rai4.raisat.it" start="20200317212000 +0100" stop="20200317230500 +0100">
+    <title lang="it">A Good Marriage</title>
+    <desc lang="it">Regia di P. Askin, con...</desc>
+    <category lang="it">thriller</category>
     <category lang="it">film</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317230000 +0100" stop="20200317233000 +0100">
+  <programme channel="rai4.raisat.it" start="20200317230500 +0100" stop="20200317233000 +0100">
     <title lang="it">Wonderland</title>
-    <desc lang="it">Il magazine settimanale...</desc>
+    <sub-title lang="it">Ep. 26</sub-title>
+    <desc lang="it">Il magazine...</desc>
     <category lang="it">magazine cinema</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="rai4.raisat.it" start="20200317233000 +0100" stop="20200318011500 +0100">
-    <title lang="it">Freaks</title>
-    <desc lang="it">Regia di Z. Lipovsky, con...</desc>
-    <category lang="it">drammatico</category>
+  <programme channel="rai4.raisat.it" start="20200317233000 +0100" stop="20200318011000 +0100">
+    <title lang="it">Babadook</title>
+    <desc lang="it">Regia di J. Kent, con...</desc>
+    <category lang="it">horror</category>
     <category lang="it">film</category>
   </programme>
   <programme channel="raigulp.rai.it" start="20200317000000 +0100" stop="20200317002500 +0100">
@@ -1648,141 +1641,165 @@
     <category lang="it">commedia</category>
     <category lang="it">film</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317011000 +0100" stop="20200317024500 +0100">
-    <title lang="it">Il mastino</title>
-    <desc lang="it">Giorgio Bruni e' un...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317024500 +0100" stop="20200317040500 +0100">
-    <title lang="it">Delitti in Paradiso</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Richard Poole,...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317040500 +0100" stop="20200317050000 +0100">
-    <title lang="it">Delitti in Paradiso</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Richard Poole,...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317050000 +0100" stop="20200317060500 +0100">
-    <title lang="it">Incantesimo</title>
-    <sub-title lang="it">S5</sub-title>
-    <desc lang="it">Le appassionanti...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317060500 +0100" stop="20200317065500 +0100">
-    <title lang="it">Incantesimo</title>
-    <sub-title lang="it">S5</sub-title>
-    <desc lang="it">Le appassionanti...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317065500 +0100" stop="20200317080000 +0100">
-    <title lang="it">Un medico in famiglia</title>
-    <sub-title lang="it">S8</sub-title>
-    <desc lang="it">Nuove vicende della...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317080000 +0100" stop="20200317091000 +0100">
-    <title lang="it">Un medico in famiglia</title>
-    <sub-title lang="it">S8</sub-title>
-    <desc lang="it">Nuove vicende della...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317091000 +0100" stop="20200317100500 +0100">
-    <title lang="it">La dama velata</title>
-    <desc lang="it">La ribelle Clara,...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317100500 +0100" stop="20200317110500 +0100">
-    <title lang="it">La dama velata</title>
-    <desc lang="it">La ribelle Clara,...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317110500 +0100" stop="20200317125000 +0100">
-    <title lang="it">Capri</title>
-    <sub-title lang="it">S3</sub-title>
-    <desc lang="it">Amori, equivoci,...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317125000 +0100" stop="20200317135500 +0100">
-    <title lang="it">Ho sposato uno sbirro 2</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Il matrimonio tra un...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317135500 +0100" stop="20200317150000 +0100">
-    <title lang="it">Ho sposato uno sbirro 2</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Il matrimonio tra un...</desc>
-    <category lang="it">fiction</category>
-    <category lang="it">intrattenimento</category>
-  </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317150000 +0100" stop="20200317150500 +0100">
+  <programme channel="raipremium.guidatv.sky.it" start="20200317150500 +0100" stop="20200317151000 +0100">
     <title lang="it">Anica Appuntamento al cinema</title>
     <desc lang="it">Rubrica per la promozione...</desc>
     <category lang="it">magazine cinema</category>
     <category lang="it">mondo e tendenze</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317150500 +0100" stop="20200317161500 +0100">
-    <title lang="it">Delitti in Paradiso</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Richard Poole,...</desc>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317004000 +0100" stop="20200317022000 +0100">
+    <title lang="it">Il mastino</title>
+    <sub-title lang="it">Ep6 Shangai</sub-title>
+    <desc lang="it">Giorgio...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317161500 +0100" stop="20200317172000 +0100">
-    <title lang="it">Delitti in Paradiso</title>
-    <sub-title lang="it">S2</sub-title>
-    <desc lang="it">Richard Poole,...</desc>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317022000 +0100" stop="20200317025000 +0100">
+    <title lang="it">L'amore in Italia</title>
+    <sub-title lang="it">Ad occhi aperti</sub-title>
+    <desc lang="it">Regia...</desc>
+    <category lang="it">documentario</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317025000 +0100" stop="20200317033500 +0100">
+    <title lang="it">Il Commissario Rex</title>
+    <desc lang="it">S12 Ep3 La scuola della...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317172000 +0100" stop="20200317182000 +0100">
-    <title lang="it">Che Dio ci aiuti</title>
-    <sub-title lang="it">S5</sub-title>
-    <desc lang="it">Da quanto il...</desc>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317033500 +0100" stop="20200317041500 +0100">
+    <title lang="it">Il Commissario Rex</title>
+    <desc lang="it">S12 Ep5 La mamma e'...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317182000 +0100" stop="20200317192000 +0100">
-    <title lang="it">Che Dio ci aiuti</title>
-    <sub-title lang="it">S5</sub-title>
-    <desc lang="it">Da quanto il...</desc>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317041500 +0100" stop="20200317050000 +0100">
+    <title lang="it">Il Commissario Rex</title>
+    <sub-title lang="it">S12 Ep6 Masquerade</sub-title>
+    <desc lang="it">Una...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317192000 +0100" stop="20200317212000 +0100">
-    <title lang="it">Un passo dal cielo</title>
-    <sub-title lang="it">S5</sub-title>
-    <desc lang="it">A San Candido arriva...</desc>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317050000 +0100" stop="20200317060000 +0100">
+    <title lang="it">Incantesimo</title>
+    <sub-title lang="it">Episodio 5</sub-title>
+    <desc lang="it">Le...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 5</episode-num>
+    <episode-num system="xmltv_ns">.4.0/1</episode-num>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317212000 +0100" stop="20200317232000 +0100">
-    <title lang="it">Come una madre</title>
-    <sub-title lang="it">S1</sub-title>
-    <desc lang="it">Una donna coraggiosa...</desc>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317060000 +0100" stop="20200317065000 +0100">
+    <title lang="it">Incantesimo</title>
+    <sub-title lang="it">Episodio 6</sub-title>
+    <desc lang="it">Le...</desc>
     <category lang="it">fiction</category>
     <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 6</episode-num>
+    <episode-num system="xmltv_ns">.5.0/1</episode-num>
   </programme>
-  <programme channel="raipremium.guidatv.sky.it" start="20200317232000 +0100" stop="20200318005500 +0100">
-    <title lang="it">Il paradiso delle signore</title>
-    <sub-title lang="it">S4</sub-title>
-    <desc lang="it">Riapre il Paradiso....</desc>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317065000 +0100" stop="20200317071000 +0100">
+    <title lang="it">Un posto al Sole</title>
+    <sub-title lang="it">Episodio 34</sub-title>
+    <desc lang="it">Le...</desc>
     <category lang="it">soap opera</category>
     <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 34</episode-num>
+    <episode-num system="xmltv_ns">.33.0/1</episode-num>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317071000 +0100" stop="20200317073500 +0100">
+    <title lang="it">Un posto al Sole</title>
+    <sub-title lang="it">Episodio 35</sub-title>
+    <desc lang="it">Le...</desc>
+    <category lang="it">soap opera</category>
+    <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 35</episode-num>
+    <episode-num system="xmltv_ns">.34.0/1</episode-num>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317073500 +0100" stop="20200317083500 +0100">
+    <title lang="it">Una pallottola nel cuore</title>
+    <desc lang="it">S3 Ep3 La maledizione di...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317083500 +0100" stop="20200317093500 +0100">
+    <title lang="it">Un medico in famiglia</title>
+    <desc lang="it">S10 Ep14 Io confesso -...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317093500 +0100" stop="20200317103500 +0100">
+    <title lang="it">Tutti pazzi per amore</title>
+    <desc lang="it">S1 Ep11 Inevitabile...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317103500 +0100" stop="20200317113000 +0100">
+    <title lang="it">Tutti pazzi per amore</title>
+    <desc lang="it">S1 Ep12 Certe notti -...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317113000 +0100" stop="20200317131500 +0100">
+    <title lang="it">Butta la luna</title>
+    <sub-title lang="it">Ep. 2</sub-title>
+    <desc lang="it">Regia di V....</desc>
+    <category lang="it">drammatico</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317131500 +0100" stop="20200317150500 +0100">
+    <title lang="it">Linda e il brigadiere</title>
+    <desc lang="it">S2 Ep2 Il cappotto...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317151000 +0100" stop="20200317160500 +0100">
+    <title lang="it">Il Commissario Rex</title>
+    <sub-title lang="it">S12 Ep6 Masquerade</sub-title>
+    <desc lang="it">Una...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317160500 +0100" stop="20200317165500 +0100">
+    <title lang="it">Il Commissario Rex</title>
+    <desc lang="it">S12 Ep7 L'ultima...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317165500 +0100" stop="20200317174500 +0100">
+    <title lang="it">Il Commissario Rex</title>
+    <desc lang="it">S12 Ep8 Un uomo solo -...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317174500 +0100" stop="20200317193500 +0100">
+    <title lang="it">Una grande famiglia - Terza serie</title>
+    <sub-title lang="it">S3 Ep4</sub-title>
+    <desc lang="it">Dopo aver...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317193500 +0100" stop="20200317212000 +0100">
+    <title lang="it">Una pallottola nel cuore</title>
+    <sub-title lang="it">S3 Ep5 Bestie feroci</sub-title>
+    <desc lang="it">Le...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317212000 +0100" stop="20200317231500 +0100">
+    <title lang="it">Il paradiso delle signore</title>
+    <sub-title lang="it">Episodio 04</sub-title>
+    <desc lang="it">Marina,...</desc>
+    <category lang="it">soap opera</category>
+    <category lang="it">intrattenimento</category>
+    <episode-num system="onscreen">Episodio 04</episode-num>
+    <episode-num system="xmltv_ns">.3.0/1</episode-num>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200317231500 +0100" stop="20200318010500 +0100">
+    <title lang="it">Purche' finisca bene: Al posto suo</title>
+    <desc lang="it">Regia di R. Donna, con...</desc>
+    <category lang="it">commedia</category>
+    <category lang="it">film</category>
   </programme>
   <programme channel="raistoria.rai.it" start="20200317023000 +0100" stop="20200317083000 +0100">
     <title lang="it">Rai Storia</title>
