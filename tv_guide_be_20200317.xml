@@ -414,6 +414,27 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C50.api.telerama.fr" start="20200317040000" stop="20200317043000">
+    <title>Journal luxembourgeois</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200317043000" stop="20200317053500">
+    <title>Télé-achat</title>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C50.api.telerama.fr" start="20200317053500" stop="20200317060000">
     <title>Heidi *2015</title>
     <sub-title>Rico</sub-title>
@@ -490,7 +511,6 @@
     <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d377990-aaec-4fcd-b15f-3081ec09f4bb.jpg" />
     <episode-num system="xmltv_ns">17.2.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -503,7 +523,6 @@
     <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d377990-aaec-4fcd-b15f-3081ec09f4bb.jpg" />
     <episode-num system="xmltv_ns">17.3.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -690,37 +709,6 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200317191000" stop="20200317200000">
-    <title>UEFA Champions League</title>
-    <category lang="fr">sport : football</category>
-    <length units="minutes">50</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/95daa173-3046-4fff-90bb-be32842e1acf.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C50.api.telerama.fr" start="20200317200000" stop="20200317214500">
-    <title>Football (Manchester City (Gbr) / Real Madrid (Esp))</title>
-    <category lang="fr">sport : football</category>
-    <length units="minutes">105</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/73369cb9-7e91-49e7-b097-135fd2f9dbef.jpg" />
-    <premiere />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C50.api.telerama.fr" start="20200317214500" stop="20200317224500">
-    <title>UEFA Champions League</title>
-    <category lang="fr">sport : football</category>
-    <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/95daa173-3046-4fff-90bb-be32842e1acf.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C50.api.telerama.fr" start="20200317224500" stop="20200317225000">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -759,7 +747,7 @@
     <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">48</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6601962c-b576-480d-b5c0-1af9267d3386.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -836,13 +824,23 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200317093000" stop="20200317103000">
+  <programme channel="C164.api.telerama.fr" start="20200317093000" stop="20200317102000">
     <title>On n'est pas des pigeons</title>
+    <sub-title>Pigeon répond à vos questions sur le Coronavirus</sub-title>
     <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
     <category lang="fr">magazine du consommateur</category>
-    <length units="hours">1</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
-    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200317102000" stop="20200317103000">
+    <title>Les jardins de rêve de Luc Noël</title>
+    <sub-title>Bijsterveld</sub-title>
+    <category lang="fr">magazine du jardinage</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7f1a73ec-c107-4315-9086-a2ccb7bf31a2.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -960,7 +958,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200317141000" stop="20200317160000">
+  <programme channel="C164.api.telerama.fr" start="20200317141000" stop="20200317154300">
     <title>Les enquêtes de Vera</title>
     <sub-title>Du sang et des os</sub-title>
     <desc lang="fr">Saison:8 - Episode:1 - L'inspectrice-chef Vera Stanhope est appelée sur la scène d'un crime sinistre. On a trouvé les restes calcinés d'un homme dans l'incinérateur d'un abattoir. Malgré le peu d'éléments dont elle dispose après l'examen medico-légal, elle finit par identifier la victime. Il s'agit de Harry Fenton, un agent de police respecté de la brigade de répression des fraudes du Northumberland. Vera et Aiden font la connaissance de sa famille endeuillée et de ses amis. Harry était membre d'un club au sein d'une communauté de pêcheurs très soudée. Vera se tourne vers les collègues d'Harry à la répression des fraudes pour essayer de trouver des réponses...</desc>
@@ -977,7 +975,7 @@
       <writer>Paul Matthew Thompson</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">110</length>
+    <length units="minutes">93</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1ab8e706-e563-4e02-b3c7-39e094e38f1d.jpg" />
     <episode-num system="xmltv_ns">7.0.</episode-num>
     <rating system="CSA">
@@ -985,15 +983,64 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200317160000" stop="20200317165000">
+  <programme channel="C164.api.telerama.fr" start="20200317154300" stop="20200317154600">
+    <title>Nos chers voisins</title>
+    <desc lang="fr">Problèmes de famille ou d'éducation, justice, religion, politique : la vie des voisins rebondit sur les sujets de société de manière drôle, cocasse ou touchante.</desc>
+    <credits>
+      <actor>Martin Lamotte</actor>
+      <actor>Christelle Reboul</actor>
+      <actor>Thierry Samitier</actor>
+      <actor>Damien Ferdel</actor>
+      <actor>Isabelle Vitari</actor>
+      <actor>Gil Alma</actor>
+      <actor>Issa Doumbia</actor>
+      <actor>Jean-Baptiste Shelmerdine</actor>
+    </credits>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">3</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200317154600" stop="20200317155000">
+    <title>Nos chers voisins</title>
+    <desc lang="fr">Problèmes de famille ou d'éducation, justice, religion, politique : la vie des voisins rebondit sur les sujets de société de manière drôle, cocasse ou touchante.</desc>
+    <credits>
+      <actor>Martin Lamotte</actor>
+      <actor>Christelle Reboul</actor>
+      <actor>Thierry Samitier</actor>
+      <actor>Damien Ferdel</actor>
+      <actor>Isabelle Vitari</actor>
+      <actor>Gil Alma</actor>
+      <actor>Issa Doumbia</actor>
+      <actor>Jean-Baptiste Shelmerdine</actor>
+    </credits>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">4</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200317155000" stop="20200317160000">
+    <title>Les jardins de rêve de Luc Noël</title>
+    <sub-title>Chez Dominique à Saintes</sub-title>
+    <category lang="fr">magazine du jardinage</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7f1a73ec-c107-4315-9086-a2ccb7bf31a2.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200317160000" stop="20200317164900">
     <title>Une vie de chiot</title>
-    <sub-title>En route pour l'aventure</sub-title>
-    <desc lang="fr">Saison:3 - Tucker, un malinois destiné à devenir chien policier, apprend à développer son flair et à mordre sans blesser. Louna, caniche nain de cinq ans, s'apprête à mettre bas. Bill, chien citadin, rencontre sa famille d'adoption et apprend à contrôler son instinct au contact de moutons. Autre spectacle rare : la naissance d'une portée de chiens nus du Mexique, une race considérée comme sacrée par les Aztèques.</desc>
+    <sub-title>Naissances multiples</sub-title>
+    <desc lang="fr">Saison:3 - Une femelle braque hongrois donne naissance à douze chiots en bonne santé mais son treizième doit faire face à un défi de taille pour réussir à marcher. Scarlett, une femelle golden retriever, se retrouve chez le vétérinaire pour une césarienne en urgence. Bill, border collie de 14 semaines, se rétablit dans une famille d'accueil provisoire après avoir été négligé par ses premiers propriétaires.</desc>
     <date>2018</date>
     <category lang="fr">documentaire : animalier</category>
-    <length units="minutes">50</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/be9d5f4a-806c-4dfc-8754-1462122617b5.jpg" />
+    <length units="minutes">49</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/14aa374b-7766-40c8-8afd-e8c3bb8464fd.jpg" />
     <episode-num system="xmltv_ns">2..</episode-num>
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1221,7 +1268,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200316233500" stop="20200317013500">
+  <programme channel="C168.api.telerama.fr" start="20200316235500" stop="20200317015500">
     <title>Jeux de nuit</title>
     <desc lang="fr">Rendez-vous pour une série de jeux télévisés interactifs. En répondant correctement aux nombreuses questions affichées, les téléspectateurs peuvent tenter leur chance afin de remporter différents gains. Ce programme regroupant plusieurs jeux offre un moment de divertissement et de bonne humeur.</desc>
     <category lang="fr">jeu</category>
@@ -1232,10 +1279,10 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200317013500" stop="20200317040000">
+  <programme channel="C168.api.telerama.fr" start="20200317015500" stop="20200317040000">
     <title>Boucle de nuit</title>
     <category lang="fr">journal</category>
-    <length units="minutes">145</length>
+    <length units="minutes">125</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1272,30 +1319,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200317112000" stop="20200317114500">
-    <title>Un si grand soleil</title>
-    <sub-title>Episode 407</sub-title>
-    <desc lang="fr">Saison:2 - Episode:148 - Alors que Guilhem s'active pour clarifier la situation, l'étau policier se resserre sur les principaux suspects. Quant à Manon, elle fait preuve de toute la compassion dont elle est capable...</desc>
-    <credits>
-      <actor>Manuel Blanc</actor>
-      <actor>Mélanie Robert</actor>
-      <actor>Stéphane Monpetit</actor>
-      <actor>Benjamin Bourgois</actor>
-      <actor>Valérie Kaprisky</actor>
-      <actor>Chrystelle Labaude</actor>
-      <actor>Gabrielle Lazure</actor>
-      <actor>Fred Bianconi</actor>
-      <writer>Toma de Matteis</writer>
-    </credits>
-    <category lang="fr">feuilleton policier</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
-    <episode-num system="xmltv_ns">1.147.</episode-num>
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C168.api.telerama.fr" start="20200317114500" stop="20200317120000">
     <title>RTL info bienvenue</title>
     <category lang="fr">journal</category>
@@ -1306,27 +1329,17 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200317120000" stop="20200317122000">
+  <programme channel="C168.api.telerama.fr" start="20200317120000" stop="20200317123000">
     <title>RTL info 13 heures</title>
     <category lang="fr">journal</category>
-    <length units="minutes">20</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200317122000" stop="20200317123500">
-    <title>RTL info avec vous</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20200317123500" stop="20200317124000">
+  <programme channel="C168.api.telerama.fr" start="20200317123000" stop="20200317123500">
     <title>Météo</title>
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
@@ -1336,43 +1349,39 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200317124000" stop="20200317124500">
-    <title>Faisons gagner la vie</title>
-    <category lang="fr">divertissement</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+  <programme channel="C168.api.telerama.fr" start="20200317123500" stop="20200317143500">
+    <title>Il n'est jamais trop tard</title>
+    <desc lang="fr">Ancien de la Marine, Larry Crowne faisait partie des cadres historiques de son entreprise, jusqu'à son licenciement soudain. Se retrouvant au chômage avec des dettes et sans savoir ce qu'il va pouvoir faire de son temps libre, Larry décide de reprendre les études. Sur le campus, il sympathise avec une bande d'étudiants passionnés de scooters et les accompagne dans leurs raids. Surtout, il tombe sous le charme de son professeur d'expression orale, Mercedes Tainot, une femme charmante mais visiblement aussi déçue par son travail que par son mariage. Larry, qui pensait que sa vie était derrrière lui, se surprend à croire qu'il est possible de vivre une nouvelle passion... - Critique : | Genre : unE vespa et ça repart. Comment repartir de zéro quand on est un quinqua licencié et endetté ? En allant à la fac... sur un scooter vintage. Du coup, on se fait plein de copains branchés, et on finit par emballer Julia Roberts, délicieuse prof de lettres parfois éméchée. Dans la catégorie « comédie romantique de la dernière chance », Tom Hanks fait dans l'optimisme naïf, hollywoodien en diable. Mais son film est suffisamment frais et enjoué pour qu'on admette que la vie est simple comme une balade en scoot... et lumineuse comme le sourire de Julia. — Guillemette Odicino</desc>
+    <credits>
+      <director>Tom Hanks</director>
+      <actor>Tom Hanks</actor>
+      <actor>Julia Roberts</actor>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Taraji P Henson</actor>
+      <actor>Gugu Mbatha-Raw</actor>
+      <actor>Wilmer Valderrama</actor>
+      <actor>Bryan Cranston</actor>
+      <actor>Pam Grier</actor>
+      <writer>Tom Hanks</writer>
+      <writer>Nia Vardalos</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">film : comédie dramatique</category>
+    <length units="hours">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/15ee6d60-20b2-4212-b0b7-1dd59f6ea32d.jpg" />
+    <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200317124500" stop="20200317143000">
-    <title>Piégée dans la vie de ma soeur jumelle</title>
-    <desc lang="fr">Le jour de leur 30e anniversaire, deux jumelles décident d'échanger leurs vies. L'une est mariée et mère de famille. L'autre est célibataire. C'est alors que celle-ci est assassinée. La survivante décide de ne rien dire et de vivre au sein de la famille de sa soeur tout en recherchant le meurtrier...</desc>
-    <credits>
-      <director>DJ Viola</director>
-      <actor>Margaret Anne Florence</actor>
-      <actor>Donny Boaz</actor>
-      <actor>Paula Abdul</actor>
-      <actor>Josh Ventura</actor>
-      <actor>Catherine Dyer</actor>
-      <actor>David Alexander Kaplan</actor>
-      <actor>Haley Rosenwasser</actor>
-      <actor>Tim McAdams</actor>
-    </credits>
-    <category lang="fr">téléfilm dramatique</category>
-    <length units="minutes">105</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/87c39a86-d0e4-418b-80a4-9acacc6e9c2f.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20200317143000" stop="20200317151500">
+  <programme channel="C168.api.telerama.fr" start="20200317143500" stop="20200317152000">
     <title>Les mamans</title>
     <desc lang="fr">Pour cette seconde saison, six jeunes mamans âgées de 24 à 30 ans nous font partager leur quotidien de mères et leur vie de femmes, leurs petits succès et leurs grandes victoires : les sorties, les fêtes de famille, les premiers pas des enfants ou encore les rencontres amoureuses.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/04ca6d95-5e7d-42ce-8eab-9b78805502f5.jpg" />
     <premiere />
@@ -1380,23 +1389,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200317151500" stop="20200317160500">
+  <programme channel="C168.api.telerama.fr" start="20200317152000" stop="20200317161000">
     <title>Les reines du shopping</title>
     <sub-title>Marie-Claude</sub-title>
     <desc lang="fr">Cette semaine, cinq binômes mère/fille qui ont déjà participé à l'émission reviennent dans la compétition. Cette fois, mères et filles vont devoir inverser les rôles.</desc>
     <category lang="fr">jeu</category>
     <length units="minutes">50</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20200317160500" stop="20200317171000">
-    <title>Chasseurs d'appart'</title>
-    <desc lang="fr">Trois agents immobiliers doivent trouver des biens à des clients dans des secteurs qu'ils ne connaissent pas forcément. A la fin de la semaine, la finale oppose les deux meilleurs, et le vainqueur peut remporter jusqu'à 3000 euros.</desc>
-    <category lang="fr">jeu</category>
-    <length units="minutes">65</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <premiere />
     <rating system="CSA">
@@ -1410,16 +1408,6 @@
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20200317172500" stop="20200317173000">
-    <title>Faisons gagner la vie</title>
-    <category lang="fr">divertissement</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1441,16 +1429,6 @@
     <category lang="fr">journal</category>
     <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20200317184000" stop="20200317185000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1531,11 +1509,198 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200316234000" stop="20200317054500">
-    <title>Fin des programmes</title>
-    <category lang="fr">fin</category>
-    <length units="minutes">365</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+  <programme channel="C187.api.telerama.fr" start="20200316235000" stop="20200317001500">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317001500" stop="20200317002400">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">9</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317002400" stop="20200317002500">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317002500" stop="20200317005500">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317005500" stop="20200317010100">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">6</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317010100" stop="20200317010500">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317010500" stop="20200317013000">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317013000" stop="20200317013900">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">9</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317013900" stop="20200317014000">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317014000" stop="20200317021000">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317021000" stop="20200317021600">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">6</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317021600" stop="20200317022000">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317022000" stop="20200317024500">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317024500" stop="20200317025400">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">9</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317025400" stop="20200317025500">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317025500" stop="20200317032500">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317032500" stop="20200317033100">
+    <title>Vews</title>
+    <desc lang="fr">Saison:1 - En alternance, Laurent Henrard et Eric Boever présentent un journal télévisé basé sur des vidéos diffusées sur le web au cours de la journée.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">6</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64a38d22-8aa8-4b54-a221-4b9db9593bf2.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317033100" stop="20200317033500">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200317033500" stop="20200317054500">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès déjà confirmé sont réunis pour le plus grand plaisir des téléspectateurs.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">130</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2237,32 +2402,127 @@ Pierre Murat</desc>
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200316234300" stop="20200317001500">
+  <programme channel="C892.api.telerama.fr" start="20200316235000" stop="20200317005000">
+    <title>Dites-moi</title>
+    <desc lang="fr">Emissions en boucle jusqu'au matin.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200317005000" stop="20200317012400">
+    <title>JT traduction gestuelle</title>
+    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">34</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200317012400" stop="20200317012500">
+    <title>Météo internationale</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200317012500" stop="20200317015000">
     <title>CQFD (Ce qui fait débat)</title>
     <desc lang="fr">Du lundi au vendredi, Arnaud Ruyssen et Catherine Tonero orchestrent un face à face contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, l'actualité de la semaine est analysée par Arnaud Ruyssen et ses invités.</desc>
     <category lang="fr">débat</category>
-    <length units="minutes">32</length>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/80d9221f-3d1d-41a8-8fe3-d6abdcac1dfc.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200317015000" stop="20200317020500">
+    <title>Tam-Tam</title>
+    <sub-title>Mise en signes</sub-title>
+    <desc lang="fr">Comment la compagnie de théâtre bilingue français/langue des signes «Sur le bout des doigts défend la place des acteurs sourds dans l'espace culturel.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200317020500" stop="20200317030000">
+    <title>Dites-moi</title>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200317030000" stop="20200317033500">
+    <title>JT traduction gestuelle</title>
+    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200317033500" stop="20200317040000">
+    <title>CQFD (Ce qui fait débat)</title>
+    <desc lang="fr">Du lundi au vendredi, Arnaud Ruyssen et Catherine Tonero orchestrent un face à face contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, l'actualité de la semaine est analysée par Arnaud Ruyssen et ses invités.</desc>
+    <category lang="fr">débat</category>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/80d9221f-3d1d-41a8-8fe3-d6abdcac1dfc.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317001500" stop="20200317050000">
-    <title>Boucle de nuit</title>
-    <desc lang="fr">Emissions en boucle jusqu'au matin.</desc>
-    <category lang="fr">programme indéterminé</category>
-    <length units="minutes">285</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+  <programme channel="C892.api.telerama.fr" start="20200317050000" stop="20200317050500">
+    <title>Loup</title>
+    <sub-title>Le Loup qui voulait faire de l'art</sub-title>
+    <desc lang="fr">Pour assouvir son désir de nouveauté, Loup ne recule devant aucun défi. Chaque journée est pour lui une nouvelle aventure.</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317050000" stop="20200317050500">
+  <programme channel="C892.api.telerama.fr" start="20200317050500" stop="20200317051500">
     <title>Loup</title>
-    <sub-title>Le Loup qui voulait être un Indien</sub-title>
-    <desc lang="fr">Saison:1 - Loup ne rêve que d'une chose : être un Indien. Il se fabrique un tipi et une coiffe de grand chef, mais il lui manque l'essentiel, un animal-totem...</desc>
-    <category lang="fr">jeunesse : dessin animé jeunesse</category>
+    <sub-title>Le Loup qui voulait faire de l'art</sub-title>
+    <desc lang="fr">Pour assouvir son désir de nouveauté, Loup ne recule devant aucun défi. Chaque journée est pour lui une nouvelle aventure.</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200317051500" stop="20200317052000">
+    <title>Loup</title>
+    <sub-title>Le Loup qui voulait faire de l'art</sub-title>
+    <desc lang="fr">Pour assouvir son désir de nouveauté, Loup ne recule devant aucun défi. Chaque journée est pour lui une nouvelle aventure.</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200317052000" stop="20200317052500">
+    <title>Loup</title>
+    <sub-title>Le Loup qui voulait devenir champion de ski</sub-title>
+    <desc lang="fr">Saison:1 - En voyant Alfred skier comme un dieu, Loup veut illico devenir champion de ski. Même s'il n'en a jamais fait. Chaussé sur ses planches, bâtons en main, il défie le fier Alfred. Sur les pans de la montagnette, seul le meilleur sortira vainqueur ! Entre chutes vertigineuses, roulés-boulés, cascades et bosses à gogo, Loup tente tant bien que mal de gagner son pari. Même si pour cela, il doit tricher...</desc>
+    <category lang="fr">série d'animation</category>
     <length units="minutes">5</length>
     <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
@@ -2270,124 +2530,59 @@ Pierre Murat</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317050500" stop="20200317051000">
+  <programme channel="C892.api.telerama.fr" start="20200317052500" stop="20200317053500">
     <title>Loup</title>
-    <sub-title>Le Loup qui voulait faire un film</sub-title>
-    <desc lang="fr">Pour assouvir son désir de nouveauté, Loup ne recule devant aucun défi. Chaque journée est pour lui une nouvelle aventure.</desc>
-    <category lang="fr">jeunesse : dessin animé jeunesse</category>
-    <length units="minutes">5</length>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317051000" stop="20200317052000">
-    <title>Loup</title>
-    <sub-title>Le Loup qui voulait tout savoir</sub-title>
-    <desc lang="fr">Pour assouvir son désir de nouveauté, Loup ne recule devant aucun défi. Chaque journée est pour lui une nouvelle aventure.</desc>
-    <category lang="fr">jeunesse : dessin animé jeunesse</category>
+    <sub-title>Le Loup qui voulait devenir champion de ski</sub-title>
+    <desc lang="fr">Saison:1 - En voyant Alfred skier comme un dieu, Loup veut illico devenir champion de ski. Même s'il n'en a jamais fait. Chaussé sur ses planches, bâtons en main, il défie le fier Alfred. Sur les pans de la montagnette, seul le meilleur sortira vainqueur ! Entre chutes vertigineuses, roulés-boulés, cascades et bosses à gogo, Loup tente tant bien que mal de gagner son pari. Même si pour cela, il doit tricher...</desc>
+    <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
+    <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317052000" stop="20200317053000">
-    <title>Loup</title>
-    <sub-title>Le Loup qui voulait être photographe</sub-title>
-    <desc lang="fr">Pour assouvir son désir de nouveauté, Loup ne recule devant aucun défi. Chaque journée est pour lui une nouvelle aventure.</desc>
-    <category lang="fr">jeunesse : dessin animé jeunesse</category>
-    <length units="minutes">10</length>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317053000" stop="20200317053100">
-    <title>C'est dans la boîte</title>
-    <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
-    <category lang="fr">emission jeunesse</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317053100" stop="20200317054400">
+  <programme channel="C892.api.telerama.fr" start="20200317053500" stop="20200317054500">
     <title>Le magicien d'Oz : Dorothy et ses amis</title>
     <sub-title>Toto, interprète</sub-title>
     <desc lang="fr">Saison:1 - Episode:11 - Quand Ozma et Dorothy ont prononcé le même mot en même temps, le sort du silence a été jeté. Pour y mettre un terme, il n'y a qu'une solution : demander à Yak Yakity Yak son cornet à piston...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">13</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7ed45da7-c52e-473a-82fc-e4d843430477.jpg" />
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317054400" stop="20200317054500">
-    <title>C'est dans la boîte</title>
-    <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
-    <category lang="fr">emission jeunesse</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317054500" stop="20200317055800">
+  <programme channel="C892.api.telerama.fr" start="20200317054500" stop="20200317055500">
     <title>Les Pyjamasques</title>
     <sub-title>Yoyo pas rapido</sub-title>
     <desc lang="fr">Saison:2 - Quand sonne minuit, Yoyo, Gluglu et Bibou enfilent leurs pyjamas spéciaux. Ils deviennent les Pyjamasques et déambulent dans la nuit, au lieu d'être dans leur lit. Dotés de pouvoirs particuliers, les trois inséparables vivent des aventures extraordinaires.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">13</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">1..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317055800" stop="20200317060000">
-    <title>C'est dans la boîte</title>
-    <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
-    <category lang="fr">emission jeunesse</category>
-    <length units="minutes">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317060000" stop="20200317061200">
+  <programme channel="C892.api.telerama.fr" start="20200317055500" stop="20200317061000">
     <title>Paw Patrol, la Pat'Patrouille</title>
     <sub-title>Joyeux Noël, les amis !</sub-title>
     <desc lang="fr">Saison:1 - Episode:11 - Lorsque le traîneau du Père Noël s'écrase et que les rennes s'enfuient, Ryder et la Pat'Patrouille aident le bon vieillard à livrer les cadeaux des enfants à temps...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">12</length>
+    <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/697927d6-cafd-4043-a368-e2b8377652e6.jpg" />
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317061200" stop="20200317061500">
-    <title>C'est dans la boîte</title>
-    <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
-    <category lang="fr">emission jeunesse</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317061500" stop="20200317063500">
+  <programme channel="C892.api.telerama.fr" start="20200317061000" stop="20200317063500">
     <title>Trolls : en avant la musique !</title>
     <sub-title>La fête des jeux</sub-title>
     <desc lang="fr">Saison:1 - Episode:23 - Guy risque de se faire éclipser aux jeux par un nouveau concurrent...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a232d3f4-df76-4913-a83a-114385eee920.jpg" />
     <episode-num system="xmltv_ns">0.22.</episode-num>
     <previously-shown />
@@ -2396,6 +2591,18 @@ Pierre Murat</desc>
     </rating>
   </programme>
   <programme channel="C892.api.telerama.fr" start="20200317063500" stop="20200317064500">
+    <title>Sonic Boom</title>
+    <sub-title>Il y a un nouveau méchant en ville</sub-title>
+    <desc lang="fr">Saison:1 - Episode:38 - Long et parsemé d'embûches est le parcours d'un stagiaire pour devenir le plus grand génie du mal...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b18eab9b-c2e7-4664-984e-71ce1c53df03.jpg" />
+    <episode-num system="xmltv_ns">0.37.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200317064500" stop="20200317065500">
     <title>Sonic Boom</title>
     <sub-title>Question de points de vue</sub-title>
     <desc lang="fr">Saison:1 - Episode:42 - L'atelier de Tails a entièrement brûlé. Chacun a sa propre version des faits pour expliquer cet incident...</desc>
@@ -2407,60 +2614,46 @@ Pierre Murat</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317064500" stop="20200317070000">
+  <programme channel="C892.api.telerama.fr" start="20200317065500" stop="20200317070500">
     <title>Sonic Boom</title>
     <sub-title>Leçons de séduction</sub-title>
     <desc lang="fr">Saison:1 - Episode:40 - Tous les outils du village ont disparu. La piste du vol mène vers une bande de robots renégats...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b18eab9b-c2e7-4664-984e-71ce1c53df03.jpg" />
     <episode-num system="xmltv_ns">0.39.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317070000" stop="20200317071000">
-    <title>Sonic Boom</title>
-    <sub-title>Comme des lions en cage</sub-title>
-    <desc lang="fr">Saison:1 - Episode:48 - La bande s'abrite d'une tornade chez Amy. Tout s'emballe quand ils découvrent qu'Amy a écrit une pièce de théatre décrivant chacun d'eux en termes peu flatteurs...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b18eab9b-c2e7-4664-984e-71ce1c53df03.jpg" />
-    <episode-num system="xmltv_ns">0.47.</episode-num>
+  <programme channel="C892.api.telerama.fr" start="20200317070500" stop="20200317072000">
+    <title>C'est dans la boîte</title>
+    <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
+    <category lang="fr">emission jeunesse</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317071000" stop="20200317072000">
-    <title>Sonic Boom</title>
-    <sub-title>La guerre des boys band</sub-title>
-    <desc lang="fr">Saison:1 - Episode:39 - Les filles de l'équipe craquent complètement pour Justin Beaver, la nouvelle idole de la musique, coachée par un producteur louche. Au point que les garçons montent leur propre boys band pour en savoir plus sur ce qu'il se trame...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b18eab9b-c2e7-4664-984e-71ce1c53df03.jpg" />
-    <episode-num system="xmltv_ns">0.38.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317072000" stop="20200317073000">
+  <programme channel="C892.api.telerama.fr" start="20200317072000" stop="20200317073500">
     <title>Alvinnn !!! et les Chipmunks</title>
     <sub-title>La course à la pizza</sub-title>
     <desc lang="fr">Saison:3 - Episode:39 - Très content de lui, Simon réussit à concevoir un drone capable de livrer des pizzas à domicile. Mais la machine est douée d'intelligence artificielle et modifie son comportement. Très vite, cette nouvelle invention sème la panique en ville...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/15033561-052c-4bed-af3c-84e65169b192.jpg" />
     <episode-num system="xmltv_ns">2.38.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317073000" stop="20200317074500">
+  <programme channel="C892.api.telerama.fr" start="20200317073500" stop="20200317074500">
     <title>Alvinnn !!! et les Chipmunks</title>
     <sub-title>Chocolat super chaud</sub-title>
     <desc lang="fr">Saison:3 - Episode:48 - Theodore a le moral à zéro après s'être brûlé la langue avec du chocolat beaucoup trop chaud. En conséquence, il a momentanément perdu tout sens du goût...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/15033561-052c-4bed-af3c-84e65169b192.jpg" />
     <episode-num system="xmltv_ns">2.47.</episode-num>
     <rating system="CSA">
@@ -2479,31 +2672,31 @@ Pierre Murat</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317075500" stop="20200317080000">
+  <programme channel="C892.api.telerama.fr" start="20200317075500" stop="20200317080500">
     <title>Paf le chien</title>
     <sub-title>La chenille</sub-title>
     <desc lang="fr">Saison:1 - Episode:3 - Pour l'école, Lola doit s'occuper d'une chenille extrêmement rare. Mais celle-ci attire la convoitise des Guanos qui la voit bien saignante pour leur repas. De surcroît, Capuche a décidé de jouer avec la larve. Quand celle-ci disparaît, c'est l'angoisse pour Lola. Mais Paf veille...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c4e59dd-5eae-421f-ad0d-97fa478bff68.jpg" />
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317080000" stop="20200317081500">
+  <programme channel="C892.api.telerama.fr" start="20200317080500" stop="20200317081000">
     <title>Paf le chien</title>
     <sub-title>Paf ramène sa fraise</sub-title>
     <desc lang="fr">Saison:1 - Episode:4 - Lola et Paf ont un petit jardin où ils cultivent une fraise. Une seule certes, mais magnifique. Comme chaque année, ce fruit magnifique va servir à confectionner la spécialité culinaire des deux amis, la tartalopaf...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">15</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c4e59dd-5eae-421f-ad0d-97fa478bff68.jpg" />
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317081500" stop="20200317082500">
+  <programme channel="C892.api.telerama.fr" start="20200317081000" stop="20200317082000">
     <title>Paf le chien</title>
     <sub-title>Attraction pas réciproque</sub-title>
     <desc lang="fr">Saison:1 - Episode:5 - Lola organise une après-midi jeux avec ses copains. Mais lorsque Victor surgit avec la dernière console du moment, la petite fille à l'air bien penaude avec son jeu fait maison. C'est certain, ses amis préféreront aller chez Victor...</desc>
@@ -2515,7 +2708,7 @@ Pierre Murat</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317082500" stop="20200317083500">
+  <programme channel="C892.api.telerama.fr" start="20200317082000" stop="20200317083000">
     <title>Belle et Sébastien *2017</title>
     <sub-title>Première rencontre : la traque</sub-title>
     <desc lang="fr">Saison:1 - Episode:34 - Tout en essayant d'échapper à la surveillance d'Eleyna, Sébastien raconte à Soren et Adèle comment il est pervenu à apprivoiser Belle alors que la chienne était encore sauvage. A l'époque, Sébastien avait sauvé une première fois Belle d'une tentative d'Anton pour la capturer...</desc>
@@ -2527,31 +2720,31 @@ Pierre Murat</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317083500" stop="20200317084500">
+  <programme channel="C892.api.telerama.fr" start="20200317083000" stop="20200317084500">
     <title>Belle et Sébastien *2017</title>
     <sub-title>Le devoir</sub-title>
     <desc lang="fr">Saison:1 - Episode:35 - Sébastien se voit offrir une occasion inespérée de remonter sa moyenne : réaliser un exposé sur les animaux de la montagne. En découvrant le sujet, Caméo regrette d'avoir parié trop vite qu'il aurait une meilleure note que Sébastien. Il décide de suivre Belle et Sébastien en montagne, afin de copier leurs recherches pour son devoir. Mais Caméo ne sait pas éviter les dangers comme eux...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/01b334c1-a3eb-4c37-a139-6bf2f5ecc0d8.jpg" />
     <episode-num system="xmltv_ns">0.34.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317084500" stop="20200317090000">
+  <programme channel="C892.api.telerama.fr" start="20200317084500" stop="20200317085500">
     <title>Belle et Sébastien *2017</title>
     <sub-title>La montagne en feu</sub-title>
     <desc lang="fr">Saison:1 - Episode:36 - César prête à Soren une grosse loupe pour partir à la découverte du microcosme de la montagne avec Adèle, Belle et Sébastien. Mais lorsque les enfants, effrayés par Yvan qui les chasse de son champ, oublient la loupe sur un rocher, le fermier bougon jette celle-ci sans réaliser qu'elle risque de provoquer un incendie sous le soleil éclatant...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6851b1d0-397a-4d39-a93e-9dc4fe54d16b.jpg" />
     <episode-num system="xmltv_ns">0.35.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317090000" stop="20200317092500">
+  <programme channel="C892.api.telerama.fr" start="20200317085500" stop="20200317092000">
     <title>Les mystérieuses cités d'or *2012</title>
     <sub-title>Kagoschima</sub-title>
     <desc lang="fr">Saison:3 - Episode:1 - De retour dans la Nef, Esteban apprend de Li Shuang que ses ancêtres étaient des Atlantes. Tao écoute la discussion et ne sait que penser de ce qu'il entend...</desc>
@@ -2563,24 +2756,24 @@ Pierre Murat</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317092500" stop="20200317094500">
+  <programme channel="C892.api.telerama.fr" start="20200317092000" stop="20200317094500">
     <title>Les mystérieuses cités d'or *2012</title>
     <sub-title>Le Daimyo Shimazu</sub-title>
     <desc lang="fr">Saison:3 - Episode:2 - Après avoir découvert une deuxième cité en Chine, Esteban, Tao et Zia mettent le cap sur le Japon. Au fil de leurs aventures, les jeunes héros en apprennent davantage sur la civilisation de Mu. Face à eux se dresse à nouveau Zarès, qui a enlevé Atanaos, le père d'Esteban, ainsi qu'un certain Gaspard.</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/75f5427a-4ab8-4085-a77b-fec99f54c7d1.jpg" />
     <episode-num system="xmltv_ns">2.1.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317094500" stop="20200317101000">
+  <programme channel="C892.api.telerama.fr" start="20200317094500" stop="20200317100500">
     <title>Trop cool, Scooby-Doo !</title>
     <sub-title>L'ABC du mystère</sub-title>
     <desc lang="fr">Saison:1 - Episode:1 - Véra doit passer un entretien afin d'intégrer l'université Elias Kingston, la plus prestigieuse du monde. Cependant, la bande d'amis découvre que le fondateur de l'établissement revient sous forme de fantôme et terrorise les étudiants. L'équipe découvre que c'est Mitchell, l'employé de la station service, aidé de son père Joe, qui était derrière ce mystère. La candidature de Mitchell n'ayant pas été retenue, le père et le fils ont décidé de se venger en effrayant les étudiants et en faisant peser des soupçons de détournement d'argent sur le doyen Longfellow...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f5143968-186b-44da-9423-f1cdf9b8d211.jpg" />
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <previously-shown />
@@ -2588,7 +2781,7 @@ Pierre Murat</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317101000" stop="20200317103000">
+  <programme channel="C892.api.telerama.fr" start="20200317100500" stop="20200317102500">
     <title>Trop cool, Scooby-Doo !</title>
     <sub-title>Monstres et mystères de 1899</sub-title>
     <desc lang="fr">Saison:1 - Episode:8 - La bande d'amis participe à un jeu de rôle annuel chez Lady de Hurlevent intitulé «Monstres et Mystères». Il s'agit cette fois de la reconstitution d'un incident de 1899 avec un Comte-sans-tête qui erre dans le manoir à la recherche d'une nouvelle tête. Chacun endosse son personnage et l'enquête commence. Qui sera le coupable : le marjordome ? la domestique ? Le clown ? l'ami d'enfance de Daphné ? Bientôt le voile sera levé...</desc>
@@ -2601,7 +2794,7 @@ Pierre Murat</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317103000" stop="20200317105000">
+  <programme channel="C892.api.telerama.fr" start="20200317102500" stop="20200317104500">
     <title>Tom et Jerry Show</title>
     <sub-title>Tout le monde dans la piscine. - Sosies et jumeaux. - Tom et Jerry contre Mr Hyde</sub-title>
     <desc lang="fr">Episode:13 -</desc>
@@ -2613,12 +2806,12 @@ Pierre Murat</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317105000" stop="20200317111000">
+  <programme channel="C892.api.telerama.fr" start="20200317104500" stop="20200317111000">
     <title>Tom et Jerry Show</title>
     <sub-title>L'oiseau aux mille et une voix. - Opération fromage. - Le coup de fatigue</sub-title>
     <desc lang="fr">Episode:1 -</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/133f158e-6a8a-4507-8702-62cbf621ea9b.jpg" />
     <episode-num system="xmltv_ns">.0.</episode-num>
     <rating system="CSA">
@@ -2651,12 +2844,12 @@ Pierre Murat</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317114500" stop="20200317115500">
+  <programme channel="C892.api.telerama.fr" start="20200317114500" stop="20200317120000">
     <title>Belle et Sébastien *2017</title>
     <sub-title>Le pacte</sub-title>
     <desc lang="fr">Saison:1 - Episode:19 - Sébastien et Caméo se disputent à coups de jets de champignons, ce qui provoque une allergie sévère chez Gabriel. Les deux ennemis sont pris de remords et tentent de se rattraper en faisant un pacte pour surmonter leur inimitié...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1f5ee4d5-9af6-4d33-b0a8-5458c39c1b26.jpg" />
     <episode-num system="xmltv_ns">0.18.</episode-num>
     <previously-shown />
@@ -2664,7 +2857,7 @@ Pierre Murat</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317115500" stop="20200317120500">
+  <programme channel="C892.api.telerama.fr" start="20200317120000" stop="20200317121000">
     <title>Belle et Sébastien *2017</title>
     <sub-title>Le refuge du Grand Baou</sub-title>
     <desc lang="fr">Saison:1 - Episode:20 - Quand Elenya décide de détruire le refuge du grand baou, Sébastien est sous le choc. Adèle, surprise par la réaction de son ami, découvre que c'est dans ce refuge que la mère de Sébastien a vécu ses derniers instants...</desc>
@@ -2677,7 +2870,7 @@ Pierre Murat</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317120500" stop="20200317123000">
+  <programme channel="C892.api.telerama.fr" start="20200317121000" stop="20200317123500">
     <title>Arthur et les Minimoys</title>
     <sub-title>Araknophobie</sub-title>
     <desc lang="fr">Saison:1 - Episode:10 - Catastrophe à la Souche ! Arak a disparu, et sa toile, en lambeaux, ne protège plus le village contre une attaque aérienne séide ! Bétamèche a l'idée de fabriquer une fausse araignée-marionnette qu'il pilote de l'intérieur. La vue de ce subterfuge retient un peu les Séides, mais l'illusion ne dure que peu de temps, et l'attaque est imminente. Nos héros ont très peu de temps pour retrouver la véritable Arak...</desc>
@@ -2689,7 +2882,7 @@ Pierre Murat</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317123000" stop="20200317125000">
+  <programme channel="C892.api.telerama.fr" start="20200317123500" stop="20200317130000">
     <title>Les sirènes de Mako</title>
     <sub-title>Un rhume explosif</sub-title>
     <desc lang="fr">Saison:2 - Episode:24 - Evie tombe malade et crache du feu quand elle éternue. Carly la voit incendier un parasol et se pose des questions. Toutes les sirènes tombent malades ce qui déclenche de nombreux incidents...</desc>
@@ -2707,13 +2900,13 @@ Pierre Murat</desc>
       <writer>Sam Carroll</writer>
     </credits>
     <category lang="fr">série fantastique</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <episode-num system="xmltv_ns">1.23.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317125000" stop="20200317131500">
+  <programme channel="C892.api.telerama.fr" start="20200317130000" stop="20200317132500">
     <title>Les sirènes de Mako</title>
     <sub-title>La pierre de convoitise</sub-title>
     <desc lang="fr">Episode:25 - Dans les eaux bleues de l'île de Mako, la vie de trois sirènes bascule lorsqu'elles rencontrent un adolescent doté de capacités étonnantes.</desc>
@@ -2735,7 +2928,7 @@ Pierre Murat</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317131500" stop="20200317134000">
+  <programme channel="C892.api.telerama.fr" start="20200317132500" stop="20200317134500">
     <title>Les sirènes de Mako</title>
     <sub-title>La pierre du trident</sub-title>
     <desc lang="fr">Saison:2 - Episode:26 - Eric s'est emparé de la pierre du trident et compte activer la chambre des tritons avec. Les sirènes et Zac font tout pour l'en empécher...</desc>
@@ -2753,54 +2946,54 @@ Pierre Murat</desc>
       <writer>Mark Shirrefs</writer>
     </credits>
     <category lang="fr">série fantastique</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <episode-num system="xmltv_ns">1.25.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317134000" stop="20200317140000">
+  <programme channel="C892.api.telerama.fr" start="20200317134500" stop="20200317141000">
     <title>Trop cool, Scooby-Doo !</title>
     <sub-title>Accusé Fred Jones, levez-vous !</sub-title>
     <desc lang="fr">Saison:1 - Episode:26 - Fred se retrouve sur le banc des accusés et doit répondre d'une accusation de vol : on lui reproche d'avoir pillé les magasins d'une ville-fantôme, abandonné par la population après une catastrophe écologique majeure. Son avocat n'est nulle autre que Daphné, qui a gagné son titre dans un jeu vidéo...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f5143968-186b-44da-9423-f1cdf9b8d211.jpg" />
     <episode-num system="xmltv_ns">0.25.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317140000" stop="20200317141500">
+  <programme channel="C892.api.telerama.fr" start="20200317141000" stop="20200317141500">
     <title>La chouette &amp; Cie</title>
     <sub-title>Chouettus altius fortius</sub-title>
     <desc lang="fr">Saison:1 - Episode:19 - Un flamant rose en route vers le sud fait une halte sur la branche de la chouette. Il lui propose de s'envoler avec lui vers ses horizons lointains. La chouette est tentée de quitter ses envahissants voisins mais elle ne sait pas voler. Lorsque le flamant rose découvre cette aberration pour un rapace, il décide de lui apprendre lui-même à voler, par tous les moyens...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4027f4fc-b2f8-4897-82f0-8b727d6b1fd2.jpg" />
     <episode-num system="xmltv_ns">0.18.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317141500" stop="20200317142000">
+  <programme channel="C892.api.telerama.fr" start="20200317141500" stop="20200317142500">
     <title>La chouette &amp; Cie</title>
     <sub-title>Super chouette</sub-title>
     <desc lang="fr">Saison:1 - Episode:20 - Le phasme veut aider la chouette a attraper des chenilles en la transformant en super-héros, grâce à une cabine à rayons gamma. Au moment de l'irradiation, il y a substitution et c'est le mouton qui est transformé par erreur. Frustré, la chouette veut recommencer l'expérience mais la machine est endommagée : il risquerait de se transformer en super-vilain. La chouette est prêt à prendre le risque mais pas super-mouton...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4027f4fc-b2f8-4897-82f0-8b727d6b1fd2.jpg" />
     <episode-num system="xmltv_ns">0.19.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317142000" stop="20200317144500">
+  <programme channel="C892.api.telerama.fr" start="20200317142500" stop="20200317144500">
     <title>Inspecteur Gadget *2015</title>
     <sub-title>Du simple au double. - Go go Gadget-o-coeur</sub-title>
     <desc lang="fr">Saison:1 - Episode:20 - «Du simple au double». Sophie est si contrariée de s'être fâchée avec son oncle Gadget qu'elle ne remarque même pas que MAD a créé un vilain clone d'elle pour infiltrer le QG. Gadget est rapidement mis en danger par le clone, alors que Sophie est distraite par un mauvais résultat reçu dans une épreuve impliquant des holo-agents. - «Go go Gadget-o-coeur». Sue Donym, une agente de MAD, utilise un site de rencontre pour voler des secrets aux meilleurs agents célibataires du monde, et il se trouve que Gadget est dans sa mire. À la Saint-Valentin, Gadget a la mission d'arrêter cette vilaine adepte des rencontres amoureuses...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/231ebfe2-7633-4ceb-b42b-62be89b39120.jpg" />
     <episode-num system="xmltv_ns">0.19.</episode-num>
     <rating system="CSA">
@@ -2819,113 +3012,91 @@ Pierre Murat</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317145500" stop="20200317150500">
+  <programme channel="C892.api.telerama.fr" start="20200317145500" stop="20200317151000">
     <title>Alvinnn !!! et les Chipmunks</title>
     <sub-title>Al-Brittina</sub-title>
     <desc lang="fr">Saison:1 - Episode:11 - Alvin tombe sur Simon en train de faire un test de personnalité pour découvrir son âme soeur et décide de faire à son tour le test. Celui-ci lui révèle que son âme soeur est Brittany. Alvin emploi les grands moyens pour plaire à cette dernière...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5eae0905-7b2c-4437-afc5-ca1b53bfc958.jpg" />
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317150500" stop="20200317152000">
+  <programme channel="C892.api.telerama.fr" start="20200317151000" stop="20200317152000">
     <title>Alvinnn !!! et les Chipmunks</title>
     <sub-title>Le père modèle</sub-title>
     <desc lang="fr">Saison:1 - Episode:20 - Quand Dave se retrouve cloué au lit par une mauvaise grippe, Alvin se propose immédiatement de prendre la relève et d'assumer ses devoirs de père. Mais il va vite apprendre qu'être parent est bien difficile...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b9fb3615-4ac6-4261-84bc-830f70fadd3e.jpg" />
     <episode-num system="xmltv_ns">0.19.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317152000" stop="20200317152100">
+  <programme channel="C892.api.telerama.fr" start="20200317152000" stop="20200317153500">
     <title>C'est dans la boîte</title>
     <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
     <category lang="fr">emission jeunesse</category>
-    <length units="minutes">1</length>
+    <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317152100" stop="20200317153400">
+  <programme channel="C892.api.telerama.fr" start="20200317153500" stop="20200317154500">
     <title>Le monde selon Kev</title>
     <sub-title>Le jour où j'ai eu un don</sub-title>
     <desc lang="fr">Saison:1 - Afin de rivaliser avec le don artistique de Stan, Kev s'invente le don de voir l'avenir. Il devient alors très populaire dans la cour de récréation. Mais cette nouvelle popularité ne plaît pas à Stan, qui jaloux, l'oblige à prédire à la classe un évènement surprenant...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">13</length>
+    <length units="minutes">10</length>
     <episode-num system="xmltv_ns">0..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317153400" stop="20200317153500">
-    <title>C'est dans la boîte</title>
-    <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
-    <category lang="fr">emission jeunesse</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317153500" stop="20200317154800">
+  <programme channel="C892.api.telerama.fr" start="20200317154500" stop="20200317154800">
     <title>Molusco</title>
     <sub-title>Molusclown</sub-title>
     <desc lang="fr">Saison:1 - Episode:12 - Molusco pense qu'il n'a pas de sens de l'humour, du moins pas le même que celui de ses congénères humains. Il décide d'y travailler et se met à monter des blagues et des spectacles à tout bout de champ...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">13</length>
+    <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/401e7e39-38c9-4cb5-828d-41ccf1aef40c.jpg" />
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317154800" stop="20200317155000">
+  <programme channel="C892.api.telerama.fr" start="20200317154800" stop="20200317160000">
     <title>C'est dans la boîte</title>
     <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
     <category lang="fr">emission jeunesse</category>
-    <length units="minutes">2</length>
+    <length units="minutes">12</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317155000" stop="20200317160200">
+  <programme channel="C892.api.telerama.fr" start="20200317160000" stop="20200317160200">
     <title>Les Sisters</title>
     <sub-title>Le gros lot</sub-title>
     <desc lang="fr">Saison:2 - Episode:12 - Le gros lot de la tombola de l'école est une tablette que Marine veut absolument gagner. Wendy voit là l'occasion de ne plus devoir partager la sienne et veut aider sa sister à s'acheter un maximum de tickets pour mettre toutes les chances de leur côté...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">12</length>
+    <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f7bbcd5f-d5ca-441b-a15c-18a7df4936d4.jpg" />
     <episode-num system="xmltv_ns">1.11.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317160200" stop="20200317160500">
+  <programme channel="C892.api.telerama.fr" start="20200317160200" stop="20200317161000">
     <title>C'est dans la boîte</title>
     <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
     <category lang="fr">emission jeunesse</category>
-    <length units="minutes">3</length>
+    <length units="minutes">8</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200317160500" stop="20200317162500">
-    <title>Miraculous, les aventures de Ladybug et Chat Noir</title>
-    <sub-title>Le Chevalier Noir</sub-title>
-    <desc lang="fr">Saison:1 - Episode:12 - En cherchant à ridiculiser Marinette pour l'empêcher d'être élue déléguée de classe, Chloé a mis la main sur son journal intime, dans lequel Marinette dévoile sa double identité. Alors qu'elle tente de le récupérer, le professeur d'escrime d'Adrien, battu aux élections municipales, est akumatisé et devient Le Chevalier Noir...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1fd1f0c4-14f3-45cf-b95d-efb4ddbe14b2.jpg" />
-    <episode-num system="xmltv_ns">0.11.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3140,7 +3311,7 @@ Cette bouffonnerie déguisée en polar, franchouillarde et franchement décousue
     <title>Bains publics</title>
     <desc lang="fr">Au coeur de Bruxelles, le quartier populaire des Marolles abrite «Les Bains de Bruxelles», un lieu atypique qui, depuis près de 65 ans, propose deux bassins de natation et des douches publiques aux habitants. Des personnages d'origine, de classe sociale et d'âge différents viennent se ressourcer dans cet environnement apaisant. Gros plan sur ce lieu où des personnes de catégories très variées se croisent, s'entraînent, se lavent et conversent.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">100</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/59dd7c04-c17a-47ee-9e07-e9069858275d.jpg" />
     <rating system="CSA">
@@ -4096,15 +4267,6 @@ Cette bouffonnerie déguisée en polar, franchouillarde et franchement décousue
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200317232500" stop="20200317233000">
-    <title>Faisons gagner la vie</title>
-    <category lang="fr">divertissement</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C168.api.telerama.fr" start="20200317233000" stop="20200317233500">
     <title>Météo</title>
     <category lang="fr">météo</category>
@@ -4141,16 +4303,6 @@ Cette bouffonnerie déguisée en polar, franchouillarde et franchement décousue
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200317234500" stop="20200318010000">
-    <title>Formule 1 (Grand Prix d'Australie)</title>
-    <category lang="fr">sport : formule 1</category>
-    <length units="minutes">75</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/913f58a1-ed68-4d70-b90d-6a4be6929f60.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
