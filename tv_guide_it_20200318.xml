@@ -3,6 +3,16 @@
   <channel id="www.la7.it">
     <display-name>La7</display-name>
   </channel>
+  <channel id="rainews.guidatv.sky.it">
+    <display-name>RAI News</display-name>
+    <display-name>508</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/895_home.png" />
+  </channel>
+  <channel id="raisport.guidatv.sky.it">
+    <display-name>RAI Sport</display-name>
+    <display-name>227</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/807_home.png" />
+  </channel>
   <channel id="www.raiuno.rai.it">
     <display-name>Rai 1</display-name>
   </channel>
@@ -23,6 +33,8 @@
   </channel>
   <channel id="raipremium.guidatv.sky.it">
     <display-name>Rai Premium</display-name>
+    <display-name>5025</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6623_home.png" />
   </channel>
   <channel id="raiscuola.rai.it">
     <display-name>Rai Scuola</display-name>
@@ -36,4 +48,162 @@
   <channel id="yoyo.raisat.it">
     <display-name>Yoyo</display-name>
   </channel>
+  <programme channel="www.la7.it" start="20200318235000" stop="20200319000000">
+    <title lang="it">Tg La7</title>
+    <desc lang="it">Le notizie d'attualita' e...</desc>
+    <category lang="it">notiziario</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200318230000" stop="20200318233000">
+    <title lang="it">News</title>
+    <desc lang="it">Notizie, i fatti ed i...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200318233000" stop="20200318235500">
+    <title lang="it">News + Rassegna stampa</title>
+    <desc lang="it">La rassegna stampa delle...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200318235500" stop="20200319000000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Informazioni sul tempo...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="raisport.guidatv.sky.it" start="20200318232000" stop="20200319010000">
+    <title lang="it">Volley: Coppa Italia F</title>
+    <desc lang="it">Coppa Italia F, Finale -...</desc>
+    <category lang="it">volley</category>
+    <category lang="it">sport</category>
+  </programme>
+  <programme channel="rai4.raisat.it" start="20200318231500" stop="20200319001000">
+    <title lang="it">The Fall - Caccia al Serial Killer</title>
+    <sub-title lang="it">S1 Ep4</sub-title>
+    <desc lang="it">Eastwood, grazie...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raigulp.rai.it" start="20200318230000" stop="20200318232500">
+    <title lang="it">Sailor Moon Crystal</title>
+    <sub-title lang="it">Episodio 3</sub-title>
+    <desc lang="it">La giovane Usagi...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 3</episode-num>
+    <episode-num system="xmltv_ns">.2.0/1</episode-num>
+  </programme>
+  <programme channel="raigulp.rai.it" start="20200318232500" stop="20200318233500">
+    <title lang="it">Il libro della giungla</title>
+    <sub-title lang="it">Episodio 7</sub-title>
+    <desc lang="it">Mowgli ascolta...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 7</episode-num>
+    <episode-num system="xmltv_ns">.6.0/1</episode-num>
+  </programme>
+  <programme channel="raigulp.rai.it" start="20200318233500" stop="20200318234500">
+    <title lang="it">Il libro della giungla</title>
+    <desc lang="it">S2 Ep48 Super Darzee -...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="raigulp.rai.it" start="20200318234500" stop="20200319001000">
+    <title lang="it">Le nuove avventure di Peter Pan</title>
+    <desc lang="it">S1 Ep11 Caccia al tesoro...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200318230500" stop="20200318233000">
+    <title lang="it">Movie Mag</title>
+    <desc lang="it">Il magazine che,...</desc>
+    <category lang="it">magazine cinema</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200318233000" stop="20200319013000">
+    <title lang="it">Gli invisibili</title>
+    <desc lang="it">Regia di O. Moverman, con...</desc>
+    <category lang="it">drammatico</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200318235500" stop="20200319013500">
+    <title lang="it">L'ispettore Sarti</title>
+    <desc lang="it">S2 Brindisi di...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raistoria.rai.it" start="20200318230000" stop="20200318230500">
+    <title lang="it">RaiNews24</title>
+    <desc lang="it">Le ultime notizie in...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="raistoria.rai.it" start="20200318230500" stop="20200318232000">
+    <title lang="it">Il giorno e la storia</title>
+    <desc lang="it">Una selezioni dei...</desc>
+    <category lang="it">storia</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="raistoria.rai.it" start="20200318232000" stop="20200319000000">
+    <title lang="it">Passato e Presente</title>
+    <desc lang="it">Le quattro giornate di...</desc>
+    <category lang="it">storia</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200318234500" stop="20200319001500">
+    <title lang="it">Bon Jovi</title>
+    <sub-title lang="it">Paul Simon</sub-title>
+    <desc lang="it">Interviste,...</desc>
+    <category lang="it">musica</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200318235000" stop="20200318235500">
+    <title lang="it">Kit e Kate</title>
+    <sub-title lang="it">Ep7</sub-title>
+    <desc lang="it">Kit e Kate amano...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200318235500" stop="20200319000000">
+    <title lang="it">Kit e Kate</title>
+    <sub-title lang="it">Ep8</sub-title>
+    <desc lang="it">Kit e Kate amano...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200318230500" stop="20200318232000">
+    <title lang="it">La Famiglia Volpitassi</title>
+    <sub-title lang="it">Episodio 6</sub-title>
+    <desc lang="it">La vita di due...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 6</episode-num>
+    <episode-num system="xmltv_ns">.5.0/1</episode-num>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200318232000" stop="20200318233000">
+    <title lang="it">Chuggington</title>
+    <sub-title lang="it">Episodio 5</sub-title>
+    <desc lang="it">Nella meravigliosa...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 5</episode-num>
+    <episode-num system="xmltv_ns">.4.0/1</episode-num>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200318233000" stop="20200318234500">
+    <title lang="it">Chuggington</title>
+    <sub-title lang="it">Episodio 6</sub-title>
+    <desc lang="it">Nella meravigliosa...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 6</episode-num>
+    <episode-num system="xmltv_ns">.5.0/1</episode-num>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200318234500" stop="20200318235000">
+    <title lang="it">Kit e Kate</title>
+    <sub-title lang="it">Ep6</sub-title>
+    <desc lang="it">Kit e Kate amano...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
 </tv>

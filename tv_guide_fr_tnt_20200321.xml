@@ -319,7 +319,7 @@
   <programme channel="C4.api.telerama.fr" start="20200321060000" stop="20200321085500">
     <title>Télématin</title>
     <desc lang="fr">Sur Twitter via #telematin. Un rendez-vous réveil-matin ponctué d'une page d'information toutes les demi-heures. Deux flashs info sont traduits en langue des signes à 6h30 et à 9h.</desc>
-    <category lang="fr">magazine magazine de services</category>
+    <category lang="fr">magazine de services</category>
     <length units="minutes">175</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3ac0353d-e416-47b3-92d9-99b82ef04875.jpg" />
     <rating system="CSA">
@@ -330,7 +330,7 @@
     <title>Consomag</title>
     <sub-title>Comment réduire ses frais d'incidents bancaires ?</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
-    <category lang="fr">magazine magazine du consommateur</category>
+    <category lang="fr">magazine du consommateur</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
     <previously-shown />
@@ -383,7 +383,7 @@
   <programme channel="C4.api.telerama.fr" start="20200321115000" stop="20200321115500">
     <title>Laisse entrer la nature</title>
     <sub-title>Les bogues du blat</sub-title>
-    <category lang="fr">magazine magazine de services</category>
+    <category lang="fr">magazine de services</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
     <rating system="CSA">
@@ -475,7 +475,7 @@
   </programme>
   <programme channel="C4.api.telerama.fr" start="20200321144500" stop="20200321145500">
     <title>Destination 2024</title>
-    <category lang="fr">magazine magazine de services</category>
+    <category lang="fr">magazine de services</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
     <rating system="CSA">
@@ -671,45 +671,6 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200321020000" stop="20200321022000">
-    <title>Saint Hubert</title>
-    <desc lang="fr">Au cours d'une battue de grande envergure, dans un des plus vieux parcs naturels de l'Est de la Belgique, les policiers se heurtent à un garde forestier prêt à tout pour protéger son territoire...</desc>
-    <credits>
-      <director>Jules Comes</director>
-      <actor>Wim Opbrouck</actor>
-      <actor>Wouter Hendrickx</actor>
-      <actor>Michael Vergauwen</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="fr">film</category>
-    <length units="minutes">20</length>
-    <subtitles type="onscreen">
-      <language>fr</language>
-    </subtitles>
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
-  <programme channel="C34.api.telerama.fr" start="20200321022000" stop="20200321022500">
-    <title>Zapsport (L'actualité du sport sous forme de zapping)</title>
-    <category lang="fr">sport : multisports</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/427376b2-8229-462a-945b-ae57acc8a493.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C34.api.telerama.fr" start="20200321022500" stop="20200321041000">
-    <title>Rugby (Crusaders / Hurricanes)</title>
-    <category lang="fr">sport : rugby</category>
-    <length units="minutes">105</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7f507c80-8c84-4a0e-b377-e1098696ab4e.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C34.api.telerama.fr" start="20200321051000" stop="20200321060000">
     <title>Le cercle séries</title>
     <desc lang="fr">Au sommaire :</desc>
@@ -785,15 +746,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200321070000" stop="20200321071800">
+  <programme channel="C34.api.telerama.fr" start="20200321070000" stop="20200321071600">
     <title>Nuit chérie</title>
     <credits>
       <director>Lia Bertels</director>
     </credits>
     <date>2018</date>
     <category lang="fr">film</category>
-    <length units="minutes">18</length>
+    <length units="minutes">16</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bd8b8abd-1b49-4c71-be31-4e8d65b565cd.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C34.api.telerama.fr" start="20200321071600" stop="20200321071800">
+    <title>Plateaux cinéma mardi</title>
+    <category lang="fr">magazine du cinéma</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fda51e1d-d3ee-49dc-aea5-e39376f2bdbc.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -866,11 +836,11 @@ Sans moralisme, il va guider Paul et Sofia vers le chemin de la réconciliation.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200321104400" stop="20200321110000">
+  <programme channel="C34.api.telerama.fr" start="20200321104400" stop="20200321105700">
     <title>L'hebd'Hollywood</title>
     <desc lang="fr">Toute l'actualité d'Hollywood, des stars et des derniers films à ne pas manquer.</desc>
     <category lang="fr">magazine du cinéma</category>
-    <length units="minutes">16</length>
+    <length units="minutes">13</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/142bba00-bce9-4068-9036-e0510f24defa.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -896,36 +866,6 @@ Sans moralisme, il va guider Paul et Sofia vers le chemin de la réconciliation.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200321121500" stop="20200321122500">
-    <title>Match of Ze Day</title>
-    <category lang="fr">sport : football</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f29417fa-0fe9-495f-a949-9deede231179.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C34.api.telerama.fr" start="20200321122500" stop="20200321143000">
-    <title>Football (Chelsea / Manchester City)</title>
-    <category lang="fr">sport : football</category>
-    <length units="minutes">125</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a4543862-3c6a-4e8b-9390-1398b3251937.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C34.api.telerama.fr" start="20200321143000" stop="20200321163000">
-    <title>Rugby (Toulouse / Lyon)</title>
-    <category lang="fr">sport : rugby</category>
-    <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/241ed98b-bed9-45aa-93ca-10add7978f78.jpg" />
-    <new />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C34.api.telerama.fr" start="20200321182500" stop="20200321193400">
     <title>Canal Sports Club</title>
     <category lang="fr">sport : multisports</category>
@@ -947,20 +887,21 @@ Sans moralisme, il va guider Paul et Sofia vers le chemin de la réconciliation.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200321193500" stop="20200321200000">
+  <programme channel="C34.api.telerama.fr" start="20200321193500" stop="20200321200500">
     <title>Groland le zapoï</title>
-    <desc lang="fr">Le regard sans concession de la presse grolandaise montre toute sa pertinence grâce à son inimitable zapping. Les innombrables chaînes grolandaises fournissent un corpus finement exploité par la bande de Jules-Edouard Moustic.</desc>
+    <sub-title>Spécial «Missing Misses»</sub-title>
+    <desc lang="fr">De leur sélection au concours de Miss jusqu'au jour de l'élection, la télé-réalité «Missing Misses» suit les aventures des plus jolies filles de chacune des régions de France.</desc>
     <category lang="fr">divertissement-humour</category>
-    <length units="minutes">25</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d03076b4-46d9-4488-a004-2bc64a43ca1e.jpg" />
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200321200000" stop="20200321220000">
+  <programme channel="C34.api.telerama.fr" start="20200321200500" stop="20200321220000">
     <title>Trois jours et une vie</title>
-    <desc lang="fr">En 1999, à Olloy, dans les Ardennes belges, un enfant disparaît. Des recherches sont organisées avec la participation de nombreux habitants du village où vit les parents du petit garçon. Très vite, tout le monde dans le village se met alors à suspecter son voisin de la disparition. Un événement inattendu et dévastateur qui va tout chambouler. - Critique : Dans un village des Ardennes belges, un enfant disparaît… Nicolas Boukhrief adapte un roman de Pierre Lemaitre à la demande de celui-ci, qui a aussi écrit le scénario. Pas de suspense, ni de révélation fracassante : d’emblée, on sait que l’enfant a perdu la vie, et on connaît le (tout jeune) responsable de sa mort accidentelle. Ce qui compte, c’est l’après, la deuxième heure du film, plus tendue : dans une ambiance chabrolienne — que Sandrine Bonnaire sait parfaitement suggérer —, le poids du secret, la peur du qu’en dira-t-on et les médiocres chantages petits-bourgeois finissent par engendrer une famille monstrueuse. Une autre sorte de prison, à vie.</desc>
+    <desc lang="fr">En 1999, à Olloy, dans les Ardennes belges, un enfant disparaît. Des recherches sont organisées avec la participation de nombreux habitants du village où vit les parents du petit garçon. Très vite, tout le monde dans le village se met alors à suspecter son voisin de la disparition. Un événement inattendu et dévastateur qui va tout chambouler. - Critique : Dans un village des Ardennes belges, un enfant disparaît… Nicolas Boukhrief adapte un roman de Pierre Lemaitre à la demande de celui-ci, qui a aussi écrit le scénario. Pas de suspense, ni de révélation fracassante : d’emblée, on sait que l’enfant a perdu la vie, et on connaît le (tout jeune) responsable de sa mort accidentelle. Ce qui compte, c’est l’après, la deuxième heure du film, plus tendue : dans une ambiance chabrolienne — que Sandrine Bonnaire sait parfaitement suggérer —, le poids du secret, la peur du qu’en-dira-t-on et les médiocres chantages petits-bourgeois finissent par engendrer une famille monstrueuse. Une autre sorte de prison, à vie.</desc>
     <credits>
       <director>Nicolas Boukhrief</director>
       <actor>Sandrine Bonnaire</actor>
@@ -979,7 +920,7 @@ Sans moralisme, il va guider Paul et Sofia vers le chemin de la réconciliation.
     </credits>
     <date>2019</date>
     <category lang="fr">film : thriller</category>
-    <length units="hours">2</length>
+    <length units="minutes">115</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/02c3e585-63f1-434e-b93a-b00ca8a1cbdb.jpg" />
     <premiere />
     <rating system="CSA">
@@ -990,7 +931,7 @@ Sans moralisme, il va guider Paul et Sofia vers le chemin de la réconciliation.
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200321220000" stop="20200322000500">
+  <programme channel="C34.api.telerama.fr" start="20200321220000" stop="20200322001000">
     <title>Parasite</title>
     <desc lang="fr">On vient de couper de téléphone dans la maison de Ki-taek. Dans une extrême précarité, la famille profite du Wifi de ses riches voisins, les Park. Elle compte sur Yeon-Kyo, le fils aîné pour apporter de l'argent. La soeur de celui-ci lui fabrique un faux diplôme universitaire qu'il pourra montrer à Madame Park à la recherche d'un professeur d'anglais pour sa fille. Le jeune homme est alors invité dans sa luxueuse maison. Madame Park assiste au premier cours et lui montre les lieux. Et surtout les peintures de son fils. Des professeurs de dessin ont tenté d'enseigner des techniques à celui-ci mais ils ont fini par jeter l'éponge. Yeon-Kyo songe à sa sœur et pense que son arnaque est parfaite... - Critique : La famille Kim vivote dans un sous-sol miné par l’humidité. La bonne humeur prime entre ces profiteurs. Le fils va assurer des cours particuliers d’anglais à la jeune fille d’une famille richissime, les Park, dans une villa magnifique. On ne dira rien de la suite, sinon que ce septième film de Bong Joon-ho (The Host, Snowpiercer…) regorge de surprises et de retournements de situation (dont un twist dément, au mitan). Cette Palme d’or 2019 (et Oscar du meilleur film) offre un cocktail détonant de satire grinçante et de thriller sociopolitique. On peut aussi parler de farce, de film de terreur, d’allégorie sur l’atomisation violente de la société. Ce mélange des genres, Bong Joon-ho l’orchestre brillamment, avec la volonté viscérale de divertir et de faire réfléchir en même temps.
 
@@ -1011,7 +952,7 @@ On emploie « viscérale » à dessein, Parasite déployant une symbolique forte
     </credits>
     <date>2019</date>
     <category lang="fr">film de science-fiction</category>
-    <length units="minutes">125</length>
+    <length units="minutes">130</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c4e18fba-29af-492c-95ec-74fc3b86ec4b.jpg" />
     <audio>
       <stereo>bilingual</stereo>
@@ -1105,6 +1046,30 @@ On emploie « viscérale » à dessein, Parasite déployant une symbolique forte
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f31668d5-9e5a-44e1-aa82-135bd10e5ed6.jpg" />
     <episode-num system="xmltv_ns">1.7.</episode-num>
     <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200321041000" stop="20200321043500">
+    <title>Les mystérieuses cités d'or *2012</title>
+    <sub-title>La prophétie</sub-title>
+    <desc lang="fr">Saison:2 - Episode:9 - Esteban et Tao viennent d'être libérés par deux jeunes moines Shaolin. Ils courent vers le monastère pour prévenir le Grand Maître de l'attaque imminente...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f31668d5-9e5a-44e1-aa82-135bd10e5ed6.jpg" />
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200321043500" stop="20200321050000">
+    <title>Les mystérieuses cités d'or *2012</title>
+    <sub-title>La perle noire</sub-title>
+    <desc lang="fr">Saison:2 - Episode:10 - Esteban, Tao et Zia se posent dans les environs de Pékin où ils attendent la venue d'Ambrosius...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f31668d5-9e5a-44e1-aa82-135bd10e5ed6.jpg" />
+    <episode-num system="xmltv_ns">1.9.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1559,11 +1524,302 @@ On emploie « viscérale » à dessein, Parasite déployant une symbolique forte
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321055500" stop="20200321060500">
+    <title>Zip Zip</title>
+    <sub-title>La course du quartier</sub-title>
+    <desc lang="fr">Saison:1 - Episode:41 - Des animaux sauvages lassés de la forêt se déguisent en chiens afin d'être adoptés en ville et de profiter de tout le confort moderne.</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a0674390-615b-40ca-a8db-3304894962d2.jpg" />
+    <episode-num system="xmltv_ns">0.40.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321060500" stop="20200321062000">
+    <title>Zip Zip</title>
+    <sub-title>La course du quartier</sub-title>
+    <desc lang="fr">Saison:1 - Episode:42 - Mitch change la trajectoire du parcours pour mener les participants à quatre pattes au plus profond de la forêt.</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a0674390-615b-40ca-a8db-3304894962d2.jpg" />
+    <episode-num system="xmltv_ns">0.41.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321062000" stop="20200321063000">
+    <title>Zip Zip</title>
+    <sub-title>Comme neuf</sub-title>
+    <desc lang="fr">Saison:1 - Episode:43 - Quand Sam et Eugénie brisent un vase de famille de madame Livingstone, Wash se fait accuser à leur place. Après tout, ses copains ont juré que ça ne se reproduirait plus...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a0674390-615b-40ca-a8db-3304894962d2.jpg" />
+    <episode-num system="xmltv_ns">0.42.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321063000" stop="20200321064000">
+    <title>Zip Zip</title>
+    <sub-title>Un rêve complètement fou</sub-title>
+    <desc lang="fr">Saison:1 - Episode:44 - Les Livingstone décident de passer un petit week-end à la plage, les animaux quittent immédiatement leurs costumes pour se prélasser au naturel. A chaque heure qui passe, ils baissent un peu plus leur garde. Même Vic se prend au jeu des animaux sauvages et découvre la lionne qui est en elle. Mais ils n’avaient pas prévu le retour anticipé des Livingstone...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a0674390-615b-40ca-a8db-3304894962d2.jpg" />
+    <episode-num system="xmltv_ns">0.43.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321064000" stop="20200321065500">
+    <title>Zip Zip</title>
+    <sub-title>Renard masqué</sub-title>
+    <desc lang="fr">Saison:1 - Episode:47 -</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a0674390-615b-40ca-a8db-3304894962d2.jpg" />
+    <episode-num system="xmltv_ns">0.46.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321065500" stop="20200321070000">
+    <title>Grizzy et les lemmings</title>
+    <sub-title>Appel d'ours</sub-title>
+    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321070000" stop="20200321071000">
+    <title>Grizzy et les lemmings</title>
+    <sub-title>Ours sans gravité</sub-title>
+    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321071000" stop="20200321071500">
+    <title>Grizzy et les lemmings</title>
+    <sub-title>Coups de chapeau</sub-title>
+    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321071500" stop="20200321072000">
+    <title>Grizzy et les lemmings</title>
+    <sub-title>Pas vu pas pris</sub-title>
+    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321072000" stop="20200321073000">
+    <title>Grizzy et les lemmings</title>
+    <sub-title>Vil ours, bon ours</sub-title>
+    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321073000" stop="20200321073500">
+    <title>Grizzy et les lemmings</title>
+    <sub-title>Danger, lemmings sans limites</sub-title>
+    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321073500" stop="20200321074500">
+    <title>Grizzy et les lemmings</title>
+    <sub-title>Ours à rebonds</sub-title>
+    <desc lang="fr">Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321074500" stop="20200321075000">
+    <title>Grizzy et les lemmings</title>
+    <sub-title>Raton masqué</sub-title>
+    <desc lang="fr">Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321075000" stop="20200321080000">
+    <title>Grizzy et les lemmings</title>
+    <sub-title>Ours irrésistible</sub-title>
+    <desc lang="fr">Saison:2 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321080000" stop="20200321081000">
+    <title>Les as de la jungle à la rescousse</title>
+    <sub-title>Gaffe aux gorilles</sub-title>
+    <desc lang="fr">Saison:2 - Episode:41 - Miguel quitte le repaire des As pour quelques jours afin de rendre visite à sa famille. Malheureusement le séjour n'est pas aussi tranquille qu'il le pensait. En effet une bande de mandrills sont prêts à tout pour voler le territoire de la famille de Miguel. Ce dernier va donc devoir agir pour aider les siens et pour cela il devra gagner un match de tape-ballon…</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/624e78f1-0b26-4e08-8d53-e9fa954af601.jpg" />
+    <episode-num system="xmltv_ns">1.40.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321081000" stop="20200321082000">
+    <title>Les as de la jungle à la rescousse</title>
+    <sub-title>Cap ou pas cap</sub-title>
+    <desc lang="fr">Saison:2 - Episode:42 - Joey le crapaud débarque à la mare pour retrouver son ami d'enfance Al. Jeff propose de rejouer au jeu préféré de leur enfance, le cap ou pas cap, sous le regard un peu jaloux de Bob. Mais après quelques défis, Jeff révèle la vraie raison de sa venue : il a promis à Tonio le rhino de lui ramener une fleur très particulière, mais cette fleur est entourée de sables mouvants. Le cap ou pas cap n'était qu'un prétexte pour qu'Al aille lui chercher la fleur...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/624e78f1-0b26-4e08-8d53-e9fa954af601.jpg" />
+    <episode-num system="xmltv_ns">1.41.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321082000" stop="20200321083000">
+    <title>Les as de la jungle à la rescousse</title>
+    <sub-title>Un bocal pour deux</sub-title>
+    <desc lang="fr">Saison:2 - Episode:43 - C'est la fin de la journée à la mare et Junior s'entraîne encore sous les yeux des As de la Jungle. Mais à la surprise générale, un piranha s'invite à la mare et a l'air de vouloir s'entraîner avec le petit tigre. Ce dernier est d'abord mal à l'aise puis s'agace vraiment quand il doit partager son bocal avec le piranha, sous le regard bienveillant de Maurice. A la nuit tombée Junior découvre la vérité sur ce piranha : il se prénomme Joe et à l'intention de voler le trésor des flamants roses...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/624e78f1-0b26-4e08-8d53-e9fa954af601.jpg" />
+    <episode-num system="xmltv_ns">1.42.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321083000" stop="20200321084000">
+    <title>Les as de la jungle à la rescousse</title>
+    <sub-title>Mini-As, maxi frayeur</sub-title>
+    <desc lang="fr">Saison:2 - Episode:44 - C'est l'anniversaire de la petite Lola. Junior est impatient d'aller s'amuser avec ses petits amis au goûter organisé par les parents de la marmotte. Et pour ce goûter ils ont vu les choses en grand, en effet le père de Lola a fait venir une montgolfière pour emmener les petits faire un tour après la fête. Voulant s'amuser dessus, les enfants détachent le ballon et ils se retrouvent bientôt en grand danger, perdus dans les airs...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/624e78f1-0b26-4e08-8d53-e9fa954af601.jpg" />
+    <episode-num system="xmltv_ns">1.43.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321084000" stop="20200321090500">
+    <title>Scooby-Doo, Mystères Associés</title>
+    <sub-title>La finale des amateurs de mystère</sub-title>
+    <desc lang="fr">Saison:1 - Episode:14 - Alors que la finale des amateurs de mystères se déroule à Crystal Cove, Scooby-Doo est malade. Confrontée à une énigme compliquée, la bande a besoin de son aide...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/81957e55-b189-40f2-8aec-659b435fb0b0.jpg" />
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321090500" stop="20200321092500">
+    <title>Scooby-Doo, Mystères Associés</title>
+    <sub-title>L'attaque des cigales</sub-title>
+    <desc lang="fr">Saison:1 - Episode:13 - Crystal Cove souffre d'une infestation d'insectes mortels qui ciblent les travailleurs de la société Destroido, qui fabrique les snacks préférés Sammy et Scooby...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/81957e55-b189-40f2-8aec-659b435fb0b0.jpg" />
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321092500" stop="20200321093000">
+    <title>Mike, une vie de chien</title>
+    <sub-title>Le tournoi</sub-title>
+    <desc lang="fr">Episode:38 - Le quotidien de Mike, brave carlin amoureux de la jolie chienne du voisin, n'est perturbé que par les irruptions intempestives de deux ratons laveurs espiègles...</desc>
+    <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">.37.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321093000" stop="20200321094000">
+    <title>Mike, une vie de chien</title>
+    <sub-title>Canicule glaciale</sub-title>
+    <desc lang="fr">Saison:1 - Episode:60 - Le quotidien de Mike, brave carlin amoureux de la jolie chienne du voisin, n'est perturbé que par les irruptions intempestives de deux ratons laveurs espiègles...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/02354309-97f8-43b0-a2a7-f8873f4454ba.jpg" />
+    <episode-num system="xmltv_ns">0.59.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321094000" stop="20200321094400">
+    <title>Mick le mini chef</title>
+    <sub-title>Recette mystère</sub-title>
+    <desc lang="fr">Episode:5 - Mathilde et Léo, deux jeunes passionnés de cuisine, concoctent des recettes régionales, imaginées par le chef étoilé Nicolas Gautier. Mick, petit personnage espiègle surmonté d'une toque, et Spoonita, sa cuillère magique, leur viennent en aide.</desc>
+    <length units="minutes">4</length>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200321094400" stop="20200321094500">
+    <title>Scooby-Doo en Europe</title>
+    <sub-title>Hongrie</sub-title>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fb2bf013-95a7-4d13-8ed5-cd5a844e5c30.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C80.api.telerama.fr" start="20200321094500" stop="20200321095000">
     <title>Consomag</title>
     <sub-title>Comment réduire ses frais d'incidents bancaires ?</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
-    <category lang="fr">magazine magazine du consommateur</category>
+    <category lang="fr">magazine du consommateur</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
     <previously-shown />
@@ -1587,6 +1843,7 @@ On emploie « viscérale » à dessein, Parasite déployant une symbolique forte
     <category lang="fr">météo</category>
     <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <new />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1594,7 +1851,7 @@ On emploie « viscérale » à dessein, Parasite déployant une symbolique forte
   <programme channel="C80.api.telerama.fr" start="20200321102900" stop="20200321110000">
     <title>Dans votre région</title>
     <desc lang="fr">Des hommes et des femmes, issus de toutes les régions de France, partagent leurs expériences, leurs passions, et font découvrir leur mode de vie.</desc>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">31</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
     <rating system="CSA">
@@ -1615,6 +1872,7 @@ On emploie « viscérale » à dessein, Parasite déployant une symbolique forte
     <category lang="fr">journal</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/89612345-0b52-44ab-843d-25a030767fde.jpg" />
+    <new />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1709,15 +1967,7 @@ On emploie « viscérale » à dessein, Parasite déployant une symbolique forte
     <category lang="fr">journal</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6b34c0d5-e907-4c08-b12d-fc234a2aeda5.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C80.api.telerama.fr" start="20200321190000" stop="20200321190500">
-    <title>Météo régionale</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6ce09c9f-8a2c-43e7-9980-978396979d00.jpg" />
+    <new />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1744,16 +1994,6 @@ On emploie « viscérale » à dessein, Parasite déployant une symbolique forte
     <category lang="fr">série humoristique</category>
     <length units="minutes">35</length>
     <episode-num system="xmltv_ns">7.14.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C80.api.telerama.fr" start="20200321194000" stop="20200321195500">
-    <title>Tout le sport</title>
-    <desc lang="fr">L'actualité sportive quotidienne.</desc>
-    <category lang="fr">magazine sportif</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/53c82e98-4321-4332-bdbb-dce35e8b9fc1.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1860,10 +2100,10 @@ On emploie « viscérale » à dessein, Parasite déployant une symbolique forte
   </programme>
   <programme channel="C111.api.telerama.fr" start="20200321030500" stop="20200321033000">
     <title>Arte regards</title>
-    <sub-title>Le paysan 2.0 : l'agriculture entre high-tech et tradition</sub-title>
-    <desc lang="fr">La Terre est de plus en plus peuplée, mais la surface des terres cultivables diminue : pour optimiser l'espace, l'agriculture digitale et les fermes intelligentes se développent.</desc>
+    <sub-title>Quand le Covid-19 bouleverse notre quotidien</sub-title>
+    <desc lang="fr">Analyse des conséquences et des désagréments de l'épidémie de coronavirus.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c665549a-dcb5-4912-9cec-3d7ea1ae5600.jpg" />
     <audio>
@@ -2160,6 +2400,9 @@ On emploie « viscérale » à dessein, Parasite déployant une symbolique forte
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
   </programme>
   <programme channel="C111.api.telerama.fr" start="20200321222500" stop="20200321225000">
     <title>Streetphilosophy</title>
@@ -2401,11 +2644,11 @@ On emploie « viscérale » à dessein, Parasite déployant une symbolique forte
     </rating>
   </programme>
   <programme channel="C118.api.telerama.fr" start="20200321060000" stop="20200321090500">
-    <title>Absolument stars</title>
-    <desc lang="fr">Un concentré d'actualité musicale, d'infos sur les vedettes, toujours avec humour, sans oublier l'horoscope, les sorties cinéma et DVD ainsi que l'agenda spectacle.</desc>
-    <category lang="fr">divertissement-humour</category>
+    <title>M6 boutique</title>
+    <desc lang="fr">Pour tout savoir des dernières nouveautés en matière de beauté, d'appareils électroménagers ou d'objets en tout genre pour meubler, décorer ou bricoler.</desc>
+    <category lang="fr">magazine de télé-achat</category>
     <length units="minutes">185</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d661486d-9f9f-49b9-b246-432c8b10ffa6.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2489,7 +2732,7 @@ On emploie « viscérale » à dessein, Parasite déployant une symbolique forte
     <desc lang="fr">Trois agents immobiliers doivent trouver des biens à des clients dans des secteurs qu'ils ne connaissent pas forcément. Cette compétition voit les trois chasseurs d'appartement proposer un bien à un client, bien qu'ils ont deux semaines pour choisir. Un choix important car chaque agent immobilier ne pourra pas en proposer d'autre à son client. A la fin de la semaine, la finale oppose les deux meilleurs candidats, et le vainqueur peut remporter jusqu'à 3000 euros.</desc>
     <category lang="fr">jeu</category>
     <length units="minutes">310</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e2772bb-f987-409f-85d4-1043cf1ac9fc.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2813,7 +3056,7 @@ On emploie « viscérale » à dessein, Parasite déployant une symbolique forte
       <actor>Daniel Ings</actor>
       <actor>Sharon Leal</actor>
       <actor>Naveen Andrews</actor>
-      <actor>JC MacKenzie</actor>
+      <actor>J.C. MacKenzie</actor>
       <actor>James Saito</actor>
       <actor>Danny Mastrogiorgio</actor>
       <writer>Michael Rauch</writer>
@@ -3102,27 +3345,36 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321030500" stop="20200321032500">
-    <title>Infô soir</title>
-    <desc lang="fr">Le rendez-vous quotidien de l'actualité ultramarine.</desc>
+  <programme channel="C160.api.telerama.fr" start="20200321031500" stop="20200321034500">
+    <title>C'est pas sorcier</title>
+    <sub-title>D'où viennent les Français ?</sub-title>
+    <desc lang="fr">Soixante-deux millions de personnes vivent sur le sol français. Comment la population a-t-elle évolué ? La France est-elle menacée par le vieillissement de la population ? Quels enjeux se cachent derrière les notions de droit du sol et de droit du sang ?</desc>
+    <category lang="fr">magazine éducatif</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/09ea3e22-f611-4cb0-a7a9-39f0c5f31f5b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200321034500" stop="20200321040500">
+    <title>Journal Polynésie</title>
     <category lang="fr">journal</category>
     <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321032500" stop="20200321035000">
-    <title>Journal Polynésie</title>
+  <programme channel="C160.api.telerama.fr" start="20200321051500" stop="20200321053500">
+    <title>Journal Mayotte</title>
     <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e212da2e-d967-4667-bc66-1664f312acd8.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321051500" stop="20200321055000">
+  <programme channel="C160.api.telerama.fr" start="20200321053500" stop="20200321061000">
     <title>Journal Réunion</title>
     <category lang="fr">journal</category>
     <length units="minutes">35</length>
@@ -3131,17 +3383,8 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321055000" stop="20200321061500">
+  <programme channel="C160.api.telerama.fr" start="20200321061000" stop="20200321064000">
     <title>Journal Guyane</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321061500" stop="20200321064500">
-    <title>Journal Martinique</title>
     <category lang="fr">journal</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
@@ -3149,7 +3392,16 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321064500" stop="20200321071500">
+  <programme channel="C160.api.telerama.fr" start="20200321064000" stop="20200321070500">
+    <title>Journal Martinique</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200321070500" stop="20200321073500">
     <title>Journal Guadeloupe</title>
     <category lang="fr">journal</category>
     <length units="minutes">30</length>
@@ -3158,17 +3410,17 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321071500" stop="20200321073500">
+  <programme channel="C160.api.telerama.fr" start="20200321073500" stop="20200321075000">
     <title>Bleu océan</title>
     <desc lang="fr">Au sommaire :</desc>
     <category lang="fr">magazine de la mer</category>
-    <length units="minutes">20</length>
+    <length units="minutes">15</length>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321073500" stop="20200321075000">
+  <programme channel="C160.api.telerama.fr" start="20200321075000" stop="20200321080500">
     <title>Bleu océan</title>
     <desc lang="fr">A la rencontre de personnes dont la vie et les activités ont un lien étroit avec la mer et l'océan.</desc>
     <category lang="fr">magazine de la mer</category>
@@ -3178,7 +3430,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321075000" stop="20200321080500">
+  <programme channel="C160.api.telerama.fr" start="20200321080500" stop="20200321082000">
     <title>Behind fashion</title>
     <sub-title>5/20</sub-title>
     <desc lang="fr">Les dessous de la mode et de la beauté en compagnie de quatre jeunes femmes dont le rêve est de devenir mannequins professionnels.</desc>
@@ -3189,7 +3441,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321080500" stop="20200321083500">
+  <programme channel="C160.api.telerama.fr" start="20200321082000" stop="20200321085000">
     <title>Miroir créole</title>
     <desc lang="fr">Emission de coaching et de relooking valorisant l'identité caraibéenne.</desc>
     <category lang="fr">magazine de la femme</category>
@@ -3199,7 +3451,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321083500" stop="20200321090500">
+  <programme channel="C160.api.telerama.fr" start="20200321085000" stop="20200321092000">
     <title>Un look d'enfer</title>
     <desc lang="fr">Chaque semaine, deux duos s'affrontent. Ils sont mère et fille ou en couple, meilleures amies ou meilleurs amis et vont devoir endosser le temps d'une semaine le rôle de relookeurs et de relookés.</desc>
     <category lang="fr">divertissement</category>
@@ -3209,7 +3461,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321090500" stop="20200321092500">
+  <programme channel="C160.api.telerama.fr" start="20200321092000" stop="20200321094000">
     <title>Brooklyn Nine-Nine</title>
     <sub-title>Poker menteur</sub-title>
     <desc lang="fr">Saison:5 - Episode:5 - Jake etTerry infiltrent un club de paris illégaux, manoeuvre destinée à arrêter Daniel Valdano, trafiquant d'armes. En apprenant aux deux policiers l'art du poker, Holt fait ressurgir son addiction au jeu. Charles investit dans un food-truck au passé sanglant, sans prévenir Amy, qui lui a prêté l'argent...</desc>
@@ -3237,7 +3489,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321092500" stop="20200321095000">
+  <programme channel="C160.api.telerama.fr" start="20200321094000" stop="20200321100000">
     <title>Brooklyn Nine-Nine</title>
     <sub-title>Le manoir</sub-title>
     <desc lang="fr">Saison:5 - Episode:6 - Le Vautour refait surface, menaçant la tranquillité acquise par Jake et Amy. Parallèlement, Boyle et Rosa recherchent Sergent Peanut Butter, un cheval kidnappé dont Charles est plus ou moins jaloux. Holt lance un défi à Terry : être moins soucieux de son image...</desc>
@@ -3257,7 +3509,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <writer>Matt Lawton</writer>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1ffb494e-38c9-4531-b5e1-4dffa0203fa6.jpg" />
     <episode-num system="xmltv_ns">4.5.</episode-num>
     <previously-shown />
@@ -3265,7 +3517,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321095000" stop="20200321101500">
+  <programme channel="C160.api.telerama.fr" start="20200321100000" stop="20200321102500">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:31 - Alors que Lucille et Eliott doivent faire face à un dilemme poignant, Julien est confronté à une situation inextricable. De son côté, Léa parviendra-t-elle enfin à affronter la vérité ?...</desc>
     <credits>
@@ -3288,7 +3540,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321101500" stop="20200321103500">
+  <programme channel="C160.api.telerama.fr" start="20200321102500" stop="20200321104500">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:32 - Tandis que Claire commence à envisager une nouvelle vie, son inquiétude pour sa mère grandit. Quant à Eliott, il n'est peut-être pas au bout de ses surprises...</desc>
     <credits>
@@ -3311,7 +3563,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321103500" stop="20200321105500">
+  <programme channel="C160.api.telerama.fr" start="20200321104500" stop="20200321110500">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:33 - Voulant surmonter de nouvelles complications imprévues, Eliott est soulagé de se découvrir des ressources insoupçonnées. Agacé, Julien réalise à quel point ses récentes hésitations pourraient lui coûter particulièrement cher. De son côté, Gary réalise avec dépit qu'il est pris au piège. Trouvera-t-il le moyen de s'en sortir ? Sur qui peut-il s'appuyer ?...</desc>
     <credits>
@@ -3334,7 +3586,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321105500" stop="20200321112000">
+  <programme channel="C160.api.telerama.fr" start="20200321110500" stop="20200321113000">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:34 - C'est un choix cornélien auquel doivent faire face Lucille, Charles et Eliott. Tous trois hésitent longuement car leur décision pourrait bel et bien peser de manière définitive sur leur avenir. Malgré la tension qui monte d'un cran, ils tentent de garder la tête froide. Parallèlement, la situation de Marie ne s'améliore guère. Victor et elle tentent de trouver de nouvelles sources de motivation afin de sortir Marie du marasme qui la tétanise. Petit à petit, tous deux se retrouvent face à la nécessité de remettre en question certains aspects de leur existence. Sortiront-ils renforcés de cette épreuve ?...</desc>
     <credits>
@@ -3357,7 +3609,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321112000" stop="20200321114500">
+  <programme channel="C160.api.telerama.fr" start="20200321113000" stop="20200321115500">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:35 - Tandis que Lucille voit sa vie bouleversée et découvre son amoureux sous un nouveau jour, Enric fait une découverte de taille. Quant à Julien, il cherche une solution à ses problèmes...</desc>
     <credits>
@@ -3380,19 +3632,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321114500" stop="20200321124000">
-    <title>La plus grande forêt du monde</title>
-    <sub-title>Les îles Marquises</sub-title>
-    <desc lang="fr">Rencontre avec Eric Conte et Pierre Ottino, pour découvrir l'histoire des premiers Marquisiens, puis évocation du patrimoine sous-marin des Marquises.</desc>
-    <date>2014</date>
-    <category lang="fr">documentaire : nature</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1bef5d6f-6b30-472b-b9a1-6a05b9de6e9a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321124000" stop="20200321134000">
+  <programme channel="C160.api.telerama.fr" start="20200321124500" stop="20200321134000">
     <title>On va s'aimer un peu, beaucoup</title>
     <sub-title>Antoine</sub-title>
     <desc lang="fr">Saison:2 - Episode:5 - Alors qu'elle ramène son fils Antoine chez son père, une femme est arrêtée pour soustraction d'enfant. Elle revenait d'un voyage en Israël avec lui, alors que le père avait demandé et obtenu une interdiction de quitter le territoire. Astrid suit ce dossier depuis longtemps. Elle sait que c'est pour tenter une thérapie pour les troubles du développement d'Antoine que la mère a fait ce voyage avec lui. De son côté, Audrey est bouleversée quand elle apprend que son mari est au courant de sa relation avec Eric. Elle demande alors à Roxanne de lui procurer un kit pour un test de paternité...</desc>
@@ -3416,7 +3656,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <guest>Elsa Lunghini</guest>
     </credits>
     <category lang="fr">série judiciaire</category>
-    <length units="hours">1</length>
+    <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/84374a25-283e-44f6-8e71-32f509a3152f.jpg" />
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <previously-shown />
@@ -3424,7 +3664,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321134000" stop="20200321143000">
+  <programme channel="C160.api.telerama.fr" start="20200321134000" stop="20200321143500">
     <title>On va s'aimer un peu, beaucoup</title>
     <sub-title>Emma</sub-title>
     <desc lang="fr">Saison:2 - Episode:6 - Après avoir commis un vol dans un magasin, Emma, une adolescente, est arrêtée par le vigile. Elle se débat avec force et se retrouve au commissariat. En effet, le vigile a porté plainte pour coups et blessures. L'affaire s'étant déroulée pendant la semaine de garde du père, la mère décide de demander la garde exclusive. De son côté, Alexandre tente de convaincre Astrid d'acheter un appartement avec lui. Pendant ce temps, Audrey reçoit un client qui se plaint de l'image que sa femme donne de lui dans ses spectacles de stand-up. Il veut faire interdire le spectacle, intitulé «Mon mec n'en a qu'une...», pour atteinte à la vie privée...</desc>
@@ -3447,7 +3687,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <guest>Ben</guest>
     </credits>
     <category lang="fr">série judiciaire</category>
-    <length units="minutes">50</length>
+    <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6f36d2dd-8160-486f-8e0b-b4f9e03f72a2.jpg" />
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <previously-shown />
@@ -3455,7 +3695,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321143000" stop="20200321152500">
+  <programme channel="C160.api.telerama.fr" start="20200321143500" stop="20200321152500">
     <title>On va s'aimer un peu, beaucoup</title>
     <sub-title>Marianne</sub-title>
     <desc lang="fr">Saison:2 - Episode:7 - Un homme menace de se jeter dans le vide sous les yeux de sa femme, Marianne. Cette dernière veut divorcer mais cède au chantage, pour éviter le pire. Elle se tourne vers Astrid, qui s'avère être sa patiente, pour l'aider à aller malgré tout au bout de la procédure. Cette dernière ne comprend pas le revirement soudain qu'a opéré le mari. Audrey, de son côté, vient de comprendre que Paul la trompe avec une collègue...</desc>
@@ -3477,7 +3717,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <guest>Nicole Ferroni</guest>
     </credits>
     <category lang="fr">série judiciaire</category>
-    <length units="minutes">55</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4851afb0-a5ee-4c6d-8171-1beb83f63e71.jpg" />
     <episode-num system="xmltv_ns">1.6.</episode-num>
     <previously-shown />
@@ -3485,22 +3725,22 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321152500" stop="20200321153000">
+  <programme channel="C160.api.telerama.fr" start="20200321152500" stop="20200321153500">
     <title>Loca Terre</title>
     <desc lang="fr">Shannti Dinnoo explore toutes les facettes du développement durable à La Réunion : la protection de l'environnement, la sauvegarde du patrimoine culturel, l'économie responsable ainsi que les initiatives sociales.</desc>
     <category lang="fr">magazine de l'environnement</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b810e3ac-54b0-4035-9474-6b4dcc5c65e0.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321153000" stop="20200321154000">
+  <programme channel="C160.api.telerama.fr" start="20200321153500" stop="20200321154000">
     <title>Loca Terre</title>
     <desc lang="fr">Shannti Dinnoo explore toutes les facettes du développement durable à La Réunion : la protection de l'environnement, la sauvegarde du patrimoine culturel, l'économie responsable ainsi que les initiatives sociales.</desc>
     <category lang="fr">magazine de l'environnement</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b810e3ac-54b0-4035-9474-6b4dcc5c65e0.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -3512,7 +3752,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>Mery Marimoutou (Washington)</sub-title>
     <desc lang="fr">Saison:2 - Mery Marimoutou, 32 ans, est originaire de Saint-Benoît, à La Réunion. Elle a grandi au sein d'une grande famille de confession tamoule et elle a baigné dans cette culture pendant toute son enfance. Après un doctorat en biologie cellulaire et une brève expérience à Monaco, elle est recrutée par le National Institute of Health de Washington où elle travaille depuis maintenant deux ans et où elle fait de la recherche fondamentale.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/94e4a63a-f025-4713-8ae2-7f2f37f0541a.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
@@ -3542,7 +3782,17 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321174200" stop="20200321174400">
+  <programme channel="C160.api.telerama.fr" start="20200321173000" stop="20200321174300">
+    <title>Dans les pas...</title>
+    <sub-title>Fête du Waleï à Ouvéa</sub-title>
+    <category lang="fr">documentaire : société</category>
+    <length units="minutes">13</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200321174300" stop="20200321174500">
     <title>Les livres de Lili</title>
     <sub-title>La Légende du colibri</sub-title>
     <desc lang="fr">Une invitation à la lecture proposée par des enfants à des enfants.</desc>
@@ -3554,12 +3804,12 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321174400" stop="20200321175000">
+  <programme channel="C160.api.telerama.fr" start="20200321174500" stop="20200321175000">
     <title>Les livres de Lili</title>
     <sub-title>Le Buveur d'encre</sub-title>
     <desc lang="fr">Une invitation à la lecture proposée par des enfants à des enfants.</desc>
     <category lang="fr">magazine littéraire</category>
-    <length units="minutes">6</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -3578,16 +3828,27 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     </rating>
   </programme>
   <programme channel="C160.api.telerama.fr" start="20200321175500" stop="20200321180500">
+    <title>Loca Terre</title>
+    <desc lang="fr">Shannti Dinnoo explore toutes les facettes du développement durable à La Réunion : la protection de l'environnement, la sauvegarde du patrimoine culturel, l'économie responsable ainsi que les initiatives sociales.</desc>
+    <category lang="fr">magazine de l'environnement</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b810e3ac-54b0-4035-9474-6b4dcc5c65e0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200321180500" stop="20200321181000">
     <title>Ma terre pour demain</title>
     <sub-title>Walea Guyette</sub-title>
     <category lang="fr">documentaire : environnement</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/63142dea-2977-4f35-8562-bfccf0ef5b81.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321180500" stop="20200321182500">
+  <programme channel="C160.api.telerama.fr" start="20200321181000" stop="20200321183000">
     <title>Global Wheeling</title>
     <desc lang="fr">Kayden Kleinhans est un passionné de nature qui se consacre à un projet fou : voyager à travers le monde sur son vélo pour découvrir les endroits les plus étonnants de la planète. En ne recourant qu'à sa bicyclette, il limite son impact carbone. C'est aussi une façon de sensibiliser les personnes qu'il rencontre aux changements climatiques. Il a déjà parcouru plus de 41000km à travers l'Afrique, l'Asie, l'Europe et l'Australie. Il continue son périple sans consommer de carbone, de l'Argentine jusqu'au désert du Nevada.</desc>
     <category lang="fr">documentaire : aventures</category>
@@ -3596,7 +3857,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321182500" stop="20200321185000">
+  <programme channel="C160.api.telerama.fr" start="20200321183000" stop="20200321185500">
     <title>Global Wheeling</title>
     <desc lang="fr">Kayden Kleinhans se passionne pour la sauvegarde de l'environnement. Il se consacre à un projet fou : voyager à travers le monde sur son vélo pour découvrir les endroits les plus étonnants de la planète. En ne recourant qu'à sa bicyclette, il limite son impact carbone. C'est aussi une façon de sensibiliser les personnes qu'il rencontre aux changements climatiques. Il a déjà parcouru plus de 41000km à travers l'Afrique, l'Asie, l'Europe et l'Australie. Il continue son périple sans consommer de carbone, de l'Argentine jusqu'au désert du Nevada.</desc>
     <category lang="fr">documentaire : aventures</category>
@@ -3605,18 +3866,18 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321185000" stop="20200321194700">
+  <programme channel="C160.api.telerama.fr" start="20200321185500" stop="20200321194700">
     <title>Un toit au jardin d'Eden, découverte de l'habitat</title>
     <desc lang="fr">Une architecte polynésienne parcourt l'archipel pour imaginer la maison de demain : à Tahiti et sur les îles de Polynésie, elle part à la rencontre de passionnés.</desc>
     <date>2017</date>
     <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">57</length>
+    <length units="minutes">52</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cb1b690b-0b29-46b3-bef0-125b225a3811.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321194700" stop="20200321195100">
+  <programme channel="C160.api.telerama.fr" start="20200321194700" stop="20200321195000">
     <title>Villa Karayib</title>
     <desc lang="fr">Saison:1 - Episode:53 - La quotidien de quatre jeunes étudiantes originaires des Antilles, de métropole et de la Côte d'Ivoire, qui partagent une colocation dans une villa en compagnie de la proriétaire des lieux.</desc>
     <credits>
@@ -3629,7 +3890,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <writer>Philippe Giangreco</writer>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">4</length>
+    <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0742d007-2e28-4828-a706-f3453c13507e.jpg" />
     <episode-num system="xmltv_ns">0.52.</episode-num>
     <previously-shown />
@@ -3637,7 +3898,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200321195100" stop="20200321195500">
+  <programme channel="C160.api.telerama.fr" start="20200321195000" stop="20200321195500">
     <title>Villa Karayib</title>
     <desc lang="fr">Saison:1 - Episode:56 - La quotidien de quatre jeunes étudiantes originaires des Antilles, de métropole et de la Côte d'Ivoire, qui partagent une colocation dans une villa en compagnie de la proriétaire des lieux.</desc>
     <credits>
@@ -3650,7 +3911,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <writer>Philippe Giangreco</writer>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">4</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0742d007-2e28-4828-a706-f3453c13507e.jpg" />
     <episode-num system="xmltv_ns">0.55.</episode-num>
     <previously-shown />
@@ -3778,7 +4039,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
   <programme channel="C192.api.telerama.fr" start="20200321105500" stop="20200321110000">
     <title>De l'@stuce à l'assiette</title>
     <desc lang="fr">Chaque jour, Juliette Delacroix répond à la question d'un internaute et donne ses trucs et astuces pour tout réussir en cuisine.</desc>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b795a9e2-7c6d-4e6f-a3be-0edad6c41b85.jpg" />
     <rating system="CSA">
@@ -3798,7 +4059,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
   <programme channel="C192.api.telerama.fr" start="20200321115000" stop="20200321115500">
     <title>Petits plats en équilibre</title>
     <desc lang="fr">Toutes les astuces et recettes autour d'un ingrédient de saison.</desc>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c43b3fcd-f8b6-48ec-a35c-146856178281.jpg" />
     <rating system="CSA">
@@ -3847,13 +4108,12 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
   </programme>
   <programme channel="C192.api.telerama.fr" start="20200321150000" stop="20200321165000">
     <title>Baby boom</title>
-    <sub-title>Grossesses précieuses</sub-title>
-    <desc lang="fr">Saison:8 - De très nombreux bébés sont le fruit d'un long parcours de procréation médicalement assistée, semé d'échecs, d'espoir et de déceptions. Alors quand enfin, le ventre de la future maman s'arrondit, médecins et sages-femmes appellent cet événement une grossesse précieuse. Sages-femmes, gynécologues et auxiliaires de puériculture ont accompagné certaines de ces familles jusqu’à la naissance de leur enfant. Pendant presqu’un an, les caméras ont suivi Anna, maman célibataire à Cannes, Caroline et David à Paris, Dihia et Mustapha à Rouen, Elise et Alice, couple homoparental, de Barcelone à Lyon. Toutes et tous se sont battus dans un seul et unique but : devenir parents.</desc>
-    <date>2019</date>
+    <sub-title>Les liens du sang</sub-title>
+    <desc lang="fr">Cassandra et Yann, 21 et 24 ans, attendent leur premier enfant. Ils arrivent à l'hôpital accompagnés de leurs mamans respectives et de la truculente grand-mère de Cassandra. Très fusionnelles, les trois femmes attendent avec impatience le petit Calvin. Aurélie, célibataire, a décidé d'avoir un enfant toute seule. Sa maman est venue tout spécialement de Saint-Martin, dans les Antilles, pour la soutenir. Comment va-t-elle vivre cet accouchement en solo ? Quant à Anna et Vincent, les benjamins de cette saison, tous les deux 22 ans, ils sont encore étudiants. Vincent a été adopté au Mexique par une mère célibataire, et le terme «papa» est totalement abstrait pour lui. Comment envisage-t-il sa paternité ?</desc>
+    <date>2014</date>
     <category lang="fr">documentaire téléréalité</category>
     <length units="minutes">110</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/be779bd9-e7e6-424a-905a-e77850f8b8a7.jpg" />
-    <episode-num system="xmltv_ns">7..</episode-num>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bef91af8-9044-405f-9d2c-ed462717de62.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3884,7 +4144,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
   <programme channel="C192.api.telerama.fr" start="20200321185000" stop="20200321185500">
     <title>Petits plats en équilibre</title>
     <desc lang="fr">Toutes les astuces et recettes autour d'un ingrédient de saison.</desc>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c43b3fcd-f8b6-48ec-a35c-146856178281.jpg" />
     <rating system="CSA">
@@ -3913,7 +4173,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <title>Habitons demain</title>
     <sub-title>Lombricompostage</sub-title>
     <desc lang="fr">Chaque week-end, l'humoriste et youtubeur Nicolas Meyrieux présente une trouvaille ou un concept inattendu et innovant dans le domaine de l'habitat.</desc>
-    <category lang="fr">magazine magazine de services</category>
+    <category lang="fr">magazine de services</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/30e27751-1b06-42bf-90ee-c52b5c38b174.jpg" />
     <rating system="CSA">
@@ -3933,7 +4193,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <title>Merci</title>
     <sub-title>Anne Roumanoff</sub-title>
     <desc lang="fr">Des personnalités de tous les horizons révèlent une anecdote intime au cours de laquelle un anonyme ou un proche a, sans le savoir, bouleversé leur vie.</desc>
-    <category lang="fr">magazine magazine de services</category>
+    <category lang="fr">magazine de services</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
     <rating system="CSA">
@@ -4304,7 +4564,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
   <programme channel="C195.api.telerama.fr" start="20200321200000" stop="20200321200500">
     <title>De l'@stuce à l'assiette</title>
     <desc lang="fr">Chaque jour, Juliette Delacroix répond à la question d'un internaute et donne ses trucs et astuces pour tout réussir en cuisine.</desc>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b795a9e2-7c6d-4e6f-a3be-0edad6c41b85.jpg" />
     <rating system="CSA">
@@ -4565,6 +4825,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
   </programme>
   <programme channel="C234.api.telerama.fr" start="20200321010000" stop="20200321020000">
     <title>Séance à l'Assemblée nationale</title>
+    <sub-title>Maisons France Services : audition de Jacqueline Gourault</sub-title>
     <desc lang="fr">Le point sur l'actualité du Palais Bourbon, les séances pléniaires et le travail des commission permanentes de l'Assemblée nationale.</desc>
     <category lang="fr">débat parlementaire</category>
     <length units="hours">1</length>
@@ -4575,6 +4836,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
   </programme>
   <programme channel="C234.api.telerama.fr" start="20200321020000" stop="20200321050000">
     <title>Séance à l'Assemblée nationale</title>
+    <sub-title>France Télévisions : audition de la présidente Delphine Ernotte</sub-title>
     <desc lang="fr">Le point sur l'actualité du Palais Bourbon, les séances pléniaires et le travail des commission permanentes de l'Assemblée nationale.</desc>
     <category lang="fr">débat parlementaire</category>
     <length units="hours">3</length>
@@ -4607,22 +4869,24 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200321073000" stop="20200321080000">
-    <title>La faute à l'Europe</title>
-    <desc lang="fr">Depuis le grand hall du parlement européen de Bruxelles, un magazine d'analyse didactique et décalée sur l'Union européenne.</desc>
+  <programme channel="C234.api.telerama.fr" start="20200321073000" stop="20200321080500">
+    <title>LCP le mag</title>
+    <sub-title>Retraites, la guerre des nerfs</sub-title>
+    <desc lang="fr">Un rendez-vous au coeur des grands dossiers d'actualité qui sont débattus à l'Assemblée nationale. Enquêtes, reportages et rencontres servent à éclairer la politique.</desc>
     <category lang="fr">magazine politique</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7ebf1a4d-68de-42e0-9b64-8be8971595c9.jpg" />
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/65549e17-c6c2-42ce-8983-ef76887b2a1e.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200321080000" stop="20200321093000">
-    <title>Questions au gouvernement</title>
+  <programme channel="C234.api.telerama.fr" start="20200321080500" stop="20200321100000">
+    <title>Séance à l'Assemblée nationale</title>
+    <sub-title>Attentat à la préfecture : audition de Christophe Castaner, ministre de l'Intérieur</sub-title>
+    <desc lang="fr">Retransmission quotidienne des séances publiques ou des réunions de commissions de l'Assemblée.</desc>
     <category lang="fr">débat parlementaire</category>
-    <length units="minutes">90</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a5a2b1f6-da50-43da-b10d-151dcb6c71d7.jpg" />
+    <length units="minutes">115</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -4665,7 +4929,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
   </programme>
   <programme channel="C234.api.telerama.fr" start="20200321120000" stop="20200321123000">
     <title>DébatDoc</title>
-    <sub-title>Le Palais Bourbon sous l'occupation</sub-title>
+    <sub-title>Le Palais Bourbon sous l'Occupation</sub-title>
     <desc lang="fr">Après la diffusion du documentaire «1940-1944 : les années noires du Palais Bourbon», Jean-Pierre Gratient anime un débat sur une page méconnue de l'Histoire.</desc>
     <category lang="fr">débat</category>
     <length units="minutes">30</length>
@@ -4767,7 +5031,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <credits>
       <director>Alexis Desseaux</director>
       <actor>Alexis Desseaux</actor>
-      <actor>Vincent Németh</actor>
+      <actor>Vincent Nemeth</actor>
       <writer>Jean-Pierre Delpont</writer>
     </credits>
     <category lang="fr">théâtre : pièce de théâtre</category>
@@ -4781,7 +5045,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <title>Femmes de méninges</title>
     <desc lang="fr">L’aventure improbable d’un collectif de femmes de ménage, engagées dans un projet théâtral autour de l’immigration, l’exil et l’invisibilité sociale. Au fil des ateliers et des répétitions où elles jouent leur propre rôle, elles se confient sur leurs parcours. Six mois pour brûler les planches, revendiquer la fierté de leur métier et faire un grand remue-ménage dans les idées reçues les concernant.</desc>
     <date>2020</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7b009731-8d1a-4ea7-909e-8448146b76ac.jpg" />
     <previously-shown />
@@ -5747,17 +6011,6 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200321194000" stop="20200321201500">
-    <title>La grande darka</title>
-    <desc lang="fr">Entouré comme à son habitude d'une équipe de chroniqueurs venus d'horizons variés, Cyril Hanouna a pour mission de faire rire un invité le plus de fois possible au cours de l'émission, à l'aide de micro-trottoirs, happenings, parodies et surprises en tout genre.</desc>
-    <category lang="fr">divertissement</category>
-    <length units="minutes">35</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4f864487-34a1-414c-983d-95d9ac2a5b31.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C445.api.telerama.fr" start="20200321201500" stop="20200321220000">
     <title>Francois-Xavier Demaison</title>
     <desc lang="fr">Après «Demaison s'envole», en 2007, et «Demaison s'évade», François-Xavier Demaison s'est lancé sur les routes de France en janvier 2016 avec son troisième spectacle. Ce nouvel opus, qu'il a même joué à New York, est truffé de personnages, toujours aussi drôles et farfelus, et ponctué d'anecdotes hilarantes sur ses dix années de scène. Pour sa dernière représentation, le 19 avril 2019, c'est sur la scène mythique de l'Olympia que l'humoriste a invité son public à partager un moment de rire et de complicité.</desc>
@@ -5767,6 +6020,9 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme channel="C445.api.telerama.fr" start="20200321220000" stop="20200321233000">
     <title>De quoi j'me mêle</title>
@@ -5794,7 +6050,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <title>Petits plats en équilibre</title>
     <sub-title>Croque-monsieur parisien</sub-title>
     <desc lang="fr">Toutes les astuces et recettes autour d'un ingrédient.</desc>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/44abc967-bf27-4f03-a2e9-5cee53327225.jpg" />
     <rating system="CSA">
@@ -5805,7 +6061,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <title>Petits plats en équilibre</title>
     <sub-title>Salade tiède de lentilles</sub-title>
     <desc lang="fr">Toutes les astuces et recettes autour d'un ingrédient.</desc>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/44abc967-bf27-4f03-a2e9-5cee53327225.jpg" />
     <rating system="CSA">
@@ -5816,7 +6072,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <title>Petits plats en équilibre</title>
     <sub-title>Parmentier de canard, patate douce et panais</sub-title>
     <desc lang="fr">Toutes les astuces et recettes autour d'un ingrédient.</desc>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/44abc967-bf27-4f03-a2e9-5cee53327225.jpg" />
     <rating system="CSA">
@@ -6040,7 +6296,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>Le père du Père Noël</sub-title>
     <desc lang="fr">Saison:11 - Aux Etats-Unis, quand les loyers des garde-meubles sont impayés, leur contenu est vendu aux enchères. Mais ces ventes tiennent plus de la loterie que de l'achat raisonné. En effet, les enchérisseurs n'ont pas le droit de toucher les trésors qu'ils convoitent, ni de pénétrer dans les box dont ils achètent le contenu. Ils ne peuvent compter que sur une vue d'ensemble, leur instinct et un gros coup de pouce de la chance pour espérer faire de bonnes affaires. Véritable magot ou tas de vieilleries poussiéreuses, la réponse est au bout de l'enchère.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b7f56471-5384-4c50-b7bc-3ba837856174.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
@@ -6054,7 +6310,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>Ivy touche le gros lot</sub-title>
     <desc lang="fr">Saison:11 - Aux Etats-Unis, quand les loyers des garde-meubles sont impayés, leur contenu est vendu aux enchères. Mais ces ventes tiennent plus de la loterie que de l'achat raisonné. En effet, les enchérisseurs n'ont pas le droit de toucher les trésors qu'ils convoitent, ni de pénétrer dans les box dont ils achètent le contenu. Ils ne peuvent compter que sur une vue d'ensemble, leur instinct et un gros coup de pouce de la chance pour espérer faire de bonnes affaires. Véritable magot ou tas de vieilleries poussiéreuses, la réponse est au bout de l'enchère.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b7f56471-5384-4c50-b7bc-3ba837856174.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
@@ -6068,7 +6324,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>Une enchère à rendre chèvre</sub-title>
     <desc lang="fr">Saison:11 - Aux Etats-Unis, quand les loyers des garde-meubles sont impayés, leur contenu est vendu aux enchères. Mais ces ventes tiennent plus de la loterie que de l'achat raisonné. En effet, les enchérisseurs n'ont pas le droit de toucher les trésors qu'ils convoitent, ni de pénétrer dans les box dont ils achètent le contenu. Ils ne peuvent compter que sur une vue d'ensemble, leur instinct et un gros coup de pouce de la chance pour espérer faire de bonnes affaires. Véritable magot ou tas de vieilleries poussiéreuses, la réponse est au bout de l'enchère.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">115</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b7f56471-5384-4c50-b7bc-3ba837856174.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
@@ -6178,7 +6434,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>Le seigneur de l'anneau</sub-title>
     <desc lang="fr">Un client pousse la porte de la boutique Gold &amp; Silver Pawn Shop et présente sur le comptoir un anneau qui aurait appartenu à un cardinal. L'objet, s'il est authentifié, peut valoir une grosse somme d'argent. Rick entrevoit les bénéfices qu'il pourrait faire avec une telle bague sur son catalogue. Plus tard, une femme vante les qualités de quatre armes à feu qui remontent au XIXe siècle. Est-ce une bonne affaire ?</desc>
     <date>2014</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/42d07e12-4607-470a-85b2-67385c195364.jpg" />
     <rating system="CSA">
@@ -6190,7 +6446,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>Garde à vous !</sub-title>
     <desc lang="fr">L'équipe a entre les mains un uniforme de la garde royale d'Angleterre, porté par les gardes depuis les années 1700 : quelle valeur peut-il avoir ?</desc>
     <date>2014</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fd56c2cc-59db-4e86-bf85-10e12a83a160.jpg" />
     <rating system="CSA">
@@ -6202,7 +6458,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>Le dernier samouraï</sub-title>
     <desc lang="fr">Corey prend une initiative qui risque de lui coûter cher. Il achète un ancien katana Yasutsugu, un sabre de samouraï, censé remonter au XVIIe siècle. Rick doute de l'authenticité de l'objet et demande l'avis d'un expert. Le sabre a été apporté à la boutique par le même homme qui avait déjà proposé un Grammy Award et un appareil de la Seconde Guerre mondiale ayant servi pendant le Débarquement. La machine avait été retrouvée dans un hangar abandonné, en plein désert.</desc>
     <date>2014</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9d9a4181-74e5-4ef8-8f43-3af4602eb223.jpg" />
     <rating system="CSA">
@@ -6214,7 +6470,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>Partie de minigolf</sub-title>
     <desc lang="fr">La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son père Richard gèrent leur commerce de Las Vegas d'une main de fer. Qu'il s'agisse d'un alligator, de tableaux de maître, de montres de collectionneur, ou d'une dent en or les Gold achètent des objets plus ou moins loufoques. Mais ils n'acceptent de débourser que s'ils pensent revendre les objets à profit. A chaque achat, ils prennent un risque commercial calculé.</desc>
     <date>2014</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">24</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9d9a4181-74e5-4ef8-8f43-3af4602eb223.jpg" />
     <rating system="CSA">
@@ -6236,7 +6492,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>La carte au trésor</sub-title>
     <desc lang="fr">La Gold &amp; Silver Shop est une société de prêteurs sur gages pas comme les autres. Les trois personnages clés, Rick Harrison, Corey, ainsi que son père Richard gèrent leur commerce de Las Vegas d'une main de fer. Qu'il s'agisse d'un alligator, de tableaux de maître, de montres de collectionneur, ou d'une dent en or les Gold achètent des objets plus ou moins loufoques. Mais ils n'acceptent de débourser que s'ils pensent revendre les objets à profit. A chaque achat, ils prennent un risque commercial calculé.</desc>
     <date>2014</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9d9a4181-74e5-4ef8-8f43-3af4602eb223.jpg" />
     <rating system="CSA">
@@ -6248,7 +6504,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>La mine de Vulture City</sub-title>
     <desc lang="fr">Saison:3 - Dans le désert de l'Arizona, la mine de Vulture City a de quoi intriguer. Au début du XIXe siècle, des milliers de chercheurs y sont venus chercher fortune. De nombreux drames se sont déroulés en ces lieux. La légende raconte que des esprits hanteraient le site. Zak et ses compagnons se rendent sur place pour en avoir le coeur net. A l'aide d'appareils sophistiqués, ils tentent de déceler des manifestations paranormales.</desc>
     <date>2010</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5b722e7d-fa3d-4ed6-9f7a-04a9e208d68d.jpg" />
     <episode-num system="xmltv_ns">2..</episode-num>
@@ -6263,7 +6519,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>Une nuit sur l'USS Hornet</sub-title>
     <desc lang="fr">Saison:3 - Les garçons explorent un géant de fer appelé «Hornet», un porte-avions des années 1940, désormais amarré dans la baie de San Francisco et transformé en musée.</desc>
     <date>2010</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/04c35bc0-f3c2-4315-8e25-0a20ae427006.jpg" />
     <episode-num system="xmltv_ns">2..</episode-num>
@@ -6278,7 +6534,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>L'hôpital Linda Vista</sub-title>
     <desc lang="fr">A l'est de Los Angeles, l'ancien hôpital Linda Vista est un site réputé pour ses phénomènes paranormaux. Dans les années 1970-80, les gangs prospéraient dans ces quartiers. Les incidents y ont été nombreux. Zak et ses compagnons d'aventures déploient leur matériel afin de détecter des événements spectaculaires. Bruits insolites, flash lumineux, ombres étranges : rien ne leur échappe. Mais tout cela marque-t-il bien la présence d'esprits ou de spectres ? Rien n'est moins sûr et l'enquête se poursuit.</desc>
     <date>2009</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dd694f6a-19ee-4915-9749-59d5bcdd4bd2.jpg" />
     <previously-shown />
@@ -6292,7 +6548,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>Le manoir de Prospect Place</sub-title>
     <desc lang="fr">Saison:2 - C'est en 1856, à Trinway, que le manoir de Prospect Place a été construit : pourquoi est-il toujours le lieu d'autant de manifestations paranormales ?</desc>
     <date>2009</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/107b17a2-6e74-4dba-a723-4339ea30d76b.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
@@ -6306,7 +6562,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <title>Le journal de la nuit</title>
     <category lang="fr">journal</category>
     <length units="hours">6</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/de25d351-eb1e-4ed0-8ba8-97661f9925fe.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -6454,7 +6710,6 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b55ae97c-b416-481a-874e-dc0be5d12aaa.jpg" />
     <episode-num system="xmltv_ns">4.24.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -6970,7 +7225,6 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <length units="minutes">11</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2c1ccffc-baec-43e1-b005-92dd4ba040a2.jpg" />
     <episode-num system="xmltv_ns">0.6.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -6983,7 +7237,6 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <length units="minutes">18</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2c1ccffc-baec-43e1-b005-92dd4ba040a2.jpg" />
     <episode-num system="xmltv_ns">0.7.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7301,7 +7554,6 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <length units="minutes">11</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2c1ccffc-baec-43e1-b005-92dd4ba040a2.jpg" />
     <episode-num system="xmltv_ns">0.8.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7418,7 +7670,6 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fbc05337-db71-4742-9a4d-dfb38c5304ae.jpg" />
     <episode-num system="xmltv_ns">1.17.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7499,12 +7750,13 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
   </programme>
   <programme channel="C482.api.telerama.fr" start="20200321182300" stop="20200321183500">
     <title>Zig &amp; Sharko</title>
-    <sub-title>Atchoum</sub-title>
-    <desc lang="fr">Saison:3 - Episode:35 - Lorsque Marina prend soin une petite mouette blessée, Sharko découvre qu'il est allergique à ses plumes. Zig va bien sûr en profiter pour déplumer l'oiseau afin d'éloigner Sharko de la sirène...</desc>
+    <sub-title>Perle rare</sub-title>
+    <desc lang="fr">Saison:3 - Episode:65 - Sharko décide d'offrir une perle géante et scintillante à Marina, espérant ainsi la conquérir. Mais Zig et Bernie élaborent les plans les plus machiavéliques possible pour voler la perle et empêcher le squale de donner son précieux cadeau...</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">12</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dcc1f7a-0db5-42fa-aa10-4d1d6c05f73e.jpg" />
-    <episode-num system="xmltv_ns">2.34.</episode-num>
+    <episode-num system="xmltv_ns">2.64.</episode-num>
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8224,12 +8476,56 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1401.api.telerama.fr" start="20200321181500" stop="20200321201000">
-    <title>Rugby (Bourg-en-Bresse / Nice)</title>
-    <category lang="fr">sport : rugby</category>
-    <length units="minutes">115</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/15a8d974-da6e-4417-b4a2-f9c66071329a.jpg" />
-    <new />
+  <programme channel="C1401.api.telerama.fr" start="20200321070000" stop="20200321110000">
+    <title>Programme non communiqué</title>
+    <category lang="fr">programme indéterminé</category>
+    <length units="hours">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1401.api.telerama.fr" start="20200321110000" stop="20200321131000">
+    <title>Programme non communiqué</title>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">130</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1401.api.telerama.fr" start="20200321131000" stop="20200321135000">
+    <title>Programme non communiqué</title>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1401.api.telerama.fr" start="20200321135000" stop="20200321155000">
+    <title>Programme non communiqué</title>
+    <category lang="fr">programme indéterminé</category>
+    <length units="hours">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1401.api.telerama.fr" start="20200321155000" stop="20200321163000">
+    <title>Programme non communiqué</title>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1401.api.telerama.fr" start="20200321163000" stop="20200321181500">
+    <title>Programme non communiqué</title>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">105</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8277,7 +8573,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <title>Où sont les noirs ?</title>
     <desc lang="fr">Qui est aujourd'hui capable de citer trois acteurs ou actrices noir(e)s français(es) ? C'est par cette question que s'ouvre ce documentaire de Rohkaya Diallo. Une question à laquelle une majorité des personnes interrogées sont incapables de répondre. Ce manifeste délivre le combat de personnalités noires pour se faire une place dans le cinéma ou la télévision français et expose les discriminations auxquelles ils doivent faire face.</desc>
     <date>2019</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
     <previously-shown />
@@ -8293,7 +8589,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>Thot</sub-title>
     <desc lang="fr">THOT est une école associative qui s'est fixé pour objectif de «Transmettre un Horizon pour Tous» aux immigrés en leur enseignant gratuitement le français.</desc>
     <date>2019</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
     <rating system="CSA">
@@ -8411,7 +8707,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>Rencont'Roms nous</sub-title>
     <desc lang="fr">Saison:1 - L'association oeuvre à rapprocher les dizaines de familles Roms du terrain de la Flambère à Toulouse, et ceux des quartiers environnatns, favorisant ainsi le partage de culture.</desc>
     <date>2019</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -8606,7 +8902,6 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <category lang="fr">magazine animalier</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/49cc9336-f919-414f-91f4-6556780b44cb.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8618,7 +8913,6 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <category lang="fr">magazine animalier</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/49cc9336-f919-414f-91f4-6556780b44cb.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8630,7 +8924,6 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <category lang="fr">magazine animalier</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/49cc9336-f919-414f-91f4-6556780b44cb.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
@@ -8643,7 +8936,6 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <category lang="fr">magazine animalier</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/49cc9336-f919-414f-91f4-6556780b44cb.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8655,7 +8947,6 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <category lang="fr">magazine animalier</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/49cc9336-f919-414f-91f4-6556780b44cb.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8667,7 +8958,6 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <category lang="fr">magazine animalier</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/49cc9336-f919-414f-91f4-6556780b44cb.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8868,6 +9158,58 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C1403.api.telerama.fr" start="20200321200500" stop="20200321205000">
+    <title>Rénovation impossible</title>
+    <sub-title>Bric-à-brac</sub-title>
+    <desc lang="fr">Saison:9 - H.D. Snow, le père de Donna et Toni, a transporté des maisons toute sa vie et en a stocké quelques-unes sur son terrain. Remplies de bric-à-brac, il offre ces maisons à ses filles et petites-filles qui devront les rénover tout en recyclant un maximum d'équipements présents à l'intérieur. Ses petites-filles rénovent la maison de 83 m², Donna et Toni se chargent de la maison de 63 m². Lesquelles vont faire la meilleure vente ?</desc>
+    <category lang="fr">documentaire téléréalité</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/22493336-d206-448b-ad39-58d04fc68cda.jpg" />
+    <episode-num system="xmltv_ns">8..</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1403.api.telerama.fr" start="20200321205000" stop="20200321214000">
+    <title>Rénovation impossible</title>
+    <sub-title>Ambiance californienne</sub-title>
+    <desc lang="fr">Saison:9 - A Hill country au Texas, les frères Hayhurst achètent une maison de 167 m² pour 2 100 dollars. Ils s'associent avec Casey et Catrina pour créer une grande maison de style côte ouest californienne et une maison d'amis qui sera installée sur le même terrain. Les deux maisons seront vendues en un seul lot.</desc>
+    <category lang="fr">documentaire téléréalité</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2429985-7cb7-4f72-8ca4-f481abfe4900.jpg" />
+    <episode-num system="xmltv_ns">8..</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1403.api.telerama.fr" start="20200321214000" stop="20200321223000">
+    <title>Rénovation impossible</title>
+    <sub-title>Une maison délicieuse</sub-title>
+    <desc lang="fr">Saison:8 - Après avoir reçu une proposition très intéressante de la part d'un ami, Catrina convainc Casey de se lancer dans une nouvelle aventure : récupérer une maison abandonnée sur un terrain sans même l'avoir vu. La rénovation de cette habitation de 93 mètres carrés est un véritable challenge pour ces deux spécialistes.</desc>
+    <category lang="fr">documentaire téléréalité</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c773d930-4c72-4211-ad6e-062c1a5ec32d.jpg" />
+    <episode-num system="xmltv_ns">7..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1403.api.telerama.fr" start="20200321223000" stop="20200321232000">
+    <title>Rénovation impossible</title>
+    <sub-title>Beaucoup de route pour rien</sub-title>
+    <desc lang="fr">Saison:9 - Randy va acquérir un ancien corps de ferme de 100 mètres carrés pour 1 100 dollars. Il va recycler un maximum les éléments existants et créer un look ancien et nouveau monde. Catrina et Casey ont, de leur côté, acquis une maison gratuitement qu'ils vont rénover et réaménager en recyclant des éléments d'origine.</desc>
+    <category lang="fr">documentaire téléréalité</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/22493336-d206-448b-ad39-58d04fc68cda.jpg" />
+    <episode-num system="xmltv_ns">8..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C1404.api.telerama.fr" start="20200320233000" stop="20200321052500">
     <title>Programmes de la nuit</title>
     <category lang="fr">programme indéterminé</category>
@@ -9034,7 +9376,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
   <programme channel="C1404.api.telerama.fr" start="20200321125500" stop="20200321130000">
     <title>Petits plats en équilibre</title>
     <desc lang="fr">Toutes les astuces et recettes autour d'un ingrédient de saison.</desc>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/44abc967-bf27-4f03-a2e9-5cee53327225.jpg" />
     <rating system="CSA">
@@ -9204,6 +9546,15 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C2111.api.telerama.fr" start="20200320230000" stop="20200321045900">
+    <title>France 24</title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">359</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C2111.api.telerama.fr" start="20200321073300" stop="20200321075800">
     <title>8h30 franceinfo</title>
     <desc lang="fr">Chaque matin, rendez-vous avec celles et ceux qui font l'actualité politique du jour.</desc>
@@ -9237,6 +9588,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <title>L'interview sport</title>
     <category lang="fr">magazine sportif</category>
     <length units="minutes">6</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e82e0db3-20f8-44ab-8fda-554dacd710c4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9274,7 +9626,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <desc lang="fr">Depuis le grand hall du parlement européen de Bruxelles, un magazine d'analyse didactique et décalée sur l'Union européenne.</desc>
     <category lang="fr">magazine politique</category>
     <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7ebf1a4d-68de-42e0-9b64-8be8971595c9.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9331,7 +9683,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <desc lang="fr">L'actualité de la semaine décryptée par un intellectuel, un philosophe ou un écrivain.</desc>
     <category lang="fr">magazine culturel</category>
     <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/742b6f42-4d2b-4d3e-96b9-11645330f07b.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9369,7 +9721,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <desc lang="fr">Depuis le grand hall du parlement européen de Bruxelles, un magazine d'analyse didactique et décalée sur l'Union européenne.</desc>
     <category lang="fr">magazine politique</category>
     <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7ebf1a4d-68de-42e0-9b64-8be8971595c9.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9407,7 +9759,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <desc lang="fr">L'actualité de la semaine décryptée par un intellectuel, un philosophe ou un écrivain.</desc>
     <category lang="fr">magazine culturel</category>
     <length units="minutes">26</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/742b6f42-4d2b-4d3e-96b9-11645330f07b.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9425,7 +9777,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <title>Le 23h</title>
     <category lang="fr">journal</category>
     <length units="minutes">34</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7849e868-28ec-4d4b-8d4c-ae2d7606b7a7.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9434,6 +9786,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <title>L'interview sport</title>
     <category lang="fr">magazine sportif</category>
     <length units="minutes">6</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e82e0db3-20f8-44ab-8fda-554dacd710c4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9482,31 +9835,21 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200321230500" stop="20200321231000">
-    <title>Vu</title>
-    <desc lang="fr">Un regard impertinent et libre, orchestré par Patrick Menais et son équipe, sur le monde de l'image.</desc>
-    <category lang="fr">divertissement</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e3e6b61f-ea7a-48a9-9e77-0729acb3877d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C80.api.telerama.fr" start="20200321231000" stop="20200321232000">
+  <programme channel="C80.api.telerama.fr" start="20200321231000" stop="20200321231900">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">10</length>
+    <length units="minutes">9</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200321232000" stop="20200322013500">
+  <programme channel="C80.api.telerama.fr" start="20200321231900" stop="20200322013500">
     <title>Le concert des étoiles</title>
     <sub-title>Mozart</sub-title>
     <desc lang="fr">A travers les airs et les morceaux les plus marquants de son répertoire, de grands artistes lyriques et instrumentistes venus du monde entier se produisent sur la scène du Théâtre des Champs-Elysées, en l'honneur de l'un des plus célèbres compositeurs de l'histoire de la musique classique : Wolfgang Amadeus Mozart. Accompagnés par l'Orchestre de Chambre de Paris, sous la direction d'Yvan Cassar, ils rendent hommage à cet immense compositeur, transmettant au public l'esprit qui l'animait. L'émission alterne d'une part images d'archives des plus grands interprètes mozartiens et des plus belles mises en scène de ses opéras; et de l'autre, airs d'opéra et extraits d'oeuvres instrumentales interprétés sur la scène du Théâtre des Champs-Elysées par une nouvelle génération d'artistes internationaux.</desc>
     <category lang="fr">classique</category>
-    <length units="minutes">135</length>
+    <length units="minutes">136</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a3b60e8b-fad8-4116-84a7-0750e1048863.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -9743,7 +10086,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <sub-title>L'usine Remington</sub-title>
     <desc lang="fr">Saison:2 - L'usine Remington, située à Bridgeport, dans le Connecticut, a été le théâtre d'événements dramatiques. De mystérieuses explosions, des électrocutions et des corps disloqués lui ont valu une très mauvaise réputation. Zak Bagans et ses collaborateurs se rendent sur place et cherchent à savoir si les lieux sont hantés.</desc>
     <date>2009</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/107b17a2-6e74-4dba-a723-4339ea30d76b.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
@@ -9865,7 +10208,7 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <title>Engagez-vous !</title>
     <sub-title>Force des mixités</sub-title>
     <desc lang="fr">Aïda Touihri fait découvrir les actions menées par diverses associations et rencontre des personnes engagées au service des autres.</desc>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
     <rating system="CSA">
@@ -9877,6 +10220,19 @@ Un conseiller génial et narcissique, une flic solitaire et tourmentée, des meu
     <category lang="fr">fin</category>
     <length units="minutes">365</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1403.api.telerama.fr" start="20200321232000" stop="20200322001000">
+    <title>Rénovation impossible</title>
+    <sub-title>La pièce secrète</sub-title>
+    <desc lang="fr">Saison:9 - Isolée au milieu d'un champ, une maison de 70 mètres carrés attire tous les rénovateurs mais ce sont les soeurs Snow qui remportent le bien pour 600 dollars. Elles vont tout transformer et construire un abri anti-tornade secret. Une autre maison en plein centre-ville de 78 mètres carrés est vendue en parfait état. Casey et Catrina vont l'acheter pour 1 150 dollars et la transformer avec des couleurs chatoyantes style Nouveau-Mexique.</desc>
+    <category lang="fr">documentaire téléréalité</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/22493336-d206-448b-ad39-58d04fc68cda.jpg" />
+    <episode-num system="xmltv_ns">8..</episode-num>
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
