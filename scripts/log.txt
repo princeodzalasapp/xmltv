@@ -1,20 +1,19 @@
-- Start script at 27/03/2020 01:00:01-CET in /home/admin/xmltv/scripts
+- Start script at 28/03/2020 01:00:01-CET in /home/admin/xmltv/scripts
 - To avoid any git conflict we do a force pull first
 Récupération de origin
-HEAD est maintenant à fc96bc7 Auto update TV guides (25/03/2020 01:00:01-CET)
+HEAD est maintenant à d5876ee Auto update TV guides (27/03/2020 01:00:01-CET)
 - Remove xmltv files
 - Update raw 7 days guides (tv_guide_XX.xml files in raw fodler)
-getting listings: ###########################################Grabber process finished in 1546 seconds for 55 chans, 721 api calls : 706 api_casting, 14 api_grille, 1 api_init, 896 cached api_casting
-getting listings: ###########################################Grabber process finished in 721 seconds for 8 chans, 325 api calls : 317 api_casting, 7 api_grille, 1 api_init, 85 cached api_casting
-[Fri Mar 27 01:37:52 2020] Fetching listings:   0%
-[Fri Mar 27 01:38:25 2020] Fetching listings:   0%
-[Fri Mar 27 01:40:07 2020] Fetching listings:   1%
-[Fri Mar 27 01:41:55 2020] Fetching listings:   2%
-[Fri Mar 27 01:43:52 2020] Fetching listings:   3%
+getting listings: ###########################################Grabber process finished in 1517 seconds for 55 chans, 738 api calls : 723 api_casting, 14 api_grille, 1 api_init, 837 cached api_casting
+getting listings: ###########################################Grabber process finished in 680 seconds for 8 chans, 327 api calls : 319 api_casting, 7 api_grille, 1 api_init, 73 cached api_casting
+[Sat Mar 28 01:36:41 2020] Fetching listings:   0%
+[Sat Mar 28 01:36:59 2020] Fetching listings:   0%
+[Sat Mar 28 01:38:56 2020] Fetching listings:   1%
+[Sat Mar 28 01:40:39 2020] Fetching listings:   2%
 Invalid local time for date in time zone: Europe/London
 getting list of channels: ######***Channel |Sky Cinema Uno HD| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Sky Cinema Due HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Spider-Man Collection HD| for 'skylife' is not in channel_ids, should be updated.
+***Channel |Men In Black Collection HD| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Sky Cinema Action HD| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Sky Cinema Suspense HD| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Sky Cinema Romance HD| for 'skylife' is not in channel_ids, should be updated.
@@ -86,6 +85,7 @@ getting list of channels: ######***Channel |Sky Cinema Uno HD| for 'skylife' is 
 ***Channel |Nick Jr| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Nick Jr +1| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Nickelodeon +1| for 'skylife' is not in channel_ids, should be updated.
+***Channel |Gumball Channel| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Boomerang +1| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Disney Junior +1| for 'skylife' is not in channel_ids, should be updated.
 ***Channel |Disney Ch. HD| for 'skylife' is not in channel_ids, should be updated.
@@ -139,76 +139,76 @@ getting listings: ##################################################
 	- Write corrected full xmltv file in tv_guide_be.xml
 	- Write corrected full xmltv file in tv_guide_be_local.xml
 	- Write one day xmltv files:
-		* Write day 20200326 in tv_guide_be_20200326.xml
 		* Write day 20200327 in tv_guide_be_20200327.xml
 		* Write day 20200328 in tv_guide_be_20200328.xml
 		* Write day 20200329 in tv_guide_be_20200329.xml
 		* Write day 20200330 in tv_guide_be_20200330.xml
 		* Write day 20200331 in tv_guide_be_20200331.xml
 		* Write day 20200401 in tv_guide_be_20200401.xml
-		* Write day 20200326 in tv_guide_be_local_20200326.xml
+		* Write day 20200402 in tv_guide_be_20200402.xml
 		* Write day 20200327 in tv_guide_be_local_20200327.xml
 		* Write day 20200328 in tv_guide_be_local_20200328.xml
 		* Write day 20200329 in tv_guide_be_local_20200329.xml
 		* Write day 20200330 in tv_guide_be_local_20200330.xml
 		* Write day 20200331 in tv_guide_be_local_20200331.xml
 		* Write day 20200401 in tv_guide_be_local_20200401.xml
+		* Write day 20200402 in tv_guide_be_local_20200402.xml
 * Processing of fr country:
 	- Write corrected full xmltv file in tv_guide_fr.xml
 	- Write corrected full xmltv file in tv_guide_fr_local.xml
 	- Write one day xmltv files:
-		* Write day 20200326 in tv_guide_fr_20200326.xml
 		* Write day 20200327 in tv_guide_fr_20200327.xml
 		* Write day 20200328 in tv_guide_fr_20200328.xml
 		* Write day 20200329 in tv_guide_fr_20200329.xml
 		* Write day 20200330 in tv_guide_fr_20200330.xml
 		* Write day 20200331 in tv_guide_fr_20200331.xml
 		* Write day 20200401 in tv_guide_fr_20200401.xml
-		* Write day 20200326 in tv_guide_fr_local_20200326.xml
+		* Write day 20200402 in tv_guide_fr_20200402.xml
 		* Write day 20200327 in tv_guide_fr_local_20200327.xml
 		* Write day 20200328 in tv_guide_fr_local_20200328.xml
 		* Write day 20200329 in tv_guide_fr_local_20200329.xml
 		* Write day 20200330 in tv_guide_fr_local_20200330.xml
 		* Write day 20200331 in tv_guide_fr_local_20200331.xml
 		* Write day 20200401 in tv_guide_fr_local_20200401.xml
+		* Write day 20200402 in tv_guide_fr_local_20200402.xml
 * Processing of fr_tnt country:
 	- Write corrected full xmltv file in tv_guide_fr_tnt.xml
 	- Write corrected full xmltv file in tv_guide_fr_tnt_local.xml
 	- Write one day xmltv files:
-		* Write day 20200326 in tv_guide_fr_tnt_20200326.xml
 		* Write day 20200327 in tv_guide_fr_tnt_20200327.xml
 		* Write day 20200328 in tv_guide_fr_tnt_20200328.xml
 		* Write day 20200329 in tv_guide_fr_tnt_20200329.xml
 		* Write day 20200330 in tv_guide_fr_tnt_20200330.xml
 		* Write day 20200331 in tv_guide_fr_tnt_20200331.xml
 		* Write day 20200401 in tv_guide_fr_tnt_20200401.xml
-		* Write day 20200326 in tv_guide_fr_tnt_local_20200326.xml
+		* Write day 20200402 in tv_guide_fr_tnt_20200402.xml
 		* Write day 20200327 in tv_guide_fr_tnt_local_20200327.xml
 		* Write day 20200328 in tv_guide_fr_tnt_local_20200328.xml
 		* Write day 20200329 in tv_guide_fr_tnt_local_20200329.xml
 		* Write day 20200330 in tv_guide_fr_tnt_local_20200330.xml
 		* Write day 20200331 in tv_guide_fr_tnt_local_20200331.xml
 		* Write day 20200401 in tv_guide_fr_tnt_local_20200401.xml
+		* Write day 20200402 in tv_guide_fr_tnt_local_20200402.xml
 * Processing of uk country:
 * Processing of it country:
 	- Write corrected full xmltv file in tv_guide_it.xml
 	- Write corrected full xmltv file in tv_guide_it_local.xml
 	- Write one day xmltv files:
-		* Write day 20200326 in tv_guide_it_20200326.xml
 		* Write day 20200327 in tv_guide_it_20200327.xml
 		* Write day 20200328 in tv_guide_it_20200328.xml
 		* Write day 20200329 in tv_guide_it_20200329.xml
 		* Write day 20200330 in tv_guide_it_20200330.xml
 		* Write day 20200331 in tv_guide_it_20200331.xml
 		* Write day 20200401 in tv_guide_it_20200401.xml
-		* Write day 20200326 in tv_guide_it_local_20200326.xml
+		* Write day 20200402 in tv_guide_it_20200402.xml
 		* Write day 20200327 in tv_guide_it_local_20200327.xml
 		* Write day 20200328 in tv_guide_it_local_20200328.xml
 		* Write day 20200329 in tv_guide_it_local_20200329.xml
 		* Write day 20200330 in tv_guide_it_local_20200330.xml
 		* Write day 20200331 in tv_guide_it_local_20200331.xml
 		* Write day 20200401 in tv_guide_it_local_20200401.xml
+		* Write day 20200402 in tv_guide_it_local_20200402.xml
 * Merge all country tv guides in tv_guide_all.xml
 * Merge all country tv guides in tv_guide_all_local.xml
-- Add log file if needed at 27/03/2020 01:50:05-CET
+- Add log file if needed at 28/03/2020 01:46:12-CET
 - Push changes
