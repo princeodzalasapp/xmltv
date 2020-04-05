@@ -165,7 +165,7 @@
     <desc lang="fr">Saison:1 -</desc>
     <category lang="fr">téléréalité</category>
     <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/94b687c1-b7ed-49e4-a34b-286706fc1dbe.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/be238b92-c3bb-4bb0-9812-003a8c7a1123.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -1280,7 +1280,7 @@
     <title>Les ambassadeurs</title>
     <sub-title>Littoral</sub-title>
     <desc lang="fr">Armelle et ses comparses, Guy Lemaire et Jean-Philippe Watteyne, vous donnent rendez-vous cette semaine au Littoral où souffle un vent de fraîcheur. De Knokke-Heist et son immanquable parc nature du Zwin, jusqu'à Ostdunkerque, Terre des Pêcheurs de crevettes à cheval, en passant par Ostende, ville où l'Art n'est pas un vain mot, Le Coq ou encore Bredene et ses plages de sable, l'émission met à l'honneur des Ambassadeurs accueillants et passionnés.</desc>
-    <category lang="fr">magazine du tourisme</category>
+    <category lang="fr">magazine magazine du tourisme</category>
     <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ba9419fd-4aa9-4ae3-9aa1-132d35d8f914.jpg" />
     <rating system="CSA">
@@ -1312,6 +1312,17 @@
     <star-rating>
       <value>3/5</value>
     </star-rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200404141000" stop="20200404141500">
+    <title>Les jardins de rêve de Luc Noël</title>
+    <sub-title>Le jardin du peintre André Van Beek</sub-title>
+    <category lang="fr">magazine du jardinage</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7f1a73ec-c107-4315-9086-a2ccb7bf31a2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
   </programme>
   <programme channel="C164.api.telerama.fr" start="20200404141500" stop="20200404150000">
     <title>Mentalist</title>
@@ -1402,37 +1413,47 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200404171500" stop="20200404173000">
-    <title>Météo</title>
-    <category lang="fr">météo</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200404173000" stop="20200404180700">
-    <title>JT 19h30</title>
-    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">37</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200404180700" stop="20200404181000">
-    <title>GuiHome vous détend</title>
-    <sub-title>Nos amis français !</sub-title>
-    <category lang="fr">divertissement-humour</category>
-    <length units="minutes">3</length>
+  <programme channel="C164.api.telerama.fr" start="20200404171500" stop="20200404172000">
+    <title>Les belges : Toujours la frite</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200404181000" stop="20200404181500">
+  <programme channel="C164.api.telerama.fr" start="20200404172000" stop="20200404173000">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200404173000" stop="20200404181100">
+    <title>JT 19h30</title>
+    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">41</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200404181100" stop="20200404181500">
+    <title>GuiHome vous détend</title>
+    <sub-title>Nos amis français !</sub-title>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200404181500" stop="20200404182000">
     <title>Tirage Lotto-Joker</title>
     <category lang="fr">loterie</category>
     <length units="minutes">5</length>
@@ -1440,10 +1461,10 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200404181500" stop="20200404182500">
+  <programme channel="C164.api.telerama.fr" start="20200404182000" stop="20200404182500">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1459,7 +1480,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200404185500" stop="20200404195000">
+  <programme channel="C164.api.telerama.fr" start="20200404185500" stop="20200404194500">
     <title>Section de recherches</title>
     <sub-title>Jeux mortels</sub-title>
     <desc lang="fr">Saison:14 - Episode:2 - La Section de recherches est appelée en pleine nuit lorsque le corps d'une jeune femme sauvagement assassignée est découvert dans un fort abandonné. La victime, une jeune mère célibataire, participait alors à un «murder game». Mais qui parmi les joueurs pouvait souhaiter sa mort? Jeanne Lorieux et le commandant Barnier sont chargés de l'enquête...</desc>
@@ -1477,7 +1498,7 @@
       <writer>Yann Le Nivet</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">55</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/62f47e96-80a8-4192-9fbd-10b3e9c9dcfb.jpg" />
     <episode-num system="xmltv_ns">13.1.</episode-num>
     <premiere />
@@ -1486,7 +1507,7 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200404195000" stop="20200404204400">
+  <programme channel="C164.api.telerama.fr" start="20200404194500" stop="20200404203800">
     <title>Section de recherches</title>
     <sub-title>Grand froid</sub-title>
     <desc lang="fr">Saison:12 - Episode:2 - Auron, petite station de ski familiale où Lucas a pris quelques jours de vacances avec son fils, est le théâtre d'un carnage : le meurtre de toute une famille. En pleine nuit, le couple propriétaire de l'hôtel «Les Marmottes» est retrouvé gisant sur le sol de son chalet cossu. Chacun a été tué d'une cartouche de fusil de chasse. Le fils de 16 ans des deux infortunés fait aussi partie des victimes. Seule la petite Violette, 6 ans, a été épargnée. Bernier et le reste de l'équipe, dont Ariel Grimaud, la nouvelle responsable du pôle scientifique, sont appelés sur place...</desc>
@@ -1504,7 +1525,7 @@
       <writer>Yann Le Nivet</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">54</length>
+    <length units="minutes">53</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/af7c5bc3-1612-4752-9048-3b2d0d9a006b.jpg" />
     <episode-num system="xmltv_ns">11.1.</episode-num>
     <premiere />
@@ -1513,15 +1534,15 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200404204400" stop="20200404204500">
+  <programme channel="C164.api.telerama.fr" start="20200404203800" stop="20200404204000">
     <title>Rapports Lotto-Joker</title>
     <category lang="fr">loterie</category>
-    <length units="minutes">1</length>
+    <length units="minutes">2</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200404204500" stop="20200404214400">
+  <programme channel="C164.api.telerama.fr" start="20200404204000" stop="20200404213800">
     <title>Section de recherches</title>
     <sub-title>L'enfant chéri</sub-title>
     <desc lang="fr">Saison:12 - Episode:3 - Nathan Delestat, 19 ans, est retrouvé assassiné. Le jeune homme venait de retrouver sa famille après avoir fugué et disparu pendant sept ans. Selon ses parents et sa soeur ainée, Olivia, les retrouvailles avaient été idylliques. Mais en enquêtant, Bernier et son équipe découvrent que la victime n'était pas celui qu'il prétendait. Comment ses proches ont-ils pu se laisser berner ? Qui était vraiment le mystérieux Nathan ?...</desc>
@@ -1537,7 +1558,7 @@
       <writer>Yann Le Nivet</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">59</length>
+    <length units="minutes">58</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/03c30ffb-b68d-45d4-b15c-5984900470e1.jpg" />
     <episode-num system="xmltv_ns">11.2.</episode-num>
     <rating system="CSA">
@@ -1545,20 +1566,20 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200404214400" stop="20200404214500">
+  <programme channel="C164.api.telerama.fr" start="20200404213800" stop="20200404214000">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">1</length>
+    <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200404214500" stop="20200404222600">
+  <programme channel="C164.api.telerama.fr" start="20200404214000" stop="20200404222500">
     <title>JT 19h30</title>
     <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">41</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -2075,31 +2096,45 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200404152500" stop="20200404155500">
+  <programme channel="C187.api.telerama.fr" start="20200404135500" stop="20200404153000">
+    <title>Chauffards contre justiciers de la route</title>
+    <sub-title>La guerre est déclarée</sub-title>
+    <desc lang="fr">En 2018, 3503 Français ont perdu la vie dans un accident de la circulation. Un chiffre qui ne calme pas pour autant les fous du volant, adeptes des sensations fortes, prêts à prendre tous les risques pour leur passion de la vitesse, et leur quête d'adrénaline. Durant plusieurs mois, des caméras ont suivi les gendarmes de Mulhouse dans leur lutte quotidienne contre la délinquance routière. Des gendarmes confrontés à des automobilistes sans foi ni loi, qui n'hésitent pas à mettre en péril la sécurité des autres usagers. Parfois, ils sont aidés par des justiciers de la route, des redresseurs de torts à moto, mais aussi des cyclistes, qui tentent de se faire respecter dans la jungle et interpellent eux-mêmes les chauffards pour les livrer aux forces de l'ordre.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire : société</category>
+    <length units="minutes">95</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3a98e2b5-7abd-4c9c-a190-b0f91dcb3441.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200404153000" stop="20200404160500">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
     <category lang="fr">jeu</category>
-    <length units="minutes">30</length>
+    <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200404155500" stop="20200404163500">
+  <programme channel="C187.api.telerama.fr" start="20200404160500" stop="20200404163000">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
     <category lang="fr">jeu</category>
-    <length units="minutes">40</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200404163500" stop="20200404170000">
+  <programme channel="C187.api.telerama.fr" start="20200404163000" stop="20200404170000">
     <title>L'Internet Show</title>
     <desc lang="fr">Saison:1 - Dans cette émission hebdomadaire destinée aux jeunes adultes, Bénédicte Deprez anime des discussions autour des réseaux sociaux, ponctuée de nombreuses rubriques.</desc>
     <category lang="fr">magazine du multimédia</category>
-    <length units="minutes">25</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f3ba12de-cd8c-4d34-a829-67be6c394435.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <rating system="CSA">
@@ -2111,7 +2146,7 @@
     <sub-title>Ford Mustang</sub-title>
     <desc lang="fr">Saison:4 - Mus «à gauche», Tang «à droite», Ford n'a attendu ni Gainsbourg ni BB pour faire ronronner sa Mustang. Avec plus de dix millions d'exemplaires vendus, cette Ford légendaire, née en 1964, en est aujourd'hui à sa sixième génération. Au début des seventies la Mustang Fastback crevait l'écran. Notamment dans «Les Diamants sont éternels» avec Roger Moore. Contrairement aux diamants la Fastback, dénichée par François Allain, ne brille plus de toutes ses facettes. Eric et son équipe vont prendre la bête en mains pour lui rendre son éclat originel.</desc>
     <date>2019</date>
-    <category lang="fr">documentaire : téléréalité</category>
+    <category lang="fr">documentaire téléréalité</category>
     <length units="minutes">65</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7f69e814-3671-4b16-b34b-258ba9ddddda.jpg" />
     <episode-num system="xmltv_ns">3..</episode-num>
@@ -2119,7 +2154,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200404180500" stop="20200404200800">
+  <programme channel="C187.api.telerama.fr" start="20200404180500" stop="20200404200400">
     <title>Cliffhanger, traque au sommet</title>
     <desc lang="fr">Gabe Walker, un guide de haute montagne, s'estime responsable de la chute mortelle dont vient d'être victime une amie. Aussi décide-t-il de renoncer à son métier. Huit mois après avoir pris cette douloureuse décision, pressé par Jessie, son ex-petite amie, il accepte de répondre à l'appel de détresse lancé par une expédition en difficulté. Lorsqu'il comprend qu'il a été abusé par un gangster, Eric Qualen, il est déjà trop tard. Prisonnier du truand, en compagnie de son ami Hal, il doit repérer l'emplacement d'un accident d'avion où reposent, dans le silence de la montagne, quelque cent millions de dollars. Gabe parvient assez rapidement à fausser compagnie à son dangereux commanditaire et engage avec lui une haletante course contre la montre... - Critique : Genre : aventures égocentriques. Gabriel Walker est un guide de montagne chevronné. Il a quitté son emploi à la suite d'un accident dont il s'estime responsable et qui a coûté la vie à une jeune femme. Un avion s'est écrasé dans les Rocheuses. Il accepte de partir à la recherche des survivants. Renny Harlin n'a qu'une obsession : mettre en valeur l'acteur principal, qui s'est d'ailleurs lui-même bâti un scénario sur mesure. La mise en scène, dépourvue de toute originalité, est rythmée par de nombreux morceaux de bravoure. John Lithgow en psychopathe est plutôt amusant ; les paysages sont superbes, les dialogues, réduits au minimum, comme d'ailleurs la psychologie...</desc>
     <credits>
@@ -2138,7 +2173,7 @@
     </credits>
     <date>1993</date>
     <category lang="fr">film d'action</category>
-    <length units="minutes">123</length>
+    <length units="minutes">119</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1eb833d6-acc4-452c-bffe-b171afc4f26c.jpg" />
     <rating system="CSA">
       <value>-10</value>
@@ -2148,24 +2183,24 @@
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200404200800" stop="20200404201000">
+  <programme channel="C187.api.telerama.fr" start="20200404200400" stop="20200404200800">
     <title>Rapports Lotto-Joker</title>
     <category lang="fr">loterie</category>
-    <length units="minutes">2</length>
+    <length units="minutes">4</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200404201000" stop="20200404201500">
+  <programme channel="C187.api.telerama.fr" start="20200404200800" stop="20200404201000">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">5</length>
+    <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200404201500" stop="20200404215000">
+  <programme channel="C187.api.telerama.fr" start="20200404201000" stop="20200404214600">
     <title>Made in France</title>
     <desc lang="fr">Sortie repoussée. - Critique : | Genre : thriller antidjihadiste. Un journaliste musulman voit le petit groupe de Français islamistes radicaux dans lequel il s'est infiltré pour écrire un livre se muer en groupuscule terroriste sous l'influence d'un leader illuminé... Tourné avant la tuerie de Charlie Hebdo, jugé trop « sensible » par la profession, Made in France devait sortir en salles le 18 novembre 2015. Les attentats du 13 novembre à Paris et à Saint-Denis, cinq jours plus tôt, ont conduit le distributeur à exploiter le film directement en VOD. Suivant la tradition du film de genre qui s'empare des problèmes et des peurs de son temps, Nicolas Boukhrief choisit le thriller violent pour décrire la spirale fatale de l'endoctrinement djihadiste. Même si la fin et certains personnages manquent un peu de nuance, la mise en scène reste impressionnante de tension. En choisissant de faire de son infiltré horrifié un musulman pratiquant, et en montrant les plus extrémistes du groupe comme des convertis ignorant le Coran, le cinéaste désigne clairement sa cible : non pas l'islam, mais plutôt le marasme social, qui donne prise à un embrigadement pathétique et suicidaire. — Guillemette Odicino</desc>
     <credits>
@@ -2173,23 +2208,18 @@
       <actor>Malik Zidi</actor>
       <actor>Dimitri Storoge</actor>
       <actor>François Civil</actor>
-      <actor>Ahmed Drame</actor>
+      <actor>Ahmed Dramé</actor>
       <actor>Nassim Si Ahmed</actor>
       <actor>Nailia Harzoune</actor>
       <actor>Nicolas Grandhomme</actor>
       <actor>Assaad Bouab</actor>
-      <actor>Malek Oudjail</actor>
-      <actor>Laurent Alexandre</actor>
-      <actor>Franck Gastambide</actor>
-      <actor>Judith Davis</actor>
-      <actor>Tidjo Grand</actor>
       <writer>Eric Besnard</writer>
       <writer>Nicolas Boukhrief</writer>
       <guest>Patrick Ghiringhelli</guest>
     </credits>
     <date>2015</date>
     <category lang="fr">film : thriller</category>
-    <length units="minutes">95</length>
+    <length units="minutes">96</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0924966b-1194-4d1d-b279-f6929ba84a9f.jpg" />
     <rating system="CSA">
       <value>-12</value>
@@ -2199,21 +2229,21 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200404215000" stop="20200404215100">
+  <programme channel="C187.api.telerama.fr" start="20200404214600" stop="20200404215000">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">1</length>
+    <length units="minutes">4</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200404215100" stop="20200404230000">
+  <programme channel="C187.api.telerama.fr" start="20200404215000" stop="20200404221500">
     <title>L'Internet Show</title>
     <desc lang="fr">Saison:1 - Dans cette émission hebdomadaire destinée aux jeunes adultes, Bénédicte Deprez anime des discussions autour des réseaux sociaux, ponctuée de nombreuses rubriques.</desc>
     <category lang="fr">magazine du multimédia</category>
-    <length units="minutes">69</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f3ba12de-cd8c-4d34-a829-67be6c394435.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
@@ -2243,6 +2273,16 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C377.api.telerama.fr" start="20200404030000" stop="20200404063000">
+    <title>Télé-achat</title>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">210</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C377.api.telerama.fr" start="20200404063000" stop="20200404090000">
     <title>Shopping Hours</title>
     <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
@@ -2265,7 +2305,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200404113000" stop="20200404115500">
+  <programme channel="C377.api.telerama.fr" start="20200404113000" stop="20200404120000">
     <title>Bienvenue chez les Huang</title>
     <sub-title>Premier baiser</sub-title>
     <desc lang="fr">Saison:3 - Episode:13 - Eddie espère profiter du bal de la Saint-Valentin pour partager son premier baiser avec Alison. Après la découverte d'un sandwich dans sa boîte aux lettres, Jessica propose à ses voisins de mettre en place une surveillance du quartier mais se fait refouler du conseil de surveillance car ses voisines la trouvent trop individuelle...</desc>
@@ -2281,19 +2321,19 @@
       <writer>Abbey Caldwell</writer>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">25</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2a7b7976-fa56-481c-b137-3ecd27e932f6.jpg" />
     <episode-num system="xmltv_ns">2.12.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200404115500" stop="20200404121500">
+  <programme channel="C377.api.telerama.fr" start="20200404120000" stop="20200404122500">
     <title>Des habits et moi</title>
     <sub-title>Episode 15</sub-title>
     <desc lang="fr">Saison:7 - A la découverte des dernières tendances de l'année.</desc>
     <category lang="fr">magazine de la mode</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/78b76141-d4fe-4caf-9a94-7bb5ab791b7f.jpg" />
     <episode-num system="xmltv_ns">6..</episode-num>
     <previously-shown />
@@ -2301,18 +2341,18 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200404121500" stop="20200404131500">
+  <programme channel="C377.api.telerama.fr" start="20200404122500" stop="20200404131000">
     <title>Chasseurs d'appart'</title>
     <sub-title>La Rochelle et sa banlieue</sub-title>
     <desc lang="fr">Trois agents immobiliers doivent trouver des biens à des clients dans des secteurs qu'ils ne connaissent pas forcément. A la fin de la semaine, la finale oppose les deux meilleurs, et le vainqueur peut remporter jusqu'à 3000 euros.</desc>
     <category lang="fr">jeu</category>
-    <length units="hours">1</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200404131500" stop="20200404140500">
+  <programme channel="C377.api.telerama.fr" start="20200404131000" stop="20200404140000">
     <title>Chasseurs d'appart'</title>
     <sub-title>La Rochelle et sa banlieue</sub-title>
     <desc lang="fr">Trois agents immobiliers doivent trouver des biens à des clients dans des secteurs qu'ils ne connaissent pas forcément. A la fin de la semaine, la finale oppose les deux meilleurs, et le vainqueur peut remporter jusqu'à 3000 euros.</desc>
@@ -2323,29 +2363,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200404140500" stop="20200404150500">
-    <title>Chasseurs d'appart'</title>
-    <sub-title>La Rochelle et sa banlieue</sub-title>
-    <desc lang="fr">Trois agents immobiliers doivent trouver des biens à des clients dans des secteurs qu'ils ne connaissent pas forcément. A la fin de la semaine, la finale oppose les deux meilleurs, et le vainqueur peut remporter jusqu'à 3000 euros.</desc>
-    <category lang="fr">jeu</category>
-    <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20200404150500" stop="20200404160500">
-    <title>Chasseurs d'appart'</title>
-    <sub-title>La Rochelle et sa banlieue</sub-title>
-    <desc lang="fr">Trois agents immobiliers doivent trouver des biens à des clients dans des secteurs qu'ils ne connaissent pas forcément. A la fin de la semaine, la finale oppose les deux meilleurs, et le vainqueur peut remporter jusqu'à 3000 euros.</desc>
-    <category lang="fr">jeu</category>
-    <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20200404160500" stop="20200404170000">
+  <programme channel="C377.api.telerama.fr" start="20200404140000" stop="20200404145500">
     <title>Chasseurs d'appart'</title>
     <sub-title>La Rochelle et sa banlieue</sub-title>
     <desc lang="fr">Trois agents immobiliers doivent trouver des biens à des clients dans des secteurs qu'ils ne connaissent pas forcément. A la fin de la semaine, la finale oppose les deux meilleurs, et le vainqueur peut remporter jusqu'à 3000 euros.</desc>
@@ -2356,7 +2374,42 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200404170000" stop="20200404175500">
+  <programme channel="C377.api.telerama.fr" start="20200404145500" stop="20200404154500">
+    <title>Chasseurs d'appart'</title>
+    <sub-title>La Rochelle et sa banlieue</sub-title>
+    <desc lang="fr">Trois agents immobiliers doivent trouver des biens à des clients dans des secteurs qu'ils ne connaissent pas forcément. A la fin de la semaine, la finale oppose les deux meilleurs, et le vainqueur peut remporter jusqu'à 3000 euros.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C377.api.telerama.fr" start="20200404154500" stop="20200404163500">
+    <title>Chasseurs d'appart'</title>
+    <sub-title>La Rochelle et sa banlieue</sub-title>
+    <desc lang="fr">Trois agents immobiliers doivent trouver des biens à des clients dans des secteurs qu'ils ne connaissent pas forcément. A la fin de la semaine, la finale oppose les deux meilleurs, et le vainqueur peut remporter jusqu'à 3000 euros.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C377.api.telerama.fr" start="20200404163500" stop="20200404170500">
+    <title>The Black Pass</title>
+    <sub-title>L'intégrale 3</sub-title>
+    <desc lang="fr">Saison:3 - Les membres du groupe Puggy évoquent leurs débuts et la musique qu’ils écoutent. Alice on the Roof et Donovan parlent de leurs univers respectifs et de leurs coups de cœur en commun. Orelsan détaille ses clips, ses collaborations artistiques et ses envies musicales au cœur de l'Atomium.</desc>
+    <category lang="fr">magazine de découvertes</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea4c2ddf-0f0a-4a26-a3c5-deb7c0c2f969.jpg" />
+    <episode-num system="xmltv_ns">2..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C377.api.telerama.fr" start="20200404170500" stop="20200404175500">
     <title>The Gifted</title>
     <sub-title>eXodus</sub-title>
     <desc lang="fr">Saison:1 - Episode:3 - Dans un effort pour réunir sa famille, Reed conclut un accord avec le Sentinel Services, tandis que Caitlin et les enfants, de leur côté, sollicitent l'aide de quelqu'un qui se trouve en dehors du complexe. Pendant ce temps, Thunderbird commence à enseigner à Blink comment contrôler ses pouvoirs...</desc>
@@ -2376,7 +2429,7 @@
       <writer>Rashad Raisani</writer>
     </credits>
     <category lang="fr">série fantastique</category>
-    <length units="minutes">55</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/eaafdc9d-84aa-4a7f-a3fe-286e79aa55e1.jpg" />
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <rating system="CSA">
@@ -2431,7 +2484,7 @@
       <director>Robert Schwentke</director>
       <actor>Shailene Woodley</actor>
       <actor>Theo James</actor>
-      <actor>Zoe Kravitz</actor>
+      <actor>Zoë Kravitz</actor>
       <actor>Miles Teller</actor>
       <actor>Naomi Watts</actor>
       <actor>Maggie Q</actor>
@@ -2935,7 +2988,19 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200404141500" stop="20200404143500">
+  <programme channel="C892.api.telerama.fr" start="20200404135500" stop="20200404142000">
+    <title>Captain Tsubasa</title>
+    <sub-title>Il vole !</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Tsubasa est un jeune garçon fan de football. Son rêve ? Devenir le meilleur footballeur au monde ! Nouveau en ville, il va découvrir de nombreux jeunes talents avec qui il pourra progresser et tenter de réaliser son rêve ! Par ailleurs, le jeune joueur peut compter sur Roberto, une star du football brésilien, pour le conseiller et surmonter tous les obstacles.</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/daeba18f-4696-41b0-b604-b759044d7ade.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200404142000" stop="20200404144000">
     <title>Sous les mers</title>
     <sub-title>Le chasseur de monstres</sub-title>
     <desc lang="fr">Saison:1 - Episode:11 - Les Nekton sont une famille d'aventuriers qui vivent dans une base sous-marine à la pointe de la technologie. Ils explorent les fonds des mers et des océans.</desc>
@@ -2947,60 +3012,60 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200404143500" stop="20200404150000">
+  <programme channel="C892.api.telerama.fr" start="20200404144000" stop="20200404150000">
     <title>Sous les mers</title>
     <sub-title>Le sous-marin fantôme</sub-title>
     <desc lang="fr">Saison:1 - Episode:12 - Les Nekton sont une famille d'aventuriers qui vivent dans une base sous-marine à la pointe de la technologie. Ils explorent les fonds des mers et des océans.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/698e5e7d-8aac-49bb-8227-5b3efe8f45b2.jpg" />
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200404150000" stop="20200404152000">
+  <programme channel="C892.api.telerama.fr" start="20200404150000" stop="20200404152500">
     <title>Dragons : par-delà les rives</title>
     <sub-title>Famille d'enfer</sub-title>
     <desc lang="fr">Saison:3 - Episode:11 - Le frère d'Ingrid, Dagur, sort de nul part et demande de l'aide à Harold. Il veut apprendre à monter les dragons. Harold de son côté fait tout pour empêcher l'empêcher de croiser Ingrid...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/43728a56-9ff2-463c-a317-a5d51a072235.jpg" />
     <episode-num system="xmltv_ns">2.10.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200404152000" stop="20200404154500">
+  <programme channel="C892.api.telerama.fr" start="20200404152500" stop="20200404154500">
     <title>Dragons : par-delà les rives</title>
     <sub-title>Les héros des enchères</sub-title>
     <desc lang="fr">Saison:3 - Episode:12 - Le jeune Rustik est envoyé incognito pour participer aux enchères du chasseur de dragon, Viggo. Le Vikingve de libérer les dragons et empêcher Viggo de s'enrichir...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/91d811df-d16d-405b-b7c6-3532eef99a8a.jpg" />
     <episode-num system="xmltv_ns">2.11.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200404154500" stop="20200404160500">
+  <programme channel="C892.api.telerama.fr" start="20200404154500" stop="20200404161000">
     <title>Les aventures du Chat Potté</title>
     <sub-title>Poisson chat</sub-title>
     <desc lang="fr">Saison:1 - Episode:11 - Pour l'aider à surmonter sa peur de l'océan, ses amis pirates jettent le Chat Potté par-dessus bord. Etonnamment, celui-ci renoue avec une ancienne flamme aquatique...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/89313804-d9ed-422a-9667-7074ae128479.jpg" />
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200404160500" stop="20200404163000">
+  <programme channel="C892.api.telerama.fr" start="20200404161000" stop="20200404163000">
     <title>Les aventures du Chat Potté</title>
     <sub-title>Le perroquet perdu</sub-title>
     <desc lang="fr">Saison:1 - Episode:12 - San Lorenzo tremble : le Chat Potté et les pirates, après avoir découvert le trésor, doivent affronter un sauvage perroquet et son armée de squelettes...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/89313804-d9ed-422a-9667-7074ae128479.jpg" />
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <rating system="CSA">
@@ -3017,17 +3082,17 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200404180000" stop="20200404183500">
+  <programme channel="C892.api.telerama.fr" start="20200404180000" stop="20200404183600">
     <title>JT traduction gestuelle</title>
     <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">35</length>
+    <length units="minutes">36</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200404183500" stop="20200404183600">
+  <programme channel="C892.api.telerama.fr" start="20200404183600" stop="20200404183700">
     <title>Météo internationale</title>
     <category lang="fr">météo</category>
     <length units="minutes">1</length>
@@ -3036,36 +3101,36 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200404183600" stop="20200404190000">
+  <programme channel="C892.api.telerama.fr" start="20200404183700" stop="20200404190500">
     <title>Plan Cult</title>
-    <sub-title>Best of</sub-title>
-    <desc lang="fr">Saison:1 - Retour sur la rencontre avec Oxmo Puccino, zoom sur la face sombre de l'histoire américaine avec le sulfureux Andres Serrano. Mamy Monique propose une initiation à l'art délicat du doublage, BJ présente le rock des dilbeekois de Black Box Revelation, et découverte de l'humour décapant de la jeune standupeuse Farah.</desc>
+    <sub-title>Best of 3 (11/30)</sub-title>
+    <desc lang="fr">Saison:1 - Chaque semaine, Félicien Bogaerts propose son «Plan Cult», autrement dit, ses bons tuyaux de sorties en Fédération Wallonie-Bruxelles. A ses côtés, BJ Scott et Mamy Nicole dévoilent leurs coups de coeur.</desc>
     <category lang="fr">magazine culturel</category>
-    <length units="minutes">24</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2eb04dfd-3b5c-4066-8fc8-53520d4c182a.jpg" />
+    <length units="minutes">28</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200404190000" stop="20200404195500">
+  <programme channel="C892.api.telerama.fr" start="20200404190500" stop="20200404195500">
     <title>Les mensonges de l'histoire</title>
     <sub-title>1953 - Tabac, l'industrie du mensonge</sub-title>
     <desc lang="fr">1953. Des rapports scientifiques catégoriques viennent de paraître. Ils certifient que la fumée de cigarette provoque le cancer. Les principaux dirigeants de l'industrie du tabac se réunissent dans le plus grand secret et établissent une puissante stratégie de communication pour instiller le doute et sauver cette industrie du tabac qui génère des milliards. Infiltration de la publicité, de la science, manipulation politique, pression sur les journalistes : les rouages de cette mécanique du mensonge seront mis au jour grâce à quelques lanceurs d'alerte acharnés et des juges incorruptibles.</desc>
     <date>2019</date>
     <category lang="fr">documentaire : histoire</category>
-    <length units="minutes">55</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fb6fda98-c39b-4791-9873-87b2612efc1b.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200404195500" stop="20200404204500">
+  <programme channel="C892.api.telerama.fr" start="20200404195500" stop="20200404205000">
     <title>Qui êtes-vous, Eleanor Roosevelt ?</title>
     <desc lang="fr">Entre 1932 et 1945, Eleanor Roosevelt a donné un rôle politique sans précédent à la fonction de First Lady, devenant l'égérie d'une nouvelle génération de femmes prêtes à se forger une place au sein d'un monde politique exclusivement réservé aux hommes. Cinquante ans après sa mort, ce portrait permet de saisir un peu mieux son parcours exceptionnel, celui de l'épouse du président américain le plus populaire du XXe siècle, une femme de conviction qui a marqué l'histoire de son pays.</desc>
     <date>2016</date>
     <category lang="fr">documentaire : histoire</category>
-    <length units="minutes">50</length>
+    <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2a07fc15-109a-4b8a-900b-42319158e083.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3074,7 +3139,7 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200404204500" stop="20200404222500">
+  <programme channel="C892.api.telerama.fr" start="20200404205000" stop="20200404223000">
     <title>Tokyo fiancée</title>
     <desc lang="fr">Les tribulations poético-sentimentales d'une jeune fille belge au Japon, d'après le roman d'Amélie Nothomb Ni d'Eve ni d'Adam. Avec la délicieuse Pauline Etienne. - Critique : | Genre : Lost in Tokyo. Elle s'appelle Amélie. Comme Nothomb et Poulain. A la première, roman­cière nippophile, elle doit tout : son aventure dans un Japon réel et rêvé est adaptée du roman autobiographique Ni d'Eve ni d'Adam. A la ­seconde, elle emprunte un charme de brunette ­piquante, un goût pour le bric-à-brac d'objets poétiques et pour les commentaires en voix off. Amélie, donc, 20 ans, s'installe à Tokyo. Elle veut être plus japonaise que les Japonais. Elle se balade beaucoup, dans un univers qui joue à mélanger les clichés et des lieux plus ­insolites (tel ce rassemblement nocturne d'étranges camions lumineux). Elle développe, ­surtout, une relation amoureuse avec un jeune­ ­Tokyoïte, au moins aussi farfelu qu'elle. Malentendus et fascination culturelle sont au coeur de ­­­ce savoureux conte initiatique, illuminé par la malice de la jeune Pauline Etienne. — Cécile Mury</desc>
     <credits>
@@ -3804,7 +3869,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200404222600" stop="20200404222700">
+  <programme channel="C164.api.telerama.fr" start="20200404222500" stop="20200404222600">
     <title>Air de familles</title>
     <sub-title>Emotions (1) De 0 à 3 ans ?</sub-title>
     <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
@@ -3816,7 +3881,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200404222700" stop="20200404231400">
+  <programme channel="C164.api.telerama.fr" start="20200404222600" stop="20200404231300">
     <title>On n'est pas des pigeons</title>
     <sub-title>On n'est pas des pigeons à la maison</sub-title>
     <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
@@ -3828,23 +3893,34 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200404231400" stop="20200404231500">
+  <programme channel="C164.api.telerama.fr" start="20200404231300" stop="20200404231500">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">1</length>
+    <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200404231500" stop="20200405042500">
+  <programme channel="C164.api.telerama.fr" start="20200404231500" stop="20200404235900">
     <title>JT 19h30</title>
     <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">310</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
     <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200404235900" stop="20200405000000">
+    <title>Air de familles</title>
+    <sub-title>Emotions : de 0 à 3 ans ?</sub-title>
+    <desc lang="fr">Conseils et astuces pour devenir des parents «exemplaires».</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/677f185a-d35c-4352-8cfd-d6dfb2a287bd.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3879,11 +3955,44 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200404230000" stop="20200405052000">
-    <title>Fin des programmes</title>
-    <category lang="fr">fin</category>
-    <length units="minutes">380</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+  <programme channel="C187.api.telerama.fr" start="20200404221500" stop="20200404225300">
+    <title>Inside</title>
+    <sub-title>Emission spéciale</sub-title>
+    <desc lang="fr">Projet transversal de la RTBF présenté par Guillaume Drigeard et Jessica Riga, «Inside» parle des médias, des réactions du public au traitement de l'information, des questions qui font débat, d'esprit critique et des coulisses de la télévision belge.</desc>
+    <category lang="fr">magazine du multimédia</category>
+    <length units="minutes">38</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cba68f40-c696-48a9-b85e-c6d456b0e7bb.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200404225300" stop="20200404225500">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200404225500" stop="20200404232500">
+    <title>L'Internet Show</title>
+    <desc lang="fr">Saison:1 - Dans cette émission hebdomadaire destinée aux jeunes adultes, Bénédicte Deprez anime des discussions autour des réseaux sociaux, ponctuée de nombreuses rubriques.</desc>
+    <category lang="fr">magazine du multimédia</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f3ba12de-cd8c-4d34-a829-67be6c394435.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200404232500" stop="20200405000000">
+    <title>Inside</title>
+    <sub-title>Emission spéciale</sub-title>
+    <desc lang="fr">Projet transversal de la RTBF présenté par Guillaume Drigeard et Jessica Riga, «Inside» parle des médias, des réactions du public au traitement de l'information, des questions qui font débat, d'esprit critique et des coulisses de la télévision belge.</desc>
+    <category lang="fr">magazine du multimédia</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cba68f40-c696-48a9-b85e-c6d456b0e7bb.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3899,23 +4008,46 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200404222500" stop="20200404230100">
+  <programme channel="C892.api.telerama.fr" start="20200404223000" stop="20200404230500">
     <title>JT traduction gestuelle</title>
     <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">36</length>
+    <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200404230100" stop="20200404230200">
+  <programme channel="C892.api.telerama.fr" start="20200404230500" stop="20200404231000">
     <title>Météo internationale</title>
     <category lang="fr">météo</category>
-    <length units="minutes">1</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200404231000" stop="20200404233500">
+    <title>Plan Cult</title>
+    <sub-title>Best of 3 (11/30)</sub-title>
+    <desc lang="fr">Saison:1 - Chaque semaine, Félicien Bogaerts propose son «Plan Cult», autrement dit, ses bons tuyaux de sorties en Fédération Wallonie-Bruxelles. A ses côtés, BJ Scott et Mamy Nicole dévoilent leurs coups de coeur.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200404233500" stop="20200405001500">
+    <title>Zoom arrière</title>
+    <sub-title>Le tabac</sub-title>
+    <desc lang="fr">Elodie de Sélys propose de retrouver des images des années 70, lorsque la sensibilisation aux dangers de la cigarette voyait le jour à la télévision. Comment parlait-on du tabac à l'époque ? Quelles solutions étaient envisagées ? Pourquoi a-t-il fallu tant de temps pour mettre certaines d'entre elle en application ?</desc>
+    <category lang="fr">magazine de découvertes</category>
+    <length units="minutes">40</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
