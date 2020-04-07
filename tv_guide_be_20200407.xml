@@ -32,11 +32,11 @@
     <display-name>Ketnet</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
   </channel>
-  <programme channel="C50.api.telerama.fr" start="20200406215500" stop="20200407030000">
+  <programme channel="C50.api.telerama.fr" start="20200406214300" stop="20200407030000">
     <title>Télé-achat</title>
     <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
     <category lang="fr">magazine de télé-achat</category>
-    <length units="minutes">305</length>
+    <length units="minutes">317</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -359,7 +359,7 @@
   <programme channel="C23.api.telerama.fr" start="20200407184000" stop="20200407192500">
     <title>7</title>
     <desc lang="fr">Les différents services de la police locale d'Anvers, tels que les équipes de quartier, l'équipe d'intervention rapide ou encore l'assistance judiciaire.</desc>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/078ec564-d6da-4891-beda-447e8a9dc0f4.jpg" />
     <rating system="CSA">
@@ -399,6 +399,27 @@
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200407030000" stop="20200407033000">
+    <title>Journal luxembourgeois</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200407033000" stop="20200407043500">
+    <title>Télé-achat</title>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -481,7 +502,6 @@
     <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d377990-aaec-4fcd-b15f-3081ec09f4bb.jpg" />
     <episode-num system="xmltv_ns">17.32.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -494,7 +514,6 @@
     <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d377990-aaec-4fcd-b15f-3081ec09f4bb.jpg" />
     <episode-num system="xmltv_ns">17.33.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -869,31 +888,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200407080500" stop="20200407093500">
-    <title>Hôtel de rêve...</title>
-    <sub-title>A Chiang Mai</sub-title>
-    <desc lang="fr">Saison:1 - Episode:13 - Dans l'hôtel de luxe qu'il dirige à Chiang Mai, en Thaïlande, Markus Winter est appelé à l'aide par l'une de ses clientes, Susanne Rückert, dont l'époux a mystérieusement disparu. Le couple Lehmann, qui séjourne également dans le palace, vit lui aussi des vacances mouvementées...</desc>
-    <credits>
-      <director>Otto W Retzer</director>
-      <actor>Christian Kohlund</actor>
-      <actor>Ann-Kathrin Kramer</actor>
-      <actor>Heinz Hoenig</actor>
-      <actor>Katerina Jacob</actor>
-      <actor>Peter Kremer</actor>
-      <actor>Sophie Wepper</actor>
-      <actor>Gunther Gillian</actor>
-      <actor>Eva-Maria Grein</actor>
-      <writer>Krystian Martinek</writer>
-      <writer>Hilly Martinek</writer>
-    </credits>
-    <category lang="fr">série sentimentale</category>
-    <length units="minutes">90</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6a0289da-93dd-40ed-b23a-ada5b0a3ac74.jpg" />
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C164.api.telerama.fr" start="20200407093500" stop="20200407100000">
     <title>Demain nous appartient</title>
     <sub-title>11</sub-title>
@@ -950,16 +944,6 @@
     <category lang="fr">météo</category>
     <length units="minutes">4</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200407105000" stop="20200407105500">
-    <title>Quel temps !</title>
-    <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1265,15 +1249,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200407030000" stop="20200407064000">
-    <title>Bel RTL</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">220</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C168.api.telerama.fr" start="20200407064000" stop="20200407091000">
     <title>Télé-achat</title>
     <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
@@ -1477,7 +1452,7 @@
     <sub-title>Episode 6</sub-title>
     <desc lang="fr">Saison:3 - Alors qu'il y a plus d'un million et demi de célibataires en Belgique, Catherine Solano, Céline Delfosse, Jean-Luc Beaumont et Marie Tapernoux, les quatre experts, vont mettre à profit les recherches en sciences sociales, en psychologie, et notamment en sexologie, au service de l'amour. Grâce à toute une série de facteurs de compatibilité, ils étudient les chances pour qu'un couple soit heureux sur le long terme. Si une compatibilité de plus 70% est calculée entre deux participants, les experts leur proposent de se rencontrer le jour de leur mariage. Les célibataires vont devoir dire devant le bourgmestre si oui ou non ils souhaitent épouser une personne qu'ils ne connaissent pas mais qui leur est scientifiquement compatible. S'ils se disent oui, ils célèbreront leur union, partiront en voyage de noces et vivront ensemble. Après plusieurs semaines d'expérience de vie commune, ils prennent alors la décision de poursuivre ou non cette expérimentation.</desc>
     <date>2020</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">85</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2429985-7cb7-4f72-8ca4-f481abfe4900.jpg" />
     <episode-num system="xmltv_ns">2..</episode-num>
@@ -1541,29 +1516,145 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200406221500" stop="20200407050000">
-    <title>Fin des programmes</title>
-    <category lang="fr">fin</category>
-    <length units="minutes">405</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+  <programme channel="C187.api.telerama.fr" start="20200406235700" stop="20200407000000">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200407050000" stop="20200407052000">
-    <title>Fit Tonic</title>
-    <sub-title>Fit Steffi Step</sub-title>
-    <desc lang="fr">Une demi-heure de gymnastique en rythme, en compagnie de Stéphanie Dermaux.</desc>
-    <category lang="fr">fitness</category>
-    <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ce97d06b-b140-4946-9106-d4df40db8d7c.jpg" />
+  <programme channel="C187.api.telerama.fr" start="20200407000000" stop="20200407004500">
+    <title>Matière grise</title>
+    <sub-title>Et si un réseau de fibres pouvait soigner le mal de dos ? (7/18)</sub-title>
+    <desc lang="fr">Tous les mois, «Matière grise» répond simplement aux questions scientifiques et technologiques les plus pointues pour aider à comprendre tous les enjeux de la recherche actuelle. Adoptant un ton résolument moderne et dynamique, ce magazine aborde plusieurs sujets et met en rapport science et vie quotidienne.</desc>
+    <category lang="fr">magazine scientifique</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9ada500b-e439-441c-b436-ef1bd1c5ded3.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200407052000" stop="20200407055000">
+  <programme channel="C187.api.telerama.fr" start="20200407004500" stop="20200407005000">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200407005000" stop="20200407013300">
+    <title>Matière grise</title>
+    <sub-title>Et si un réseau de fibres pouvait soigner le mal de dos ? (7/18)</sub-title>
+    <desc lang="fr">Tous les mois, «Matière grise» répond simplement aux questions scientifiques et technologiques les plus pointues pour aider à comprendre tous les enjeux de la recherche actuelle. Adoptant un ton résolument moderne et dynamique, ce magazine aborde plusieurs sujets et met en rapport science et vie quotidienne.</desc>
+    <category lang="fr">magazine scientifique</category>
+    <length units="minutes">43</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9ada500b-e439-441c-b436-ef1bd1c5ded3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200407013300" stop="20200407013500">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200407013500" stop="20200407022100">
+    <title>Matière grise</title>
+    <sub-title>Et si un réseau de fibres pouvait soigner le mal de dos ? (7/18)</sub-title>
+    <desc lang="fr">Tous les mois, «Matière grise» répond simplement aux questions scientifiques et technologiques les plus pointues pour aider à comprendre tous les enjeux de la recherche actuelle. Adoptant un ton résolument moderne et dynamique, ce magazine aborde plusieurs sujets et met en rapport science et vie quotidienne.</desc>
+    <category lang="fr">magazine scientifique</category>
+    <length units="minutes">46</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9ada500b-e439-441c-b436-ef1bd1c5ded3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200407022100" stop="20200407022500">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200407022500" stop="20200407030900">
+    <title>Matière grise</title>
+    <sub-title>Et si un réseau de fibres pouvait soigner le mal de dos ? (7/18)</sub-title>
+    <desc lang="fr">Tous les mois, «Matière grise» répond simplement aux questions scientifiques et technologiques les plus pointues pour aider à comprendre tous les enjeux de la recherche actuelle. Adoptant un ton résolument moderne et dynamique, ce magazine aborde plusieurs sujets et met en rapport science et vie quotidienne.</desc>
+    <category lang="fr">magazine scientifique</category>
+    <length units="minutes">44</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9ada500b-e439-441c-b436-ef1bd1c5ded3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200407030900" stop="20200407031000">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200407031000" stop="20200407032700">
+    <title>Matière grise</title>
+    <sub-title>Et si un réseau de fibres pouvait soigner le mal de dos ? (7/18)</sub-title>
+    <desc lang="fr">Tous les mois, «Matière grise» répond simplement aux questions scientifiques et technologiques les plus pointues pour aider à comprendre tous les enjeux de la recherche actuelle. Adoptant un ton résolument moderne et dynamique, ce magazine aborde plusieurs sujets et met en rapport science et vie quotidienne.</desc>
+    <category lang="fr">magazine scientifique</category>
+    <length units="minutes">17</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9ada500b-e439-441c-b436-ef1bd1c5ded3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200407032700" stop="20200407033900">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">12</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200407033900" stop="20200407034900">
+    <title>Matière grise</title>
+    <sub-title>Et si un réseau de fibres pouvait soigner le mal de dos ? (7/18)</sub-title>
+    <desc lang="fr">Tous les mois, «Matière grise» répond simplement aux questions scientifiques et technologiques les plus pointues pour aider à comprendre tous les enjeux de la recherche actuelle. Adoptant un ton résolument moderne et dynamique, ce magazine aborde plusieurs sujets et met en rapport science et vie quotidienne.</desc>
+    <category lang="fr">magazine scientifique</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9ada500b-e439-441c-b436-ef1bd1c5ded3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200407034900" stop="20200407050000">
+    <title>Météo</title>
+    <desc lang="fr">Bulletin météo et prévisions.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">71</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200407050000" stop="20200407053000">
     <title>Fit Tonic</title>
-    <sub-title>Fit Men training</sub-title>
+    <sub-title>Fit Sculpt spécial abdos</sub-title>
     <desc lang="fr">Une demi-heure de gymnastique en rythme, en compagnie de Stéphanie Dermaux.</desc>
     <category lang="fr">fitness</category>
     <length units="minutes">30</length>
@@ -1572,7 +1663,18 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200407055000" stop="20200407073500">
+  <programme channel="C187.api.telerama.fr" start="20200407053000" stop="20200407055500">
+    <title>Fit Tonic</title>
+    <sub-title>Fit dance kids</sub-title>
+    <desc lang="fr">Une demi-heure de gymnastique en rythme, en compagnie de Stéphanie Dermaux.</desc>
+    <category lang="fr">fitness</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ce97d06b-b140-4946-9106-d4df40db8d7c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200407055500" stop="20200407074000">
     <title>Clem</title>
     <sub-title>Allez maman t'es la meilleure !</sub-title>
     <desc lang="fr">Saison:4 - Episode:2 - Le patron de Caroline s'est volatilisé avec la caisse. La voici sans emploi et sans indemnités, de surcroît soupçonnée d'être la complice d'une faillite frauduleuse. Sans revenus certes, mais toujours pleine de ressources, Caroline se bat pour reconstruire sa vie professionnelle. L'arrivée de Julien dans la colocation provoque des tensions entre Clem et Jérôme, mais aussi des nuits blanches pour tout le monde, car Valentin ne dort plus. Hicham et Alyzée leur posent un ultimatum, car les tensions deviennent tellement vives qu'il sera bientôt impossible pour les colocataires de vivre ensemble. Comment faire revenir le calme ?...</desc>
@@ -1602,12 +1704,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200407073500" stop="20200407090000">
+  <programme channel="C187.api.telerama.fr" start="20200407074000" stop="20200407090000">
     <title>Cigognes &amp; Compagnie</title>
     <desc lang="fr">Passées du transport de bébés à la livraison de paquets commerciaux, les cigognes ont-elles perdu leur âme  ? La réponse dans ce dessin animé pimpant et rigolo.</desc>
     <date>2016</date>
     <category lang="fr">film d'animation</category>
-    <length units="minutes">85</length>
+    <length units="minutes">80</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/d010f862-2821-4e1d-9d07-0c8c48843daf_2.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1616,19 +1718,19 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200407090000" stop="20200407092500">
+  <programme channel="C187.api.telerama.fr" start="20200407090000" stop="20200407093000">
     <title>Si près de chez vous</title>
     <sub-title>Porté disparu</sub-title>
     <desc lang="fr">Saison:2 - La police fait une découverte pour le moins inquiétante : des vêtements déchirés, tachés de sang, ainsi que des cordes et un bâillon. Un homme a vraisemblablement été molesté. Est-il encore en vie ?</desc>
     <category lang="fr">magazine de société</category>
-    <length units="minutes">25</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c9799a6-f06c-4650-a39f-fe95c66c0d34.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200407092500" stop="20200407095500">
+  <programme channel="C187.api.telerama.fr" start="20200407093000" stop="20200407100000">
     <title>Si près de chez vous</title>
     <sub-title>Victime de son passé</sub-title>
     <desc lang="fr">Saison:2 - Le corps de Dominique, un accordéoniste de 42 ans, est repêché dans une rivière. La victime a reçu une balle dans la tête : une mise en scène qui fait penser à une exécution.</desc>
@@ -1641,7 +1743,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200407095500" stop="20200407102500">
+  <programme channel="C187.api.telerama.fr" start="20200407100000" stop="20200407103000">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
     <category lang="fr">jeu</category>
@@ -1652,7 +1754,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200407102500" stop="20200407110000">
+  <programme channel="C187.api.telerama.fr" start="20200407103000" stop="20200407110500">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
     <category lang="fr">jeu</category>
@@ -1663,11 +1765,11 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200407110000" stop="20200407113000">
+  <programme channel="C187.api.telerama.fr" start="20200407110500" stop="20200407113000">
     <title>Plus belle la vie</title>
     <desc lang="fr">Saison:16 - Episode:4033 - Boher se met en danger pour Irina, tandis qu'Andres et Luna se rapprochent davantage. Riva et Babeth enquêtent sur Ghika et se rapprochent dangereusement de la vérité, alors que Samia se demande à qui attribuer un logement social...</desc>
     <category lang="fr">feuilleton réaliste</category>
-    <length units="minutes">30</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/24a93b82-9cac-4218-9720-eed21d415a1e.jpg" />
     <episode-num system="xmltv_ns">15.4032.</episode-num>
     <previously-shown />
@@ -1675,18 +1777,18 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200407113000" stop="20200407115000">
+  <programme channel="C187.api.telerama.fr" start="20200407113000" stop="20200407120000">
     <title>Plus belle la vie</title>
     <desc lang="fr">Saison:16 - Episode:4034 - Alors que Luna hésite, Andres est rattrapé par les problèmes. Babeth et Patrick font un peu plus connaissance avec Alexandra. Mouss, lui, mange son pain noir à la coloc et au lycée...</desc>
     <category lang="fr">feuilleton réaliste</category>
-    <length units="minutes">20</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/24a93b82-9cac-4218-9720-eed21d415a1e.jpg" />
     <episode-num system="xmltv_ns">15.4033.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200407115000" stop="20200407133000">
+  <programme channel="C187.api.telerama.fr" start="20200407120000" stop="20200407133500">
     <title>Péril à domicile</title>
     <desc lang="fr">Richard Wynn vient de perdre son épouse. Il se montre très sensible à la gentillesse de sa belle-soeur, Laci Collins, qui propose de venir s'installer chez lui pour l'aider à s'occuper de ses deux enfants. Mais ce que Richard ignore, c'est que Laci souffre de graves problèmes psychologiques...</desc>
     <credits>
@@ -1704,26 +1806,12 @@
       <writer>Ken Sanders</writer>
     </credits>
     <category lang="fr">téléfilm de suspense</category>
-    <length units="minutes">100</length>
+    <length units="minutes">95</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4f0a222d-2736-4105-bf6d-42fe09755d4e.jpg" />
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200407133000" stop="20200407150000">
-    <title>Les Minions</title>
-    <desc lang="fr">Tout jaunes, tout ronds, les Minions, qui vous ont fait rire dans Moi, moche et méchant (1 et 2), reviennent en héros d'un film d'animation rien qu'à eux.</desc>
-    <date>2015</date>
-    <category lang="fr">film d'animation</category>
-    <length units="minutes">90</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ba84b8bd-67d8-41f8-b088-7bd33298ff61.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-    <star-rating>
-      <value>3/5</value>
-    </star-rating>
   </programme>
   <programme channel="C187.api.telerama.fr" start="20200407150000" stop="20200407153500">
     <title>Si près de chez vous</title>
@@ -1845,7 +1933,7 @@
     <title>Contagion</title>
     <desc lang="fr">Comment le coronavirus se propage-t-il ? Pour le comprendre, une expérience révolutionnaire a été menée auprès de 30 000 Britanniques. Une application sur mobile enregistre leur position et leurs interactions sociales. Ces précieuses données permettent de tracer la propagation du virus en partant du patient zéro jusqu'à l’échelle de la pandémie.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire santé</category>
+    <category lang="fr">documentaire : santé</category>
     <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fc4a7cef-9a16-4b6d-8628-cee506f656b0.jpg" />
     <rating system="CSA">
@@ -1856,7 +1944,7 @@
     <title>Harvey Weinstein, l'affaire qui a changé le monde</title>
     <desc lang="fr">Pendant près de 40 ans, Harvey Weinstein, l'un des hommes les plus puissants d'Hollywood, aurait profité de son pouvoir pour harceler, agresser et violer de très nombreuses jeunes femmes. Des crimes qu'il aurait commis en toute impunité. Depuis, plus de 100 femmes ont brisé le silence et l'accusent ouvertement. Des comédiennes les plus célèbres, comme Gwyneth Paltrow, Angelina Jolie, Uma Thurman, Salma Hayek, Emma de Caunes, Eva Green, Lea Seydoux et Asia Argento, jusqu'à ses propres assistantes, de nombreuses artistes débutantes et des mannequins. Tout le monde le courtisait, le vénérait, le craignait. A la suite de ces accablantes révélations, Harvey Weinstein, l'homme aux 81 Oscars, est désormais l'homme le plus détesté la planète.</desc>
     <date>2019</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="minutes">62</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1903144b-c853-4a8e-8068-4422eacbd96d.jpg" />
     <rating system="CSA">
@@ -1903,16 +1991,6 @@
     <length units="minutes">135</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
     <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20200407030000" stop="20200407070000">
-    <title>Télé-achat</title>
-    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
-    <category lang="fr">magazine de télé-achat</category>
-    <length units="hours">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2224,7 +2302,7 @@ La « nuit de folie » qui suit évoque de très, très loin After hours ou La M
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200406234000" stop="20200407001000">
+  <programme channel="C892.api.telerama.fr" start="20200406233000" stop="20200407000000">
     <title>CQFD (Ce qui fait débat)</title>
     <desc lang="fr">Du lundi au vendredi, Arnaud Ruyssen et Catherine Tonero orchestrent un face à face contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, l'actualité de la semaine est analysée par Arnaud Ruyssen et ses invités.</desc>
     <category lang="fr">débat</category>
@@ -2234,12 +2312,54 @@ La « nuit de folie » qui suit évoque de très, très loin After hours ou La M
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200407001000" stop="20200407040000">
+  <programme channel="C892.api.telerama.fr" start="20200407000000" stop="20200407010000">
     <title>Inside</title>
     <sub-title>Emission spéciale</sub-title>
     <desc lang="fr">Projet transversal de la RTBF présenté par Guillaume Drigeard et Jessica Riga, «Inside» parle des médias, des réactions du public au traitement de l'information, des questions qui font débat, d'esprit critique et des coulisses de la télévision belge.</desc>
     <category lang="fr">magazine du multimédia</category>
-    <length units="minutes">230</length>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cba68f40-c696-48a9-b85e-c6d456b0e7bb.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200407010000" stop="20200407014000">
+    <title>JT traduction gestuelle</title>
+    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200407014000" stop="20200407014100">
+    <title>Météo internationale</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200407014100" stop="20200407020500">
+    <title>CQFD (Ce qui fait débat)</title>
+    <desc lang="fr">Du lundi au vendredi, Arnaud Ruyssen et Catherine Tonero orchestrent un face à face contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, l'actualité de la semaine est analysée par Arnaud Ruyssen et ses invités.</desc>
+    <category lang="fr">débat</category>
+    <length units="minutes">24</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/80d9221f-3d1d-41a8-8fe3-d6abdcac1dfc.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200407020500" stop="20200407030500">
+    <title>Inside</title>
+    <sub-title>Emission spéciale</sub-title>
+    <desc lang="fr">Projet transversal de la RTBF présenté par Guillaume Drigeard et Jessica Riga, «Inside» parle des médias, des réactions du public au traitement de l'information, des questions qui font débat, d'esprit critique et des coulisses de la télévision belge.</desc>
+    <category lang="fr">magazine du multimédia</category>
+    <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cba68f40-c696-48a9-b85e-c6d456b0e7bb.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -2504,7 +2624,6 @@ La « nuit de folie » qui suit évoque de très, très loin After hours ou La M
     <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bc661a88-fbcc-467f-9411-f5a7827ff02b.jpg" />
     <episode-num system="xmltv_ns">2.2.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2516,7 +2635,6 @@ La « nuit de folie » qui suit évoque de très, très loin After hours ou La M
     <category lang="fr">série d'animation</category>
     <length units="minutes">20</length>
     <episode-num system="xmltv_ns">2.3.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2660,7 +2778,7 @@ La « nuit de folie » qui suit évoque de très, très loin After hours ou La M
     <title>C'est dans la boîte</title>
     <sub-title>Vive les emojis (3/160)</sub-title>
     <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
-    <category lang="fr">emission jeunesse</category>
+    <category lang="fr">autre</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
     <rating system="CSA">
@@ -2756,7 +2874,7 @@ La « nuit de folie » qui suit évoque de très, très loin After hours ou La M
     <title>C'est dans la boîte</title>
     <sub-title>Vive les emojis (3/160)</sub-title>
     <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
-    <category lang="fr">emission jeunesse</category>
+    <category lang="fr">autre</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
     <previously-shown />
@@ -2769,7 +2887,7 @@ La « nuit de folie » qui suit évoque de très, très loin After hours ou La M
     <desc lang="fr">L'actualité en fonction des intérêts et des préoccupations des plus jeunes, centrée sur leur univers quotidien. Au programme : reportages, interactivité et explications sur divers sujets d'actualité.</desc>
     <category lang="fr">magazine jeunesse</category>
     <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6eb3cacb-2ba0-4299-946a-926e698dab22.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2779,7 +2897,7 @@ La « nuit de folie » qui suit évoque de très, très loin After hours ou La M
     <title>C'est dans la boîte</title>
     <sub-title>Rocky auteur (2/10)</sub-title>
     <desc lang="fr">Les aventures de deux amis inséparables qui rassemblent la famille avec des situations drôles pour les plus petits et un ton décalé pour amuser les plus grands. Ce concept jeunesse fait son apparition à la télévision, sur les plateformes digitales et sur scène.</desc>
-    <category lang="fr">emission jeunesse</category>
+    <category lang="fr">autre</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
     <rating system="CSA">
@@ -2897,7 +3015,7 @@ Werner Herzog a parfaitement su tenir à distance le folklore du genre : ail, cr
     <title>La place de l'homme</title>
     <desc lang="fr">Plusieurs hommes témoignent sur la manière dont ils ont vécu une grossesse non prévue et interrompue. Confrontés à une décision qui les implique mais pour laquelle leur avis ne peut prévaloir, ils partagent leur réflexion mais aussi leur ressenti. Comment ont-ils fait face à cette situation ? Que représente l'avortement aux yeux de ces hommes qui ont entre 20 et 40 ans ? En filigrane, les relations hommes/femmes d'une génération se dessinent à travers ce document.</desc>
     <date>2017</date>
-    <category lang="fr">documentaire société</category>
+    <category lang="fr">documentaire : société</category>
     <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/af162bee-9252-40a8-beaf-f5aeba50607f.jpg" />
     <rating system="CSA">
@@ -3984,16 +4102,6 @@ Werner Herzog a parfaitement su tenir à distance le folklore du genre : ail, cr
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/80d9221f-3d1d-41a8-8fe3-d6abdcac1dfc.jpg" />
     <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200407232000" stop="20200408040000">
-    <title>Boucle de nuit</title>
-    <desc lang="fr">Emissions en boucle jusqu'au matin.</desc>
-    <category lang="fr">programme indéterminé</category>
-    <length units="minutes">280</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
