@@ -500,6 +500,27 @@ Le film est particulièrement incisif dans son évocation de la cour, confite da
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C50.api.telerama.fr" start="20200418050000 +0200" stop="20200418053000 +0200">
+    <title>Journal luxembourgeois</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200418053000 +0200" stop="20200418070000 +0200">
+    <title>Télé-achat</title>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">90</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C50.api.telerama.fr" start="20200418070000 +0200" stop="20200418072500 +0200">
     <title>Heidi *2015</title>
     <sub-title>Les biquettes</sub-title>
@@ -1239,7 +1260,7 @@ Le film est particulièrement incisif dans son évocation de la cour, confite da
     <title>Matière grise</title>
     <sub-title>Comment apprenons-nous ?</sub-title>
     <desc lang="fr">Alors que des millions de cellules nerveuses contrôlent les mouvements des êtres humains et permettent de se souvenir de dizaines de milliers de mots, Matière Grise révèle les secrets cachés dans le cortex de l'organisme qui permettent de se lancer avec réussite dans de nouveaux apprentissages.</desc>
-    <category lang="fr">magazine scientifique</category>
+    <category lang="fr">magazine autre</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/93daefda-9769-4b2c-be07-ef29f286607a.jpg" />
     <previously-shown />
@@ -1489,7 +1510,7 @@ Très vite, deux questions assaillent le spectateur : la commandante et le capit
   <programme channel="C164.api.telerama.fr" start="20200418202000 +0200" stop="20200418205000 +0200">
     <title>Une brique dans le ventre</title>
     <desc lang="fr">Cédric Wautier et Virginie Jacobs visitent de nouvelles habitations insolites en Belgique comme à l'étranger. Comme toujours, ces découvertes de maisons, appartements et lofts de tous budgets, sont l'occasion de prodiguer des conseils juridiques, pratiques, techniques, énergétiques et esthétiques.</desc>
-    <category lang="fr">magazine de l'art de vivre</category>
+    <category lang="fr">magazine magazine de l'art de vivre</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/280631a5-e820-4724-920a-9d9ef5f9de5d.jpg" />
     <rating system="CSA">
@@ -2233,7 +2254,7 @@ Très vite, deux questions assaillent le spectateur : la commandante et le capit
     <sub-title>Fiat Siata Spring</sub-title>
     <desc lang="fr">Saison:4 - La Fiat Siata Spring est loin, très loin, d'être la plus connue des modèles issus des chaînes de montage de la Fabbrica Italiana Automobili Torino. Son conducteur le plus célèbre n'est autre que Babar, l'éléphant créé par Cécile de Brunhoff. Sortie en 1967, la Siata 850 a été produite en seulement 3 500 exemplaires. Sa rareté ajoutée à son look atypique en font un modèle très recherché.</desc>
     <date>2019</date>
-    <category lang="fr">documentaire : téléréalité</category>
+    <category lang="fr">documentaire téléréalité</category>
     <length units="minutes">65</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7f69e814-3671-4b16-b34b-258ba9ddddda.jpg" />
     <episode-num system="xmltv_ns">3..</episode-num>
@@ -2335,93 +2356,9 @@ Tarantino raffole du « cinéma bis » et des films de genre, dans la tradition 
     <title>Matière grise</title>
     <sub-title>La science pour élucider les crimes</sub-title>
     <desc lang="fr">«Matière Grise» a décidé de s'intéresser aux nouveaux défis de la police scientifique. Au sommaire : Scène de crime virtuelle. - L'ADN qui révèle tout. - Les bactéries vous trahissent. - Les plantes peuvent être éloquentes. - Un petit joint pour la route ? - La minute de Léandri.</desc>
-    <category lang="fr">magazine scientifique</category>
+    <category lang="fr">magazine autre</category>
     <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d46e0eb-5cfb-42a4-9550-691cb3addb67.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20200418003500 +0200" stop="20200418004000 +0200">
-    <title>Scènes de ménages</title>
-    <desc lang="fr">Saison:9 - Retrouvailles, divorce ou nouvelles perspectives occupent les cinq couples que forment Marion et Cédric, Liliane et José, Huguette et Raymond, Emma et Fabien, et Camille et Philippe.</desc>
-    <credits>
-      <actor>Audrey Lamy</actor>
-      <actor>Loup-Denis Elion</actor>
-      <actor>Valérie Karsenti</actor>
-      <actor>Frédéric Bouraly</actor>
-      <actor>Marion Game</actor>
-      <actor>Gérard Hernandez</actor>
-      <actor>Anne-Elisabeth Blateau</actor>
-      <actor>David Mora</actor>
-    </credits>
-    <category lang="fr">série humoristique</category>
-    <length units="minutes">5</length>
-    <episode-num system="xmltv_ns">8..</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20200418004000 +0200" stop="20200418004500 +0200">
-    <title>Scènes de ménages</title>
-    <desc lang="fr">Saison:6 - Retrouvailles, divorce ou nouvelles perspectives occupent les cinq couples que forment Marion et Cédric, Liliane et José, Huguette et Raymond, Emma et Fabien, et Camille et Philippe.</desc>
-    <credits>
-      <actor>Audrey Lamy</actor>
-      <actor>Loup-Denis Elion</actor>
-      <actor>Valérie Karsenti</actor>
-      <actor>Frédéric Bouraly</actor>
-      <actor>Marion Game</actor>
-      <actor>Gérard Hernandez</actor>
-      <actor>Anne-Elisabeth Blateau</actor>
-      <actor>David Mora</actor>
-    </credits>
-    <category lang="fr">série humoristique</category>
-    <length units="minutes">5</length>
-    <episode-num system="xmltv_ns">5..</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20200418004500 +0200" stop="20200418005000 +0200">
-    <title>Scènes de ménages</title>
-    <desc lang="fr">Saison:6 - Retrouvailles, divorce ou nouvelles perspectives occupent les cinq couples que forment Marion et Cédric, Liliane et José, Huguette et Raymond, Emma et Fabien, et Camille et Philippe.</desc>
-    <credits>
-      <actor>Audrey Lamy</actor>
-      <actor>Loup-Denis Elion</actor>
-      <actor>Valérie Karsenti</actor>
-      <actor>Frédéric Bouraly</actor>
-      <actor>Marion Game</actor>
-      <actor>Gérard Hernandez</actor>
-      <actor>Anne-Elisabeth Blateau</actor>
-      <actor>David Mora</actor>
-    </credits>
-    <category lang="fr">série humoristique</category>
-    <length units="minutes">5</length>
-    <episode-num system="xmltv_ns">5..</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20200418005000 +0200" stop="20200418005500 +0200">
-    <title>Scènes de ménages</title>
-    <desc lang="fr">Saison:6 - Retrouvailles, divorce ou nouvelles perspectives occupent les cinq couples que forment Marion et Cédric, Liliane et José, Huguette et Raymond, Emma et Fabien, et Camille et Philippe.</desc>
-    <credits>
-      <actor>Audrey Lamy</actor>
-      <actor>Loup-Denis Elion</actor>
-      <actor>Valérie Karsenti</actor>
-      <actor>Frédéric Bouraly</actor>
-      <actor>Marion Game</actor>
-      <actor>Gérard Hernandez</actor>
-      <actor>Anne-Elisabeth Blateau</actor>
-      <actor>David Mora</actor>
-    </credits>
-    <category lang="fr">série humoristique</category>
-    <length units="minutes">5</length>
-    <episode-num system="xmltv_ns">5..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2546,17 +2483,6 @@ Tarantino raffole du « cinéma bis » et des films de genre, dans la tradition 
     <desc lang="fr">Trois agents immobiliers doivent trouver des biens à des clients dans des secteurs qu'ils ne connaissent pas forcément. A la fin de la semaine, la finale oppose les deux meilleurs, et le vainqueur peut remporter jusqu'à 3000 euros.</desc>
     <category lang="fr">jeu</category>
     <length units="minutes">50</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20200418180500 +0200" stop="20200418190000 +0200">
-    <title>Chasseurs d'appart'</title>
-    <sub-title>Grenoble et sa banlieue</sub-title>
-    <desc lang="fr">Trois agents immobiliers doivent trouver des biens à des clients dans des secteurs qu'ils ne connaissent pas forcément. A la fin de la semaine, la finale oppose les deux meilleurs, et le vainqueur peut remporter jusqu'à 3000 euros.</desc>
-    <category lang="fr">jeu</category>
-    <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3328,7 +3254,7 @@ Tarantino raffole du « cinéma bis » et des films de genre, dans la tradition 
     <title>RDA, le mystère des enfants volés</title>
     <desc lang="fr">De 1949 à la chute du mur de Berlin, en 1989, la RDA, petite soeur modèle du grand frère soviétique, a eu pour ambition de fabriquer le citoyen idéal, correspondant aux critères idéologiques du régime. Elle a ainsi mis en place un programme d'enlèvement d'enfants à leurs familles. Ils devaient devenir des communistes modèles. Pour exécuter cette mission, le régime s'est appuyé sur la plus efficace et la plus redoutable police politique du bloc de l'Est, la Stasi, et sur les services sociaux à l'enfance. Que sont devenus ces enfants ? Que leur est-il arrivé après la chute du Mur de Berlin ?</desc>
     <date>2015</date>
-    <category lang="fr">documentaire : histoire</category>
+    <category lang="fr">documentaire : autre</category>
     <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c2b159b-8271-45d7-b3af-99a03c7c59f1.jpg" />
     <rating system="CSA">
