@@ -199,10 +199,10 @@ Michael Dougherty n’adopte pas le point de vue des créatures, encore moins ce
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme channel="C112.api.telerama.fr" start="20200417220000 +0200" stop="20200418000000 +0200">
+  <programme channel="C112.api.telerama.fr" start="20200417210000 +0200" stop="20200418000000 +0200">
     <title>LCI vendredi soir</title>
     <category lang="fr">magazine d'actualité</category>
-    <length units="hours">2</length>
+    <length units="hours">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d912eceb-4d0c-4ea8-b24a-487c6b3f99c5.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -283,6 +283,7 @@ Michael Dougherty n’adopte pas le point de vue des créatures, encore moins ce
   </programme>
   <programme channel="C192.api.telerama.fr" start="20200417225500 +0200" stop="20200418004500 +0200">
     <title>Vendredi, tout est permis avec Arthur</title>
+    <sub-title>Spéciale musique</sub-title>
     <desc lang="fr">Comme toujours, le «Vendredi, tout est permis avec Arthur» ! Et ce ne sont pas les célèbres invités du maître de céans qui diront le contraire, eux que l'animateur fait danser, chanter, mimer, improviser, et bien plus encore ! Mais puisque le show l'exige, tous se prêtent de bonne grâce aux facéties du vendredi soir, relevant des défis parfois fous, comme celui du «Décor penché».</desc>
     <category lang="fr">divertissement</category>
     <length units="minutes">110</length>
@@ -447,7 +448,7 @@ Michael Dougherty n’adopte pas le point de vue des créatures, encore moins ce
     <title>Résistance : le maquis de l'Ain</title>
     <desc lang="fr">Le maquis de l'Ain fut un maquis méconnu, l'un de ceux qui a infligé le plus de pertes aux Allemands, et qui n'a jamais lâché les armes, malgré les rafles, et les opérations militaires lancées par la Wehrmacht afin d'anéantir ce noyau de résistance et toutes les personnes civiles susceptibles de l'avoir soutenu. Grâce au courage de ses combattants et au brio de son chef, Henri Romans-Petit, le Maquis a pu démontrer sa force. Tout le département était organisé au service du Maquis à travers la création de zone propice aux parachutages et aux atterissages clandestins, à l'organisation de toute la logistique grâce à l'appui des paysans et à la determination des zones de campements.</desc>
     <date>2019</date>
-    <category lang="fr">documentaire : autre</category>
+    <category lang="fr">documentaire : histoire</category>
     <length units="minutes">65</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/45a55db5-a032-4198-bad1-09a8ffe3f7fa.jpg" />
     <previously-shown />
@@ -551,7 +552,7 @@ Michael Dougherty n’adopte pas le point de vue des créatures, encore moins ce
   <programme channel="C4.api.telerama.fr" start="20200418022500 +0200" stop="20200418031000 +0200">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
-    <category lang="fr">magazine magazine de l'art de vivre</category>
+    <category lang="fr">magazine de l'art de vivre</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85940870-62aa-4287-a615-a2a8389c0dbc.jpg" />
     <previously-shown />
@@ -562,7 +563,7 @@ Michael Dougherty n’adopte pas le point de vue des créatures, encore moins ce
   <programme channel="C4.api.telerama.fr" start="20200418031000 +0200" stop="20200418035500 +0200">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
-    <category lang="fr">magazine magazine de l'art de vivre</category>
+    <category lang="fr">magazine de l'art de vivre</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85940870-62aa-4287-a615-a2a8389c0dbc.jpg" />
     <previously-shown />
@@ -780,13 +781,23 @@ Michael Dougherty n’adopte pas le point de vue des créatures, encore moins ce
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200418153000 +0200" stop="20200418161000 +0200">
+  <programme channel="C4.api.telerama.fr" start="20200418153000 +0200" stop="20200418160000 +0200">
     <title>Tout compte fait</title>
     <sub-title>Spéciale coronavirus : Mobilisation générale pour nos paysans !</sub-title>
     <desc lang="fr">Enquête sur la manière dont le monde paysan, déjà durement frappé par la crise, affronte celle du coronavirus.</desc>
     <category lang="fr">magazine de l'économie</category>
-    <length units="minutes">40</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3fc9bfd0-51c1-4a21-91cd-5e9953229f1a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200418160000 +0200" stop="20200418161000 +0200">
+    <title>La p'tite librairie</title>
+    <desc lang="fr">François Busnel propose de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+    <category lang="fr">magazine littéraire</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -805,7 +816,7 @@ Michael Dougherty n’adopte pas le point de vue des créatures, encore moins ce
   <programme channel="C4.api.telerama.fr" start="20200418163000 +0200" stop="20200418172000 +0200">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
-    <category lang="fr">magazine magazine de l'art de vivre</category>
+    <category lang="fr">magazine de l'art de vivre</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85940870-62aa-4287-a615-a2a8389c0dbc.jpg" />
     <rating system="CSA">
@@ -815,7 +826,7 @@ Michael Dougherty n’adopte pas le point de vue des créatures, encore moins ce
   <programme channel="C4.api.telerama.fr" start="20200418172000 +0200" stop="20200418172500 +0200">
     <title>Affaire conclue à la maison</title>
     <desc lang="fr">Confinement oblige, "Affaire conclue, la vie des objets" change de formule.</desc>
-    <category lang="fr">magazine magazine de l'art de vivre</category>
+    <category lang="fr">magazine de l'art de vivre</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1d3d4858-dacd-485d-b200-45bfd75e25d4.jpg" />
     <rating system="CSA">
@@ -1254,15 +1265,16 @@ Jacques Morice</desc>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/37cf21c1-455b-4617-b1c9-9a0c1b66f98e.jpg" />
     <rating system="CSA">
-      <value>Tout public</value>
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
   <programme channel="C34.api.telerama.fr" start="20200418122000 +0200" stop="20200418131000 +0200">
     <title>Le cercle</title>
-    <desc lang="fr">Désireux de partager sa passion pour la culture, Augustin Trapenard convoque une petite bande de chroniqueurs afin de passer en revue les sorties et les tournages qui font l'actualité du grand écran. Une émission pleine d'enthousiasme destinée aux amoureux du cinéma.</desc>
+    <desc lang="fr">Au sommaire :</desc>
     <category lang="fr">magazine du cinéma</category>
     <length units="minutes">50</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e0deada-a314-4869-b2e6-0881e109e471.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/39945256-da27-4ba2-8ec2-8de41dd7d7ec.jpg" />
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
@@ -2077,7 +2089,6 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b0bd738d-ff7c-41b8-8f82-deef47795451.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2342,32 +2353,6 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200418203000 +0200" stop="20200418205500 +0200">
-    <title>Parents mode d'emploi</title>
-    <desc lang="fr">Saison:8 - Episode:19 - Gaby et Isa Martinet, parents de trois enfants, tentent de garder le cap dans les eaux tumultueuses du quotidien. Mais ils ne sont plus seuls dans cette galère. Les Brunetti-Kebala, une famille recomposée, et les Fayol-Mercier, une famille homoparentale, rament à leurs côtés.</desc>
-    <credits>
-      <director>Sylvain Fusée</director>
-      <director>Amir Shadzi</director>
-      <actor>Arnaud Ducret</actor>
-      <actor>Alix Poisson</actor>
-      <actor>Marie-Julie Baup</actor>
-      <actor>Jean-Baptiste Anoumon</actor>
-      <actor>Xavier Robic</actor>
-      <actor>Guillaume Bouchède</actor>
-      <actor>Orfeo Campanella</actor>
-      <actor>Lucie Fagedet</actor>
-      <writer>Blanche Gardin</writer>
-      <writer>Béatrice Fournera</writer>
-      <writer>Eve-Sophie Santerre</writer>
-      <writer>Estelle Koenig</writer>
-    </credits>
-    <category lang="fr">série humoristique</category>
-    <length units="minutes">25</length>
-    <episode-num system="xmltv_ns">7.18.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C80.api.telerama.fr" start="20200418205500 +0200" stop="20200418210000 +0200">
     <title>Terres de partage</title>
     <sub-title>Moisson à bord</sub-title>
@@ -2491,22 +2476,6 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme channel="C111.api.telerama.fr" start="20200418040500 +0200" stop="20200418043000 +0200">
-    <title>Arte regards</title>
-    <sub-title>Quand les frontières se referment</sub-title>
-    <desc lang="fr">En prise avec un thème d'actualité, des reportages vont à la rencontre de citoyens européens et proposent une plongée inédite dans leurs réalités quotidiennes.</desc>
-    <date>2020</date>
-    <category lang="fr">documentaire : société</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c665549a-dcb5-4912-9cec-3d7ea1ae5600.jpg" />
-    <audio>
-      <stereo>bilingual</stereo>
-    </audio>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C111.api.telerama.fr" start="20200418043000 +0200" stop="20200418050000 +0200">
     <title>Fin des programmes</title>
     <category lang="fr">fin</category>
@@ -2516,41 +2485,12 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C111.api.telerama.fr" start="20200418050000 +0200" stop="20200418052500 +0200">
-    <title>Arte journal</title>
-    <desc lang="fr">L'actualité internationale, décortiquée par une rédaction franco-allemande.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">25</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/90c9eedd-8897-4696-8807-d745f28f9bbd.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C111.api.telerama.fr" start="20200418052500 +0200" stop="20200418061500 +0200">
-    <title>Nana Mouskouri</title>
-    <sub-title>Instants de vie</sub-title>
-    <desc lang="fr">En soixante ans de carrière, Nana Mouskouri a vendu plus de 300 millions d'albums. Comment cette jeune fille timide, fascinée par Judy Garland, mordue de jazz et d'airs populaires grecs, est-elle devenue une artiste internationale ? Comment, malgré de multiples avis contraires, a-t-elle imposé sa marque de fabrique : raie au milieu et lunettes à monture noire carrée ? Tout démarre en 1961, quand le titre «Roses blanches de Corfou» est choisi pour la bande-son d'un documentaire récompensé d'un Ours d'argent à la Berlinale. Du jour au lendemain, Nana Mouskouri, 26 ans, se retrouve sous le feu des projecteurs en Allemagne. Puis elle part à la conquête du public français, qui s'enthousiasme et permet à la chanteuse d'enregistrer des duos restés célèbres. Nourri d'archives et d'interviews, ce portrait retrace une vie et une carrière.</desc>
-    <date>2019</date>
-    <category lang="fr">documentaire : musique</category>
-    <length units="minutes">50</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c7fb52f1-6aea-4d9f-bfdb-1d4e38b6d2ff.jpg" />
-    <audio>
-      <stereo>bilingual</stereo>
-    </audio>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-    <star-rating>
-      <value>3/5</value>
-    </star-rating>
-  </programme>
   <programme channel="C111.api.telerama.fr" start="20200418061500 +0200" stop="20200418064500 +0200">
     <title>Femmes artistes</title>
     <sub-title>Annette Messager</sub-title>
     <desc lang="fr">Dessins, photographies, sculptures en tissu, laine : depuis les années 1970, Annette Messager compose une oeuvre qui s'inspire notamment de l'univers domestique.</desc>
     <date>2016</date>
-    <category lang="fr">documentaire : culture</category>
+    <category lang="fr">documentaire culture</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5f8237bd-bf25-4298-b87c-4ec6ce7426e4.jpg" />
     <audio>
@@ -2632,7 +2572,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
     <title>Invitation au voyage</title>
     <sub-title>Spécial Porto Rico</sub-title>
     <desc lang="fr">Au sommaire :</desc>
-    <category lang="fr">magazine du tourisme</category>
+    <category lang="fr">magazine magazine du tourisme</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c0ec65bd-c41e-4710-9ed9-d7d285528d2e.jpg" />
     <previously-shown />
@@ -2749,12 +2689,15 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme channel="C111.api.telerama.fr" start="20200418162500 +0200" stop="20200418170500 +0200">
     <title>Invitation au voyage</title>
     <sub-title>Spécial Bretagne</sub-title>
     <desc lang="fr">Au sommaire :</desc>
-    <category lang="fr">magazine du tourisme</category>
+    <category lang="fr">magazine magazine du tourisme</category>
     <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c0ec65bd-c41e-4710-9ed9-d7d285528d2e.jpg" />
     <premiere />
@@ -2861,6 +2804,9 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
   </programme>
   <programme channel="C111.api.telerama.fr" start="20200418231500 +0200" stop="20200418234000 +0200">
     <title>Streetphilosophy</title>
@@ -3263,36 +3209,6 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C118.api.telerama.fr" start="20200418215000 +0200" stop="20200418224000 +0200">
-    <title>Dr Harrow</title>
-    <sub-title>La loi du talion</sub-title>
-    <desc lang="fr">Saison:1 - Episode:9 - Une mort suspecte, survenue dans une maison de retraite, incite Harrow à réfléchir à ses propres actes. Dans le même temps, l'enquête sur le meurtre de Robert Quinn attire l'attention...</desc>
-    <credits>
-      <director>Daniel Nettheim</director>
-      <actor>Ioan Gruffudd</actor>
-      <actor>Mirrah Foulkes</actor>
-      <actor>Remy Hii</actor>
-      <actor>Anna Lise Phillips</actor>
-      <actor>Darren Gilshenan</actor>
-      <actor>Damien Garvey</actor>
-      <actor>Ella Newton</actor>
-      <actor>Robyn Malcolm</actor>
-      <writer>Stephen M Irwin</writer>
-      <writer>Leigh McGrath</writer>
-      <writer>Stephen M Irwin</writer>
-    </credits>
-    <category lang="fr">série dramatique</category>
-    <length units="minutes">50</length>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <audio>
-      <stereo>bilingual</stereo>
-    </audio>
-    <previously-shown />
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
   <programme channel="C118.api.telerama.fr" start="20200418224000 +0200" stop="20200418232000 +0200">
     <title>Rosewood</title>
     <sub-title>Mené en bateau</sub-title>
@@ -3657,29 +3573,29 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418035500 +0200" stop="20200418043000 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418035500 +0200" stop="20200418042000 +0200">
     <title>C'est pas sorcier</title>
     <sub-title>Les amphibiens</sub-title>
     <desc lang="fr">On connaît déjà plus de 4000 espèces d'amphibiens et on en découvre quarante nouvelles chaque année. Ces petites bêtes à peau nue sont les plus anciens vertébrés terrestres, plus vieux encore que les dinosaures, et, du désert au cercle polaire arctique, on les retrouve partout. En France, les plus répandues sont la grenouille verte, le crapaud commun, la salamandre et la jolie rainette, qui partagent leur vie entre l'eau et la terre.</desc>
     <category lang="fr">magazine éducatif</category>
-    <length units="minutes">35</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/09ea3e22-f611-4cb0-a7a9-39f0c5f31f5b.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418043000 +0200" stop="20200418044500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418042000 +0200" stop="20200418043000 +0200">
     <title>Infô soir</title>
     <desc lang="fr">Le rendez-vous quotidien de l'actualité ultramarine.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418044500 +0200" stop="20200418051000 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418043000 +0200" stop="20200418045500 +0200">
     <title>Journal Polynésie</title>
     <category lang="fr">journal</category>
     <length units="minutes">25</length>
@@ -3688,16 +3604,16 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418060000 +0200" stop="20200418062000 +0200">
-    <title>Journal Mayotte</title>
+  <programme channel="C160.api.telerama.fr" start="20200418045500 +0200" stop="20200418051500 +0200">
+    <title>Journal Wallis-et-Futuna</title>
     <category lang="fr">journal</category>
     <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e212da2e-d967-4667-bc66-1664f312acd8.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418062000 +0200" stop="20200418070000 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418061000 +0200" stop="20200418065000 +0200">
     <title>Journal Réunion</title>
     <category lang="fr">journal</category>
     <length units="minutes">40</length>
@@ -3706,7 +3622,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418070000 +0200" stop="20200418072500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418065000 +0200" stop="20200418071500 +0200">
     <title>Journal Guyane</title>
     <category lang="fr">journal</category>
     <length units="minutes">25</length>
@@ -3715,36 +3631,36 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418072500 +0200" stop="20200418075500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418071500 +0200" stop="20200418080000 +0200">
     <title>Journal Martinique</title>
     <category lang="fr">journal</category>
-    <length units="minutes">30</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418075500 +0200" stop="20200418082500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418080000 +0200" stop="20200418082500 +0200">
     <title>Journal Guadeloupe</title>
     <category lang="fr">journal</category>
-    <length units="minutes">30</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418082500 +0200" stop="20200418084500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418082500 +0200" stop="20200418084000 +0200">
     <title>Bleu océan</title>
     <sub-title>Pour le meilleur et pour la mer</sub-title>
     <desc lang="fr">Sur le site réhabilité de l'ancien club Med de Moorea, Laurence Pourtau part à la rencontre d'un jeune couple passionné par la pêche. Lui remplit la glacière de son potimarara, elle cuisine des achards fumés et les commercialise.</desc>
     <category lang="fr">magazine de la mer</category>
-    <length units="minutes">20</length>
+    <length units="minutes">15</length>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418084500 +0200" stop="20200418090000 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418084000 +0200" stop="20200418085500 +0200">
     <title>Bleu océan</title>
     <desc lang="fr">Au sommaire :</desc>
     <category lang="fr">magazine de la mer</category>
@@ -3755,7 +3671,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418090000 +0200" stop="20200418091500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418085500 +0200" stop="20200418091000 +0200">
     <title>Behind fashion</title>
     <sub-title>Episode 9/20</sub-title>
     <desc lang="fr">Les dessous de la mode et de la beauté en compagnie de quatre jeunes femmes dont le rêve est de devenir mannequins professionnels.</desc>
@@ -3767,7 +3683,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418091500 +0200" stop="20200418094000 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418091000 +0200" stop="20200418093500 +0200">
     <title>Miroir créole</title>
     <desc lang="fr">Emission de coaching et de relooking valorisant l'identité caraibéenne.</desc>
     <category lang="fr">magazine de la femme</category>
@@ -3777,7 +3693,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418094000 +0200" stop="20200418101000 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418093500 +0200" stop="20200418100500 +0200">
     <title>Un look d'enfer</title>
     <desc lang="fr">Chaque semaine, deux duos s'affrontent. Ils sont mère et fille ou en couple, meilleures amies ou meilleurs amis et vont devoir endosser le temps d'une semaine le rôle de relookeurs et de relookés.</desc>
     <category lang="fr">divertissement</category>
@@ -3787,7 +3703,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418101000 +0200" stop="20200418103000 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418100500 +0200" stop="20200418102500 +0200">
     <title>Brooklyn Nine-Nine</title>
     <sub-title>L'anniversaire</sub-title>
     <desc lang="fr">Saison:6 - Episode:12 - Le commissariat croule sous le travail, du moins Jake et Amy, qui en sont réduits à fêter leur anniversaire de mariage sans quitter l'uniforme. Ils doivent en effet surveiller un patient comateux, à l'hôpital, au lieu de profiter de leur temps libre...</desc>
@@ -3816,7 +3732,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418103000 +0200" stop="20200418105000 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418102500 +0200" stop="20200418104500 +0200">
     <title>Brooklyn Nine-Nine</title>
     <sub-title>La bimbo</sub-title>
     <desc lang="fr">Saison:6 - Episode:13 - Holt et Jake enquêtent sur une affaire impliquant l'université dans laquelle enseigne Kevin, le mari du capitaine, qui n'a pas l'habitude de mêler vie privée et travail. De retour au commissariat, Terry et Amy emmènent l'équipe déjeuner dehors...</desc>
@@ -3847,7 +3763,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418105000 +0200" stop="20200418111500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418104500 +0200" stop="20200418110500 +0200">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:51 - Eve doit faire face à une révélation dramatique. Théo et Léa s'expliquent. Comment Elisabeth réagira-t-elle en apprenant la mise en garde de Guilhem ?...</desc>
     <credits>
@@ -3862,7 +3778,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <writer>Toma de Matteis</writer>
     </credits>
     <category lang="fr">feuilleton policier</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
     <episode-num system="xmltv_ns">0.50.</episode-num>
     <previously-shown />
@@ -3870,7 +3786,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418111500 +0200" stop="20200418113500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418110500 +0200" stop="20200418113000 +0200">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:52 - Arthur s'indigne de l'attitude de sa soeur. Virgile doit assumer les conséquences de ses actes. Julien se plonge dans le passé, sans être sûr de trouver ce qu'il recherche...</desc>
     <credits>
@@ -3885,7 +3801,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <writer>Toma de Matteis</writer>
     </credits>
     <category lang="fr">feuilleton policier</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
     <episode-num system="xmltv_ns">0.51.</episode-num>
     <previously-shown />
@@ -3893,7 +3809,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418113500 +0200" stop="20200418120000 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418113000 +0200" stop="20200418115000 +0200">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:53 - Adèle place Marie devant ses contradictions. Alice soutient encore une fois son mari. Elisabeth subit une nouvelle offense : sa réaction risque de surprendre...</desc>
     <credits>
@@ -3908,7 +3824,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <writer>Toma de Matteis</writer>
     </credits>
     <category lang="fr">feuilleton policier</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
     <episode-num system="xmltv_ns">0.52.</episode-num>
     <previously-shown />
@@ -3916,7 +3832,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418120000 +0200" stop="20200418122500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418115000 +0200" stop="20200418121000 +0200">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:54 - Virgile ne parvient pas à faire accepter son avis. Julien découvre qu'il a été trahi. C'est un gros coup dur qu'il a bien du mal à accepter...</desc>
     <credits>
@@ -3931,7 +3847,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <writer>Toma de Matteis</writer>
     </credits>
     <category lang="fr">feuilleton policier</category>
-    <length units="minutes">25</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
     <episode-num system="xmltv_ns">0.53.</episode-num>
     <previously-shown />
@@ -3939,7 +3855,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418122500 +0200" stop="20200418125000 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418121000 +0200" stop="20200418123500 +0200">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:55 - Alice refuse de tout risquer, au grand désarroi de Julien. Victor accepte la proposition d'Adèle. Quant à Théo, il mène une nouvelle offensive, avec l'espoir d'obtenir gain de cause...</desc>
     <credits>
@@ -3962,19 +3878,19 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418125000 +0200" stop="20200418134500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418123500 +0200" stop="20200418132500 +0200">
     <title>Des volcans et des îles</title>
     <sub-title>La Réunion, le volcan rouge</sub-title>
     <desc lang="fr">A la Réunion, le volcan du piton de la Fournaise occupe plus du quart de la surface de l'île et suscite chez les habitants un mélange, subtil mais permanent, de crainte et de fascination. Car si son grand fère, le piton des Neiges, s'est éteint il y a 12 000 ans, le jeune piton de la Fournaise, lui, est bien en activité et le fait régulièrement savoir.</desc>
     <category lang="fr">documentaire : nature</category>
-    <length units="minutes">55</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/691511b2-9901-4e72-afda-901b8e0b694b.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418134500 +0200" stop="20200418151000 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418132500 +0200" stop="20200418145000 +0200">
     <title>Pas de toit sans moi</title>
     <desc lang="fr">Paul, 40 ans, chômeur, hypocondriaque et dépressif, vit dans un grand appartement avec son chien. Abandonné ou méprisé par tous, il entre en conflit avec sa voisine du dessus, Ashanti. Jusqu'au jour où, risquant d'être expulsé, il se voit contraint de partager son logement avec elle et ses deux enfants...</desc>
     <category lang="fr">téléfilm sentimental</category>
@@ -3988,7 +3904,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418151000 +0200" stop="20200418164000 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418145000 +0200" stop="20200418163000 +0200">
     <title>Comme chez soi</title>
     <desc lang="fr">Cécile, Marc et leurs enfants ont convenu par Internet d'un échange de leur maison contre un appartement à Istanbul. Au dernier moment, le voyage est annulé. Trop tard pour prévenir la famille turque, qui arrive comme prévu. Confrontation de deux mondes, l'entente cordiale s'organise tant bien que mal... - Critique : Un couple français doit cohabiter avec la famille turque qui vient occuper sa résidence pendant les vacances. Une comédie tout en clichés qui ne décolle jamais.</desc>
     <credits>
@@ -4007,7 +3923,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <writer>Sedef Ecer</writer>
     </credits>
     <category lang="fr">téléfilm humoristique</category>
-    <length units="minutes">90</length>
+    <length units="minutes">100</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/535786e3-7740-4466-bf91-e902593d72f7.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -4017,17 +3933,53 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418183000 +0200" stop="20200418184200 +0200">
-    <title>Infô soir</title>
-    <desc lang="fr">Le rendez-vous quotidien de l'actualité ultramarine.</desc>
+  <programme channel="C160.api.telerama.fr" start="20200418163000 +0200" stop="20200418171000 +0200">
+    <title>Journal Martinique</title>
     <category lang="fr">journal</category>
-    <length units="minutes">12</length>
+    <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418184200 +0200" stop="20200418184400 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418171000 +0200" stop="20200418172500 +0200">
+    <title>Journal Nouvelle-Calédonie</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200418172500 +0200" stop="20200418181000 +0200">
+    <title>Journal Réunion</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200418181000 +0200" stop="20200418183000 +0200">
+    <title>Journal Saint-Pierre-et-Miquelon</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200418183000 +0200" stop="20200418184300 +0200">
+    <title>Infô soir</title>
+    <desc lang="fr">Le rendez-vous quotidien de l'actualité ultramarine.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">13</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200418184300 +0200" stop="20200418184500 +0200">
     <title>Les livres de Lili</title>
     <sub-title>Rêves amers</sub-title>
     <desc lang="fr">Une invitation à la lecture proposée par des enfants à des enfants.</desc>
@@ -4039,23 +3991,23 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418184400 +0200" stop="20200418184500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418184500 +0200" stop="20200418185000 +0200">
     <title>Les livres de Lili</title>
     <sub-title>Agoulou Grandfal</sub-title>
     <desc lang="fr">Une invitation à la lecture proposée par des enfants à des enfants.</desc>
     <category lang="fr">magazine littéraire</category>
-    <length units="minutes">1</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418184500 +0200" stop="20200418190000 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418185000 +0200" stop="20200418190000 +0200">
     <title>Kid reporters</title>
     <sub-title>Episode 5/18 : Animaux, la vache et la fabrication de lait</sub-title>
     <category lang="fr">magazine jeunesse</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -4085,18 +4037,18 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418195500 +0200" stop="20200418204800 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418195500 +0200" stop="20200418204500 +0200">
     <title>Méditation, un chemin intérieur</title>
     <desc lang="fr">Portraits de pèlerins, occidentaux et indiens, élèves ou maîtres yogis, qui vivent la méditation comme une nécessité pour avancer en toute plénitude et donner un sens profond à leur vie.</desc>
     <date>2018</date>
     <category lang="fr">documentaire : art de vivre</category>
-    <length units="minutes">53</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c2912426-6e74-40e1-a5eb-cba157fa46bd.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418204800 +0200" stop="20200418205100 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418204500 +0200" stop="20200418204900 +0200">
     <title>Villa Karayib</title>
     <desc lang="fr">Saison:1 - Episode:51 - La quotidien de quatre jeunes étudiantes originaires des Antilles, de métropole et de la Côte d'Ivoire, qui partagent une colocation dans une villa en compagnie de la proriétaire des lieux.</desc>
     <credits>
@@ -4109,7 +4061,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <writer>Philippe Giangreco</writer>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">3</length>
+    <length units="minutes">4</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0742d007-2e28-4828-a706-f3453c13507e.jpg" />
     <episode-num system="xmltv_ns">0.50.</episode-num>
     <previously-shown />
@@ -4117,7 +4069,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200418205100 +0200" stop="20200418205500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200418204900 +0200" stop="20200418205500 +0200">
     <title>Villa Karayib</title>
     <desc lang="fr">Saison:1 - Episode:55 - La quotidien de quatre jeunes étudiantes originaires des Antilles, de métropole et de la Côte d'Ivoire, qui partagent une colocation dans une villa en compagnie de la proriétaire des lieux.</desc>
     <credits>
@@ -4130,7 +4082,7 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
       <writer>Philippe Giangreco</writer>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">4</length>
+    <length units="minutes">6</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0742d007-2e28-4828-a706-f3453c13507e.jpg" />
     <episode-num system="xmltv_ns">0.54.</episode-num>
     <previously-shown />
@@ -4140,9 +4092,11 @@ Avec ce premier long métrage, véritable prototype, Antonin Baudry frappe fort.
   </programme>
   <programme channel="C160.api.telerama.fr" start="20200418205500 +0200" stop="20200418223500 +0200">
     <title>Fais danser la poussière</title>
-    <desc lang="fr">Maya, une petite métisse, se sent différente des autres enfants. Sa mère est blanche et son père, qu'elle n'a jamais connu, est noir. Lorsque sa mère se remarie, Maya vit dans une famille où tout le monde est blanc. Mal dans sa peau, l'enfant s'investit totalement dans sa passion : la danse... - Critique : Maya est une métisse afro-bretonne dont le père est parti avant sa naissance et qui a grandi sous les quolibets racistes. Sa mère a refait sa vie avec un bourgeois « vieille France » dont elle supporte mal l’autorité. Maya trouve son salut dans la danse et parvient à intégrer une célèbre compagnie new-yorkaise. Mais alors que la gloire est proche, elle se blesse. Virée sans ménagement, elle rentre en France, où sa mère se meurt d’une sclérose en plaques…
+    <desc lang="fr">Maya, une petite métisse, se sent différente des autres enfants. Sa mère est blanche et son père, qu'elle n'a jamais connu, est noir. Lorsque sa mère se remarie, Maya vit dans une famille où tout le monde est blanc. Mal dans sa peau, l'enfant s'investit totalement dans sa passion : la danse... - Critique : Maya est une métisse afro-bretonne dont le père est parti avant sa naissance et qui a grandi sous le racisme. Sa mère a refait sa vie avec un bourgeois « vieille France » dont elle supporte mal l’autorité. Maya trouve son salut dans la danse et intègre une compagnie new-yorkaise. Mais alors que la gloire est proche, elle se blesse. Virée sans ménagement, elle rentre en France, où sa mère se meurt…
 
-Maya (interprétée par Tatiana Seguin), c’est Marie Dô, ancienne danseuse dans la troupe d’Alvin Ailey, qui a conçu les séquences chorégraphiées de ce téléfilm. Sur le papier, cette fiction autobiographique avait tout d’un mauvais mélo. Mais la mise en scène élégante et le jeu sobre des comédiennes (l’épatante Marie Denarnaud en tête) désamorcent presque toujours le pathos du scénario. Fais danser la poussière se révèle même d’un réalisme cru dans son évocation des rivalités entre danseurs.</desc>
+Maya (Tatiana Seguin), c’est Marie Dô, ex-danseuse dans la troupe d’Alvin Ailey, qui a conçu les séquences chorégraphiées du téléfilm. Sur le papier, cette fiction autobiographique avait tout d’un mauvais ­mélodrame. Mais la mise en scène élégante et le jeu sobre des comédiennes ­désamorcent presque toujours le pathos du scénario.
+
+Fais danser la poussière se révèle même d’un réalisme cru dans son évocation des terribles rivalités entre danseurs.</desc>
     <credits>
       <director>Christian Faure</director>
       <actor>Tatiana Seguin</actor>
@@ -4254,7 +4208,7 @@ Maya (interprétée par Tatiana Seguin), c’est Marie Dô, ancienne danseuse da
     <title>Petits plats en équilibre</title>
     <sub-title>Asperges blanches sauce grenobloise</sub-title>
     <desc lang="fr">Attaché aux artisans du goût et à la qualité des produits locaux, Laurent Mariotte met en valeur le travail de l'homme et de la nature, donne des conseils pour bien choisir un produit et teste de nouvelles associations gustatives avec des recettes inédites, astucieuses et rapides.</desc>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
     <rating system="CSA">
@@ -4307,7 +4261,7 @@ Maya (interprétée par Tatiana Seguin), c’est Marie Dô, ancienne danseuse da
     <sub-title>La vie ne tient qu'à un fil</sub-title>
     <desc lang="fr">Un accouchement est toujours une épreuve, surtout quand on a souffert d'une méningite pendant sa grossesse. Laetitia et Quentin vont vivre un accouchement sous haute tension pour l'arrivée de leur deuxième enfant. Intissar et Kassim, eux, n'attendaient pas leur enfant si tôt. Du coup, Intissar n'a pas pu faire tous les examens nécessaires pour la péridurale. Va-t-elle réussir à supporter la douleur ? Pour Elisabeth et Vincent, tout aurait dû se passer facilement : une grossesse apparemment sans difficulté, un papa médecin qui veille sur tout. Mais des soucis surgissent soudain.</desc>
     <date>2014</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">110</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a0ab7e51-fce7-4c92-85df-54cb89ca6133.jpg" />
     <rating system="CSA">
@@ -4340,7 +4294,7 @@ Maya (interprétée par Tatiana Seguin), c’est Marie Dô, ancienne danseuse da
     <title>Petits plats en équilibre</title>
     <sub-title>Asperges blanches sauce grenobloise</sub-title>
     <desc lang="fr">Attaché aux artisans du goût et à la qualité des produits locaux, Laurent Mariotte met en valeur le travail de l'homme et de la nature, donne des conseils pour bien choisir un produit et teste de nouvelles associations gustatives avec des recettes inédites, astucieuses et rapides.</desc>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
     <rating system="CSA">
@@ -4443,16 +4397,6 @@ Maya (interprétée par Tatiana Seguin), c’est Marie Dô, ancienne danseuse da
     <length units="minutes">365</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
     <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C195.api.telerama.fr" start="20200418064500 +0200" stop="20200418084500 +0200">
-    <title>TV achat</title>
-    <desc lang="fr">Découvrez toutes les nouveautés avec le magazine de télé-achat de TMC.</desc>
-    <category lang="fr">magazine de télé-achat</category>
-    <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -4688,75 +4632,6 @@ Maya (interprétée par Tatiana Seguin), c’est Marie Dô, ancienne danseuse da
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C195.api.telerama.fr" start="20200418184500 +0200" stop="20200418195000 +0200">
-    <title>Cold Case</title>
-    <sub-title>Le roi des tagueurs</sub-title>
-    <desc lang="fr">Saison:7 - Episode:13 - L'équipe de Lilly Rush mobilise ses compétences afin de reprendre une enquête sur le meurtre d'un tagueur, commis en 1983. Par ailleurs, Jarrod, l'ex-époux de Kat, refait surface. Désormais remarié, il demande à pouvoir bénéficier d'un simple droit de visite pour sa fille. Kat ne s'attendait pas à une telle démarche de la part de son ex-mari. De son côté, Valens décide de ne pas abandonner ses investigations. Comment pourrait-il renoncer à trouver l'auteur de l'agression dont sa mère a été victime ?...</desc>
-    <credits>
-      <director>Janice Cooke</director>
-      <actor>Dean Cain</actor>
-      <actor>Kathryn Morris</actor>
-      <actor>Teri Hatcher</actor>
-      <actor>Thom Barry</actor>
-      <actor>Lane Smith</actor>
-      <actor>Tracie Thoms</actor>
-      <actor>K Callan</actor>
-      <actor>Dondre Whitfield</actor>
-      <actor>Eddie Jones</actor>
-      <actor>Danny Pino</actor>
-      <actor>Justin Whalin</actor>
-      <actor>John Finn</actor>
-      <actor>Jeremy Ratchford</actor>
-      <actor>Jonathan LaPaglia</actor>
-      <writer>Deborah Joy LeVine</writer>
-      <writer>Jerry Siegel</writer>
-      <writer>Joe Shuster</writer>
-      <writer>Meredith Stiehm</writer>
-      <writer>Denise Thé</writer>
-      <guest>Daniel Baldwin</guest>
-    </credits>
-    <category lang="fr">série policière</category>
-    <length units="minutes">65</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a9b8c094-e089-40b5-8952-a14cf9ba917a.jpg" />
-    <episode-num system="xmltv_ns">6.12.</episode-num>
-    <audio>
-      <stereo>bilingual</stereo>
-    </audio>
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
-  <programme channel="C195.api.telerama.fr" start="20200418195000 +0200" stop="20200418210500 +0200">
-    <title>Cold Case</title>
-    <sub-title>Métamorphose</sub-title>
-    <desc lang="fr">Saison:7 - Episode:14 - L'équipe de Lilly Rush se mobilise afin de rouvrir une mystérieuse affaire survenue au début des années 1970. Mais rouvrir l'enquête sur la mort de Mia Romanov n'est pas chose aisée, tant le souvenir laissé par le décès de cette adolescente demeure vivace. Lilly apprend les circonstances de sa mort : en 1971, Mia a succombé après une chute effectuée lors d'un numéro particulièrement périlleux. La défunte était acrobate dans un cirque très populaire. S'agissait-il réellement d'un accident ? Parallèlement, Lilly est soupçonnée du meurtre d'un de ses vieux ennemis...</desc>
-    <credits>
-      <director>Chris Fisher</director>
-      <actor>Roger Moore</actor>
-      <actor>Kathryn Morris</actor>
-      <actor>Sharni Vinson</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-      <actor>Thom Barry</actor>
-      <actor>Jeremy Ratchford</actor>
-      <actor>Tracie Thoms</actor>
-      <actor>Michael J Anderson</actor>
-      <writer>Leslie Charteris</writer>
-      <writer>Meredith Stiehm</writer>
-      <writer>Adam Glass</writer>
-    </credits>
-    <category lang="fr">série policière</category>
-    <length units="minutes">75</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c9d7344a-0a27-4129-a9bf-1379368e9078.jpg" />
-    <episode-num system="xmltv_ns">6.13.</episode-num>
-    <audio>
-      <stereo>bilingual</stereo>
-    </audio>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C195.api.telerama.fr" start="20200418210500 +0200" stop="20200418225000 +0200">
     <title>Columbo</title>
     <sub-title>Face à face</sub-title>
@@ -4779,17 +4654,6 @@ Maya (interprétée par Tatiana Seguin), c’est Marie Dô, ancienne danseuse da
     <audio>
       <stereo>bilingual</stereo>
     </audio>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C195.api.telerama.fr" start="20200418225000 +0200" stop="20200419001500 +0200">
-    <title>90' Enquêtes</title>
-    <sub-title>Pompiers de Seine-Saint-Denis: les héros du 93</sub-title>
-    <desc lang="fr">Thierry, Jean-François, Sylvain et Eric sont pompiers au sein de la 13e compagnie de la Brigade des Sapeurs-Pompiers de Paris, créée en 1968. Répartis dans trois casernes, implantées dans des quartiers difficiles de Seine-Saint-Denis, deux cents soldats du feu sont en première ligne chaque jour.</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">85</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d288140-c626-4f23-8c35-1180aeb2fa88.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -5214,6 +5078,9 @@ Maya (interprétée par Tatiana Seguin), c’est Marie Dô, ancienne danseuse da
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
   </programme>
   <programme channel="C234.api.telerama.fr" start="20200418215900 +0200" stop="20200418223100 +0200">
     <title>Sénat en action</title>
@@ -5231,7 +5098,7 @@ Maya (interprétée par Tatiana Seguin), c’est Marie Dô, ancienne danseuse da
     <title>L'hôpital à fleur de peau</title>
     <desc lang="fr">L'hôpital flambant neuf de Gonesse, dans le Val d'Oise, comprenant 2500 salariés, est, comme la plupart des institutions de santé publique en France, au bord du gouffre financier. Son personnel, soumis à une pression croissante, est arrivé au point de rupture. De l'aide-soignante au chirurgien, les hospitaliers dénoncent un système dont ils veulent révéler les dérives au grand jour, en faisant découvrir sur le terrain les réalités professionnelles et les aberrations humaines cachées derrière les injonctions économiques. Les burn-out et l'absentéisme de confort plombent encore plus la situation. A terme, c'est une crise des vocations qui se profile et des médecins qui fuient vers le privé.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire santé</category>
+    <category lang="fr">documentaire : santé</category>
     <length units="minutes">209</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6a00b4e-778d-4d27-802a-4a81dceaa267.jpg" />
     <previously-shown />
@@ -6225,7 +6092,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <title>Petits plats en équilibre</title>
     <sub-title>Salade de rattes</sub-title>
     <desc lang="fr">Toutes les astuces et recettes autour d'un ingrédient de saison.</desc>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/44abc967-bf27-4f03-a2e9-5cee53327225.jpg" />
     <previously-shown />
@@ -6237,7 +6104,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <title>Petits plats en équilibre</title>
     <sub-title>Clafoutis en rouge et noir</sub-title>
     <desc lang="fr">Laurent Mariotte délivre bonnes astuces et petits secrets autour d'un ingrédient. Des recettes simples et innovantes à partager pour tous les gourmands à la recherche d'originalité et d'équilibre.</desc>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/44abc967-bf27-4f03-a2e9-5cee53327225.jpg" />
     <previously-shown />
@@ -6249,7 +6116,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <title>Petits plats en équilibre</title>
     <sub-title>Moules printanières</sub-title>
     <desc lang="fr">Toutes les astuces et recettes autour d'un ingrédient de saison.</desc>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
     <rating system="CSA">
@@ -7061,6 +6928,66 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C482.api.telerama.fr" start="20200418051000 +0200" stop="20200418051700 +0200">
+    <title>Oggy et les cafards</title>
+    <sub-title>Dans la peau d'un cafard</sub-title>
+    <desc lang="fr">Saison:6 - Episode:25 - Oggy, un gros matou bleu, placide et paresseux, n'aspire qu'à une vie tranquille pour pouvoir ronronner en paix. Hélas ! Trois cafards ont décidé de lui polluer l'existence. Ils se nomment Joey, Deedee et Marky, et s'appliquent à le faire tourner en bourrique.</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">7</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5a65c214-28ba-42b9-a002-931bc651d722.jpg" />
+    <episode-num system="xmltv_ns">5.24.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200418051700 +0200" stop="20200418052400 +0200">
+    <title>Oggy et les cafards</title>
+    <sub-title>Un voisin envahissant</sub-title>
+    <desc lang="fr">Saison:6 - Episode:26 - Oggy, un gros matou bleu, placide et paresseux, n'aspire qu'à une vie tranquille pour pouvoir ronronner en paix. Hélas ! Trois cafards ont décidé de lui polluer l'existence. Ils se nomment Joey, Deedee et Marky, et s'appliquent à le faire tourner en bourrique.</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">7</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5a65c214-28ba-42b9-a002-931bc651d722.jpg" />
+    <episode-num system="xmltv_ns">5.25.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200418052400 +0200" stop="20200418053500 +0200">
+    <title>Oggy et les cafards</title>
+    <sub-title>Sérénade pour un monstre</sub-title>
+    <desc lang="fr">Saison:6 - Episode:27 - Oggy, un gros matou bleu, placide et paresseux, n'aspire qu'à une vie tranquille pour pouvoir ronronner en paix. Hélas ! Trois cafards ont décidé de lui polluer l'existence. Ils se nomment Joey, Deedee et Marky, et s'appliquent à le faire tourner en bourrique.</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">11</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5a65c214-28ba-42b9-a002-931bc651d722.jpg" />
+    <episode-num system="xmltv_ns">5.26.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200418053500 +0200" stop="20200418054700 +0200">
+    <title>Maya l'abeille 3D</title>
+    <sub-title>La corde sensible</sub-title>
+    <desc lang="fr">Saison:1 - Episode:59 - Les cordes du violon de Flip sont cassées. Maya, Willy et Flip vont chez Stridularius, le scarabée vendeur d'instruments. Ce dernier aurait besoin du fil de Thekla...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">12</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d16d8bfe-79c1-4a5c-a312-9247b02bef06.jpg" />
+    <episode-num system="xmltv_ns">0.58.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200418054700 +0200" stop="20200418060000 +0200">
+    <title>Maya l'abeille 3D</title>
+    <sub-title>Willy perd la mémoire</sub-title>
+    <desc lang="fr">Saison:1 - Episode:60 - Willy perd la mémoire. Une fourmi intéressée parvient même à le convaincre qu'il est lui-même une fourmi. Maya et ses amis n'ont pas une minute à perdre...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">13</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d16d8bfe-79c1-4a5c-a312-9247b02bef06.jpg" />
+    <episode-num system="xmltv_ns">0.59.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C482.api.telerama.fr" start="20200418060000 +0200" stop="20200418060700 +0200">
     <title>Katuri</title>
     <sub-title>Le gentil chien de garde</sub-title>
@@ -7084,14 +7011,25 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200418061400 +0200" stop="20200418062500 +0200">
+  <programme channel="C482.api.telerama.fr" start="20200418061400 +0200" stop="20200418061900 +0200">
     <title>Katuri</title>
     <sub-title>Episode 45</sub-title>
     <desc lang="fr">Saison:1 - Episode:45 - Maman Katuri et ses quatre bébés faisans vivent sous le plus grand des chênes de la forêt. Il y a le Bobby le timide, Duri l'audacieuse, Jack l'impatient et Chip le petit curieux. Dans le terrain de jeu offert par la forêt, ils découvrent chaque jour de nouveaux amis insectes ou animaux. Tout cela sous le regard aimant et protecteur de leur maman.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">11</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9d1a831a-08e9-4515-b685-701d9e41b6c4.jpg" />
     <episode-num system="xmltv_ns">0.44.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200418061900 +0200" stop="20200418062500 +0200">
+    <title>Katuri</title>
+    <desc lang="fr">Saison:1 - Episode:11 - Maman Katuri et ses quatre bébés faisans vivent sous le plus grand des chênes de la forêt. Il y a le Bobby le timide, Duri l'audacieuse, Jack l'impatient et Chip le petit curieux.</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">6</length>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7205,7 +7143,6 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <length units="minutes">7</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dcc1f7a-0db5-42fa-aa10-4d1d6c05f73e.jpg" />
     <episode-num system="xmltv_ns">1.6.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7218,7 +7155,6 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <length units="minutes">7</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dcc1f7a-0db5-42fa-aa10-4d1d6c05f73e.jpg" />
     <episode-num system="xmltv_ns">1.7.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7231,7 +7167,6 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <length units="minutes">16</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dcc1f7a-0db5-42fa-aa10-4d1d6c05f73e.jpg" />
     <episode-num system="xmltv_ns">1.8.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7712,15 +7647,27 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C482.api.telerama.fr" start="20200418161100 +0200" stop="20200418163000 +0200">
+  <programme channel="C482.api.telerama.fr" start="20200418161100 +0200" stop="20200418162100 +0200">
     <title>Bienvenue chez les Loud</title>
     <sub-title>La savante folle</sub-title>
     <desc lang="fr">Saison:3 - Episode:9 - Lisa est invitée à travailler dans un institut pour échapper à sa famille de fous...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">19</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2c1ccffc-baec-43e1-b005-92dd4ba040a2.jpg" />
     <episode-num system="xmltv_ns">2.8.</episode-num>
     <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200418162100 +0200" stop="20200418163000 +0200">
+    <title>Bienvenue chez les Loud</title>
+    <sub-title>Bonjour les vacances</sub-title>
+    <desc lang="fr">Saison:3 - Episode:1 - La famille Loud au grand complet va enfin partir en vacances. Mais le voyage va s'avérer plus mouvementé que prévu. De nombreuses aventures les attendent...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">9</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2c1ccffc-baec-43e1-b005-92dd4ba040a2.jpg" />
+    <episode-num system="xmltv_ns">2.0.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7970,7 +7917,6 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <category lang="fr">série d'animation</category>
     <length units="minutes">25</length>
     <episode-num system="xmltv_ns">4.1.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7983,7 +7929,6 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fde264da-6743-4f18-9459-2416f60af1a2.jpg" />
     <episode-num system="xmltv_ns">4.2.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -7995,7 +7940,6 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <category lang="fr">série d'animation</category>
     <length units="minutes">29</length>
     <episode-num system="xmltv_ns">4.3.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8008,7 +7952,6 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <length units="minutes">31</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/729aa81e-4314-4372-96ac-8c71fa912ce3.jpg" />
     <episode-num system="xmltv_ns">0.23.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8318,7 +8261,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <sub-title>L'affaire du siècle</sub-title>
     <desc lang="fr">Richard Rawlings et Aaron Kaufman sillonnent le Texas pour acheter des voitures classiques à l'abandon et les restaurent dans leur garage Gas Monkey à Dallas.</desc>
     <date>2016</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c8edee27-6555-41eb-81d7-194f687537e1.jpg" />
     <previously-shown />
@@ -8331,7 +8274,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <sub-title>Challenge ambitieux</sub-title>
     <desc lang="fr">Saison:4 - Richard Rawlings et Aaron Kaufman sillonnent le Texas pour acheter des voitures classiques à l'abandon et les restaurent dans leur garage Gas Monkey à Dallas.</desc>
     <date>2016</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cf65b14e-abc9-4e3b-9db9-b7d7b16ace99.jpg" />
     <episode-num system="xmltv_ns">3..</episode-num>
@@ -8345,7 +8288,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <sub-title>Les bouchées doubles</sub-title>
     <desc lang="fr">Saison:4 - Richard Rawlings et Aaron Kaufman sillonnent le Texas pour acheter des voitures classiques à l'abandon et les restaurent dans leur garage Gas Monkey à Dallas.</desc>
     <date>2016</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1a42828e-d04e-48cb-ab69-169a215802e0.jpg" />
     <episode-num system="xmltv_ns">3..</episode-num>
@@ -8358,7 +8301,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <sub-title>Objectif : innover !</sub-title>
     <desc lang="fr">Richard Rawlings et Aaron Kaufman sillonnent le Texas pour acheter des voitures classiques à l'abandon et les restaurent dans leur garage Gas Monkey à Dallas.</desc>
     <date>2016</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/374a09c4-3c67-4c04-b84c-57e638df832e.jpg" />
     <rating system="CSA">
@@ -8370,7 +8313,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <sub-title>Tout s'accélère</sub-title>
     <desc lang="fr">Richard Rawlings et Aaron Kaufman sillonnent le Texas pour acheter des voitures classiques à l'abandon et les restaurent dans leur garage Gas Monkey à Dallas.</desc>
     <date>2016</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/806a2536-a24e-4ebe-9e0e-f528aadd88b5.jpg" />
     <rating system="CSA">
@@ -8382,7 +8325,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <sub-title>La chevrolet de 1955</sub-title>
     <desc lang="fr">Alors que Richard estimait être prêt à vendre pour un million de dollars aux enchères de Berret-Jackson, un problème survient avec la Chevy de 1955.</desc>
     <date>2017</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/eab21a0d-1970-4bbf-bf90-c75e6224cf2c.jpg" />
     <rating system="CSA">
@@ -8394,7 +8337,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <sub-title>A l'aveugle</sub-title>
     <desc lang="fr">Saison:5 - Michael Manousakis, propriétaire de la concession Morlock Motors, s'est spécialisé avec son équipe dans la réparation des véhicules militaires.</desc>
     <date>2017</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec83969-b3ee-48a6-8bb5-0a9c49ed0a68.jpg" />
     <episode-num system="xmltv_ns">4..</episode-num>
@@ -8407,7 +8350,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <sub-title>La sortie de l'école</sub-title>
     <desc lang="fr">Saison:5 - Michael Manousakis, propriétaire de la concession Morlock Motors, s'est spécialisé avec son équipe dans la réparation des véhicules militaires.</desc>
     <date>2017</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e4e31c04-4cfb-4739-b283-d3839fb8cff4.jpg" />
     <episode-num system="xmltv_ns">4..</episode-num>
@@ -8420,7 +8363,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <sub-title>Hydravion XXL</sub-title>
     <desc lang="fr">Saison:4 - Michael négocie avec le propriétaire d'un musée privé pour lui vendre un chargeur d'avion de 13 m de long. Puis il se rend en en Moldavie pour acheter un Antonov.</desc>
     <date>2016</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2a75f201-3c79-4565-a94b-8ad799f0c479.jpg" />
     <episode-num system="xmltv_ns">3..</episode-num>
@@ -8434,7 +8377,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <sub-title>Le van de Barracuda</sub-title>
     <desc lang="fr">Saison:4 - Un client souhaite un emplacement de garage pour sa maquette de vaisseau spatial XXL ; un autre recherche un vanaux couleurs de la fourgonnette de la série «L'Agence tous risques».</desc>
     <date>2016</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6eb6bc25-8d87-4aac-a82e-bb4fbe2be941.jpg" />
     <episode-num system="xmltv_ns">3..</episode-num>
@@ -8448,7 +8391,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <sub-title>Brevet pilote</sub-title>
     <desc lang="fr">Saison:4 - L'équipe de Morlock Motors accepte exceptionnellement de louer ses véhicules pour les besoins d'un tournage. Elle revend également un pick-up K30.</desc>
     <date>2016</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1e651100-cf4e-4a9c-a5d0-61d7dabad5e1.jpg" />
     <episode-num system="xmltv_ns">3..</episode-num>
@@ -8550,7 +8493,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
 
 .</desc>
     <date>2019</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9c119771-a0dd-4e8a-97f9-41c1dcf41496.jpg" />
     <episode-num system="xmltv_ns">2..</episode-num>
@@ -8564,7 +8507,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <sub-title>Mission prospection</sub-title>
     <desc lang="fr">Saison:3 - A nouveau réunis, Aaron Grotjahn et Col Duff entament une mission de prospection afin de trouver un nouvel endroit suspectible de receler l'opale boulder, tandis que les Tunnels Rats, de leur côté, protègent leur exploitation à l'approche d'un groupe rival de mineurs. La nouvelle de leur découverte d'une valeur de 100 000 dollars s'est répandue et tout le monde convoite une de ces parcelles de terrain qui abrite la précieuse opale. A Sheepyards, une grue sur le champ de mine menace de tout faire s'écraser autour des Bushmen.</desc>
     <date>2019</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b59fa40d-5fc2-4a7b-8578-34829ddf939e.jpg" />
     <episode-num system="xmltv_ns">2..</episode-num>
@@ -8578,7 +8521,7 @@ Narré en voix off par Jim Parsons, l’interprète de Sheldon adulte, ce « Jeu
     <sub-title>Nouvelles alliances</sub-title>
     <desc lang="fr">Saison:3 - Les Bushman prennent de gros risques en descendant leur excavateur dans un puit de mine de vingt mètres de profondeur tandis que l'exploitation Dragonfly d'Aaron ne se porte pas très bien. Ce dernier est obligé de travailler seul et d'aller au bout de sa réserve en diesel. A White Cliffs, en Nouvelle-Galles du Sud, l'équipe des Young Guns a accueilli Graeme Dowton, expert dans la recherche d'opale. L'équipe a désespérément besoin de trouver de l'opale pour acheter du carburant et de la nourriture afin de poursuivre la saison.</desc>
     <date>2019</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dc79da20-47e6-4030-9abc-f26a61516d51.jpg" />
     <episode-num system="xmltv_ns">2..</episode-num>
@@ -9156,7 +9099,7 @@ version zombie de Milhouse...</desc>
     <title>Les rois de la réno : Las Vegas</title>
     <sub-title>Bric-à-brac</sub-title>
     <desc lang="fr">Saison:2 - C'est à 40 kilomètres de Las Vegas, dans la ville de Boulder City qu'Aubrey et Bristol se lancent un nouveau défi. Ils investissent 106 000 dollars dans une toute petite maison des années 40. D'une superficie de 65 mètres carrés, ce bien cache un intérieur en très mauvais état et une accumulation d'objets en tous genres.</desc>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6dd2623-adf9-407a-9fa8-b0a6508ae12b.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
@@ -9169,7 +9112,7 @@ version zombie de Milhouse...</desc>
     <title>Les rois de la réno : Las Vegas</title>
     <sub-title>Miroir, mon beau miroir</sub-title>
     <desc lang="fr">Saison:2 - Une maison caractérisée par la présence d'un grand nombre de miroirs est proposée à Bristol et Audrey. Datant des années 80, ce bien de 167 mètres carrés est acheté au prix de 315 000 dollars.</desc>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6dd2623-adf9-407a-9fa8-b0a6508ae12b.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
@@ -9182,7 +9125,7 @@ version zombie de Milhouse...</desc>
     <title>Les rois de la réno : Las Vegas</title>
     <sub-title>La maison de poupée</sub-title>
     <desc lang="fr">Saison:1 - Aubree et Bristol achètent un pavillon de plain-pied à Silverado Ranch pour 195 100 dollars. Le bien dispose de 3 chambres et 2 salles de bain et sa localisation est idéale puisqu'elle se situe proche de l'aéroport et du Strip de Las Vegas.</desc>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6dd2623-adf9-407a-9fa8-b0a6508ae12b.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -9194,7 +9137,7 @@ version zombie de Milhouse...</desc>
     <title>Les rois de la réno : Las Vegas</title>
     <sub-title>Aux portes du désert</sub-title>
     <desc lang="fr">Saison:1 - Aubree et Bristol visitent la maison achetée 192 000 dollars aux enchères. Située à Southern Highlands, elle dispose de 3 chambres et 2 salles de bain. La maison semblant idéale pour un premier achat, Aubree souhaite simplement la moderniser pour faciliter la vente.</desc>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6dd2623-adf9-407a-9fa8-b0a6508ae12b.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -9206,7 +9149,7 @@ version zombie de Milhouse...</desc>
     <title>Les rois de la réno : Las Vegas</title>
     <sub-title>Houston, on a un problème</sub-title>
     <desc lang="fr">Saison:1 - Aubree et Bristol ont acheté aux enchères une maison pour 315 000 dollars, à Henderson. Elle comporte 3 chambres et 2 salles de bain, pour une superficie de 230 mètres carrés. En 6 jours, ils ont fait tomber les cloisons mais un gros problème survient lors de la pose du plafond de la cuisine.</desc>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6dd2623-adf9-407a-9fa8-b0a6508ae12b.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -9218,7 +9161,7 @@ version zombie de Milhouse...</desc>
     <title>Les rois de la réno : Las Vegas</title>
     <sub-title>L'entraînement</sub-title>
     <desc lang="fr">Saison:1 - Aubree apprend que le prix d'une maison repérée plus tôt vient de baisser et saute sur l'occasion. Acheté 206 000 dollars, le bien dispose de 3 chambres, de 2 salles de bain et d'une grande pièce à vivre. Bristol débutant son entraînement intensif pour les arts martiaux dans 2 semaines, ils n'ont d'autre choix que d'aller au plus vite pour rénover cette maison. Le timing est serré.</desc>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6dd2623-adf9-407a-9fa8-b0a6508ae12b.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -9231,7 +9174,7 @@ version zombie de Milhouse...</desc>
     <sub-title>Grosse réno, gros soucis</sub-title>
     <desc lang="fr">Saison:8 - Tarek et Christina se lancent un nouveau défi : une maison à Anaheim de 270 mètres carrés, un chantier deux fois plus grand que d'habitude. Achetée 700 000 dollars, toute la maison est cloisonnée, ce qui va leur coûter une petite fortune en démolition. Jeff, leur entrepreneur, estime le coût des travaux à 130 000 dollars pour la rénovation de la maison, la toiture et l'allée, mais sans inclure la démolition des murs. A cela, s'ajoutent 10 000 dollars pour déraciner un arbre et 30 000 dollars pour le bardage du toit, de quoi plomber le budget pour ce projet d'envergure.</desc>
     <date>2019</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3370118f-76d5-4e41-9b9e-96c37c18acc4.jpg" />
     <episode-num system="xmltv_ns">7..</episode-num>
@@ -9245,7 +9188,7 @@ version zombie de Milhouse...</desc>
     <sub-title>Faire tomber les murs</sub-title>
     <desc lang="fr">Saison:8 - Tarek et Christina visitent une maison de 210 mètres carrés à Yorba Linda avec trois chambres et deux salles de bain. Achetée 740 000 dollars, cette maison comporte une piscine qui est un véritable atout mais toute la décoration, datant des années 80, est à refaire. Comme le quartier est huppé avec des acheteurs exigeants, Christina veut des finitions haut de gamme. Tarek et Christina veulent démolir le mur en brique séparant la cuisine de la pièce à vivre, ce qui va lourdement alourdir leur budget.</desc>
     <date>2019</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3370118f-76d5-4e41-9b9e-96c37c18acc4.jpg" />
     <episode-num system="xmltv_ns">7..</episode-num>
@@ -9259,7 +9202,7 @@ version zombie de Milhouse...</desc>
     <sub-title>Dans les règles de l'art</sub-title>
     <desc lang="fr">Saison:8 - Tarek et Christina sont de retour à Anaheim pour visiter une maison construite par l'architecte Cliff May. Achetée 445 000 dollars, le bien comporte trois chambres et deux salles de bain, pour une superficie de 110 m². Afin de mieux agencer la cuisine, Tarek et Christina décident de déplacer l'entrée de la cuisine pour augmenter sa superficie. Mais cette décision va avoir des répercussions sur l'avancée des travaux....</desc>
     <date>2019</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3370118f-76d5-4e41-9b9e-96c37c18acc4.jpg" />
     <episode-num system="xmltv_ns">7..</episode-num>
@@ -9273,7 +9216,7 @@ version zombie de Milhouse...</desc>
     <sub-title>Ne jamais se fier aux apparences</sub-title>
     <desc lang="fr">Saison:8 - Tarek et Christina se rendent à Fullerton, en Californie. Le bien de 158 m² comprend quatre chambres et deux salles de bain. Achetée pour 565 000 dollars, la maison est sombre et les murs sont fissurés, tout comme les dalles du jardin. Après une première estimation des travaux par Jeff, leur entrepreneur, Tarek et Christina doivent faire intervenir un ingénieur de structure pour estimer le coût de démolition de la cheminée et d'un mur porteur, ce qui pourrait faire exploser leur budget...</desc>
     <date>2019</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3370118f-76d5-4e41-9b9e-96c37c18acc4.jpg" />
     <episode-num system="xmltv_ns">7..</episode-num>
@@ -9286,7 +9229,7 @@ version zombie de Milhouse...</desc>
     <title>Les rois de la réno</title>
     <sub-title>L'inspiration</sub-title>
     <desc lang="fr">Saison:5 - Pendant que Christina s'occupe du bébé, Tarek visite une maison avec Pete. À 400 000 dollars, elle a l'air d'une affaire en or, mais les vendeurs viennent de revoir leur prix et en demandent 430 000 dollars, ce qui met tout le monde dans une situation délicate.</desc>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6b13f66c-50ab-44dc-8370-b580624a826d.jpg" />
     <episode-num system="xmltv_ns">4..</episode-num>
@@ -9300,7 +9243,7 @@ version zombie de Milhouse...</desc>
     <sub-title>Avec ou sans piscine ?</sub-title>
     <desc lang="fr">Saison:8 - Tarek et Christina, achètent une nouvelle maison de 148 mètres carrés à Rowland Heights, en Californie, pour le prix de 475 000 dollars. Beaucoup de travaux s'annoncent et une piscine sans terrain qui pose problème. Faut-il garder celle-ci malgré les contraintes extérieures au risque de perdre de l'argent ?</desc>
     <date>2019</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3370118f-76d5-4e41-9b9e-96c37c18acc4.jpg" />
     <episode-num system="xmltv_ns">7..</episode-num>
@@ -9314,7 +9257,7 @@ version zombie de Milhouse...</desc>
     <sub-title>Porte-à-porte</sub-title>
     <desc lang="fr">Saison:8 - Tarek et Christina ont pour mission de rénover une maison avec un budget très restreint. Mais Christina va devoir convaincre son mari de se dépasser pour donner la modernité nécessaire à la cuisine et à la salle de bains, et peut-être même le pousser à dépenser plus d'argent que nécessaire pour intervenir sur le jardin.</desc>
     <date>2019</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3370118f-76d5-4e41-9b9e-96c37c18acc4.jpg" />
     <episode-num system="xmltv_ns">7..</episode-num>
@@ -9365,7 +9308,7 @@ version zombie de Milhouse...</desc>
     <title>Rénovation impossible</title>
     <sub-title>Donna a un plan</sub-title>
     <desc lang="fr">Saison:9 - Une maison en briques de 148 mètres carrés va être compliquée à transporter mais cela n'empêche pas les sœurs Snow de l'acheter au prix de 1 550 dollars. Elles l'aménagent avec beaucoup de goût et prévoient un abri à voitures qui ravira les acheteurs, car au Texas, il faut prévoir les changements de météo.</desc>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ab25e299-09c1-47fc-a94d-4eefe932c4cb.jpg" />
     <episode-num system="xmltv_ns">8..</episode-num>
@@ -9378,7 +9321,7 @@ version zombie de Milhouse...</desc>
     <title>Rénovation impossible</title>
     <sub-title>En un clin d'oeil</sub-title>
     <desc lang="fr">Saison:9 - Une maison de caractère, d'une superficie de 111 mètres carrés, est à vendre. Les frères Hayhurst, touchés par le cachet de cette bâtisse, remportent l'enchère en un clin d'œil pour un montant de 1 475 dollars. De son côté, Randy achète une maison de 80 mètres carrés en parfait état qu'il installe sur son terrain. Il négocie un accord avec les frères Hayhurst pour regrouper les deux maisons et vendre le lot un meilleur prix.</desc>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/22493336-d206-448b-ad39-58d04fc68cda.jpg" />
     <episode-num system="xmltv_ns">8..</episode-num>
@@ -9391,7 +9334,7 @@ version zombie de Milhouse...</desc>
     <title>Rénovation impossible</title>
     <sub-title>Les risques du métier</sub-title>
     <desc lang="fr">Saison:5 - Dans la banlieue huppée de North Richland Hills, une petite maison de 85 mètres carrés est mise aux enchères. Bien que vieillotte, elle est parfaite pour une rénovation rapide et rentable. Casey et Catrina, les soeurs Snow et les filles de Gary sont sur le coup. À Millsap, petit village de 500 habitants, une longère de 87 mètres carrés est proposée aux enchères. Les soeurs Snow, Randy, Casey et Catrina sont de la partie. Pensant avoir fait une bonne affaire, son acquéreur déchante quand il découvre qu'elle est pleine de thermites.</desc>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/acc839af-08ed-4a3c-90cf-cff5933375ae.jpg" />
     <episode-num system="xmltv_ns">4..</episode-num>
@@ -9404,7 +9347,7 @@ version zombie de Milhouse...</desc>
     <title>Rénovation impossible</title>
     <sub-title>Ambiance country</sub-title>
     <desc lang="fr">Saison:5 - À Fredericksburg, une maison de 130 mètres carrés, dans un piteuse état mais prête à être emportée, est mise aux enchères. Les filles de Gary, Randy, Casey et Catrina sont de la partie. Tout le monde est d'accord, elle est moche et il y a beaucoup de boulot mais étant déjà chargée sur un camion et le transport inclus, elle peut valoir le coup. Elle possède trois grandes chambres, un toit cathédrale, une terrasse couverte. Après lui avoir donné une ambiance Texas Country Hill et avant même la mise en vente, les acheteurs reçoivent une offre plus qu'intéressante.</desc>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8ad6245-6dd2-4af0-b115-e8cf6033ab9b.jpg" />
     <episode-num system="xmltv_ns">4..</episode-num>
@@ -9573,7 +9516,7 @@ version zombie de Milhouse...</desc>
   <programme channel="C1404.api.telerama.fr" start="20200418140000 +0200" stop="20200418140500 +0200">
     <title>Petits plats en équilibre</title>
     <desc lang="fr">Toutes les astuces et recettes autour d'un ingrédient de saison.</desc>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/44abc967-bf27-4f03-a2e9-5cee53327225.jpg" />
     <rating system="CSA">
@@ -9700,7 +9643,7 @@ version zombie de Milhouse...</desc>
       <actor>Alban Casterman</actor>
       <actor>Sandra Valentin</actor>
       <actor>Marie Vincent</actor>
-      <actor>Stéphane De Groodt</actor>
+      <actor>Stéphane de Groodt</actor>
       <actor>Annick Alane</actor>
       <actor>Olivier Guéritée</actor>
       <actor>Julien Lucas</actor>
@@ -9744,16 +9687,6 @@ version zombie de Milhouse...</desc>
     <title>France 24</title>
     <category lang="fr">magazine d'information</category>
     <length units="minutes">359</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C2111.api.telerama.fr" start="20200418055900 +0200" stop="20200418095900 +0200">
-    <title>10h week-end</title>
-    <desc lang="fr">Entre JT, chroniques, invités et revues de presse, un panorama de l'actualité du jour.</desc>
-    <category lang="fr">magazine d'information</category>
-    <length units="hours">4</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
