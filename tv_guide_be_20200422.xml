@@ -424,6 +424,27 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C50.api.telerama.fr" start="20200422030000" stop="20200422033000">
+    <title>Journal luxembourgeois</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200422033000" stop="20200422043500">
+    <title>Télé-achat</title>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C50.api.telerama.fr" start="20200422043500" stop="20200422045500">
     <title>Heidi *2015</title>
     <sub-title>La lettre</sub-title>
@@ -767,18 +788,19 @@ Il y a pas mal de défauts : un dénouement catastrophique. Des ébats très moc
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200421231500" stop="20200422000000">
-    <title>JT 19h30</title>
-    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
+  <programme channel="C164.api.telerama.fr" start="20200421234500" stop="20200422000500">
+    <title>Questions en prime</title>
+    <desc lang="fr">Saison:1 -</desc>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200422000000" stop="20200422004500">
+  <programme channel="C164.api.telerama.fr" start="20200422000500" stop="20200422005000">
     <title>On n'est pas des pigeons</title>
     <sub-title>On n'est pas des pigeons</sub-title>
     <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
@@ -790,32 +812,95 @@ Il y a pas mal de défauts : un dénouement catastrophique. Des ébats très moc
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200422004500" stop="20200422004600">
+  <programme channel="C164.api.telerama.fr" start="20200422005000" stop="20200422010200">
+    <title>Quel temps !</title>
+    <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">12</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200422010200" stop="20200422010500">
     <title>Météo</title>
     <category lang="fr">météo</category>
-    <length units="minutes">1</length>
+    <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200422004600" stop="20200422023000">
+  <programme channel="C164.api.telerama.fr" start="20200422010500" stop="20200422014500">
     <title>JT 19h30</title>
     <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">104</length>
+    <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200422023000" stop="20200422040000">
-    <title>VivaCité Matin</title>
-    <category lang="fr">magazine de services</category>
-    <length units="minutes">90</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
+  <programme channel="C164.api.telerama.fr" start="20200422014500" stop="20200422015600">
+    <title>Quel temps !</title>
+    <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">11</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200422015600" stop="20200422020000">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200422020000" stop="20200422024000">
+    <title>On n'est pas des pigeons</title>
+    <sub-title>On n'est pas des pigeons à la maison</sub-title>
+    <desc lang="fr">Les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire «pigeonner». Les chroniqueurs dénichent les arnaques et les bons plans, et aident à boucler les fins de mois.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200422024000" stop="20200422025200">
+    <title>Quel temps !</title>
+    <desc lang="fr">A la découverte des coulisses du temps qu'il fait en Belgique et à l'autre bout du monde. De la formation des nuages aux changements climatiques en passant par les énergies renouvelables, Nicolas-Xavier Ladouce apporte un éclairage sur les questions scientifiques.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">12</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200422025200" stop="20200422025500">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200422025500" stop="20200422040000">
+    <title>JT 19h30</title>
+    <desc lang="fr">Toute l'actualité nationale et internationale.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -961,7 +1046,7 @@ Il y a pas mal de défauts : un dénouement catastrophique. Des ébats très moc
   <programme channel="C164.api.telerama.fr" start="20200422113500" stop="20200422122000">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
-    <category lang="fr">magazine magazine de l'art de vivre</category>
+    <category lang="fr">magazine de l'art de vivre</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
     <previously-shown />
@@ -973,7 +1058,7 @@ Il y a pas mal de défauts : un dénouement catastrophique. Des ébats très moc
   <programme channel="C164.api.telerama.fr" start="20200422122000" stop="20200422130500">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
-    <category lang="fr">magazine magazine de l'art de vivre</category>
+    <category lang="fr">magazine de l'art de vivre</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
     <rating system="CSA">
@@ -1213,7 +1298,7 @@ Il y a pas mal de défauts : un dénouement catastrophique. Des ébats très moc
     <title>Matière grise</title>
     <sub-title>Hors-série : Les 5 géants les plus terribles de l'Histoire</sub-title>
     <desc lang="fr">Le Tyrannosaure Rex, le Tigre aux dents de sabre ou encore le Deinosuchus font parti des prédateurs terrestres les plus brutaux, les plus impressionnants et les plus dangereux qui aient vécu sur la planète. Mais un autre animal moins universellement connu mais encore plus spectaculaire fait parti des géants les plus terribles de l'Histoire.</desc>
-    <category lang="fr">magazine autre</category>
+    <category lang="fr">magazine scientifique</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/93daefda-9769-4b2c-be07-ef29f286607a.jpg" />
     <rating system="CSA">
@@ -1938,7 +2023,7 @@ Il y a pas mal de défauts : un dénouement catastrophique. Des ébats très moc
   <programme channel="C187.api.telerama.fr" start="20200422202500" stop="20200422205500">
     <title>L'Internet Show</title>
     <desc lang="fr">Saison:1 - Dans cette émission hebdomadaire destinée aux jeunes adultes, Bénédicte Deprez anime des discussions autour des réseaux sociaux, ponctuée de nombreuses rubriques.</desc>
-    <category lang="fr">magazine magazine du multimédia</category>
+    <category lang="fr">magazine du multimédia</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f3ba12de-cd8c-4d34-a829-67be6c394435.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
@@ -2105,12 +2190,12 @@ Il y a pas mal de défauts : un dénouement catastrophique. Des ébats très moc
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200422151000" stop="20200422160500">
+  <programme channel="C377.api.telerama.fr" start="20200422151000" stop="20200422160000">
     <title>Mamans &amp; célèbres</title>
     <sub-title>Episode 28</sub-title>
     <desc lang="fr">Elles sont 10, elles sont célèbres, elles sont stars des réseaux sociaux. On les a connues candidates de télé-réalité, elles sont aujourd'hui devenues influenceuses mais avant tout mamans. Et pour la première fois, elles nous ouvrent les portes de leur quotidien pour découvrir les coulisses de leur vie de stars mais aussi leur vie de mamans ! Mamans et célèbres va suivre ces 10 mamans : Stéphanie Clerbois, Liam Di Benedetto, Emilie Nef Naf, Julia Paredes, Wafa, Cindy Pomeyrol, Martika, Jesta et Benoit, Kelly Helard et Julie Ricci.</desc>
     <category lang="fr">téléréalité</category>
-    <length units="minutes">55</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/94b687c1-b7ed-49e4-a34b-286706fc1dbe.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -2335,23 +2420,66 @@ Il y a pas mal de défauts : un dénouement catastrophique. Des ébats très moc
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200421233000" stop="20200422000000">
+  <programme channel="C892.api.telerama.fr" start="20200421235500" stop="20200422000500">
+    <title>KIOSK, le magazine des arts de la scène</title>
+    <desc lang="fr">Présenté par Cindya Izzarelli, «Kiosk» met en avant, chaque semaine, les arts de la scène.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1fc4910-8a7c-4098-b252-0d227d90fbd5.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200422000500" stop="20200422011000">
+    <title>Il était une fois la télé</title>
+    <sub-title>Sans rancune (1985)</sub-title>
+    <desc lang="fr">En janvier 1963, la RTB proposait une nouvelle émission d'un genre complètement inédit en Europe : il s'agissait, à l'aide d'une caméra habilement dissimulée, de filmer des gens à leur insu dans des situations inattendues, absurdes, loufoques et parfois un peu cruelles. Présentée tantôt par Georges Konen tantôt par Philippe Dasnoy, l'émission s'appelait «Sans rancune» et connut aussitôt un immense succès. En 1985, Sylvie Rigot présentait une rétrospective de cette émission, entourée de Georges Konen et Philippe Dasnoy.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200422011000" stop="20200422014900">
+    <title>JT traduction gestuelle</title>
+    <desc lang="fr">Rediffusion du journal de 19h30 avec traduction gestuelle.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">39</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200422014900" stop="20200422015000">
+    <title>Météo internationale</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200422015000" stop="20200422021500">
     <title>CQFD (Ce qui fait débat)</title>
     <desc lang="fr">Du lundi au vendredi, Arnaud Ruyssen et Catherine Tonero orchestrent un face à face contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, l'actualité de la semaine est analysée par Arnaud Ruyssen et ses invités.</desc>
     <category lang="fr">débat</category>
-    <length units="minutes">30</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/80d9221f-3d1d-41a8-8fe3-d6abdcac1dfc.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200422000000" stop="20200422040000">
-    <title>Boucle de nuit</title>
-    <desc lang="fr">Emissions en boucle jusqu'au matin.</desc>
-    <category lang="fr">programme indéterminé</category>
-    <length units="hours">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+  <programme channel="C892.api.telerama.fr" start="20200422021500" stop="20200422032000">
+    <title>Il était une fois la télé</title>
+    <sub-title>Sans rancune (1985)</sub-title>
+    <desc lang="fr">En janvier 1963, la RTB proposait une nouvelle émission d'un genre complètement inédit en Europe : il s'agissait, à l'aide d'une caméra habilement dissimulée, de filmer des gens à leur insu dans des situations inattendues, absurdes, loufoques et parfois un peu cruelles. Présentée tantôt par Georges Konen tantôt par Philippe Dasnoy, l'émission s'appelait «Sans rancune» et connut aussitôt un immense succès. En 1985, Sylvie Rigot présentait une rétrospective de cette émission, entourée de Georges Konen et Philippe Dasnoy.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2845,7 +2973,7 @@ boomerang qu'on vient de lui livrer. Agacées, les sisters parviennent à détou
   </programme>
   <programme channel="C892.api.telerama.fr" start="20200422130000" stop="20200422132400">
     <title>Y'a pas école, on révise !</title>
-    <desc lang="fr">Vingt minutes pour apprendre sans sortir de chez soi.</desc>
+    <desc lang="fr">Vingt minutes de révisions pour apprendre sans sortir de chez soi.</desc>
     <category lang="fr">magazine éducatif</category>
     <length units="minutes">24</length>
     <premiere />
