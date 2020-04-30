@@ -3,6 +3,16 @@
   <channel id="www.la7.it">
     <display-name>La7</display-name>
   </channel>
+  <channel id="rainews.guidatv.sky.it">
+    <display-name>RAI News</display-name>
+    <display-name>508</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/895_home.png" />
+  </channel>
+  <channel id="raisport.guidatv.sky.it">
+    <display-name>RAI Sport</display-name>
+    <display-name>227</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/807_home.png" />
+  </channel>
   <channel id="www.raiuno.rai.it">
     <display-name>Rai 1</display-name>
   </channel>
@@ -23,6 +33,8 @@
   </channel>
   <channel id="raipremium.guidatv.sky.it">
     <display-name>Rai Premium</display-name>
+    <display-name>5025</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6623_home.png" />
   </channel>
   <channel id="raiscuola.rai.it">
     <display-name>Rai Scuola</display-name>
@@ -36,4 +48,146 @@
   <channel id="yoyo.raisat.it">
     <display-name>Yoyo</display-name>
   </channel>
+  <programme channel="www.la7.it" start="20200429232500" stop="20200429233000">
+    <title lang="it">Tg La7</title>
+    <desc lang="it">Le notizie d'attualita' e...</desc>
+    <category lang="it">notiziario</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="www.la7.it" start="20200429233000" stop="20200430013000">
+    <title lang="it">Io ti salvero'</title>
+    <desc lang="it">Regia di A. Hitchcock,...</desc>
+    <category lang="it">thriller</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200429220000" stop="20200429223000">
+    <title lang="it">News</title>
+    <desc lang="it">Notizie, i fatti ed i...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200429223000" stop="20200429225500">
+    <title lang="it">News + Rassegna stampa</title>
+    <desc lang="it">La rassegna stampa delle...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200429225500" stop="20200429230000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Informazioni sul tempo...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200429230000" stop="20200429233000">
+    <title lang="it">News</title>
+    <desc lang="it">Notizie, i fatti ed i...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200429233000" stop="20200429235500">
+    <title lang="it">News + Approfondimento</title>
+    <desc lang="it">News, approfondimenti e...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200429235500" stop="20200430000000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Informazioni sul tempo...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rai4.raisat.it" start="20200429224500" stop="20200429232500">
+    <title lang="it">Supernatural</title>
+    <desc lang="it">S13 Ep2 Il figlio...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="rai4.raisat.it" start="20200429232500" stop="20200430001000">
+    <title lang="it">Supernatural</title>
+    <sub-title lang="it">S13 Ep3 Patience</sub-title>
+    <desc lang="it">Quando...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raigulp.rai.it" start="20200429224500" stop="20200429231000">
+    <title lang="it">Le nuove avventure di Peter Pan</title>
+    <desc lang="it">S1 Ep1 Buon Compleanno...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="raigulp.rai.it" start="20200429222000" stop="20200429224500">
+    <title lang="it">Fairy Tail</title>
+    <sub-title lang="it">Episodio 2</sub-title>
+    <desc lang="it">La...</desc>
+    <category lang="it">telefilm</category>
+    <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
+  </programme>
+  <programme channel="raigulp.rai.it" start="20200429231000" stop="20200429235500">
+    <title lang="it">Heidi, bienvenida a casa</title>
+    <sub-title lang="it">Episodio 3</sub-title>
+    <desc lang="it">Le avventure di...</desc>
+    <category lang="it">telefilm</category>
+    <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 3</episode-num>
+    <episode-num system="xmltv_ns">.2.0/1</episode-num>
+  </programme>
+  <programme channel="raigulp.rai.it" start="20200429235500" stop="20200430002000">
+    <title lang="it">Geronimo Stilton</title>
+    <desc lang="it">S2 Ep6 Il soffio del...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200429230000" stop="20200430010500">
+    <title lang="it">Loving - L'amore deve nascere libero</title>
+    <desc lang="it">Regia di J. Nichols, con...</desc>
+    <category lang="it">drammatico</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200429222000" stop="20200429225500">
+    <title lang="it">Vivi e lascia vivere</title>
+    <sub-title lang="it">S1 Ep2</sub-title>
+    <desc lang="it">Dopo la...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200429225500" stop="20200429232500">
+    <title lang="it">Uniche</title>
+    <sub-title lang="it">Barbara De Rossi</sub-title>
+    <desc lang="it">Con...</desc>
+    <category lang="it">spettacolo</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200429232500" stop="20200430002500">
+    <title lang="it">La ladra</title>
+    <desc lang="it">S1 Ep1A Le cose cambiano...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raistoria.rai.it" start="20200429220500" stop="20200429221000">
+    <title lang="it">RaiNews24</title>
+    <desc lang="it">Le ultime notizie in...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="raistoria.rai.it" start="20200429221000" stop="20200429222000">
+    <title lang="it">Il giorno e la storia</title>
+    <desc lang="it">Una selezioni dei...</desc>
+    <category lang="it">storia</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="raistoria.rai.it" start="20200429222000" stop="20200429230000">
+    <title lang="it">Passato e Presente</title>
+    <desc lang="it">Hollywood va alla guerra...</desc>
+    <category lang="it">storia</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="raistoria.rai.it" start="20200429230000" stop="20200430000000">
+    <title lang="it">a.C.d.C.: Conquistadores</title>
+    <sub-title lang="it">S1 Ep6 I giganti</sub-title>
+    <desc lang="it">Le...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
 </tv>

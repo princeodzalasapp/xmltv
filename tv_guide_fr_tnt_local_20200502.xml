@@ -161,7 +161,7 @@ L’émotion est à son comble quand Eric Clapton raconte sa passion pour Pattie
     <sub-title>Travailler, c'est trop dur</sub-title>
     <desc lang="fr">«La Vie Secrète des chansons» s'attarde sur un sujet qui concerne tout le monde et qui a inspiré de nombreux artistes : le travail. Pour certains, comme la chanteuse Suzane, le travail est une irrésistible envie de vivre ses rêves. D'autres ont voulu mettre un coup de projecteur sur un métier mal aimé. C'est le cas de Renan Luce avec son titre «Monsieur Marcel». Il y a aussi des artistes, comme Henri Salvador avec sa chanson «Le Travail c'est la santé», qui préfèrent ne pas travailler du tout. Parler de la condition ouvrière, certains l'ont fait avec humour comme Les Charlots dans leur chanson «Merci Patron». Pour d'autres artistes, la défense des droits des ouvriers est un combat qu'ils mènent en chansons depuis de longues années. C'est le cas par exemple de Bernard Lavilliers avec son titre «Les Mains d'or».</desc>
     <date>2020</date>
-    <category lang="fr">documentaire : musique</category>
+    <category lang="fr">documentaire musique</category>
     <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8956687-0b50-40ed-88b0-fd126a48b196.jpg" />
     <premiere />
@@ -261,7 +261,7 @@ L’émotion est à son comble quand Eric Clapton raconte sa passion pour Pattie
   <programme channel="C192.api.telerama.fr" start="20200501232500 +0200" stop="20200502011500 +0200">
     <title>Vendredi, tout est permis avec Arthur</title>
     <sub-title>-</sub-title>
-    <desc lang="fr">Comme toujours, le «Vendredi, tout est permis avec Arthur» ! Et ce ne sont pas les célèbres invités du maître de céans qui diront le contraire, eux que l'animateur fait danser, chanter, mimer, improviser, et bien plus encore ! Mais puisque le show l'exige, tous se prêtent de bonne grâce aux facéties du vendredi soir, relevant des défis parfois fous, comme celui du «Décor penché».</desc>
+    <desc lang="fr">Comme toujours, le "Vendredi, tout est permis avec Arthur" ! Et ce ne sont pas les célèbres invités du maître de céans qui diront le contraire, eux que l'animateur fait danser, chanter, mimer, improviser, et bien plus encore ! Mais puisque le show l'exige, tous se prêtent de bonne grâce aux facéties du vendredi soir, relevant des défis parfois fous, comme celui du "Décor penché".</desc>
     <category lang="fr">divertissement</category>
     <length units="minutes">110</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ee9ed98a-b09f-4dea-9ba5-0795c0d1b902.jpg" />
@@ -383,15 +383,6 @@ L’émotion est à son comble quand Eric Clapton raconte sa passion pour Pattie
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C481.api.telerama.fr" start="20200501210000 +0200" stop="20200502000000 +0200">
-    <title>Edition spéciale</title>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="hours">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8be7bbfb-062f-4713-a5dc-c248ea10f591.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C482.api.telerama.fr" start="20200501235500 +0200" stop="20200502000500 +0200">
     <title>G Ciné</title>
     <desc lang="fr">Saison:10 - Le mag de l'actu ciné et DVD destiné aux enfants et à toute la famille.</desc>
@@ -399,6 +390,17 @@ L’émotion est à son comble quand Eric Clapton raconte sa passion pour Pattie
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fda51e1d-d3ee-49dc-aea5-e39376f2bdbc.jpg" />
     <episode-num system="xmltv_ns">9..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200501225500 +0200" stop="20200502004500 +0200">
+    <title>Tellement vrai</title>
+    <sub-title>Je t'aime mais il faut que ça cesse !</sub-title>
+    <desc lang="fr">Mariée depuis douze ans, Gaëlle, 39 ans, se voit offrir par son mari Jean une opération pour se faire refaire la poitrine en Tunisie. Va-t-elle accepter ce cadeau ? Sophian, 29 ans, dépense tout son salaire en vêtements et sorties, au grand dam de sa mère, Saïda, qui décide de le confier à un coach. De son côté, la radinerie de Pascal, 39 ans, met sa vie de couple en péril. Sa femme Christiane ne supporte plus de le voir compter le moindre sou. Enfin, le couple formé par Stéphane, 36 ans, et Christophe, 43 ans, est menacé par l'investissement du premier dans une association de défense de la cause animale.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">110</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3a84dabf-4ec6-4371-8177-b79fe99ca341.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -468,6 +470,7 @@ L’émotion est à son comble quand Eric Clapton raconte sa passion pour Pattie
     </credits>
     <category lang="fr">série humoristique</category>
     <length units="hours">2</length>
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -865,7 +868,7 @@ L’émotion est à son comble quand Eric Clapton raconte sa passion pour Pattie
   </programme>
   <programme channel="C4.api.telerama.fr" start="20200502205500 +0200" stop="20200502210000 +0200">
     <title>Les Etoiles du sport</title>
-    <category lang="fr">multisports</category>
+    <category lang="fr">magazine sportif</category>
     <length units="minutes">5</length>
     <rating system="CSA">
       <value>Tout public</value>
@@ -910,9 +913,9 @@ L’émotion est à son comble quand Eric Clapton raconte sa passion pour Pattie
       <director>Ladislas Chollat</director>
       <actor>François Berléand</actor>
       <actor>Isabelle Gélinas</actor>
-      <actor>Sébastien Thiery</actor>
+      <actor>Sébastien Thiéry</actor>
       <actor>Marie Parouty</actor>
-      <writer>Sébastien Thiery</writer>
+      <writer>Sébastien Thiéry</writer>
     </credits>
     <category lang="fr">théâtre : pièce de théâtre</category>
     <length units="minutes">115</length>
@@ -982,11 +985,21 @@ L’émotion est à son comble quand Eric Clapton raconte sa passion pour Pattie
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200502063000 +0200" stop="20200502070000 +0200">
+  <programme channel="C34.api.telerama.fr" start="20200502044500 +0200" stop="20200502063500 +0200">
+    <title>Football (Arsenal / Chelsea)</title>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">110</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a4543862-3c6a-4e8b-9390-1398b3251937.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C34.api.telerama.fr" start="20200502063500 +0200" stop="20200502070000 +0200">
     <title>Fenêtre(s), journal de confinement</title>
     <desc lang="fr">Depuis le 14 mars, veille du premier tour des Municipales en France, mais aussi trois jours avant la mise en place du confinement dans le pays, le réalisateur Louis Villiers filme au jour le jour son quotidien avec sa compagne, mais aussi la perception qu'ont ses amis de cette situation ; 26 minutes d'observation, de réflexion, mais aussi d'humour et de tendresse au coeur d'une expérience sociale collective inédite.</desc>
     <category lang="fr">divertissement</category>
-    <length units="minutes">30</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7eb3a1fc-b4ce-4ad8-8ab3-db6a4422c617.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1230,7 +1243,11 @@ Un road-movie sympathique, des préjugés à la tolérance. Pourquoi pas ? Mais 
   </programme>
   <programme channel="C34.api.telerama.fr" start="20200502190000 +0200" stop="20200502210000 +0200">
     <title>Hunter Killer</title>
-    <desc lang="fr">Le captaine Joe Glass et son équipage sont envoyés à la rescousse d'un sous-marin torpillé dans la Mer de Barents. Une mission périlleuse et une première pour un sous-marin américain. Sur place, l'armée russe a envoyé ses troupes en nombre. Joe Glass apprend que un général russe a pris le pouvoir. Glass doit constituer un groupe d'élite de marines pour qu'il passe les eaux ennemies, sauve le président russe qui a été fait prisonniers par les renégats et éviter le déclenchement d'une 3e guerre mondiale... - Critique : Torpille ? Missile ? Navire ennemi ? Comme dans le remarquable Chant du loup, d'Antonin Baudry, l'équipage d'un sous-marin américain, qui doit sauver le président russe (!), scrute les sons menaçants. Un scénario « light » pour un film d'action efficace.</desc>
+    <desc lang="fr">Le captaine Joe Glass et son équipage sont envoyés à la rescousse d'un sous-marin torpillé dans la Mer de Barents. Une mission périlleuse et une première pour un sous-marin américain. Sur place, l'armée russe a envoyé ses troupes en nombre. Joe Glass apprend que un général russe a pris le pouvoir. Glass doit constituer un groupe d'élite de marines pour qu'il passe les eaux ennemies, sauve le président russe qui a été fait prisonniers par les renégats et éviter le déclenchement d'une 3e guerre mondiale... - Critique : Il faut sauver le président russe ! Une mission pour le commandant Joe Glass (Gerard Butler) qui a voué sa vie aux missions sub­aquatiques, et assume son profil de mercenaire : contrairement au reste de l’équipage, il ne provient pas de la prestigieuse académie navale d’Annapolis. Alors que le sous-marin USS Arkansas se rend dans les eaux russes pour retrouver le Tampa Bay, engin américain porté disparu, l’équipage découvre la preuve d’un ­sabotage. En surface, le ministre de la Défense, pris d’une folie guerrière, a fomenté un coup d’État.
+
+Comme dans Le Chant du loup, récent thriller français d’Antonin Baudry, les marins guettent avec une attention extrême les sons menaçants. Torpille ? Missile ? Navire ennemi ?
+
+Si le scénario ne fait pas dans la dentelle — notamment en matière de géopolitique —, il parvient à créer un suspense efficace. On retient son souffle devant les impressionnantes scènes de batailles sous-marine, entre manœuvres périlleuses et explosions sourdes.</desc>
     <credits>
       <director>Donovan Marsh</director>
       <actor>Gerard Butler</actor>
@@ -1327,16 +1344,118 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200502031500 +0200" stop="20200502055400 +0200">
+  <programme channel="C78.api.telerama.fr" start="20200502031500 +0200" stop="20200502051800 +0200">
     <title>Programmes de la nuit</title>
     <category lang="fr">programme indéterminé</category>
-    <length units="minutes">159</length>
+    <length units="minutes">123</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200502080500 +0200" stop="20200502082500 +0200">
+  <programme channel="C78.api.telerama.fr" start="20200502063000 +0200" stop="20200502064000 +0200">
+    <title>Super 4</title>
+    <sub-title>Séparés</sub-title>
+    <desc lang="fr">Saison:2 - La fée Etincelle, le prince Alex, l'agent secret high-tech Gene et le pirate Ruby forment les Super 4. Ensemble, ils affrontent toutes sortes d'ennemis. En compagnie d'Alien, leur fidèle compagnon, ils sont prêts à tout pour venir à bout des robots du docteur X, lui-même souvent dépassé par ses propres inventions.</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6b731026-9a68-4a78-bb89-d11850f967d2.jpg" />
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502064000 +0200" stop="20200502065000 +0200">
+    <title>Super 4</title>
+    <sub-title>Le grand rallye</sub-title>
+    <desc lang="fr">Saison:2 - Episode:35 - Afin de rapprocher les différents peuples, les leaders de chaque pays ont décidé d'organiser une grande course inter-continentale. Mais les Super 4 découvrent que l'un des participants est un imposteur sykronien...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f5b73d6f-36cc-4644-8b12-f198e2646f79.jpg" />
+    <episode-num system="xmltv_ns">1.34.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502065000 +0200" stop="20200502070000 +0200">
+    <title>Super 4</title>
+    <sub-title>Coup de foudre chez les fées</sub-title>
+    <desc lang="fr">Saison:2 - La fée Etincelle, le prince Alex, l'agent secret high-tech Gene et le pirate Ruby forment les Super 4. Ensemble, ils affrontent toutes sortes d'ennemis. En compagnie d'Alien, leur fidèle compagnon, ils sont prêts à tout pour venir à bout des robots du docteur X, lui-même souvent dépassé par ses propres inventions.</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1f01fe47-5af4-408d-97e6-d2b2a316a7a0.jpg" />
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502070000 +0200" stop="20200502071500 +0200">
+    <title>Super 4</title>
+    <sub-title>Super méchants</sub-title>
+    <desc lang="fr">Saison:2 - Episode:37 - Les doubles créés par le Docteur X parviennent à s'échapper de la machine de leur créateur. Ils n'ont qu'une idée en tête : se venger des Super 4 qui les y ont renfermés...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/21befbcd-6153-49d2-b67b-6d9c533bed90.jpg" />
+    <episode-num system="xmltv_ns">1.36.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502071500 +0200" stop="20200502072500 +0200">
+    <title>Super 4</title>
+    <sub-title>Superior</sub-title>
+    <desc lang="fr">Les célèbres personnages Playmobil s'animent et vivent des aventures incroyables dans des univers aussi variés que magiques.</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fb2bf013-95a7-4d13-8ed5-cd5a844e5c30.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502072500 +0200" stop="20200502073500 +0200">
+    <title>Super 4</title>
+    <sub-title>Le vol du Caméléon</sub-title>
+    <desc lang="fr">Saison:2 - Episode:39 - Les Super 4 assistent, impuissants, à la fuite de Barbe de Requin avec le Caméléon dont il vient de s'emparer par surprise. Pour le reprendre au pirate, ils dérobent à leur tour le navire de Barbe de Requin, et se lancent à leur poursuite. Mais, à bord des deux bateaux, aucun équipage n'est vraiment à son aise...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5081b2a5-3d9a-42dc-ac8d-e0b20f2a9005.jpg" />
+    <episode-num system="xmltv_ns">1.38.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502073500 +0200" stop="20200502075000 +0200">
+    <title>Super 4</title>
+    <sub-title>Nous revenons en paix</sub-title>
+    <desc lang="fr">Saison:2 - Episode:40 - Alors que les Super 4 croient venir repousser une nouvelle invasion sykronienne, ils ont la surprise de voir le Docteur X, le Roi Kenric, la Reine des Fées et même Barbe de Requin en train de boire le thé avec l'extraterrestre à Technopolis. Sykronior est venu signer un traité de paix. Les Super 4 sont chassés de la cité. Mais ils sont rappelés quand Sykronior dévoile ses véritables intentions, endormir tout Technopolis...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3aa320e0-335f-477d-9aee-dfe0ea7d0a52.jpg" />
+    <episode-num system="xmltv_ns">1.39.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502075000 +0200" stop="20200502080000 +0200">
+    <title>Super 4</title>
+    <sub-title>Nous sommes des jouets</sub-title>
+    <desc lang="fr">Saison:2 - Episode:41 - Les Super 4, à bord d'un robot Cleano, sont enlevés dans la base orbitale sykronienne. Ils s'aperçoivent que leur ravisseur n'est autre que Sykrojunior 1/2, l'insupportable et capricieux neveu de Sykronior 6, qui les prend pour des jouets. Ils vont en profiter pour tout tenter pour déjouer le plan de Sykronior 6, qui veut une fois encore anéantir le monde...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7aa1ce87-a9f5-4c7e-80bf-1f35a1e03fbe.jpg" />
+    <episode-num system="xmltv_ns">1.40.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502080000 +0200" stop="20200502082000 +0200">
     <title>Team Dronix</title>
     <sub-title>Bienvenue à Hawkins</sub-title>
     <desc lang="fr">Saison:1 - Buck Roquette, Tim Chessmat et Vicky Risk sont trois passionnés de drone et élèves de la prestigieuse académie Hawkings. Ensemble, ils construisent un drone unique : «DroniX» avec lequel ils vont rivaliser avec les autres élèves, attisant au passage la jalousie de quelques individus malintentionnés...</desc>
@@ -1347,18 +1466,7 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200502082500 +0200" stop="20200502084500 +0200">
-    <title>Team Dronix</title>
-    <sub-title>Bienvenue à Hawkins</sub-title>
-    <desc lang="fr">Saison:1 - Buck Roquette, Tim Chessmat et Vicky Risk sont trois passionnés de drone et élèves de la prestigieuse académie Hawkings. Ensemble, ils construisent un drone unique : «DroniX» avec lequel ils vont rivaliser avec les autres élèves, attisant au passage la jalousie de quelques individus malintentionnés...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200502084500 +0200" stop="20200502091000 +0200">
+  <programme channel="C78.api.telerama.fr" start="20200502082000 +0200" stop="20200502084500 +0200">
     <title>Team Dronix</title>
     <sub-title>Bienvenue à Hawkins</sub-title>
     <desc lang="fr">Saison:1 - Buck Roquette, Tim Chessmat et Vicky Risk sont trois passionnés de drone et élèves de la prestigieuse académie Hawkings. Ensemble, ils construisent un drone unique : «DroniX» avec lequel ils vont rivaliser avec les autres élèves, attisant au passage la jalousie de quelques individus malintentionnés...</desc>
@@ -1369,22 +1477,95 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200502091000 +0200" stop="20200502101500 +0200">
-    <title>Teen Titans Go !</title>
-    <sub-title>Secousse sismique</sub-title>
-    <desc lang="fr">Les Teen Titans, une bande d'adolescents dotés de super-pouvoirs, mènent une vie bien différente de celle des autres jeunes de leur âge : livrés à eux-mêmes, ils vivent ensemble et ont formé un groupe qui a pour mission de sauver le monde.</desc>
+  <programme channel="C78.api.telerama.fr" start="20200502084500 +0200" stop="20200502090500 +0200">
+    <title>Team Dronix</title>
+    <sub-title>Bienvenue à Hawkins</sub-title>
+    <desc lang="fr">Saison:1 - Buck Roquette, Tim Chessmat et Vicky Risk sont trois passionnés de drone et élèves de la prestigieuse académie Hawkings. Ensemble, ils construisent un drone unique : «DroniX» avec lequel ils vont rivaliser avec les autres élèves, attisant au passage la jalousie de quelques individus malintentionnés...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">65</length>
+    <length units="minutes">20</length>
+    <episode-num system="xmltv_ns">0..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200502101500 +0200" stop="20200502103500 +0200">
+  <programme channel="C78.api.telerama.fr" start="20200502090500 +0200" stop="20200502092000 +0200">
+    <title>Teen Titans Go !</title>
+    <sub-title>Chat en folie</sub-title>
+    <desc lang="fr">Saison:3 - Episode:1 - Suite à une explosion, Robin croit que Starfire est morte avant qu'il ait eu le temps de lui dire qu'il l'aimait. Lorsqu'elle se réveille, elle n'écoute pas sa déclaration d'amour et elle part s'amuser avec un chaton. Robin se dit qu'il aurait plus de chance avec elle s'il devenait un chat lui aussi...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/addb502d-2fae-4b82-aa92-b7b02e28ba45.jpg" />
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502092000 +0200" stop="20200502093000 +0200">
+    <title>Teen Titans Go !</title>
+    <sub-title>Miss Gambettes</sub-title>
+    <desc lang="fr">Saison:3 - Episode:2 - Les Titans sont fascinés par leurs bras musclés. Ils les aiment plus que tout et surtout plus que leurs jambes : puisque personne ne les regarde jamais, à quoi bon les muscler. Raven n'est pas de cet avis et lorsque d'immenses monstres de métal détruisent la ville, les Titans s'aperçoivent que la force de leurs bras est insuffisante. Raven décide de les aider à rendre leurs jambes utiles au combat...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/addb502d-2fae-4b82-aa92-b7b02e28ba45.jpg" />
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502093000 +0200" stop="20200502094000 +0200">
+    <title>Teen Titans Go !</title>
+    <sub-title>Ruine de la molaire</sub-title>
+    <desc lang="fr">Saison:3 - Episode:3 - Robin surprend ses amis en train de manger des aliments dangereux pour la santé. Il leur explique que le brossage dentaire est la pierre angulaire d'une bonne hygiène. Robin dit à Changelin qu'il doit lui arracher une dent. Mais lorsque Cyborg explique à Changelin que de nos jours la petite souris n'amène plus une pièce mais des billets, ce dernier décide de s'enrichir en perdant exprès toutes ses dents…</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/addb502d-2fae-4b82-aa92-b7b02e28ba45.jpg" />
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502094000 +0200" stop="20200502095000 +0200">
+    <title>Teen Titans Go !</title>
+    <sub-title>Le croissant</sub-title>
+    <desc lang="fr">Saison:3 - Episode:4 - Starfire a tenté de se maquiller mais elle a un peu forcé la dose. Ses amis Titans la trouve hideuse et décide de lui mettre un sac en papier sur la tête. Robin, qui sait être sage, explique à ses amis que l'aspect des gens n'est pas important. Seule compte la beauté intérieure. C'est alors que Changelin en profite pour prévenir les Titans qu'il a l'intention de se métamorphoser physiquement…</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/addb502d-2fae-4b82-aa92-b7b02e28ba45.jpg" />
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502095000 +0200" stop="20200502100000 +0200">
+    <title>Teen Titans Go !</title>
+    <sub-title>Le piment de la vie</sub-title>
+    <desc lang="fr">Saison:3 - Episode:5 - Les Titants ont très faim mais hélas pour eux, ce soir c'est à Robin d'assurer le dîner et il leur a encore préparé son plat préféré les patates bouillies. Pour relever son plat Changelin propose à ses amis d'ajouter de la sauce piquante. Robin leur explique que s'ils commencent à jouer à ce jeu là ils n'auront bientôt plus de goût et tout leur semblera fade...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/addb502d-2fae-4b82-aa92-b7b02e28ba45.jpg" />
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502100000 +0200" stop="20200502101000 +0200">
+    <title>Teen Titans Go !</title>
+    <sub-title>La danse des spaghettis</sub-title>
+    <desc lang="fr">Saison:3 - Episode:6 - Pourquoi pleut-il ? Robin, qui sait beaucoup de choses, détient la réponse : il pleut quand les nuages sont tristes et qu'ils se mettent à pleurer. Pour avoir du beau temps, il suffit de leur remonter le moral en faisant des activités d'intérieur. Les Teen Titans se mettent vite à l'oeuvre. C'est parti pour les maisons en bâtons de sucette et les volcans de bicarbonate de soude…</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/addb502d-2fae-4b82-aa92-b7b02e28ba45.jpg" />
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502101000 +0200" stop="20200502103500 +0200">
     <title>Ninjago</title>
     <sub-title>Le dernier souhait</sub-title>
     <desc lang="fr">Saison:6 - Episode:10 - Les Ninjas tentent d'interrompre la cérémonie de mariage entre Nadakhan et Nya. Mais cette dernière se retrouve envoûtée et redevient Delara, la bienaimée de Nadakhan. Seule solution : injecter le poison à Nadakhan pour qu'il n'ait plus recours à sa magie et permettre à Jay de prononcer son voeu ultime pour que tout redevienne comme avant...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4be154cc-4a32-486b-a74e-5cd1701980d1.jpg" />
     <episode-num system="xmltv_ns">5.9.</episode-num>
     <rating system="CSA">
@@ -1403,11 +1584,10 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
   </programme>
   <programme channel="C78.api.telerama.fr" start="20200502112000 +0200" stop="20200502113000 +0200">
     <title>Power Players</title>
-    <sub-title>Piège dans la jungle</sub-title>
-    <desc lang="fr">Saison:1 - Garçon de neuf ans, Axel est capable de se transformer en jouet vivant. Avec ses alliés, les Power Players, il tente d'empêcher les super-vilains jouets de semer le chaos.</desc>
+    <sub-title>Dans le noir</sub-title>
+    <desc lang="fr">Garçon de neuf ans, Axel est capable de se transformer en jouet vivant. Avec ses alliés, les Power Players, il tente d'empêcher les super-vilains jouets de semer le chaos.</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
     <premiere />
     <rating system="CSA">
@@ -1416,11 +1596,10 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
   </programme>
   <programme channel="C78.api.telerama.fr" start="20200502113000 +0200" stop="20200502114000 +0200">
     <title>Power Players</title>
-    <sub-title>Piège dans la jungle</sub-title>
-    <desc lang="fr">Saison:1 - Garçon de neuf ans, Axel est capable de se transformer en jouet vivant. Avec ses alliés, les Power Players, il tente d'empêcher les super-vilains jouets de semer le chaos.</desc>
+    <sub-title>Dans le noir</sub-title>
+    <desc lang="fr">Garçon de neuf ans, Axel est capable de se transformer en jouet vivant. Avec ses alliés, les Power Players, il tente d'empêcher les super-vilains jouets de semer le chaos.</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
-    <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
     <premiere />
     <rating system="CSA">
@@ -1485,24 +1664,441 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200502131000 +0200" stop="20200502133000 +0200">
+  <programme channel="C78.api.telerama.fr" start="20200502131000 +0200" stop="20200502132900 +0200">
     <title>Sous les mers</title>
     <sub-title>Le sous-marin fantôme</sub-title>
     <desc lang="fr">Saison:1 - Episode:12 - Les Nekton sont une famille d'aventuriers qui vivent dans une base sous-marine à la pointe de la technologie. Ils explorent les fonds des mers et des océans.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
+    <length units="minutes">19</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/698e5e7d-8aac-49bb-8227-5b3efe8f45b2.jpg" />
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200502133000 +0200" stop="20200502180500 +0200">
+  <programme channel="C78.api.telerama.fr" start="20200502132900 +0200" stop="20200502133000 +0200">
     <title>Minikeums</title>
+    <sub-title>Voix en voie d'extinction</sub-title>
+    <desc lang="fr">Saison:3 - Programme jeunesse culte des années 90, les «Minikeums» sont de retour avec de nouveaux animateurs. Les cinq personnages, Keva, Riha, Loulou, Normy et Pog partagent leur passion pour les nouvelles technologies, la danse, le chant, la mode et le sport</desc>
+    <category lang="fr">emission jeunesse</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4eb91730-5194-4cff-8f2e-51bf50ea28ab.jpg" />
+    <episode-num system="xmltv_ns">2..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502133000 +0200" stop="20200502134000 +0200">
+    <title>Taffy</title>
+    <sub-title>Sous contrôle</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - Mme Millesous reçoit la très importante visite d'un chroniqueur mondain venu la noter sur sa respectabilité. Mais les bêtises de Taffy et Bentley mettent la vieille dame K.O. Une seule solution pour les deux animaux : reprendre le contrôle de la situation pour sauver la réputation de leur maîtresse adorée...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d5ce01b9-1501-40e8-90c0-c827f029a8bf.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502134000 +0200" stop="20200502134500 +0200">
+    <title>Taffy</title>
+    <sub-title>Une belle histoire d'enchères</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - Mme Millesous tombe sous le charme d'un homme très élégant, malheureusement allergique aux chiens. Terreur de Bentley qui s'imagine déjà chassé de la demeure... Il va donc tout tenter tout pour devenir hypoallergénique...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d5ce01b9-1501-40e8-90c0-c827f029a8bf.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502134500 +0200" stop="20200502135500 +0200">
+    <title>Taffy</title>
+    <sub-title>Un mariage mal arrangé</sub-title>
+    <desc lang="fr">Saison:1 - Episode:5 - En utilisant une bande vidéo comme substitut à son noeud rouge, Taffy a détruit le souvenir de mariage de Mme Millesous. Si sa maîtresse s'en rend compte, elle aura le coeur brisé ! Littéralement ! Taffy et Bentley font alors équipe pour recréer la vidéo...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d5ce01b9-1501-40e8-90c0-c827f029a8bf.jpg" />
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502135500 +0200" stop="20200502140000 +0200">
+    <title>Taffy</title>
+    <sub-title>L'admiratrice secrète</sub-title>
+    <desc lang="fr">Saison:1 - Episode:6 - Taffy surprend Bentley et madame Millesous sanglotant devant une scène romantique à la télévision. Qu'adviendrait-il de Bentley s'il rencontrait son âme soeur ?...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d5ce01b9-1501-40e8-90c0-c827f029a8bf.jpg" />
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502140000 +0200" stop="20200502140500 +0200">
+    <title>Taffy</title>
+    <sub-title>Une question d'ADN</sub-title>
+    <desc lang="fr">Saison:1 - Episode:7 - Mme Millesous fait tester ses animaux pour connaître leur pedigree : si le test de Taffy parvient à la clinique vétérinaire, ils vont voir que ce n'est pas un chat ! Taffy se précipite pour récupérer son échantillon, Bentley à ses trousses bien décider à l'arrêter...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d5ce01b9-1501-40e8-90c0-c827f029a8bf.jpg" />
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502140500 +0200" stop="20200502141500 +0200">
+    <title>Taffy</title>
+    <sub-title>Les vacances de l'enfer</sub-title>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502141500 +0200" stop="20200502142300 +0200">
+    <title>Taffy</title>
+    <sub-title>Mission Mish et Mash</sub-title>
+    <desc lang="fr">Saison:1 - Episode:9 - Les amis raton-laveurs de Taffy se ramènent au manoir, espérant eux aussi profiter des largesses de Mme Millesous. Mais le coup du noeud rouge ne marche pas avec eux. Taffy se retrouve à devoir chasser ou protéger ses amis pour ne pas se faire prendre lui-même. Quant à Bentley, il veut se débarrasser de tous les ratons-laveurs, tandis que Mme Millesous fait venir la brigade de contrôle des animaux...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">8</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d5ce01b9-1501-40e8-90c0-c827f029a8bf.jpg" />
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502142300 +0200" stop="20200502142500 +0200">
+    <title>Minikeums</title>
+    <sub-title>Les cris d'animaux (les lapins crétins)</sub-title>
     <desc lang="fr">Programme jeunesse culte des années 90, les «Minikeums» sont de retour avec de nouveaux animateurs. Les cinq personnages, Keva, Riha, Loulou, Normy et Pog partagent leur passion pour les nouvelles technologies, la danse, le chant, la mode et le sport</desc>
     <category lang="fr">emission jeunesse</category>
-    <length units="minutes">275</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4eb91730-5194-4cff-8f2e-51bf50ea28ab.jpg" />
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502142500 +0200" stop="20200502143000 +0200">
+    <title>Les lapins crétins : invasion</title>
+    <sub-title>Lapin flash</sub-title>
+    <desc lang="fr">Saison:1 - Episode:17 - Les lapins découvrent un nouveau radar manoeuvré au bord d'une route par un duo de flics. Les lumières produites par l'appareil lorsqu'il détecte un excès de vitesse plaisent beaucoup aux lapins qui cherchent dès lors à le déclencher par tous les moyens...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6964c457-31ea-4440-bec3-55eb3ed1f740.jpg" />
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502143000 +0200" stop="20200502143500 +0200">
+    <title>Les lapins crétins : invasion</title>
+    <sub-title>Fast food crétin</sub-title>
+    <desc lang="fr">Saison:1 - Episode:12 - Un groupe de lapins ayant perdu son chef croit entendre sa voix dans l'interphone d'un drive-in détraqué. Un dialogue surréaliste s'engage avec l'opérateur du drive-in, semant la confusion dans le magasin...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502144500 +0200" stop="20200502145000 +0200">
+    <title>Les lapins crétins : invasion</title>
+    <sub-title>Radio crétin</sub-title>
+    <desc lang="fr">Saison:1 - Episode:19 - Les lapins sont une nouvelle fois enfermés dans le supermarché après l'heure de fermeture. L'homme de ménage a une radio autour de laquelle les lapins se rassemblent pour danser...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502145000 +0200" stop="20200502145500 +0200">
+    <title>Les lapins crétins : invasion</title>
+    <sub-title>Escalator crétin</sub-title>
+    <desc lang="fr">Saison:1 - Episode:20 - Un lapin veut rejoindre ses copains qui sont en train de goûter des bonbons sur un pallier desservi par un escalator. Manque de bol, l'escalier mécanique est dans le mauvais sens...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/95d26657-0604-4b44-8af1-78af725ad30f.jpg" />
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502145500 +0200" stop="20200502150000 +0200">
+    <title>Les lapins crétins : invasion</title>
+    <sub-title>Plage crétine</sub-title>
+    <desc lang="fr">Saison:1 - Episode:5 - Les lapins débarquent sur un ponton où bronzent des gens. Pendant qu'un groupe de lapins prend des coups de soleil, un autre entre en rivalité avec une mouette...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d2bcfcf1-2449-4cbb-a72b-042f37aba37d.jpg" />
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502150000 +0200" stop="20200502150800 +0200">
+    <title>Les lapins crétins : invasion</title>
+    <sub-title>Lapin scout</sub-title>
+    <desc lang="fr">Saison:1 - Episode:18 - Castor Tout-Seul, un scout sans patrouille, recrute les lapins pour former sa propre équipe...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">8</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fbc302c-c99a-4748-844a-05e9321e5729.jpg" />
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502150800 +0200" stop="20200502151000 +0200">
+    <title>Minikeums</title>
+    <sub-title>Meilleurs ennemis</sub-title>
+    <desc lang="fr">Saison:3 - Programme jeunesse culte des années 90, les «Minikeums» sont de retour avec de nouveaux animateurs. Les cinq personnages, Keva, Riha, Loulou, Normy et Pog partagent leur passion pour les nouvelles technologies, la danse, le chant, la mode et le sport</desc>
+    <category lang="fr">emission jeunesse</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
+    <episode-num system="xmltv_ns">2..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502151000 +0200" stop="20200502152500 +0200">
+    <title>Furiki</title>
+    <sub-title>Accro à la vitesse</sub-title>
+    <desc lang="fr">Saison:1 - André écope d'une semaine de suspension de cours à cause de sa conduite hyperactive. Il va devoir retourner dans sa famille pour apprendre à vivre à un autre rythme...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">15</length>
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502152500 +0200" stop="20200502153500 +0200">
+    <title>Furiki</title>
+    <sub-title>Accro à la vitesse</sub-title>
+    <desc lang="fr">Saison:1 - André écope d'une semaine de suspension de cours à cause de sa conduite hyperactive. Il va devoir retourner dans sa famille pour apprendre à vivre à un autre rythme...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502153500 +0200" stop="20200502154500 +0200">
+    <title>Furiki</title>
+    <sub-title>Accro à la vitesse</sub-title>
+    <desc lang="fr">Saison:1 - André écope d'une semaine de suspension de cours à cause de sa conduite hyperactive. Il va devoir retourner dans sa famille pour apprendre à vivre à un autre rythme...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502154500 +0200" stop="20200502155500 +0200">
+    <title>Furiki</title>
+    <sub-title>Accro à la vitesse</sub-title>
+    <desc lang="fr">Saison:1 - André écope d'une semaine de suspension de cours à cause de sa conduite hyperactive. Il va devoir retourner dans sa famille pour apprendre à vivre à un autre rythme...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502155500 +0200" stop="20200502160000 +0200">
+    <title>Minikeums</title>
+    <sub-title>Le bigleux (Mr magoo)</sub-title>
+    <desc lang="fr">Programme jeunesse culte des années 90, les «Minikeums» sont de retour avec de nouveaux animateurs. Les cinq personnages, Keva, Riha, Loulou, Normy et Pog partagent leur passion pour les nouvelles technologies, la danse, le chant, la mode et le sport</desc>
+    <category lang="fr">emission jeunesse</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502160000 +0200" stop="20200502160500 +0200">
+    <title>Mr Magoo *2019</title>
+    <sub-title>Mr Chat où es-tu ?</sub-title>
+    <desc lang="fr">Saison:1 - Episode:163 - Fizz entre dans le cerveau de Weasel pour le piloter et neutraliser Magoo avec des fléchettes endormissantes. Magoo perd Mr chat et réquisitionne son voisin pour l'aider à le retrouver et l'emmener chez le toiletteur...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/be57a0a8-98f4-4b5d-9ea1-d07b986ab6c9.jpg" />
+    <episode-num system="xmltv_ns">0.162.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502160500 +0200" stop="20200502161000 +0200">
+    <title>Mr Magoo *2019</title>
+    <sub-title>Fizz FM</sub-title>
+    <desc lang="fr">Saison:1 - Episode:164 - Le grand jour est arrivé ! Magoo enregistre son album solo. Croyant être au studio, il entre chez Weasel et prend Fizz pour Philippe Spectre, la star des producteurs. Avec lui, c'est sûr, l'album de Magoo sera génial ! Fizz ne partage pas son avis...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/426610f3-af9f-4385-851d-88849514cbcf.jpg" />
+    <episode-num system="xmltv_ns">0.163.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502161000 +0200" stop="20200502162000 +0200">
+    <title>Mr Magoo *2019</title>
+    <sub-title>Magoo 2.0</sub-title>
+    <desc lang="fr">Saison:1 - Episode:165 - Fizz et Weasel testent le PomPomFizz, un rayon qui oblige les gens à danser à sa gloire. Magoo, un masque de plongée sur le nez, persuadé qu'il est dans un jeu en VR, les croise et prend le rayon pour son arme et Weasel pour son co-équipier...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ec0e8e15-c944-4b6f-b72e-98ff7876303e.jpg" />
+    <episode-num system="xmltv_ns">0.164.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502162000 +0200" stop="20200502162500 +0200">
+    <title>Mr Magoo *2019</title>
+    <sub-title>Magoo répare tout</sub-title>
+    <desc lang="fr">Saison:1 - Episode:166 - Pensant réparer la machine à café de Weasel, Magoo manipule le téléporteur de Fizz, invention que le hamster compte présenter au congrès des génies. Fizz et Weasel tentent de récupérer la machine, se faisant téléporter un peu partout au passage...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7bdcdbcf-6076-41e9-8e99-5e71d8d2e24b.jpg" />
+    <episode-num system="xmltv_ns">0.165.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502162500 +0200" stop="20200502163500 +0200">
+    <title>Mr Magoo *2019</title>
+    <sub-title>Les cochons d'Inde</sub-title>
+    <desc lang="fr">Saison:1 - Retraité bienveillant, mister Magoo cherche toujours à régler les problèmes qui se présentent à lui. Hélas, sa terrible myopie l'induit souvent en erreur...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/126f56b6-9878-4402-ab83-546d00a99b48.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502163500 +0200" stop="20200502164000 +0200">
+    <title>Mr Magoo *2019</title>
+    <sub-title>La fonte des glaces vanille fraise</sub-title>
+    <desc lang="fr">Saison:1 - Episode:162 - Pensant être faire  partie d'une expédition en Arctique alors qu'il est sur la plage, Magoo prend Fizz pour un ouistiti d'Amazonie, preuve irréfutable d'un grave réchauffement climatique. Il veut à tout prix l'attraper pour le montrer à la communauté scientifique...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/88ab4c9c-e999-43ac-91bf-a355f2687d5c.jpg" />
+    <episode-num system="xmltv_ns">0.161.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502164000 +0200" stop="20200502165000 +0200">
+    <title>Mr Magoo *2019</title>
+    <sub-title>Magoo 7</sub-title>
+    <desc lang="fr">Tout le monde aime Magoo ! Ce petit monsieur jovial et bienveillant est toujours prêt à filer un coup de main… mais comme il ne sait pas qu'il a besoin de lunettes, il n'est jamais là où il croit être, confond les gens et sème la pagaille partout. Sans le vouloir, il déjoue inlassablement les plans farfelus de Fizz, un hamster mégalo avide de gloire.</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fb2bf013-95a7-4d13-8ed5-cd5a844e5c30.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502165000 +0200" stop="20200502165500 +0200">
+    <title>Mr Magoo *2019</title>
+    <sub-title>Maggie Magoo</sub-title>
+    <desc lang="fr">Tout le monde aime Magoo ! Ce petit monsieur jovial et bienveillant est toujours prêt à filer un coup de main… mais comme il ne sait pas qu'il a besoin de lunettes, il n'est jamais là où il croit être, confond les gens et sème la pagaille partout. Sans le vouloir, il déjoue inlassablement les plans farfelus de Fizz, un hamster mégalo avide de gloire.</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fb2bf013-95a7-4d13-8ed5-cd5a844e5c30.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502165500 +0200" stop="20200502170500 +0200">
+    <title>Mr Magoo *2019</title>
+    <sub-title>Mon copain Serge</sub-title>
+    <desc lang="fr">Saison:1 - Episode:171 - Agoo prend Fizz pour son vieux copain d'école Serge et pense lui faire revisiter leur école alors qu'ils sont au coeur du centre ultra-sécurisé où Fizz est venu subtiliser le carnet de blague du Président...</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9a444f1f-8f83-459a-9334-d2e86088efd2.jpg" />
+    <episode-num system="xmltv_ns">0.170.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502170500 +0200" stop="20200502171500 +0200">
+    <title>Teen Titans Go !</title>
+    <sub-title>Les spectateurs décident</sub-title>
+    <desc lang="fr">Saison:5 - Episode:46 - Bumblebee annonce à ses amis qu'elle quitte leur équipe. C'est le début d'une rivalité entre les Titans de l'Ouest et les Titans de l'Est qui souhaitent chacun la voir intégrer leur groupe...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e2f91268-5cb8-4fa2-b10c-60dee1411218.jpg" />
+    <episode-num system="xmltv_ns">4.45.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502171500 +0200" stop="20200502172500 +0200">
+    <title>Teen Titans Go !</title>
+    <sub-title>La cuillère</sub-title>
+    <desc lang="fr">Saison:5 - Episode:1 - Starfire choque ses amis parce qu'elle se lie d'amitié avec des objets inanimés. Pour lui changer les idées, ils décident de l'emmener chez les Hive Five pour une expédition punitive...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d641b2ba-3765-4c02-a00a-ec5700e6831b.jpg" />
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502172500 +0200" stop="20200502173500 +0200">
+    <title>Teen Titans Go !</title>
+    <sub-title>Changelin, papa coq</sub-title>
+    <desc lang="fr">Saison:5 - Episode:2 - Changelin, de passage dans la peau d'un coq, en profite pour pondre un oeuf. Mais il n'a pas réalisé qu'un oeuf devenait un poussin et par la même occasion, ferait de lui un père...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e2f91268-5cb8-4fa2-b10c-60dee1411218.jpg" />
+    <episode-num system="xmltv_ns">4.1.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502173500 +0200" stop="20200502174500 +0200">
+    <title>Teen Titans Go !</title>
+    <sub-title>Explication</sub-title>
+    <desc lang="fr">Saison:5 - Episode:3 - Afin de consolider les liens de son équipe, Robin propose une activité de groupe : aller au cinéma. Tout le monde est emballé et le film est la hauteur de leur espérance niveau cascades et explosions. Jusqu'au moment où l'action est éclipsée par de longs récits assommants...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e2f91268-5cb8-4fa2-b10c-60dee1411218.jpg" />
+    <episode-num system="xmltv_ns">4.2.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502174500 +0200" stop="20200502175500 +0200">
+    <title>Teen Titans Go !</title>
+    <sub-title>Explication</sub-title>
+    <desc lang="fr">Saison:5 - Episode:4 - Les Teen Titans sont emballés par le film qu'ils viennent de voir. Ils se disent qu'ils ne sont pas plus bêtes que d'autres et décident d'en faire un eux-mêmes...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e2f91268-5cb8-4fa2-b10c-60dee1411218.jpg" />
+    <episode-num system="xmltv_ns">4.3.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502175500 +0200" stop="20200502180500 +0200">
+    <title>Teen Titans Go !</title>
+    <sub-title>La rénovation de la Tour</sub-title>
+    <desc lang="fr">Saison:5 - Episode:5 - Depuis la destruction de la Tour, les jeunes Titans ont pris l'habitude de vivre dans les gravats. Ils sont tous résignés à vivre comme des sans-abris, tous sauf Robin...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e2f91268-5cb8-4fa2-b10c-60dee1411218.jpg" />
+    <episode-num system="xmltv_ns">4.4.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1519,7 +2115,19 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200502184000 +0200" stop="20200502191000 +0200">
+  <programme channel="C78.api.telerama.fr" start="20200502184000 +0200" stop="20200502191500 +0200">
+    <title>Une saison au zoo</title>
+    <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85beba6e-7a41-4fa2-88e5-8df1bf33c50d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200502191500 +0200" stop="20200502194500 +0200">
     <title>Une saison au zoo</title>
     <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
     <date>2019</date>
@@ -1531,7 +2139,7 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200502191000 +0200" stop="20200502194000 +0200">
+  <programme channel="C78.api.telerama.fr" start="20200502194500 +0200" stop="20200502201500 +0200">
     <title>Une saison au zoo</title>
     <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
     <date>2019</date>
@@ -1543,24 +2151,12 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200502194000 +0200" stop="20200502201000 +0200">
+  <programme channel="C78.api.telerama.fr" start="20200502201500 +0200" stop="20200502204000 +0200">
     <title>Une saison au zoo</title>
     <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
     <date>2019</date>
     <category lang="fr">documentaire : animalier</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85beba6e-7a41-4fa2-88e5-8df1bf33c50d.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200502201000 +0200" stop="20200502204000 +0200">
-    <title>Une saison au zoo</title>
-    <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
-    <date>2019</date>
-    <category lang="fr">documentaire : animalier</category>
-    <length units="minutes">30</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85beba6e-7a41-4fa2-88e5-8df1bf33c50d.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -1569,7 +2165,7 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
   </programme>
   <programme channel="C78.api.telerama.fr" start="20200502204000 +0200" stop="20200502210500 +0200">
     <title>C'est toujours pas sorcier</title>
-    <sub-title>Pourquoi la Terre tremble ?</sub-title>
+    <sub-title>Pourquoi La terre tremble ?</sub-title>
     <desc lang="fr">Saison:1 - Max, Mathieu et Cécile cherchent à savoir pourquoi la terre tremble. Mathieu se rend au laboratoire souterrain de Rustrel pour mesurer des séismes du monde entier. Aidée de joueurs de rugby et d'un sismologue, Cécile s'intéresse à l'élasticité de la planète et à la propagation des ondes sismiques. Avec ses maquettes, Max décrit la structure interne de la Terre, les plaques tectoniques et les conséquences de leurs mouvements.</desc>
     <category lang="fr">magazine éducatif</category>
     <length units="minutes">25</length>
@@ -1615,7 +2211,7 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
     <sub-title>Si on chantait ?</sub-title>
     <desc lang="fr">Des comédiens, des princesses, des humoristes, des journalistes et même des religieuses ont, un jour, rêvé de chanter et sont allés au bout de leur rêve. Elie Semoun, celui qui fait hurler de rire des générations de Français, a toujours eu le goût du chant. La princesse Stéphanie a enregistré «Ouragan» contre l'avis de son père. Et que dire du succès de «Saga Africa» du tennisman Yannick Noah ? Jodie Foster n'a chanté qu'à l'âge de 15 ans, et n'y est plus jamais revenue. Parfois, aussi, on peut choisir une voie artistique et revenir beaucoup plus tard à ses premières amours. C'est l'histoire de la comédienne Françoise Fabian et de son succès «Toutes ces choses que j'aime».</desc>
     <date>2019</date>
-    <category lang="fr">documentaire : musique</category>
+    <category lang="fr">documentaire musique</category>
     <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8956687-0b50-40ed-88b0-fd126a48b196.jpg" />
     <rating system="CSA">
@@ -1719,7 +2315,7 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
     <title>Christophe</title>
     <desc lang="fr">Ce documentaire propose de redécouvrir la carrière de Christophe, artiste à la fois original et amoureux de la chanson populaire : ses plus grands tubes, ses interventions sur les plateaux de télévision, ses confidences, jusqu'aux dernières images inédites de l'artiste sur scène en janvier 2020, où le réalisateur l'a suivi pour dévoiler des moments de vie et des coulisses de la dernière tournée.</desc>
     <date>2020</date>
-    <category lang="fr">documentaire : musique</category>
+    <category lang="fr">documentaire musique</category>
     <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c14388d8-8668-4911-89f7-8bee6c0544a5.jpg" />
     <previously-shown />
@@ -1732,7 +2328,7 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
     <sub-title>Les succès fous</sub-title>
     <desc lang="fr">Il n'existe pas de recette miracle pour expliquer le succès d'une chanson et encore moins quand celui-ci est fulgurant. Ainsi, lorsque le jeune Roch Voisine, promis à une brillante carrière de hockeyeur au Canada, écrit la chanson «Hélène» pour rendre service à l'un de ses coéquipiers, il est loin d'imaginer qu'elle va bouleverser sa vie. D'autres chansons, bien qu'à contre-courant de leur époque, vont pourtant emporter les foules. C'est le cas de «Chante», un titre des Forbans inspiré d'un titre rock des années 50, qui a connu un énorme succès dans les années 80. D'autres, à l'instar de Pascal Danel et de son «Kilimandjaro», ont eu immédiatement l'intime conviction de tenir un tube et ont tout mis en oeuvre pour qu'il soit produit...</desc>
     <date>2019</date>
-    <category lang="fr">documentaire : musique</category>
+    <category lang="fr">documentaire musique</category>
     <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8956687-0b50-40ed-88b0-fd126a48b196.jpg" />
     <previously-shown />
@@ -1777,55 +2373,6 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
     <category lang="fr">jeu</category>
     <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/67bc81cc-83a6-4ea9-8e02-d01af26499e8.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C80.api.telerama.fr" start="20200502060100 +0200" stop="20200502071500 +0200">
-    <title>Les lapins crétins : invasion</title>
-    <sub-title>Hypnolapin</sub-title>
-    <desc lang="fr">Saison:1 - Episode:49 - Le chef est encore en train d'inventer de nouvelles corvées pour les lapins. Trouvant dans une poubelle un disque orné d'une spirale, il demande à ses troupes de le ventiler en le faisant tourner. Il se retrouve aussitôt hypnotisé. Les lapins en profitent pour inverser les rôles...</desc>
-    <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">74</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9fbf094b-699a-4bd7-b88c-40af60332eb0.jpg" />
-    <episode-num system="xmltv_ns">0.48.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C80.api.telerama.fr" start="20200502071500 +0200" stop="20200502083000 +0200">
-    <title>Zip Zip</title>
-    <sub-title>Gracie et Alphie</sub-title>
-    <desc lang="fr">Saison:1 - Episode:29 - Comme toujours, Victoria tente de faire la sieste. Et comme toujours, les charmants-petits-voisins, Gracie et Alphie, font du bruit...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">75</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a0674390-615b-40ca-a8db-3304894962d2.jpg" />
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C80.api.telerama.fr" start="20200502083100 +0200" stop="20200502090000 +0200">
-    <title>Grizzy et les lemmings</title>
-    <sub-title>Camping In The Wild</sub-title>
-    <desc lang="fr">Episode:79 - Grizzy, gros ours placide et chapardeur, vit comme un roi dans la forêt canadienne, n'hésitant pas à s'approprier la cabane du garde forestier dès que celui-ci a le dos tourné. Seuls les lemmings, de petits mammifères idiots, lui contestent ses privilèges...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">29</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8ad4c390-fa28-40a1-8c16-b872eb0d434b.jpg" />
-    <episode-num system="xmltv_ns">.78.</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C80.api.telerama.fr" start="20200502090000 +0200" stop="20200502102500 +0200">
-    <title>Les as de la jungle à la rescousse</title>
-    <sub-title>Le choc des tisanes</sub-title>
-    <desc lang="fr">Paquita demande de l'aide à Miguel, son grand frère : toutes les bananes de la jungle ont mystérieusement disparu. Ensemble, ils partent en expédition pour tenter de les retrouver...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">85</length>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1968,7 +2515,7 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
   </programme>
   <programme channel="C80.api.telerama.fr" start="20200502190000 +0200" stop="20200502193000 +0200">
     <title>20 : Journal régional</title>
-    <desc lang="fr">Toute l'actualité régionale par la rédaction de France 3.</desc>
+    <desc lang="fr">.</desc>
     <category lang="fr">journal</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6b34c0d5-e907-4c08-b12d-fc234a2aeda5.jpg" />
@@ -2018,7 +2565,9 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
   </programme>
   <programme channel="C80.api.telerama.fr" start="20200502210500 +0200" stop="20200502223500 +0200">
     <title>Meurtres en Corrèze</title>
-    <desc lang="fr">La procession de la Saint Jean, à Tulle, est parsemée de cadavres. Axel et Léna, deux gendarmes autrefois amants, tentent, au fil d'une enquête qui les amène sur les traces d'artistes locaux dans la campagne corrézienne, de dénouer les fils d'une machination qui remonte à treize ans. L'énigme reste entière...</desc>
+    <desc lang="fr">La procession de la Saint Jean, à Tulle, est parsemée de cadavres. Axel et Léna, deux gendarmes autrefois amants, tentent, au fil d'une enquête qui les amène sur les traces d'artistes locaux dans la campagne corrézienne, de dénouer les fils d'une machination qui remonte à treize ans. L'énigme reste entière... - Critique : Elle est belle la ville de Tulle ! Bien mieux mise en valeur ce soir que lors des visites médiatisées que lui rendait un ancien chef d’État. Travellings rasants sur les toits d’ardoise gris-bleu ou dans les rues à flanc de colline au-dessus d’une sinueuse vallée : la cité tire son épingle du jeu d’une fiction qui la trahit quelque peu en ne faisant pas dans la dentelle (pourtant fleuron de l’artisanat local). Ce ne sera pas la première fois que deux policiers doivent contre leur gré faire équipe pour résoudre un crime alambiqué. Ni la dernière qu’un tel tandem réunit deux anciens amants. En lice : la capitaine de gendarmerie Léna Ribeiro (Carole Bianic, vue dans la série Chérif, sur France 2), native de Tulle, à qui son colonel impose comme binôme Axel Zeller, un commandant de police judiciaire de Bordeaux qu’elle a failli épouser treize ans auparavant. Ils doivent dépasser leur ressentiment pour élucider le meurtre d’un jeune artiste local, mis en scène de façon spectaculaire le soir de la procession qui célèbre saint Jean, réputé sauveur de la ville lors d’une épidémie de peste au xive siècle.
+
+La tambouille entre piste historique, artistique, tension amoureuse mijote gentiment, sans jamais porter le suspense à ébullition. Un coup d’épée dans l’eau de la belle rivière Corrèze, qui traverse la ville.</desc>
     <credits>
       <director>Adeline Darraux</director>
       <actor>Arié Elmaleh</actor>
@@ -2036,6 +2585,9 @@ Tout le film est façonné par lui, par sa présence solide, sa force toujours t
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme channel="C80.api.telerama.fr" start="20200502223500 +0200" stop="20200503001000 +0200">
     <title>Meurtres au Mont Ventoux</title>
@@ -2399,6 +2951,9 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme channel="C111.api.telerama.fr" start="20200502183500 +0200" stop="20200502193000 +0200">
     <title>Arte reportage</title>
@@ -2482,6 +3037,9 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme channel="C111.api.telerama.fr" start="20200502234000 +0200" stop="20200503003500 +0200">
     <title>Quand Homo sapiens peupla la planète</title>
@@ -3363,7 +3921,7 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
     <title>Ma liberté de rapper</title>
     <desc lang="fr">Des rappeurs et des responsables politiques évoquent les rapports conflictuels entre ces deux mondes que tout oppose. Ce face-à-face permet d'exprimer leurs espoirs, leurs doutes, leurs craintes — en particulier sur les procès qui se sont multipliés contre les rappeurs depuis les années 1990. A travers ce voyage musical, Fred Musa questionne la société française et ses représentations politiques et institutionnelles. Des témoignages de NTM, Assassin, Orelsan, Youssoupha, et de politiques tels que Rachida Dati, Jack Lang viennent apporter un début de réponse.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire : musique</category>
+    <category lang="fr">documentaire musique</category>
     <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f47d89db-e6a3-43e2-89c6-0f20f7ea7d06.jpg" />
     <previously-shown />
@@ -3422,17 +3980,17 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502061300 +0200" stop="20200502065800 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502061100 +0200" stop="20200502065300 +0200">
     <title>Journal Réunion</title>
     <desc lang="fr">Une couverture complète de l'actualité du jour qu'elle soit locale, régionale, nationale ou internationale.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">45</length>
+    <length units="minutes">42</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502065800 +0200" stop="20200502072300 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502065300 +0200" stop="20200502071800 +0200">
     <title>Journal Guyane</title>
     <desc lang="fr">Une couverture complète de l'actualité de La Guyane.</desc>
     <category lang="fr">journal</category>
@@ -3442,49 +4000,39 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502072300 +0200" stop="20200502075300 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502071800 +0200" stop="20200502075900 +0200">
     <title>Journal Martinique</title>
     <desc lang="fr">Suivez l'actualité de La Martinique.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">30</length>
+    <length units="minutes">41</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502075300 +0200" stop="20200502080100 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502075900 +0200" stop="20200502082400 +0200">
     <title>Journal Guadeloupe</title>
     <desc lang="fr">Un JT de décryptage qui, au-delà de l'information factuelle, se donne pour priorité d'expliquer le fait d'actualité du jour et d'anticiper sur les événements à venir, avec l'appui d'invités et de consultants. La rédaction propose ainsi un complément au dossier du jour, grâce à un sujet d'analyse et un retour sur les informations qui ont fait le buzz.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">8</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502080300 +0200" stop="20200502082200 +0200">
-    <title>Spot campagne FTV HD</title>
-    <sub-title># Restez en forme</sub-title>
-    <category lang="fr">magazine d'information</category>
-    <length units="minutes">19</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502082200 +0200" stop="20200502085200 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502082400 +0200" stop="20200502085300 +0200">
     <title>Des bateaux et des hommes</title>
     <sub-title>A l'école de la mer en Polynésie</sub-title>
     <desc lang="fr">Découvertes de lieux uniques, paysages à couper le souffle, rencontres humaines hors-normes, modes de vie étonnants : la mer recèle de vrais trésors.</desc>
     <date>2018</date>
     <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">30</length>
+    <length units="minutes">29</length>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502085200 +0200" stop="20200502090700 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502085300 +0200" stop="20200502090800 +0200">
     <title>Behind fashion</title>
     <category lang="fr">magazine de la mode</category>
     <length units="minutes">15</length>
@@ -3493,7 +4041,7 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502090700 +0200" stop="20200502093400 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502090800 +0200" stop="20200502093500 +0200">
     <title>Miroir créole</title>
     <desc lang="fr">Emission de coaching et de relooking valorisant l'identité caraibéenne.</desc>
     <category lang="fr">magazine de société</category>
@@ -3503,17 +4051,27 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502093400 +0200" stop="20200502100700 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502093500 +0200" stop="20200502093600 +0200">
+    <title>Spot campagne FTV HD</title>
+    <sub-title># Restez en forme</sub-title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200502093600 +0200" stop="20200502100600 +0200">
     <title>Un look d'enfer</title>
     <desc lang="fr">Chaque semaine, deux duos s'affrontent. Ils sont mère et fille ou en couple, meilleures amies ou meilleurs amis et vont devoir endosser le temps d'une semaine le rôle de relookeurs et de relookés.</desc>
     <category lang="fr">jeu</category>
-    <length units="minutes">33</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ef431c19-1aaa-4d46-be43-0df4b8f8c1af.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502100700 +0200" stop="20200502102800 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502100600 +0200" stop="20200502102600 +0200">
     <title>Brooklyn Nine-Nine</title>
     <sub-title>L'expert</sub-title>
     <desc lang="fr">Saison:4 - Episode:13 - Le commissariat risque de fermer définitivement, le taux de criminalité étant au plus bas dans le quartier. L'équipe est confiante, persuadée d'être évaluée équitablement pour son travail. Mais la personne en charge de l'audit n'est autre que l'ex-petit ami d'Amy, Teddy, l'homme le plus ennuyeux du pays...</desc>
@@ -3533,14 +4091,14 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <guest>Kyle Bornheimer</guest>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">21</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6b4c276-c3e3-497a-8e51-b290e1e9587b.jpg" />
     <episode-num system="xmltv_ns">3.12.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502102800 +0200" stop="20200502105200 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502102600 +0200" stop="20200502104800 +0200">
     <title>Brooklyn Nine-Nine</title>
     <sub-title>Flics en série</sub-title>
     <desc lang="fr">Saison:4 - Episode:14 - Jake et Rosa enquêtent sur une affaire de cambriolage qui a touché une de leurs émissions télé préférées. Le premier rôle féminin a été dévalisé. Les deux policiers en profitent pour passer du temps avec les protagonistes du show. Dans le même temps, l'audit reprend au commissariat. Cette fois, c'est l'ex de Terry qui est aux commandes de l'évaluation...</desc>
@@ -3561,14 +4119,14 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <guest>Greg Germann</guest>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">24</length>
+    <length units="minutes">22</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7f51a79f-bf6c-4bfc-a0f2-81850faeae14.jpg" />
     <episode-num system="xmltv_ns">3.13.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502105200 +0200" stop="20200502111500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502104800 +0200" stop="20200502110900 +0200">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:61 - Enric avoue un lourd secret à sa soeur et Claire se montre moins exigeante quant au choix d'un appartement. De son côté, Gary décide de voler un portable dans un commissariat...</desc>
     <credits>
@@ -3583,7 +4141,7 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <writer>Toma de Matteis</writer>
     </credits>
     <category lang="fr">feuilleton policier</category>
-    <length units="minutes">23</length>
+    <length units="minutes">21</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <previously-shown />
@@ -3591,7 +4149,7 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502111500 +0200" stop="20200502113800 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502110900 +0200" stop="20200502113100 +0200">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:62 - Tandis que l'absence de Ludo au zoo pèse sur Alice, Gaëlle fait tout pour changer de coéquipier. Parallèlement, Julien emmène Claire dans un endroit mystérieux...</desc>
     <credits>
@@ -3606,7 +4164,7 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <writer>Toma de Matteis</writer>
     </credits>
     <category lang="fr">feuilleton policier</category>
-    <length units="minutes">23</length>
+    <length units="minutes">22</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
     <episode-num system="xmltv_ns">0.61.</episode-num>
     <previously-shown />
@@ -3614,7 +4172,7 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502113800 +0200" stop="20200502120000 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502113100 +0200" stop="20200502115300 +0200">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:63 - Alors qu'Alex découvre d'où provient son téléphone, Claire remet tout en cause. De son côté, Jo interdit à Enric de fréquenter Gabriel...</desc>
     <credits>
@@ -3637,7 +4195,7 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502120000 +0200" stop="20200502122300 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502115300 +0200" stop="20200502121600 +0200">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:64 - Tandis qu'Elisabeth décide de donner son indépendance à Julien, Brian dit enfin la vérité à Lucille. Parallèlement, Alexandre se demande s'il peut encore séduire...</desc>
     <credits>
@@ -3660,7 +4218,7 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502122300 +0200" stop="20200502124900 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502121600 +0200" stop="20200502123900 +0200">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:65 - Alors que le plan de Julien pour sauver L-Cosmétiques se précise, Gary est embauché à la paillotte. De son côté, Enric décide de tout raconter à sa femme...</desc>
     <credits>
@@ -3675,7 +4233,7 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <writer>Toma de Matteis</writer>
     </credits>
     <category lang="fr">feuilleton policier</category>
-    <length units="minutes">26</length>
+    <length units="minutes">23</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
     <episode-num system="xmltv_ns">0.64.</episode-num>
     <previously-shown />
@@ -3683,22 +4241,32 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502124900 +0200" stop="20200502134300 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502123900 +0200" stop="20200502133000 +0200">
     <title>Trésors de Tahiti</title>
     <sub-title>Perle noire de Tahiti</sub-title>
     <desc lang="fr">Emblèmes nationaux de la Polynésie Française, la fleur de Tiaré et la perle noire sont les deux principaux trésors patrimoniaux de la Polynésie Française. Mais derrière le cliché, la fleur des fleurs et la perle possèdent également de nombreux secrets et des fragilités dont les Tahitiens ont pleinement conscience.</desc>
     <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">54</length>
+    <length units="minutes">51</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/18978f2f-f5fa-42c2-bd4c-f9925a9d6996.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502134300 +0200" stop="20200502151200 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502133000 +0200" stop="20200502133200 +0200">
+    <title>Spot campagne FTV HD</title>
+    <sub-title>Covid-19 symptomes</sub-title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200502133200 +0200" stop="20200502145900 +0200">
     <title>Qui sème l'amour...</title>
     <desc lang="fr">A son retour de vacances, Julie, 35 ans, exploitante agricole célibataire, découvre qu'Huguette, sa mère, s'est permis de venir séjourner chez elle et a pris la liberté de licencier l'ouvrier qui travaillait à son service. Julie embauche Djibril, un immigré peu rompu aux travaux de la ferme...</desc>
     <category lang="fr">téléfilm sentimental</category>
-    <length units="minutes">89</length>
+    <length units="minutes">87</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/346f3706-2d23-4e23-9a6a-e77e87cfa080.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -3708,11 +4276,21 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502151200 +0200" stop="20200502164100 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502145900 +0200" stop="20200502150000 +0200">
+    <title>Spot campagne FTV HD</title>
+    <sub-title>Alerte sanitaire covid-19</sub-title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200502150000 +0200" stop="20200502163000 +0200">
     <title>Pas de toit sans moi</title>
     <desc lang="fr">Paul, 40 ans, chômeur, hypocondriaque et dépressif, vit dans un grand appartement avec son chien. Abandonné ou méprisé par tous, il entre en conflit avec sa voisine du dessus, Ashanti. Jusqu'au jour où, risquant d'être expulsé, il se voit contraint de partager son logement avec elle et ses deux enfants...</desc>
     <category lang="fr">téléfilm sentimental</category>
-    <length units="minutes">89</length>
+    <length units="minutes">90</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/425fda2d-7138-4c7a-8fe1-cee65a864172.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -3722,17 +4300,66 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502183000 +0200" stop="20200502184000 +0200">
-    <title>Infô soir</title>
-    <desc lang="fr">Le journal s'appuie sur les neuf départements et territoires français des outre-mers pour mieux comprendre le monde et s'ouvrir à l'actualité internationale dans laquelle s'inscrivent ces régions.</desc>
+  <programme channel="C160.api.telerama.fr" start="20200502163000 +0200" stop="20200502165500 +0200">
+    <title>Journal Guyane</title>
+    <desc lang="fr">Une couverture complète de l'actualité de La Guyane.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">10</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502184000 +0200" stop="20200502184200 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502165500 +0200" stop="20200502171000 +0200">
+    <title>Journal Nouvelle-Calédonie</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200502171000 +0200" stop="20200502171100 +0200">
+    <title>Spot campagne FTV HD</title>
+    <sub-title>Covid-19 symptomes</sub-title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200502171100 +0200" stop="20200502174200 +0200">
+    <title>Journal Réunion</title>
+    <desc lang="fr">Une couverture complète de l'actualité du jour qu'elle soit locale, régionale, nationale ou internationale.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">31</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200502174200 +0200" stop="20200502183000 +0200">
+    <title>Journal Saint-Pierre-et-Miquelon</title>
+    <desc lang="fr">Une couverture complète de l'actualité du jour qu'elle soit locale, régionale, nationale ou internationale.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">48</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200502183000 +0200" stop="20200502183600 +0200">
+    <title>Infô soir</title>
+    <desc lang="fr">Le journal s'appuie sur les neuf départements et territoires français des outre-mers pour mieux comprendre le monde et s'ouvrir à l'actualité internationale dans laquelle s'inscrivent ces régions.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">6</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200502183600 +0200" stop="20200502183800 +0200">
     <title>Les livres de Lili</title>
     <sub-title>Ferme ton bec</sub-title>
     <desc lang="fr">Une invitation à la lecture proposée par des enfants à des enfants.</desc>
@@ -3744,19 +4371,19 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502184200 +0200" stop="20200502184500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502183800 +0200" stop="20200502184000 +0200">
     <title>Les livres de Lili</title>
     <sub-title>Jacques et le haricot magique</sub-title>
     <desc lang="fr">Une invitation à la lecture proposée par des enfants à des enfants.</desc>
     <category lang="fr">magazine littéraire</category>
-    <length units="minutes">3</length>
+    <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502184500 +0200" stop="20200502185900 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502184000 +0200" stop="20200502185400 +0200">
     <title>Kid reporters</title>
     <sub-title>Nature : la protection des oiseaux</sub-title>
     <category lang="fr">magazine jeunesse</category>
@@ -3766,29 +4393,29 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502185900 +0200" stop="20200502190500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502185400 +0200" stop="20200502190100 +0200">
     <title>Ma terre pour demain</title>
     <sub-title>Ybuz Hnaweongo / Ouvéa</sub-title>
     <category lang="fr">documentaire : environnement</category>
-    <length units="minutes">6</length>
+    <length units="minutes">7</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/63142dea-2977-4f35-8562-bfccf0ef5b81.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502190500 +0200" stop="20200502195600 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502190100 +0200" stop="20200502195100 +0200">
     <title>Une saison à Tahiti</title>
     <desc lang="fr">Pendant trois semaines, Cyril, Bérénice, Anthony, Charlotte et Stéphane, tous employés du zoo de La Flèche, se rendent à Tahiti, en Polynésie. Ils viennent seconder les membres de l'association Te Mana O Te Moana, qui lutte pour préserver les nombreuses espèces marines des îles de l'archipel. Des espèces aujourd'hui menacées par les nombreuses activités humaines qui dégradent l'environnement.</desc>
     <date>2017</date>
     <category lang="fr">documentaire : animalier</category>
-    <length units="minutes">51</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/76bffe8c-44a9-4615-bd65-42119357da4c.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502195600 +0200" stop="20200502204600 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502195100 +0200" stop="20200502204100 +0200">
     <title>Une saison à Tahiti</title>
     <desc lang="fr">Dauphins, baleines, requins et tortues font parties des espèces marines qui évoluent au large des îles de Polynésie. Des espèces grandement menacées que tente de préserver l'association Te Mana O Te Moana, impliquée dans des programmes de conservation, d'éducation et de recherche. Pour découvrir plus en détail son travail et aider ses membres, des employés du zoo de La Flèche se rendent à Tahiti.</desc>
     <date>2017</date>
@@ -3799,7 +4426,7 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502204600 +0200" stop="20200502205000 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502204100 +0200" stop="20200502204400 +0200">
     <title>Villa Karayib</title>
     <desc lang="fr">Saison:1 - Episode:4 - La quotidien de quatre jeunes étudiantes originaires des Antilles, de métropole et de la Côte d'Ivoire, qui partagent une colocation dans une villa en compagnie de la proriétaire des lieux.</desc>
     <credits>
@@ -3812,7 +4439,7 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <writer>Philippe Giangreco</writer>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">4</length>
+    <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0742d007-2e28-4828-a706-f3453c13507e.jpg" />
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <previously-shown />
@@ -3820,7 +4447,7 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502205000 +0200" stop="20200502205500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502204400 +0200" stop="20200502204800 +0200">
     <title>Villa Karayib</title>
     <desc lang="fr">Saison:1 - Episode:7 - La quotidien de quatre jeunes étudiantes originaires des Antilles, de métropole et de la Côte d'Ivoire, qui partagent une colocation dans une villa en compagnie de la proriétaire des lieux.</desc>
     <credits>
@@ -3833,7 +4460,7 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <writer>Philippe Giangreco</writer>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">5</length>
+    <length units="minutes">4</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0742d007-2e28-4828-a706-f3453c13507e.jpg" />
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <previously-shown />
@@ -3841,7 +4468,18 @@ Tavernier pousse jusqu’à l’absurde la machine à décerveler (télé, ciné
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502205500 +0200" stop="20200502214300 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502204800 +0200" stop="20200502205500 +0200">
+    <title>Spot campagne FTV HD</title>
+    <sub-title>Alerte sanitaire covid-19</sub-title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">7</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200502205500 +0200" stop="20200502214200 +0200">
     <title>Réunions</title>
     <sub-title>Saut dans le vide</sub-title>
     <desc lang="fr">Saison:1 - Episode:1 - Jérémy vit une journée peu ordinaire ! Alors même qu'il découvre enfin l'identité de son père, c'est pour apprendre que ce dernier vient de mourir et qu'il hérite, du coup, d'un hôtel à La Réunion. Mais également d'un demi-frère, Antoine. Sa compagne, Chloé, s'est imaginée que Jérémy héritait d'un palace et que cette bonne fortune lui permettrait de rembourser les dettes qu’elle a contractées à l'insu de tous pour maintenir la famille à flot. Mais l'hôtel est lui aussi au bord de la faillite. Chloé entreprend de convaincre Antoine que la meilleure solution est de reprendre cet hôtel avec son frère, sans lui avouer que c’est parce qu’ils n'auront bientôt plus de toit ici, à Roubaix... - Critique : Par ces temps confinés, quelle meilleure idée que de se lancer dans le visionnage d’une série tournée sous les alizés ? Lui préférer une série dotée d’un scénario inventif et de dialogues malins, même tournée dans un sous-marin. Tablant sans doute sur la popularité de ses comédiennes principales et l’attrait généralement exercé par le bleu des lagons, Réunions a cru pouvoir s’en passer. Une erreur, manifestement.
@@ -3870,7 +4508,7 @@ Sans la petite musique sautillante typique des comédies mal assurées, on n’a
       <writer>Laurent Mondy</writer>
     </credits>
     <category lang="fr">série sentimentale</category>
-    <length units="minutes">48</length>
+    <length units="minutes">47</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/069b57e5-af20-45c1-b11e-280c483af9b8.jpg" />
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <premiere />
@@ -3881,7 +4519,7 @@ Sans la petite musique sautillante typique des comédies mal assurées, on n’a
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502214300 +0200" stop="20200502223500 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502214200 +0200" stop="20200502223400 +0200">
     <title>Réunions</title>
     <sub-title>La gifle</sub-title>
     <desc lang="fr">Saison:1 - Episode:2 - Vanessa, la fille de Chloé, est loin de goûter ce changement de vie radical. Sa seule obsession, quitter La Réunion au plus vite pour retrouver sa «vraie» vie et ses amis à Roubaix ! Elle se comporte de manière insupportable dans l'espoir d'être renvoyée en métropole. Face à cette attitude, c'est Victoire, l'épouse d'Antoine, qui craque la première en lui donnant une gifle. Entre Chloé et Victoire, cette gifle sonne le début d'une guerre des mères où travail en famille et zizanie ne font pas bon ménage... - Critique : Par ces temps confinés, quelle meilleure idée que de se lancer dans le visionnage d’une série tournée sous les alizés ? Lui préférer une série dotée d’un scénario inventif et de dialogues malins, même tournée dans un sous-marin. Tablant sans doute sur la popularité de ses comédiennes principales et l’attrait généralement exercé par le bleu des lagons, Réunions a cru pouvoir s’en passer. Une erreur, manifestement.
@@ -3921,7 +4559,7 @@ Sans la petite musique sautillante typique des comédies mal assurées, on n’a
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200502223500 +0200" stop="20200503001300 +0200">
+  <programme channel="C160.api.telerama.fr" start="20200502223400 +0200" stop="20200503001200 +0200">
     <title>Fais danser la poussière</title>
     <desc lang="fr">Maya, une petite métisse, se sent différente des autres enfants. Sa mère est blanche et son père, qu'elle n'a jamais connu, est noir. Lorsque sa mère se remarie, Maya vit dans une famille où tout le monde est blanc. Mal dans sa peau, l'enfant s'investit totalement dans sa passion : la danse... - Critique : Maya est une métisse afro-bretonne dont le père est parti avant sa naissance et qui a grandi sous le racisme. Sa mère a refait sa vie avec un bourgeois « vieille France » dont elle supporte mal l’autorité. Maya trouve son salut dans la danse et intègre une compagnie new-yorkaise. Mais alors que la gloire est proche, elle se blesse. Virée sans ménagement, elle rentre en France, où sa mère se meurt…
 
@@ -4063,17 +4701,6 @@ Fais danser la poussière se révèle même d’un réalisme cru dans son évoca
     <category lang="fr">magazine de reportages</category>
     <length units="minutes">70</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/887f650c-61b9-4965-b463-a9b6b89e7ea2.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C192.api.telerama.fr" start="20200502155500 +0200" stop="20200502160000 +0200">
-    <title>Grands reportages</title>
-    <sub-title>PNC aux portes. Dans les coulisses d'un vol</sub-title>
-    <desc lang="fr">Pilotes de lignes, hôtesses, stewards, des métiers qui font rêver. Le revers de la médaille : la séparation d'avec les familles, les longues journées, le décalage horaire. Yves, commandant de bord, Tania, chef de cabine, et Céline, hôtesse de l'air, font partager la vie du personnel navigant et les coulisses d'un vol commercial.</desc>
-    <category lang="fr">magazine de reportages</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -4267,17 +4894,51 @@ Fais danser la poussière se révèle même d’un réalisme cru dans son évoca
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C195.api.telerama.fr" start="20200502120500 +0200" stop="20200502143000 +0200">
+  <programme channel="C195.api.telerama.fr" start="20200502120500 +0200" stop="20200502133000 +0200">
     <title>Quotidien</title>
     <desc lang="fr">Entouré de son équipe, Yann Barthès anime une grande session d'information qui mêle humour et impertinence. Politique française et internationale, médias, culture, sport : tous les sujets sont passés en revue. A chaque émission, l'équipe a carte blanche pour traiter l'actualité à sa façon.</desc>
     <category lang="fr">divertissement</category>
-    <length units="minutes">145</length>
+    <length units="minutes">85</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8925fc13-1422-4e4e-a4b4-95b9bb6e3ee3.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C195.api.telerama.fr" start="20200502143000 +0200" stop="20200502151500 +0200">
+  <programme channel="C195.api.telerama.fr" start="20200502133000 +0200" stop="20200502141500 +0200">
+    <title>Cold Case</title>
+    <sub-title>Requiem pour un privé</sub-title>
+    <desc lang="fr">Saison:7 - Episode:12 - Sur un chantier, les restes décomposés d'un corps humain sont retrouvés. Le légiste parvient à identifier le malheureux : il s'agit du détective privé Harry Denton. Il avait disparu sans laisser de traces depuis plusieurs années. L'équipe de Lilly Rush décide d'ouvrir une enquête. Juste avant sa mort, Denton travaillait sur une affaire que lui avait confiée Wilson Katz, un ami avocat : Bunny Hargreave, fille d'une famille aisée, avait fugué. Tout indiquait qu'elle cachait un lourd secret. Caroline Hargreave, sa mère, voulait qu'on la retrouve le plus vite possible. Lilly découvre que Denton avait compris que cette femme ne lui disait pas toute la vérité...</desc>
+    <credits>
+      <director>John Finn</director>
+      <actor>James McCaffrey</actor>
+      <actor>Kathryn Morris</actor>
+      <actor>Dorian Harewood</actor>
+      <actor>Thom Barry</actor>
+      <actor>Tracie Thoms</actor>
+      <actor>Fay Hauser</actor>
+      <actor>John Finn</actor>
+      <actor>Jeremy Ratchford</actor>
+      <actor>Jeff Kaake</actor>
+      <actor>Danny Pino</actor>
+      <actor>Julianna Guill</actor>
+      <actor>Shawn Weatherly</actor>
+      <writer>Meredith Stiehm</writer>
+      <writer>Elwood Reid</writer>
+      <guest>Daniel Baldwin</guest>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/37ef415b-6f28-43e3-a686-da30f12ba932.jpg" />
+    <episode-num system="xmltv_ns">6.11.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C195.api.telerama.fr" start="20200502141500 +0200" stop="20200502145500 +0200">
     <title>Cold Case</title>
     <sub-title>Le roi des tagueurs</sub-title>
     <desc lang="fr">Saison:7 - Episode:13 - L'équipe de Lilly Rush mobilise ses compétences afin de reprendre une enquête sur le meurtre d'un tagueur, commis en 1983. Par ailleurs, Jarrod, l'ex-époux de Kat, refait surface. Désormais remarié, il demande à pouvoir bénéficier d'un simple droit de visite pour sa fille. Kat ne s'attendait pas à une telle démarche de la part de son ex-mari. De son côté, Valens décide de ne pas abandonner ses investigations. Comment pourrait-il renoncer à trouver l'auteur de l'agression dont sa mère a été victime ?...</desc>
@@ -4305,7 +4966,7 @@ Fais danser la poussière se révèle même d’un réalisme cru dans son évoca
       <guest>Daniel Baldwin</guest>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">45</length>
+    <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a9b8c094-e089-40b5-8952-a14cf9ba917a.jpg" />
     <episode-num system="xmltv_ns">6.12.</episode-num>
     <audio>
@@ -4317,7 +4978,7 @@ Fais danser la poussière se révèle même d’un réalisme cru dans son évoca
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C195.api.telerama.fr" start="20200502151500 +0200" stop="20200502160500 +0200">
+  <programme channel="C195.api.telerama.fr" start="20200502145500 +0200" stop="20200502154000 +0200">
     <title>Cold Case</title>
     <sub-title>Métamorphose</sub-title>
     <desc lang="fr">Saison:7 - Episode:14 - L'équipe de Lilly Rush se mobilise afin de rouvrir une mystérieuse affaire survenue au début des années 1970. Mais rouvrir l'enquête sur la mort de Mia Romanov n'est pas chose aisée, tant le souvenir laissé par le décès de cette adolescente demeure vivace. Lilly apprend les circonstances de sa mort : en 1971, Mia a succombé après une chute effectuée lors d'un numéro particulièrement périlleux. La défunte était acrobate dans un cirque très populaire. S'agissait-il réellement d'un accident ? Parallèlement, Lilly est soupçonnée du meurtre d'un de ses vieux ennemis...</desc>
@@ -4337,7 +4998,7 @@ Fais danser la poussière se révèle même d’un réalisme cru dans son évoca
       <writer>Adam Glass</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">50</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c9d7344a-0a27-4129-a9bf-1379368e9078.jpg" />
     <episode-num system="xmltv_ns">6.13.</episode-num>
     <audio>
@@ -4348,7 +5009,7 @@ Fais danser la poussière se révèle même d’un réalisme cru dans son évoca
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C195.api.telerama.fr" start="20200502160500 +0200" stop="20200502165500 +0200">
+  <programme channel="C195.api.telerama.fr" start="20200502154000 +0200" stop="20200502162500 +0200">
     <title>Cold Case</title>
     <sub-title>Deux mariages</sub-title>
     <desc lang="fr">Saison:7 - Episode:15 - Le 22 juin 2008, Dan Palmer et Anna Coulson s'apprêtaient à convoler en justes noces le lendemain. Mais le marié changea d'avis. Son cadavre fut retrouvé le soir même au pied des escaliers de l'hôtel. L'enquête avait alors conclu qu'il avait été poussé du dixième étage de sa chambre d'hôtel, vers 3H15 du matin. Le meurtrier n'avait pas été arrêté. Aujourd'hui Anna Coulson est à la veille de se marier avec un policier, Louie Amante. Ce dernier a invité ses collègues dont Lilly et ses coéquipiers. Ils décident de mener, durant la cérémonie, une enquête discrète sur ce qui s'est passé deux ans plus tôt...</desc>
@@ -4368,7 +5029,7 @@ Fais danser la poussière se révèle même d’un réalisme cru dans son évoca
       <writer>Meredith Stiehm</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">50</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/46013f2a-d539-4620-8b41-27762b094b4a.jpg" />
     <episode-num system="xmltv_ns">6.14.</episode-num>
     <audio>
@@ -4379,7 +5040,7 @@ Fais danser la poussière se révèle même d’un réalisme cru dans son évoca
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C195.api.telerama.fr" start="20200502165500 +0200" stop="20200502174500 +0200">
+  <programme channel="C195.api.telerama.fr" start="20200502162500 +0200" stop="20200502171500 +0200">
     <title>Cold Case</title>
     <sub-title>Catch Hardcore</sub-title>
     <desc lang="fr">Saison:7 - Episode:16 - L'enquête sur l'assassinat de Mick Malone est rouverte par l'équipe de Lilly Rush. En effet, cet employé des docks, qui participait à des combats de catch illégaux, avait été tué dans des circonstances troubles. Père d'un garçon de 9 ans, il n'avait cependant rien à se reprocher. Pourtant, son ascension fulgurante avait posé problème à ceux qui espéraient gagner de l'argent à bon compte. Lilly comprend que le défunt ne se préoccupait pas de ces considérations. Il voulait surtout montrer à son fils qu'il n'était pas un perdant. De son côté, Valens suit une nouvelle piste qui pourrait le mener à l'agresseur de sa mère...</desc>
@@ -4411,7 +5072,7 @@ Fais danser la poussière se révèle même d’un réalisme cru dans son évoca
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C195.api.telerama.fr" start="20200502174500 +0200" stop="20200502183000 +0200">
+  <programme channel="C195.api.telerama.fr" start="20200502171500 +0200" stop="20200502180000 +0200">
     <title>Cold Case</title>
     <sub-title>Enquête hors cadre</sub-title>
     <desc lang="fr">Saison:7 - Episode:17 - John Stillman doit aider Diane Yates, une vieille connaissance qui enquête pour le FBI. Elle souhaite obtenir le dossier du meurtre de Mel Shaver, qui a été abattu en 2009, alors qu'il promenait son chien. Lilly et Yates se retrouvent chez la veuve de ce malheureux. Mais l'agent du FBI se montre beaucoup trop brusque lors de cet interrogatoire informel. De son côté, Nick Vera se met en tête d'élucider une affaire d'incendie criminel survenu en 2006. Un homme, considéré comme responsable, avait bien été envoyé en prison. Mais il a été assassiné par ses codétenus. Nick disparaît, laissant ses collègues inquiets...</desc>
@@ -4449,7 +5110,7 @@ Fais danser la poussière se révèle même d’un réalisme cru dans son évoca
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C195.api.telerama.fr" start="20200502183000 +0200" stop="20200502191500 +0200">
+  <programme channel="C195.api.telerama.fr" start="20200502180000 +0200" stop="20200502184500 +0200">
     <title>Cold Case</title>
     <sub-title>Dans la ligne de mire</sub-title>
     <desc lang="fr">Saison:7 - Episode:18 - Le 17 juin 1980, dans un cinéma en plein air de Darby View, deux adolescents regardent «A l'Est d'Eden». Le jeune homme sort pour baisser la capote lorsqu'un coup de feu éclate. L'adolescent s'écroule, tué d'une balle dans le dos. Stillman reçoit la visite de Diane Yates, agent spécial du FBI. La jeune femme, qui a eu une liaison avec Stillman par le passé, s'intéresse à l'un des dossiers de l'inspecteur Rush. Il s'agit du meurtre de Ned Shaver, un conseiller fiscal. Les faits remontent à cinq mois. Lors d'une reconstitution, Yates récupère la balle du crime. Elle est convaincue que l'assassin de l'adolescent sévit à nouveau...</desc>
@@ -4480,6 +5141,38 @@ Fais danser la poussière se révèle même d’un réalisme cru dans son évoca
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C195.api.telerama.fr" start="20200502184500 +0200" stop="20200502191500 +0200">
+    <title>Cold Case</title>
+    <sub-title>La mort en héritage</sub-title>
+    <desc lang="fr">Saison:7 - Episode:19 - Lilly Rush et Diane Yates sont à la poursuite du tueur en série qui terrorise Philadelphie. Le psychopathe massacre ses victimes en imitant les crimes commis par Bill Shepard. Or, ce criminel s'est suicidé trente ans plus tôt. Rush constate que certains éléments n'avaient pas été mis en perspective. Au fil des investigations, elle découvre la raison profonde pour laquelle Yates s'acharne autant à retrouver la trace du tueur en série : sa première victime est morte dans ses bras. Ce douloureux souvenir lui rend la vie insupportable. Yates s'est juré de faire en sorte que justice soit rendue...</desc>
+    <credits>
+      <director>John F Showalter</director>
+      <actor>Max Wright</actor>
+      <actor>Kathryn Morris</actor>
+      <actor>Anne Schedeen</actor>
+      <actor>Susanna Thompson</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+      <actor>Thom Barry</actor>
+      <actor>Tracie Thoms</actor>
+      <actor>George Finn</actor>
+      <actor>JB Blanc</actor>
+      <writer>Tom Patchett</writer>
+      <writer>Meredith Stiehm</writer>
+      <writer>Christopher Silber</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c9b689df-e625-4324-93f3-b9eb93641c33.jpg" />
+    <episode-num system="xmltv_ns">6.18.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
   <programme channel="C195.api.telerama.fr" start="20200502191500 +0200" stop="20200502200500 +0200">
@@ -4973,6 +5666,9 @@ Présence physique, puissance de conviction, chaleur de la voix (sans le grain r
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme channel="C234.api.telerama.fr" start="20200502215700 +0200" stop="20200502223200 +0200">
     <title>Le mythe Philippe Seguin</title>
@@ -5847,15 +6543,6 @@ Présence physique, puissance de conviction, chaleur de la voix (sans le grain r
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200502003000 +0200" stop="20200502070000 +0200">
-    <title>Programmes de la nuit</title>
-    <category lang="fr">programme indéterminé</category>
-    <length units="minutes">390</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C445.api.telerama.fr" start="20200502070000 +0200" stop="20200502090000 +0200">
     <title>Télé-achat</title>
     <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
@@ -5946,6 +6633,9 @@ Présence physique, puissance de conviction, chaleur de la voix (sans le grain r
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
   </programme>
   <programme channel="C445.api.telerama.fr" start="20200502230000 +0200" stop="20200503012000 +0200">
     <title>Jérémy Ferrari : Vends 2 pièces à Beyrouth</title>
@@ -7836,6 +8526,277 @@ Présence physique, puissance de conviction, chaleur de la voix (sans le grain r
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502004500 +0200" stop="20200502060000 +0200">
+    <title>Programmes de la nuit</title>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">315</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502060000 +0200" stop="20200502090000 +0200">
+    <title>Télé-achat</title>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="hours">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502090000 +0200" stop="20200502095000 +0200">
+    <title>Snapped : les couples tueurs</title>
+    <sub-title>Vincent &amp; Bowling</sub-title>
+    <desc lang="fr">A 27 ans, Rose est mariée et mère de trois enfants. Mais la jeune femme entretient une relation avec un certain Mark avec qui elle a prévu de s'enfuire. Si leur relation est née d'un coup de foudre, elle semble s'éterniser et lasser les deux amants jusqu'à ce que la femme de Mark soit abattue dans son garage.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2ac4135a-8721-4ec3-ae97-ed37ed456b84.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502095000 +0200" stop="20200502104000 +0200">
+    <title>Snapped : les couples tueurs</title>
+    <sub-title>Michaud &amp; Kelley</sub-title>
+    <desc lang="fr">Kimberly, une mère venant d'une petite ville, se lance dans une relation avec un ancien détenu au charme sauvage. Mais très vite Kimberly est arrêtée, avec son amant, pour un triple meurtre. La jeune femme va alors apprendre de façon dramatique ce que veut dire «être au mauvais endroit, au mauvais moment».</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/caa78126-7795-4877-8b41-8ecf5244dc32.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502104000 +0200" stop="20200502113000 +0200">
+    <title>Snapped : les couples tueurs</title>
+    <sub-title>Barbour</sub-title>
+    <desc lang="fr">Lorsque Miranda Barbour rencontre Elytte Barber, sa vie prend un nouveau départ. Jusqu'au jour où une enquête sur le meurtre d'un certain Troy révèle que le soir où il a été tué, il a sollicité Miranda pour des services sexuels, et ce par l'intermédiaire d´une annonce qu'elle a mise en ligne.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2ac4135a-8721-4ec3-ae97-ed37ed456b84.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502113000 +0200" stop="20200502122000 +0200">
+    <title>Snapped : les couples tueurs</title>
+    <sub-title>Coggins-Johnson &amp; Barker</sub-title>
+    <desc lang="fr">Lorsque Tony Takazato, le fils d'un producteur hollywoodien, est retrouvé mort à son domicile, les rumeurs ciblent sa vieille amie Chie et un triangle amoureux fatal. Cette série met en avant des couples dévorés par une passion qui leur a fait commettre l'irréparable soit disant au nom de l'amour.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2ac4135a-8721-4ec3-ae97-ed37ed456b84.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502122000 +0200" stop="20200502131000 +0200">
+    <title>Snapped : les couples tueurs</title>
+    <sub-title>Frank &amp; Lacaze</sub-title>
+    <desc lang="fr">Le coup de foudre entre un agent de police et un criminel qui mènera à un triple meurtre.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2ac4135a-8721-4ec3-ae97-ed37ed456b84.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502131000 +0200" stop="20200502140000 +0200">
+    <title>Snapped : les couples tueurs</title>
+    <sub-title>Williams</sub-title>
+    <desc lang="fr">Eric et Kim, qui forment un couple passionné et puissant, se retrouvent empêtrés dans un scandale. Six mois plus tard, deux procureurs ayant condamné Eric sont mystérieusement assassinés. Cette série met en avant des couples dévorés par une passion qui leur a fait commettre l'irréparable au nom de l'amour.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2ac4135a-8721-4ec3-ae97-ed37ed456b84.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502140000 +0200" stop="20200502145000 +0200">
+    <title>Snapped : connexion mortelle</title>
+    <sub-title>Ludemann &amp; Wade</sub-title>
+    <desc lang="fr">Sarah Ludemann pensait avoir trouvé la perle rare jusqu'au jour où elle apprend que son petit ami la trompe avec une autre fille. Les médias sociaux deviennent alors un champ de bataille où tous les coups sont permis. La jalousie pousse à proférer des menaces. Les conséquences ne se font pas attendre dans la vie réelle.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3cedc24f-229f-4a86-b18d-62ec4de16c8d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502145000 +0200" stop="20200502154000 +0200">
+    <title>Snapped : connexion mortelle</title>
+    <sub-title>Belomesoff &amp; Dannevig</sub-title>
+    <desc lang="fr">Nona est une jeune adolescente passionnée par les animaux. Un jour, elle accepte une demande d'ami d'un certain Jason Green sur les réseaux sociaux. Celui-ci lui propose de participer à une formation. Mais, quand les parents de Nona viennent la chercher après une journée au centre, la jeune femme est introuvable.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3cedc24f-229f-4a86-b18d-62ec4de16c8d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502154000 +0200" stop="20200502164500 +0200">
+    <title>Sous les jupons de l'histoire</title>
+    <sub-title>Camille Claudel</sub-title>
+    <desc lang="fr">Saison:5 - Depuis le château de l'Islette, Christine Bravo soulève les jupons de celle qui fut la muse et la maîtresse de Rodin : Camille Claudel.</desc>
+    <category lang="fr">magazine historique</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/19eadbf0-9aa4-4b37-87e5-7295c0b39af0.jpg" />
+    <episode-num system="xmltv_ns">4..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502164500 +0200" stop="20200502175000 +0200">
+    <title>Sous les jupons de l'histoire</title>
+    <sub-title>Joséphine Baker</sub-title>
+    <desc lang="fr">Saison:5 - Depuis le château des Milandes, en Dordogne, Christine Bravo soulève les jupons de la plus américaine des Françaises : l'indomptable Joséphine Baker.</desc>
+    <category lang="fr">magazine historique</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e5dedf5c-17ad-48e6-89ad-b3afd6d1d521.jpg" />
+    <episode-num system="xmltv_ns">4..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502175000 +0200" stop="20200502185500 +0200">
+    <title>Sous les jupons de l'histoire</title>
+    <sub-title>La duchesse d'Alençon</sub-title>
+    <desc lang="fr">Saison:5 - Depuis le Château de Chantilly, Christine Bravo soulève les Jupons de la petite soeur préférée de Sissi l'Impératrice : la duchesse au destin tragique, Sophie d'Alençon. De la bibliothèque privée à la chapelle en passant par les jardins du château, Christine raconte les scandales, trahisons et crêpages de chignons en feuilletant le seul magazine féminin de l'histoire : sexo, mode, beauté, santé, cuisine, loisirs... Scoops, pia-pia et frou-frou garantis.</desc>
+    <category lang="fr">magazine historique</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/19eadbf0-9aa4-4b37-87e5-7295c0b39af0.jpg" />
+    <episode-num system="xmltv_ns">4..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502185500 +0200" stop="20200502195500 +0200">
+    <title>Sous les jupons de l'histoire</title>
+    <sub-title>La comtesse de Castiglione</sub-title>
+    <desc lang="fr">Saison:5 - Depuis le Palais Impérial de Compiègne, Christine Bravo soulève les Jupons de la maîtresse de Napoléon III et «plus belle femme de son siècle» : l'intrigante comtesse de Castiglione. De la galerie de bal aux jardins du Palais, en passant par les chambres des séries de Compiègne, Christine raconte les scandales, trahisons et crêpages de chignons en feuilletant le seul magazine féminin de l'histoire : sexo, mode, beauté, santé, cuisine, loisirs...</desc>
+    <category lang="fr">magazine historique</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e5dedf5c-17ad-48e6-89ad-b3afd6d1d521.jpg" />
+    <episode-num system="xmltv_ns">4..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502195500 +0200" stop="20200502210500 +0200">
+    <title>Sous les jupons de l'histoire</title>
+    <sub-title>La marquise de Brinvilliers</sub-title>
+    <desc lang="fr">Saison:5 - Depuis le château de Fontainebleau, Christine Bravo soulève les jupons de la plus célèbre empoisonneuse du règne de Louis XIV : la marquise de Brinvilliers.</desc>
+    <category lang="fr">magazine historique</category>
+    <length units="minutes">70</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e5dedf5c-17ad-48e6-89ad-b3afd6d1d521.jpg" />
+    <episode-num system="xmltv_ns">4..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502210500 +0200" stop="20200502221500 +0200">
+    <title>The White Queen</title>
+    <sub-title>Les princes dans la tour</sub-title>
+    <desc lang="fr">Saison:1 - Episode:9 - Se méfiant de ses adversaires, Richard tente d'amadouer ceux qui, pense-t-il, peuvent lui être utiles, notamment lord Stanley, duc de Buckingham, et sir Brackenbury. Anne se rend chez Brackenbury en cachette de son mari pour lui faire part de ses inquiétudes : elle craint pour la sûreté de la couronne tant que les princes seront vivants. Elizabeth, elle, accepte l'offre que lui fait Margaret, dont le fils est maintenant fiancé à sa propre fille. Mais la tentative échoue : Elizabeth, apprenant que les garçons sont morts, croit avoir été dupée par Margaret. Elle ourdit une vengeance grâce à la sorcellerie...</desc>
+    <credits>
+      <director>Colin Teague</director>
+      <actor>Aneurin Barnard</actor>
+      <actor>Faye Marsay</actor>
+      <actor>Rebecca Ferguson</actor>
+      <actor>Arthur Darvill</actor>
+      <actor>Shaun Dooley</actor>
+      <actor>Amanda Hale</actor>
+      <actor>Rupert Graves</actor>
+      <actor>Ashley Charles</actor>
+      <writer>Philippa Gregory</writer>
+      <writer>Emma Frost</writer>
+    </credits>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">70</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9b2679fc-93d8-4e5a-97ec-b4385f9ef150.jpg" />
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502221500 +0200" stop="20200502233000 +0200">
+    <title>The White Queen</title>
+    <sub-title>La dernière bataille</sub-title>
+    <desc lang="fr">Saison:1 - Episode:10 - La santé de la reine Anne se détériore inexorablement depuis la mort de son fils Edouard et la trahison de son mari, qui a noué une relation amoureuse avec Lizzie. Elle se réconcilie avec Elizabeth, lui assurant qu'elle n'est pour rien dans les décès de ses deux garçons. Peu après, elle succombe...</desc>
+    <credits>
+      <director>Colin Teague</director>
+      <actor>Aneurin Barnard</actor>
+      <actor>Rebecca Ferguson</actor>
+      <actor>Faye Marsay</actor>
+      <actor>Amanda Hale</actor>
+      <actor>Shaun Dooley</actor>
+      <actor>Michael Marcus</actor>
+      <actor>Andrew Gower</actor>
+      <actor>Freya Mavor</actor>
+      <writer>Philippa Gregory</writer>
+      <writer>Emma Frost</writer>
+    </credits>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">75</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/709d726c-0f6b-4614-92c6-a809dfcb8539.jpg" />
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C1399.api.telerama.fr" start="20200502233000 +0200" stop="20200503002500 +0200">
+    <title>Medium</title>
+    <sub-title>Le mal à la racine</sub-title>
+    <desc lang="fr">Saison:5 - Episode:7 - Grâce au retour du fantôme de l'agent Cooper, Allison fournit des informations à Devalos, qui permettent l'arrestation d'un meurtrier recherché pour plusieurs crimes. Ses indices s'étant révélés exacts, Allison ne remet plus en question ce que Cooper lui soumet. Pourtant, lorsque les rêves d'Allison se portent sur un garçon qui obligerait des personnes à mettre fin à leurs jours, Manuel et Lee ne semblent pas d'accord avec elle. De son côté, Joe est réticent à l'idée d'embaucher une personne recommandée par son employeur. Dotée des mêmes facultés que sa mère, Ariel découvre qui est réellement à l'origine de cette initiative...</desc>
+    <credits>
+      <director>Vincent Misiano</director>
+      <actor>Patricia Arquette</actor>
+      <actor>Miguel Sandoval</actor>
+      <actor>Kurtwood Smith</actor>
+      <actor>Maria Lark</actor>
+      <actor>Jake Weber</actor>
+      <actor>Sofia Vassilieva</actor>
+      <actor>David Cubitt</actor>
+      <actor>Charlie McDermott</actor>
+      <writer>Glenn Gordon Caron</writer>
+      <writer>Matt Witten</writer>
+    </credits>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d94f7a18-4239-464a-be14-fd790442344d.jpg" />
+    <episode-num system="xmltv_ns">4.6.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
   <programme channel="C1400.api.telerama.fr" start="20200502010500 +0200" stop="20200502055000 +0200">
     <title>Fin des programmes</title>
     <category lang="fr">fin</category>
@@ -8158,7 +9119,7 @@ Présence physique, puissance de conviction, chaleur de la voix (sans le grain r
     <title>Automobilisme (Spa Classic 2014)</title>
     <category lang="fr">automobilisme</category>
     <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a2aed0ef-b3f5-4693-84cf-3ed6b89f9f85.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/08f1ec55-e606-4b15-b37a-b2616e7caf7f.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8167,7 +9128,7 @@ Présence physique, puissance de conviction, chaleur de la voix (sans le grain r
     <title>Automobilisme (Spa Classic 2015)</title>
     <category lang="fr">automobilisme</category>
     <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a2aed0ef-b3f5-4693-84cf-3ed6b89f9f85.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/08f1ec55-e606-4b15-b37a-b2616e7caf7f.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8221,7 +9182,7 @@ Présence physique, puissance de conviction, chaleur de la voix (sans le grain r
     <title>Automobilisme (Spa Classic 2014)</title>
     <category lang="fr">automobilisme</category>
     <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a2aed0ef-b3f5-4693-84cf-3ed6b89f9f85.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/08f1ec55-e606-4b15-b37a-b2616e7caf7f.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -8231,7 +9192,7 @@ Présence physique, puissance de conviction, chaleur de la voix (sans le grain r
     <title>Automobilisme (Spa Classic 2015)</title>
     <category lang="fr">automobilisme</category>
     <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a2aed0ef-b3f5-4693-84cf-3ed6b89f9f85.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/08f1ec55-e606-4b15-b37a-b2616e7caf7f.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -9442,16 +10403,6 @@ version zombie de Milhouse...</desc>
     <title>France 24</title>
     <category lang="fr">magazine d'information</category>
     <length units="minutes">359</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C2111.api.telerama.fr" start="20200502055900 +0200" stop="20200502083300 +0200">
-    <title>10h week-end</title>
-    <desc lang="fr">Entre JT, chroniques, invités et revues de presse, un panorama de l'actualité du jour.</desc>
-    <category lang="fr">magazine d'information</category>
-    <length units="minutes">154</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
