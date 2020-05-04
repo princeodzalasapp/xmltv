@@ -32,6 +32,15 @@
     <display-name>Ketnet</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
   </channel>
+  <programme channel="C1280.api.telerama.fr" start="20200506190500" stop="20200507040000">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">535</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/88b88b09-1af1-4e76-8466-c06c9ac324d7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C23.api.telerama.fr" start="20200506235500" stop="20200507070000">
     <title>Journaallus</title>
     <sub-title>Het journaal laat</sub-title>
@@ -791,7 +800,7 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200506233600" stop="20200507002000">
+  <programme channel="C164.api.telerama.fr" start="20200506232900" stop="20200507001300">
     <title>On n'est pas des pigeons</title>
     <desc lang="fr">Présenté par Benjamin Maréchal, On n'est pas des pigeons ! décrypte les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire " pigeonner ". Les chroniqueurs dénichent les arnaques et les bons plans, et vous aident à boucler vos fins de mois.</desc>
     <category lang="fr">magazine du consommateur</category>
@@ -802,22 +811,22 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200507002000" stop="20200507002400">
+  <programme channel="C164.api.telerama.fr" start="20200507001300" stop="20200507001600">
     <title>Météo</title>
     <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
     <category lang="fr">météo</category>
-    <length units="minutes">4</length>
+    <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200507002400" stop="20200507035900">
+  <programme channel="C164.api.telerama.fr" start="20200507001600" stop="20200507035900">
     <title>JT 19h30</title>
     <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">215</length>
+    <length units="minutes">223</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -884,11 +893,11 @@
   </programme>
   <programme channel="C164.api.telerama.fr" start="20200507094500" stop="20200507102700">
     <title>Les feux de l'amour</title>
-    <desc lang="fr">Episode:5545 - Nick avoue à Chelsea qu'il a saboté la console de mixage, afin que le concert de Nikki n'ait pas lieu. Il ne veut pas qu'elle souffre plus. Pour faire une surprise à sa femme, Victor organise son interview avec Hilary. Nikki est embarrassée mais elle accepte car c'est pour la bonne cause, la sclérose en plaques. Abby se démène avec son régisseur, afin que la panne soit détectée et réparée, pour que le concert ne soit pas annulé par l'inspecteur. Chloe angoisse à l'idée que Victor la retrouve. Kevin la rassure. Juliet annonce à Cane et Lily que c'est bien lui le père de son enfant, mais qu'elle n'attend rien de lui. Elle compte l'élever seule, ce qui ne plait pas à Lily. William est soucieux de la hausse de travail qu'il y a chez Pêche d'Enfer, depuis le départ de Cane. Phyllis essaie de lui changer les idées.</desc>
+    <desc lang="fr">Episode:202 - Nick avoue à Chelsea qu'il a saboté la console de mixage, afin que le concert de Nikki n'ait pas lieu. Il ne veut pas qu'elle souffre plus. Pour faire une surprise à sa femme, Victor organise son interview avec Hilary. Nikki est embarrassée mais elle accepte car c'est pour la bonne cause, la sclérose en plaques. Abby se démène avec son régisseur, afin que la panne soit détectée et réparée, pour que le concert ne soit pas annulé par l'inspecteur. Chloe angoisse à l'idée que Victor la retrouve. Kevin la rassure. Juliet annonce à Cane et Lily que c'est bien lui le père de son enfant, mais qu'elle n'attend rien de lui. Elle compte l'élever seule, ce qui ne plait pas à Lily. William est soucieux de la hausse de travail qu'il y a chez Pêche d'Enfer, depuis le départ de Cane. Phyllis essaie de lui changer les idées.</desc>
     <category lang="fr">feuilleton sentimental</category>
     <length units="minutes">42</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5da63861-c2f5-4813-8e45-82a5756ddde3.jpg" />
-    <episode-num system="xmltv_ns">.5544.</episode-num>
+    <episode-num system="xmltv_ns">.201.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -916,7 +925,7 @@
   <programme channel="C164.api.telerama.fr" start="20200507104000" stop="20200507105800">
     <title>Chez vous, avec vous</title>
     <desc lang="fr">Dès 12h40, retrouvez François de Brigode (en alternance avec Nathalie Maleux) pour une séquence qui vous informe et vous met en lumière, vous qui aidez les malades ou qui aidez les belges confinés en difficulté. Grâce à une interview quotidienne du personnel "au front" (médecin, infirmier, ambulancier, chef de clinique...), la séquence se place au cœur de la lutte contre le Covid. Elle vous offre aussi les derniers chiffres qui seront détaillés et analysés par Sacha Daout en plateau. Chaque jour, un acteur essentiel de notre société sera en plateau pour un point sur une des facettes de la crise sanitaire. Et chaque jour également, focus sur une opération de solidarité en Wallonie ou à Bruxelles car si vous êtes confinés, vous n'êtes pas seuls. La RTBF est là pour vous et avec vous !</desc>
-    <category lang="fr">magazine magazine médical</category>
+    <category lang="fr">magazine médical</category>
     <length units="minutes">18</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/eb51eb89-2df1-4eb8-be72-c33b962ad89a.jpg" />
     <rating system="CSA">
@@ -1017,7 +1026,7 @@
     <desc lang="fr">Les ingrédients de ce rendez-vous culinaire sont la simplicité, le dynamisme et la bonne humeur, en compagnie du chef Gerald Watelet et d'Adrien Devyver. Le duo de choc, soutenu par une belle brochette de chroniqueurs, promet une cuisine accessible et conviviale et des conseils en tout genre.</desc>
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">44</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b329c324-3f42-4627-978d-f89069e50beb.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1243,11 +1252,33 @@
   <programme channel="C168.api.telerama.fr" start="20200507102500" stop="20200507103000">
     <title>Martin bonheur</title>
     <sub-title>Le biscuit génoise du chef</sub-title>
-    <desc lang="fr">Le Chef David Martin nous accueille dans la cuisine de sa maison. Il nous apprend aujourd'hui à faire un biscuit génoise.</desc>
+    <desc lang="fr">Le chef cuisinier David Martin accueille les téléspectateurs dans la cuisine de sa maison pour leur faire goûter ses plats.</desc>
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
     <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20200507103000" stop="20200507103500">
+    <title>Coûte que coûte</title>
+    <sub-title>Textile : pourquoi se fournir à l'étranger ?</sub-title>
+    <desc lang="fr">Une équipe de l'émission a suivi des femmes qui se sont lancées dans le domaine du textile et qui se fournissent à l'étranger. Du dernier défilé de Dior aux collections de chez Zara, les plus grands couturiers s'arrachent le «wax», le tissu africain par excellence. Rencontre avec deux Belges, qui créent des vêtements originaux, taillés à partir de tissus provenant exclusivement d'Afrique, plus précisément du Sénégal. Leur marque s'appelle les Siztaz, et leur but est de créer des ponts entre l'Afrique et la Belgique. Mais leur parcours est loin d'être simple.</desc>
+    <category lang="fr">magazine de l'économie</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b06defc2-afe5-4b4c-aaed-4198d6c3e5de.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20200507103500" stop="20200507104500">
+    <title>Belges à domicile</title>
+    <desc lang="fr">"Belges à domicile" donne rendez-vous chaque jour pour vivre le lockdown de manière plus positive. Différents animateurs de RTL TVI proposent, de chez eux, des séquences informatives et humoristiques.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1263,18 +1294,18 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200507110000" stop="20200507112000">
+  <programme channel="C168.api.telerama.fr" start="20200507110000" stop="20200507112500">
     <title>RTL info 13 heures</title>
     <desc lang="fr">L'information est au cœur de RTL TVI. Cette année plus que jamais, l'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200507113500" stop="20200507115000">
+  <programme channel="C168.api.telerama.fr" start="20200507112500" stop="20200507114000">
     <title>Météo</title>
     <desc lang="fr">Quel temps fera-t-il demain ? Nos bulletins météo vous tiennent au courant des prévisions. La pluie et le beau temps, annoncés par nos spécialistes.</desc>
     <category lang="fr">météo</category>
@@ -1285,7 +1316,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200507115000" stop="20200507132500">
+  <programme channel="C168.api.telerama.fr" start="20200507114000" stop="20200507132000">
     <title>Ma fille, sous l'emprise de son petit ami</title>
     <desc lang="fr">Becky, une adolescente, fait partie de l'équipe des cheerleaders de son lycée, un groupe dirigée par l'énergique madame Flynn. Elle sort avec un nouvel élève, Rob, un garçon charmant et séduisant. Mais Rob est en réalité très perturbé, et son amour pour Becky tourne peu à peu à l'obsession...</desc>
     <credits>
@@ -1301,7 +1332,7 @@
       <writer>Adam Rockoff</writer>
     </credits>
     <category lang="fr">téléfilm de suspense</category>
-    <length units="minutes">95</length>
+    <length units="minutes">100</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a9b0836f-0551-4031-ad37-b6ebdc9821a3.jpg" />
     <premiere />
     <rating system="CSA">
@@ -1309,7 +1340,7 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200507132500" stop="20200507142000">
+  <programme channel="C168.api.telerama.fr" start="20200507132000" stop="20200507141500">
     <title>Les reines du shopping</title>
     <sub-title>Chic pour une soirée au casino</sub-title>
     <desc lang="fr">Lola, Sandrine, Siana, Schérazade et Andréa doivent trouver cette semaine le look idéal pour le thème «chic pour une soirée au casino» avec un budget de 400 euros.</desc>
@@ -1320,10 +1351,10 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200507142000" stop="20200507143000">
+  <programme channel="C168.api.telerama.fr" start="20200507141500" stop="20200507142500">
     <title>Martin bonheur</title>
     <sub-title>Le biscuit génoise du chef</sub-title>
-    <desc lang="fr">Le Chef David Martin nous accueille dans la cuisine de sa maison. Il nous apprend aujourd'hui à faire un biscuit génoise.</desc>
+    <desc lang="fr">Le chef cuisinier David Martin accueille les téléspectateurs dans la cuisine de sa maison pour leur faire goûter ses plats.</desc>
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
@@ -1332,7 +1363,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200507143000" stop="20200507153000">
+  <programme channel="C168.api.telerama.fr" start="20200507142500" stop="20200507152500">
     <title>Les reines du shopping</title>
     <sub-title>Branchée avec un manteau long</sub-title>
     <desc lang="fr">Bonnie, Chrystèle, Sarah, Amal et Maud disposent de 450 euros pour trouver le look idéal afin d'être branchées avec un manteau long.</desc>
@@ -1343,11 +1374,11 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200507153000" stop="20200507163000">
+  <programme channel="C168.api.telerama.fr" start="20200507152500" stop="20200507163000">
     <title>Chasseurs d'appart'</title>
     <desc lang="fr">Saison:6 - " Chasseurs d'appart' " est la 1ère compétition d'agents immobiliers. Animée par Stéphane Plaza, elle oppose trois professionnels aux profils très différents. Pendant une semaine, ces derniers vont s'affronter dans la recherche du bien idéal pour un client commun. Ce dernier choisit ensuite le chasseur d'appartement qui aura le mieux répondu à ses attentes, lui offrant ainsi un point. Si le client dépose un dossier accepté par le vendeur, ce n'est pas un, mais trois points qu'obtient le chasseur immobilier. A la fin de la semaine, la finale qui oppose les deux agents ayant obtenu le plus de points. Le gagnant remporte la jolie somme de 3.000 euros. Stéphane, lui, commentera les visites des différents biens avec le professionnalisme et l'humour qu'on lui connaît.</desc>
     <category lang="fr">jeu</category>
-    <length units="hours">1</length>
+    <length units="minutes">65</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <episode-num system="xmltv_ns">5..</episode-num>
     <premiere />
@@ -1366,40 +1397,49 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200507170000" stop="20200507174000">
+  <programme channel="C168.api.telerama.fr" start="20200507170000" stop="20200507173800">
     <title>RTL info 19 heures</title>
     <desc lang="fr">L'information est au cœur de RTL TVI. Cette année plus que jamais, l'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">40</length>
+    <length units="minutes">38</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200507174000" stop="20200507175000">
+  <programme channel="C168.api.telerama.fr" start="20200507173800" stop="20200507174000">
     <title>Météo</title>
     <desc lang="fr">Quel temps fera-t-il demain ? Nos bulletins météo vous tiennent au courant des prévisions. La pluie et le beau temps, annoncés par nos spécialistes.</desc>
     <category lang="fr">météo</category>
-    <length units="minutes">10</length>
+    <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200507175000" stop="20200507182000">
+  <programme channel="C168.api.telerama.fr" start="20200507174000" stop="20200507175000">
+    <title>Belges à domicile</title>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1d3d4858-dacd-485d-b200-45bfd75e25d4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20200507175000" stop="20200507183000">
     <title>Tout s'explique</title>
     <sub-title>Les robots</sub-title>
     <desc lang="fr">De plus en plus d'innovations dans le domaine de la robotique pourraient changer le quotidien de chacun et même sauver des vies. Des robots volants, sous-marins ou encore miniatures sont disponibles pour aider les équipes de secours dans leurs interventions. Richard Sève, un des meilleurs chocolatiers de France, a décidé de robotiser une partie de sa production et selon lui ce n'est pas une menace pour l'artisanat bien au contraire. Nathan, de son côté, s'intéresse à l'intelligence artificielle et à la robotique en essaim.</desc>
     <category lang="fr">magazine d'information</category>
-    <length units="minutes">30</length>
+    <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dd2a9569-0317-4cc2-9257-679428685364.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200507183000" stop="20200507203500">
+  <programme channel="C168.api.telerama.fr" start="20200507183000" stop="20200507204000">
     <title>Sicario : la guerre des cartels</title>
     <desc lang="fr">Le gouvernement américain veut se débarrasser des cartels mexicains qui font leur loi entre le Mexique et les États-Unis. L'agent fédéral Matt Graver est chargé de les éradiquer. Pour mener à bien sa mission, il veut faire équipe avec Alejandro qui doit enlever la jeune Isabela Reyes, fille du baron d'un des plus gros cartels. Cette manoeuvre est censée déclencher une guerre fratricide entre les gangs. Mais l'operation ne se passe pas comme prévue. Parce qu'elle en a trop vu, Isabela devient gênante. Alejandro refuse de l'éliminer et devient la désormais la cible de Matt Graver et de ses hommes... - Critique : C’était le personnage le plus ambigu et mystérieux du premier volet, réalisé par Denis Villeneuve (2015). Un mercenaire, un soldat, un tortionnaire, rongé par le chagrin, dont la vengeance personnelle rencontrait avantageusement la raison d’État. Alejandro (Benicio Del Toro, plus marmoréen que jamais) reprend du service à la frontière américano-mexicaine pour une mission périlleuse dont il s’est fait le spécialiste : semer illégalement le chaos afin de rétablir un semblant de justice. Le trafic de drogue devenant de moins en moins rentable, les cartels se reconvertissent dans le trafic d’êtres humains. Et au milieu des clandestins se glissent des terroristes islamistes qui menacent la sécurité des États-Unis…
 
@@ -1420,7 +1460,7 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
     </credits>
     <date>2018</date>
     <category lang="fr">film : thriller</category>
-    <length units="minutes">125</length>
+    <length units="minutes">130</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/383352a9-851a-4363-9d2a-363000ad5266.jpg" />
     <premiere />
     <rating system="CSA">
@@ -1431,7 +1471,7 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200507203500" stop="20200507223500">
+  <programme channel="C168.api.telerama.fr" start="20200507204000" stop="20200507224000">
     <title>Top chef</title>
     <sub-title>Episode 11</sub-title>
     <desc lang="fr">Pour la première fois, le sort des candidats va dépendre d'une seule et même personne : le critique culinaire François-Régis Gaudry. En 48 heures, trois binômes vont devoir créer de toute pièce un restaurant : le concept, la décoration et le menu. A la fin de ce délai, le journaliste gastronomique passera devant chaque enseigne et son jugement sera sans appel.</desc>
@@ -1443,15 +1483,15 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506233000" stop="20200507044100">
+  <programme channel="C187.api.telerama.fr" start="20200506233000" stop="20200507044200">
     <title>Boucle de nuit</title>
     <category lang="fr">emission spéciale</category>
-    <length units="minutes">311</length>
+    <length units="minutes">312</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200507044100" stop="20200507050900">
+  <programme channel="C187.api.telerama.fr" start="20200507044200" stop="20200507051000">
     <title>Fit Tonic</title>
     <sub-title>Fit Ball Zen</sub-title>
     <desc lang="fr">Boostez votre journée avec une séance de fitness ! Avec dynamisme et bonne humeur, Stéphanie Dermeaux, notre experte " fitness ", entraîne littéralement les téléspectateurs à suivre 1/2 heure de gym au son d'une musique gaie et stimulante tous les week-ends.</desc>
@@ -1462,12 +1502,12 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200507050900" stop="20200507053700">
+  <programme channel="C187.api.telerama.fr" start="20200507051000" stop="20200507053700">
     <title>Fit Tonic</title>
     <sub-title>Fit Ball Sculpt</sub-title>
     <desc lang="fr">Boostez votre journée avec une séance de fitness ! Avec dynamisme et bonne humeur, Stéphanie Dermaux, notre experte " fitness ", entraîne littéralement les téléspectateurs à suivre 1/2 heure de gym au son d'une musique gaie et stimulante.</desc>
     <category lang="fr">fitness</category>
-    <length units="minutes">28</length>
+    <length units="minutes">27</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ce97d06b-b140-4946-9106-d4df40db8d7c.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1501,7 +1541,7 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200507062800" stop="20200507072200">
+  <programme channel="C187.api.telerama.fr" start="20200507062800" stop="20200507072300">
     <title>Clem</title>
     <sub-title>Secrets de famille</sub-title>
     <desc lang="fr">Saison:8 - Episode:8 - Salomé et Jean Paul s'entendent enfin. Jean-Paul parvient même à trouver à sa fille un stage auprès de Marie-France. Le bonheur semble revenu dans la tribu, jusqu'à ce qu'Adrian et Alyzée arrivent avec un bébé. C'est la stupeur : qui est ce bébé ? D'où vient-il ? Quels risques viennent de prendre les deux amoureux ?...</desc>
@@ -1520,14 +1560,14 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
       <writer>Pascal Fontanille</writer>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">54</length>
+    <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/47e29adf-2e5e-4f06-9c8e-18a1b8aa3161.jpg" />
     <episode-num system="xmltv_ns">7.7.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200507072200" stop="20200507085100">
+  <programme channel="C187.api.telerama.fr" start="20200507072300" stop="20200507085100">
     <title>Meurtre à l'encre noire</title>
     <desc lang="fr">Après le meurtre de son petit ami et éditeur, Kara Reed décide de quitter New York pour suivre des cours de création littéraire à l'université de Los Angeles. Elle s'installe chez Charlie, gérante d'un café, qui lui offre un poste de serveuse dans son établissement. Elle se lie également avec un auteur de polars...</desc>
     <credits>
@@ -1543,7 +1583,7 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
       <writer>Michael Feifer</writer>
     </credits>
     <category lang="fr">téléfilm de suspense</category>
-    <length units="minutes">89</length>
+    <length units="minutes">88</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7383e5a3-0849-4767-8959-e1ec524d3bd0.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -1551,13 +1591,25 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200507085100" stop="20200507092100">
+  <programme channel="C187.api.telerama.fr" start="20200507085100" stop="20200507092200">
     <title>Une saison au zoo</title>
     <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
     <date>2019</date>
     <category lang="fr">documentaire : animalier</category>
-    <length units="minutes">30</length>
+    <length units="minutes">31</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85beba6e-7a41-4fa2-88e5-8df1bf33c50d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200507092200" stop="20200507095000">
+    <title>Bouge à la maison</title>
+    <desc lang="fr">Du lundi au vendredi, Manzul et Malik, coachs sportifs de formation, vous proposent des séances de sport et de fitness adaptées à tous les niveaux et pour tous les profils</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">28</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1567,6 +1619,26 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
     <category lang="fr">fitness</category>
     <length units="minutes">5</length>
     <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200507095500" stop="20200507102900">
+    <title>N'oubliez pas les paroles</title>
+    <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">34</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200507102900" stop="20200507110100">
+    <title>N'oubliez pas les paroles</title>
+    <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">32</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1649,6 +1721,26 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
     <category lang="fr">documentaire : animalier</category>
     <length units="minutes">31</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85beba6e-7a41-4fa2-88e5-8df1bf33c50d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200507152500" stop="20200507155900">
+    <title>N'oubliez pas les paroles</title>
+    <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">34</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200507155900" stop="20200507163800">
+    <title>N'oubliez pas les paroles</title>
+    <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">39</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1772,6 +1864,16 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C187.api.telerama.fr" start="20200507201300" stop="20200507201700">
+    <title>Météo</title>
+    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C187.api.telerama.fr" start="20200507201700" stop="20200507205700">
     <title>Inside</title>
     <desc lang="fr">Projet transversal de la RTBF présenté par Guillaume Drigeard et Jessica Riga, «Inside» parle des médias, des réactions du public au traitement de l'information, des questions qui font débat, d'esprit critique et des coulisses de la télévision belge.</desc>
@@ -1803,7 +1905,6 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
     <category lang="fr">météo</category>
     <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1819,11 +1920,11 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200506234000" stop="20200507070000">
+  <programme channel="C377.api.telerama.fr" start="20200506234000" stop="20200507030000">
     <title>Télé-achat</title>
     <desc lang="fr">Tous vos produits préférés pour la cuisine, la salle de bain, votre voiture, votre bien-être, bref de quoi améliorer votre vie au quotidien, tout cela présenté en détail.</desc>
     <category lang="fr">magazine de télé-achat</category>
-    <length units="minutes">440</length>
+    <length units="minutes">200</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -1875,7 +1976,7 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
   <programme channel="C377.api.telerama.fr" start="20200507131500" stop="20200507132500">
     <title>Martin bonheur</title>
     <sub-title>Le biscuit génoise du chef</sub-title>
-    <desc lang="fr">Le Chef David Martin nous accueille dans la cuisine de sa maison. Il nous apprend aujourd'hui à faire un biscuit génoise.</desc>
+    <desc lang="fr">Le chef cuisinier David Martin accueille les téléspectateurs dans la cuisine de sa maison pour leur faire goûter ses plats.</desc>
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
@@ -1958,10 +2059,11 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
   </programme>
   <programme channel="C377.api.telerama.fr" start="20200507151500" stop="20200507161000">
     <title>Mamans &amp; célèbres</title>
-    <desc lang="fr">Elles sont 10, elles sont célèbres, elles sont stars des réseaux sociaux. On les a connues candidates de télé-réalité, elles sont aujourd'hui devenues influenceuses mais avant tout mamans. Et pour la première fois, elles nous ouvrent les portes de leur quotidien pour découvrir les coulisses de leur vie de stars mais aussi leur vie de mamans. " Mamans et célèbres " va suivre ces 10 mamans : Stéphanie Clerbois, Liam Di Benedetto, Emilie Nef Naf, Julia Paredes, Wafa, Cindy Pomeyrol, Martika, Jesta et Benoit, Kelly Helard et Julie Ricci.</desc>
-    <category lang="fr">documentaire : téléréalité</category>
+    <desc lang="fr">Saison:1 - Elles sont 10, elles sont célèbres, elles sont stars des réseaux sociaux. On les a connues candidates de télé-réalité, elles sont aujourd'hui devenues influenceuses mais avant tout mamans. Et pour la première fois, elles nous ouvrent les portes de leur quotidien pour découvrir les coulisses de leur vie de stars mais aussi leur vie de mamans. " Mamans et célèbres " va suivre ces 10 mamans : Stéphanie Clerbois, Liam Di Benedetto, Emilie Nef Naf, Julia Paredes, Wafa, Cindy Pomeyrol, Martika, Jesta et Benoit, Kelly Helard et Julie Ricci.</desc>
+    <category lang="fr">téléréalité</category>
     <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2429985-7cb7-4f72-8ca4-f481abfe4900.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/94b687c1-b7ed-49e4-a34b-286706fc1dbe.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1969,10 +2071,11 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
   </programme>
   <programme channel="C377.api.telerama.fr" start="20200507161000" stop="20200507165500">
     <title>Mamans &amp; célèbres</title>
-    <desc lang="fr">Elles sont 10, elles sont célèbres, elles sont stars des réseaux sociaux. On les a connues candidates de télé-réalité, elles sont aujourd'hui devenues influenceuses mais avant tout mamans. Et pour la première fois, elles nous ouvrent les portes de leur quotidien pour découvrir les coulisses de leur vie de stars mais aussi leur vie de mamans. " Mamans et célèbres " va suivre ces 10 mamans : Stéphanie Clerbois, Liam Di Benedetto, Emilie Nef Naf, Julia Paredes, Wafa, Cindy Pomeyrol, Martika, Jesta et Benoit, Kelly Helard et Julie Ricci.</desc>
-    <category lang="fr">documentaire : téléréalité</category>
+    <desc lang="fr">Saison:1 - Elles sont 10, elles sont célèbres, elles sont stars des réseaux sociaux. On les a connues candidates de télé-réalité, elles sont aujourd'hui devenues influenceuses mais avant tout mamans. Et pour la première fois, elles nous ouvrent les portes de leur quotidien pour découvrir les coulisses de leur vie de stars mais aussi leur vie de mamans. " Mamans et célèbres " va suivre ces 10 mamans : Stéphanie Clerbois, Liam Di Benedetto, Emilie Nef Naf, Julia Paredes, Wafa, Cindy Pomeyrol, Martika, Jesta et Benoit, Kelly Helard et Julie Ricci.</desc>
+    <category lang="fr">téléréalité</category>
     <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2429985-7cb7-4f72-8ca4-f481abfe4900.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/94b687c1-b7ed-49e4-a34b-286706fc1dbe.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2988,7 +3091,7 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
   <programme channel="C892.api.telerama.fr" start="20200507174800" stop="20200507175000">
     <title>Un jour, une question</title>
     <sub-title>À quoi ça sert le cerveau?</sub-title>
-    <desc lang="fr">À quoi ça sert ? Ça veut dire quoi, ça ? C'est qui lui ? Pourquoi c'est comme ça ? Toutes les questions trouvent quotidiennement leur réponse sur France 4.</desc>
+    <desc lang="fr">À quoi ça sert ? Ça veut dire quoi, ça ? C'est qui lui ? Pourquoi c'est comme ça ? Toutes les questions trouvent quotidiennement leur réponse.</desc>
     <category lang="fr">emission jeunesse</category>
     <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/42577ce7-b0c2-4d8d-8cd7-77ed08d7e6b7.jpg" />
@@ -3201,10 +3304,10 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200507051500" stop="20200507052500">
+  <programme channel="C1280.api.telerama.fr" start="20200507051500" stop="20200507053000">
     <title>Ridder Muis</title>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3242,10 +3345,10 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200507061500" stop="20200507062000">
+  <programme channel="C1280.api.telerama.fr" start="20200507061500" stop="20200507062500">
     <title>Sisters</title>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3259,10 +3362,10 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200507063500" stop="20200507064000">
+  <programme channel="C1280.api.telerama.fr" start="20200507063500" stop="20200507064500">
     <title>Helden</title>
     <category lang="fr">magazine de société</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3624,10 +3727,10 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200507141000" stop="20200507141500">
+  <programme channel="C1280.api.telerama.fr" start="20200507141000" stop="20200507142500">
     <title>Sisters</title>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">5</length>
+    <length units="minutes">15</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3773,11 +3876,253 @@ Soutenu par la CIA, Alejandro va employer les méthodes, infâmes, de ses ennemi
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200507181500" stop="20200507185500">
+  <programme channel="C1280.api.telerama.fr" start="20200507180000" stop="20200507181500">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/88b88b09-1af1-4e76-8466-c06c9ac324d7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200507181500" stop="20200507190500">
     <title>Het journaal met VGT</title>
     <category lang="fr">magazine jeunesse</category>
-    <length units="minutes">40</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200507190500" stop="20200508040000">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">535</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/88b88b09-1af1-4e76-8466-c06c9ac324d7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20200507221000" stop="20200507223000">
+    <title>Iedereen beroemd</title>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1cd3740a-d6cc-452f-9765-459220ecb737.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20200507223000" stop="20200507224500">
+    <title>Het journaal</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20200507224500" stop="20200507225000">
+    <title>Het weer</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20200507225000" stop="20200508002000">
+    <title>Villa Politica</title>
+    <category lang="fr">magazine politique</category>
+    <length units="minutes">90</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200507221500" stop="20200508030000">
+    <title>Best of Shopping</title>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">285</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200507222500" stop="20200507223500">
+    <title>Quel temps!</title>
+    <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200507223500" stop="20200507223900">
+    <title>Météo</title>
+    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200507223900" stop="20200507232000">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">41</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200507232000" stop="20200508000400">
+    <title>On n'est pas des pigeons</title>
+    <desc lang="fr">Présenté par Benjamin Maréchal, On n'est pas des pigeons ! décrypte les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire " pigeonner ". Les chroniqueurs dénichent les arnaques et les bons plans, et vous aident à boucler vos fins de mois.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">44</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20200507224000" stop="20200507225500">
+    <title>A la sauce belge</title>
+    <desc lang="fr">Saison:2 - Sophie Pendeville et Mallory Gabsi (le second d'Yves Mattagne) créeront pour vous une recette en lien avec l'un des thèmes de l'émission Top Chef du jour. Une recette accessible, pour cuisiner comme un vrai chef à la maison.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20200507225500" stop="20200507230000">
+    <title>Martin bonheur</title>
+    <sub-title>Le biscuit génoise du chef</sub-title>
+    <desc lang="fr">Le chef cuisinier David Martin accueille les téléspectateurs dans la cuisine de sa maison pour leur faire goûter ses plats.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20200507230000" stop="20200507230500">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain ? Nos bulletins météo vous tiennent au courant des prévisions. La pluie et le beau temps, annoncés par nos spécialistes.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20200507230500" stop="20200507234500">
+    <title>RTL info 19 heures</title>
+    <desc lang="fr">L'information est au cœur de RTL TVI. Cette année plus que jamais, l'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20200507234500" stop="20200508014000">
+    <title>Jeux de nuit</title>
+    <desc lang="fr">Rendez-vous pour une série de jeux télévisés interactifs. En répondant correctement aux nombreuses questions affichées, les téléspectateurs peuvent tenter leur chance afin de remporter différents gains. Ce programme regroupant plusieurs jeux offre un moment de divertissement et de bonne humeur.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">115</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200507223900" stop="20200507233000">
+    <title>Le grand cactus</title>
+    <sub-title>La Spéciale confinement N°4</sub-title>
+    <desc lang="fr">L'équipe du Grand Cactus revient avec une nouvelle émission " Spéciale Confinement " animée depuis un salon, un bureau, ou encore une salle de bain ! Pour ce quatrième numéro, Jérôme et sa bande vous proposent les meilleurs sketchs depuis la saison 1 et des séquences inédites !</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">51</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6ef5e282-cfe5-470b-92b3-9a1d3e5e153d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200507233000" stop="20200508042000">
+    <title>Boucle de la nuit</title>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">290</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C377.api.telerama.fr" start="20200507234500" stop="20200508030000">
+    <title>Télé-achat</title>
+    <desc lang="fr">Tous vos produits préférés pour la cuisine, la salle de bain, votre voiture, votre bien-être, bref de quoi améliorer votre vie au quotidien, tout cela présenté en détail.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">195</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200507221500" stop="20200507230500">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, retrouvez le JT de 19h30 traduit en simultané en langue des signes.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200507230500" stop="20200507230700">
+    <title>Météo internationale</title>
+    <desc lang="fr">Retrouvez tous les jours les prévisions météorologiques des grandes villes d'Europe, du Proche-Orient et du Nord de l'Afrique, présentées en alternance par notre équipe.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200507230700" stop="20200507233300">
+    <title>CQFD (Ce Qui Fait Débat)</title>
+    <desc lang="fr">Du lundi au jeudi, un rendez-vous avec l'info : un fait du jour décrypté par Arnaud Ruyssen et Catherine Tonero, un face à face sur une question polémique, un débat contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, c'est toute l'actu de la semaine qui est analysée par Arnaud Ruyssen et ses invités.</desc>
+    <category lang="fr">débat</category>
+    <length units="minutes">26</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/80d9221f-3d1d-41a8-8fe3-d6abdcac1dfc.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200507233300" stop="20200508002000">
+    <title>Dites-moi</title>
+    <sub-title>Entretien - 2000</sub-title>
+    <desc lang="fr">2000, dans ce "Dites-moi" consacré à Maurane, Michèle Cédric reçoit les confidences de la chanteuse belge qui nous dévoile quelques passages de sa vie secrète. Elle nous fait découvrir les personnalités qui ont compté pour elle, Louis Calaferte, Michel Berger...</desc>
+    <category lang="fr">interview</category>
+    <length units="minutes">47</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>

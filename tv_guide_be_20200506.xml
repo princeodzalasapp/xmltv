@@ -43,6 +43,15 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200505190500" stop="20200506040000">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">535</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/88b88b09-1af1-4e76-8466-c06c9ac324d7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C23.api.telerama.fr" start="20200505222500" stop="20200506070000">
     <title>Journaallus</title>
     <sub-title>Het journaal laat</sub-title>
@@ -411,6 +420,27 @@
     <category lang="fr">magazine de reportages</category>
     <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1cd3740a-d6cc-452f-9765-459220ecb737.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200506030000" stop="20200506033000">
+    <title>Journal luxembourgeois</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200506033000" stop="20200506043500">
+    <title>Télé-achat</title>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -939,11 +969,11 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
   </programme>
   <programme channel="C164.api.telerama.fr" start="20200506094300" stop="20200506102300">
     <title>Les feux de l'amour</title>
-    <desc lang="fr">Episode:5544 - Nick parle à Chelsea de ses inquiétudes concernant la santé de sa mère. Plus tard, Chelsea apporte sa robe à Nikki pour le concert et lui transmet les inquiétudes de Nick. Jack passe voir Nikki et est inquiet pour elle aussi. Il lui dit qu'il viendra au concert.</desc>
+    <desc lang="fr">Episode:201 - Nick parle à Chelsea de ses inquiétudes concernant la santé de sa mère. Plus tard, Chelsea apporte sa robe à Nikki pour le concert et lui transmet les inquiétudes de Nick. Jack passe voir Nikki et est inquiet pour elle aussi. Il lui dit qu'il viendra au concert.</desc>
     <category lang="fr">feuilleton sentimental</category>
     <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5da63861-c2f5-4813-8e45-82a5756ddde3.jpg" />
-    <episode-num system="xmltv_ns">.5543.</episode-num>
+    <episode-num system="xmltv_ns">.200.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -981,7 +1011,7 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
   <programme channel="C164.api.telerama.fr" start="20200506104000" stop="20200506105800">
     <title>Chez vous, avec vous</title>
     <desc lang="fr">Dès 12h40, retrouvez François de Brigode (en alternance avec Nathalie Maleux) pour une séquence qui vous informe et vous met en lumière, vous qui aidez les malades ou qui aidez les belges confinés en difficulté. Grâce à une interview quotidienne du personnel "au front" (médecin, infirmier, ambulancier, chef de clinique...), la séquence se place au cœur de la lutte contre le Covid. Elle vous offre aussi les derniers chiffres qui seront détaillés et analysés par Sacha Daout en plateau. Chaque jour, un acteur essentiel de notre société sera en plateau pour un point sur une des facettes de la crise sanitaire. Et chaque jour également, focus sur une opération de solidarité en Wallonie ou à Bruxelles car si vous êtes confinés, vous n'êtes pas seuls. La RTBF est là pour vous et avec vous !</desc>
-    <category lang="fr">magazine magazine médical</category>
+    <category lang="fr">magazine médical</category>
     <length units="minutes">18</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/eb51eb89-2df1-4eb8-be72-c33b962ad89a.jpg" />
     <rating system="CSA">
@@ -1029,7 +1059,7 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200506131200" stop="20200506140800">
+  <programme channel="C164.api.telerama.fr" start="20200506131200" stop="20200506140400">
     <title>Call the Midwife</title>
     <sub-title>Un amour pas comme les autres</sub-title>
     <desc lang="fr">Saison:3 - Episode:5 - Après la mort d'Alec, Jenny prend un congé et soeur Julienne tombe d'épuisement. Shelagh revient pour l'aider. Ensemble, elles organisent une soirée pour célébrer le jubilé de soeur Evangelina...</desc>
@@ -1045,13 +1075,13 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <writer>Heidi Thomas</writer>
     </credits>
     <category lang="fr">série dramatique</category>
-    <length units="minutes">56</length>
+    <length units="minutes">52</length>
     <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200506140800" stop="20200506151400">
+  <programme channel="C164.api.telerama.fr" start="20200506140400" stop="20200506151400">
     <title>Call the Midwife</title>
     <sub-title>Souvenir de guerre</sub-title>
     <desc lang="fr">Saison:3 - Episode:6 - Trop brutale, Patsy doit renoncer au poste de sage-femme et se contenter des fonctions d'infirmière. Un de ses patients lui rappelle un souvenir du passé...</desc>
@@ -1070,7 +1100,7 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <writer>Heidi Thomas</writer>
     </credits>
     <category lang="fr">série dramatique</category>
-    <length units="minutes">66</length>
+    <length units="minutes">70</length>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -1183,31 +1213,55 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200506204000" stop="20200506204200">
-    <title>Tirage Lotto et Joker</title>
-    <desc lang="fr">Retrouvez les tirages du Joker et du Lotto.</desc>
-    <category lang="fr">loterie</category>
-    <length units="minutes">2</length>
+  <programme channel="C164.api.telerama.fr" start="20200506193800" stop="20200506203200">
+    <title>L'enquête de ma vie</title>
+    <sub-title>La traque d'Antonio Ferrara par Christophe Molmy</sub-title>
+    <desc lang="fr">Saison:2 - En 2002, Christophe Molmy, alors directeur adjoint de l'OCRB, découvre le cas d'Antonio Ferrara, un petit truand devenu grand bandit. Christophe Molmy et ses hommes l'arrêtent une première fois alors qu'il est en cavale. Après une nouvelle évasion à grand renfort d'explosifs, Christophe Molmy se lance à nouveau à sa poursuite.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire justice</category>
+    <length units="minutes">54</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6217dd43-127e-4d1a-93b3-f1825d807386.jpg" />
+    <episode-num system="xmltv_ns">1..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200506204200" stop="20200506212800">
+  <programme channel="C164.api.telerama.fr" start="20200506203200" stop="20200506203500">
+    <title>Tirage Lotto et Joker</title>
+    <desc lang="fr">Retrouvez les tirages du Joker et du Lotto.</desc>
+    <category lang="fr">loterie</category>
+    <length units="minutes">3</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200506203500" stop="20200506212000">
     <title>Matière grise</title>
     <sub-title>Haut Potentiel de souffrance</sub-title>
     <desc lang="fr">La vie des adultes à haut potentiel nourrit de nombreux fantasmes comme celui de premiers de la classe, de chefs d'entreprises, de grands décideurs politiques ou encore de grands professeurs brillants voir prétentieux. Pourtant, loin des clichés, être haut potentiel n'est pas toujours un long fleuve tranquille pavé de belles réussites.</desc>
     <category lang="fr">magazine scientifique</category>
-    <length units="minutes">46</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d46e0eb-5cfb-42a4-9550-691cb3addb67.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200506215500" stop="20200506224000">
+  <programme channel="C164.api.telerama.fr" start="20200506212000" stop="20200506214800">
+    <title>Stoemp, pèkèt... et des rawettes !</title>
+    <sub-title>Gérald Wathelet</sub-title>
+    <desc lang="fr">Divertissement culturel grand public qui met à l'honneur nos régions, leurs habitants et leurs langues régionales</desc>
+    <category lang="fr">magazine des loisirs</category>
+    <length units="minutes">28</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f7a000f2-b165-4cce-8dea-dfb420c3f4fc.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200506214800" stop="20200506223200">
     <title>On n'est pas des pigeons</title>
     <desc lang="fr">Présenté par Benjamin Maréchal, On n'est pas des pigeons ! décrypte les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire " pigeonner ". Les chroniqueurs dénichent les arnaques et les bons plans, et vous aident à boucler vos fins de mois.</desc>
     <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">45</length>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -1259,6 +1313,27 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C168.api.telerama.fr" start="20200506103000" stop="20200506103500">
+    <title>Enquêtes</title>
+    <desc lang="fr">"Enquêtes" propose de revenir sur diverses interventions à Bruxelles avec des arrestations et interpellations en tout genre. C'est également l'occasion de découvrir, ou redécouvrir, divers reportages réalisés sur les équipes des pompiers de Liège et de Charleroi avec des images embarquées prises lors des opérations de secours.</desc>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/117be4f4-d0e0-4e71-9a5e-68170c0d1132.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20200506103500" stop="20200506104500">
+    <title>Belges à domicile</title>
+    <desc lang="fr">"Belges à domicile" donne rendez-vous chaque jour pour vivre le lockdown de manière plus positive. Différents animateurs de RTL TVI proposent, de chez eux, des séquences informatives et humoristiques.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C168.api.telerama.fr" start="20200506104500" stop="20200506110000">
     <title>RTL info bienvenue</title>
     <desc lang="fr">RTL Info Bienvenue, au coeur des préoccupations des téléspectateurs. Centrée sur l'info service, la météo, l'info régionale et l'info concernante.</desc>
@@ -1270,18 +1345,18 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200506110000" stop="20200506112000">
+  <programme channel="C168.api.telerama.fr" start="20200506110000" stop="20200506112500">
     <title>RTL info 13 heures</title>
     <desc lang="fr">L'information est au cœur de RTL TVI. Cette année plus que jamais, l'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200506113500" stop="20200506115000">
+  <programme channel="C168.api.telerama.fr" start="20200506112500" stop="20200506114000">
     <title>Météo</title>
     <desc lang="fr">Quel temps fera-t-il demain ? Nos bulletins météo vous tiennent au courant des prévisions. La pluie et le beau temps, annoncés par nos spécialistes.</desc>
     <category lang="fr">météo</category>
@@ -1292,17 +1367,17 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200506115000" stop="20200506132500">
+  <programme channel="C168.api.telerama.fr" start="20200506114000" stop="20200506132000">
     <title>Une maison pour deux</title>
     <desc lang="fr">Chef au service d'un traiteur tyrannique, Jenny espère ouvrir son propre restaurant. Le destin s'en mêle lorsqu'elle hérite de la moitié d'une demeure en Pennsylvanie, l'autre partie revenant à un trader new-yorkais, Brian. Les deux copropriétaires sont amenés à vivre ensemble dans la maison...</desc>
     <category lang="fr">téléfilm sentimental</category>
-    <length units="minutes">95</length>
+    <length units="minutes">100</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b85ed276-b4fa-4874-8712-a7479899983d.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200506132500" stop="20200506142000">
+  <programme channel="C168.api.telerama.fr" start="20200506132000" stop="20200506141500">
     <title>Les reines du shopping</title>
     <sub-title>Chic pour une soirée au casino</sub-title>
     <desc lang="fr">Lola, Sandrine, Siana, Schérazade et Andréa doivent trouver cette semaine le look idéal pour le thème «chic pour une soirée au casino» avec un budget de 400 euros.</desc>
@@ -1313,7 +1388,7 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200506142000" stop="20200506143000">
+  <programme channel="C168.api.telerama.fr" start="20200506141500" stop="20200506142500">
     <title>Martin bonheur</title>
     <sub-title>Choux farcis à la crème pâtissière</sub-title>
     <desc lang="fr">Le Chef David Martin nous accueille dans la cuisine de sa maison. Il nous conseille sur les produits, les techniques de cuisson pour que cuisiner redevienne un vrai plaisir. Apprenons aujourd'hui à faire des choux farcis à la crème.</desc>
@@ -1325,7 +1400,7 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200506143000" stop="20200506153000">
+  <programme channel="C168.api.telerama.fr" start="20200506142500" stop="20200506152500">
     <title>Les reines du shopping</title>
     <sub-title>Branchée avec un manteau long</sub-title>
     <desc lang="fr">Bonnie, Chrystèle, Sarah, Amal et Maud disposent de 450 euros pour trouver le look idéal afin d'être branchées avec un manteau long.</desc>
@@ -1336,12 +1411,12 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200506153000" stop="20200506163000">
+  <programme channel="C168.api.telerama.fr" start="20200506152500" stop="20200506163000">
     <title>Chasseurs d'appart'</title>
     <sub-title>Aix en Provence et sa banlieue (3/5) : Katia / Jérémy / Melissandre</sub-title>
     <desc lang="fr">Saison:6 - Trois agents immobiliers doivent trouver des biens à des clients dans des secteurs qu'ils ne connaissent pas forcément. A la fin de la semaine, la finale oppose les deux meilleurs, et le vainqueur peut remporter jusqu'à 3000 euros.</desc>
     <category lang="fr">jeu</category>
-    <length units="hours">1</length>
+    <length units="minutes">65</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <episode-num system="xmltv_ns">5..</episode-num>
     <premiere />
@@ -1360,34 +1435,43 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200506170000" stop="20200506174000">
+  <programme channel="C168.api.telerama.fr" start="20200506170000" stop="20200506173800">
     <title>RTL info 19 heures</title>
     <desc lang="fr">L'information est au cœur de RTL TVI. Cette année plus que jamais, l'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">40</length>
+    <length units="minutes">38</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200506174000" stop="20200506175000">
+  <programme channel="C168.api.telerama.fr" start="20200506173800" stop="20200506174000">
     <title>Météo</title>
     <desc lang="fr">Quel temps fera-t-il demain ? Nos bulletins météo vous tiennent au courant des prévisions. La pluie et le beau temps, annoncés par nos spécialistes.</desc>
     <category lang="fr">météo</category>
-    <length units="minutes">10</length>
+    <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20200506175000" stop="20200506182500">
+  <programme channel="C168.api.telerama.fr" start="20200506174000" stop="20200506175000">
+    <title>Belges à domicile</title>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1d3d4858-dacd-485d-b200-45bfd75e25d4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20200506175000" stop="20200506183000">
     <title>Coûte que coûte</title>
     <sub-title>Textile : pourquoi se fournir à l'étranger ?</sub-title>
     <desc lang="fr">Une équipe de l'émission a suivi des femmes qui se sont lancées dans le domaine du textile et qui se fournissent à l'étranger. Du dernier défilé de Dior aux collections de chez Zara, les plus grands couturiers s'arrachent le «wax», le tissu africain par excellence. Rencontre avec deux Belges, qui créent des vêtements originaux, taillés à partir de tissus provenant exclusivement d'Afrique, plus précisément du Sénégal. Leur marque s'appelle les Siztaz, et leur but est de créer des ponts entre l'Afrique et la Belgique. Mais leur parcours est loin d'être simple.</desc>
     <category lang="fr">magazine de l'économie</category>
-    <length units="minutes">35</length>
+    <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b06defc2-afe5-4b4c-aaed-4198d6c3e5de.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1516,7 +1600,16 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506043700" stop="20200506050500">
+  <programme channel="C187.api.telerama.fr" start="20200505223000" stop="20200506044000">
+    <title>Boucle de la nuit</title>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">370</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200506044000" stop="20200506050800">
     <title>Fit Tonic</title>
     <sub-title>Fit aérodance</sub-title>
     <desc lang="fr">Boostez votre journée avec une séance de fitness ! Avec dynamisme et bonne humeur, Stéphanie Dermaux, notre experte " fitness ", entraîne littéralement les téléspectateurs à suivre 1/2 heure de gym au son d'une musique gaie et stimulante tous les week-ends.</desc>
@@ -1528,7 +1621,7 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506050500" stop="20200506053300">
+  <programme channel="C187.api.telerama.fr" start="20200506050800" stop="20200506053600">
     <title>Fit Tonic</title>
     <sub-title>Fit Sculpt Bras &amp; Pectos</sub-title>
     <desc lang="fr">Boostez votre journée avec une séance de fitness ! Avec dynamisme et bonne humeur, Stéphanie Dermaux, notre experte " fitness ", entraîne littéralement les téléspectateurs à suivre 1/2 heure de gym au son d'une musique gaie et stimulante.</desc>
@@ -1539,7 +1632,7 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506053300" stop="20200506062100">
+  <programme channel="C187.api.telerama.fr" start="20200506053600" stop="20200506062400">
     <title>Clem</title>
     <sub-title>Révolution !</sub-title>
     <desc lang="fr">Saison:8 - Episode:5 - Rien ne va plus entre Caro et Xavier. Adrian qui ignore tout, pousse son père à venir habiter à Cheynouville, ce qui aggrave encore plus la situation. Salomé, elle, part en lutte contre un projet immobilier qui menace de détruire le petit centre de Cheynouville. Elle emmène avec elle tous ses proches, dont Caro et Xavier, qui voient là une occasion de se rapprocher. Cela suffira-t-il au couple pour se resouder ? La lutte pour une cause commune permettra-t-elle de laisser derrière eux leurs différends ?...</desc>
@@ -1566,7 +1659,7 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506062100" stop="20200506072000">
+  <programme channel="C187.api.telerama.fr" start="20200506062400" stop="20200506072300">
     <title>Clem</title>
     <sub-title>Question de choix</sub-title>
     <desc lang="fr">Saison:8 - Episode:6 - Antonio voit dans l'absence de Xavier une occasion de reconquérir Caro. Après une soirée réussie, il va même tenter le tout pour le tout. Clem aussi se confronte à la tentation. Bien qu'elle sache que Baptiste est un homme à éviter, elle ne peut nier une réelle attirance, d'ailleurs réciproque. Enfin, pour Marie-France, c'est le début d'une nouvelle aventure professionnelle étonnante...</desc>
@@ -1593,7 +1686,7 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506072000" stop="20200506085000">
+  <programme channel="C187.api.telerama.fr" start="20200506072300" stop="20200506085300">
     <title>Un ange aux deux visages</title>
     <desc lang="fr">Sous ses airs doux et charmants, Sadie cache une enfance douloureuse, vécue auprès d'une grand-mère acariâtre. Le jour où elle retrouve enfin sa mère, elle est tellement heureuse qu'elle ne laissera rien ni personne perturber son bonheur. Dès lors, elle se révèle prête à tout pour le conserver...</desc>
     <credits>
@@ -1616,7 +1709,29 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506094900" stop="20200506095400">
+  <programme channel="C187.api.telerama.fr" start="20200506085300" stop="20200506092500">
+    <title>Une saison au zoo</title>
+    <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
+    <date>2015</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="minutes">32</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5bf88941-de03-440a-a55d-b58379ec2fcd.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200506092500" stop="20200506095200">
+    <title>Bouge à la maison</title>
+    <desc lang="fr">Du lundi au vendredi, Manzul et Malik, coachs sportifs de formation, vous proposent des séances de sport et de fitness adaptées à tous les niveaux et pour tous les profils</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">27</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200506095200" stop="20200506095700">
     <title>Le moment Yoga</title>
     <category lang="fr">fitness</category>
     <length units="minutes">5</length>
@@ -1625,21 +1740,21 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506095400" stop="20200506102700">
+  <programme channel="C187.api.telerama.fr" start="20200506095700" stop="20200506102800">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
     <category lang="fr">jeu</category>
-    <length units="minutes">33</length>
+    <length units="minutes">31</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506102700" stop="20200506110100">
+  <programme channel="C187.api.telerama.fr" start="20200506102800" stop="20200506110100">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
     <category lang="fr">jeu</category>
-    <length units="minutes">34</length>
+    <length units="minutes">33</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1657,18 +1772,18 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506113000" stop="20200506120400">
+  <programme channel="C187.api.telerama.fr" start="20200506113000" stop="20200506120500">
     <title>Au rythme de la vie</title>
     <desc lang="fr">Episode:6067 - Les vies des habitants d'un quartier de Berlin connaissent des hauts et des bas, des drames et des bonheurs, des espoirs fous et des déceptions violentes...</desc>
     <category lang="fr">feuilleton sentimental</category>
-    <length units="minutes">34</length>
+    <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0cba60da-efed-42b4-8f84-cf4754bd3c1e.jpg" />
     <episode-num system="xmltv_ns">.6066.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506120400" stop="20200506133500">
+  <programme channel="C187.api.telerama.fr" start="20200506120500" stop="20200506133600">
     <title>Meurtre à l'encre noire</title>
     <desc lang="fr">Après le meurtre de son petit ami et éditeur, Kara Reed décide de quitter New York pour suivre des cours de création littéraire à l'université de Los Angeles. Elle s'installe chez Charlie, gérante d'un café, qui lui offre un poste de serveuse dans son établissement. Elle se lie également avec un auteur de polars...</desc>
     <credits>
@@ -1691,13 +1806,13 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506133500" stop="20200506143000">
+  <programme channel="C187.api.telerama.fr" start="20200506133600" stop="20200506143000">
     <title>Nus et culottés</title>
     <sub-title>Objectif Sardaigne</sub-title>
     <desc lang="fr">Nus et sans un sou en poche comme le veut le concept de leur désormais célèbre voyage alternatif, Nans et Mouts prennent un nouveau départ, direction la Sardaigne. Se laissant porter par leurs rencontres, qui sortent parfois de l'ordinaire, les deux compères, toujours enthousiastes, parcourent de longs kilomètres avant d'atteindre leur destination, avec un nouveau rêve : peindre une fresque murale sur la grande île italienne. Pour ce faire, Nans et Mouts s'élancent des hauteurs corses et cheminent de village en village jusqu'à Bonifacio. Là, ils espèrent prendre le large et sillonner la Méditerranée jusqu'à leur point d'arrivée.</desc>
     <date>2013</date>
     <category lang="fr">documentaire : aventures</category>
-    <length units="minutes">55</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f84c480-cbef-492c-8355-5ccb687d875b.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1706,21 +1821,67 @@ De Prague à Moscou et de Dubai à Bombay, Ethan Hunt (Tom Cruise) est secondé 
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506153200" stop="20200506160500">
+  <programme channel="C187.api.telerama.fr" start="20200506143000" stop="20200506143100">
+    <title>Une saison au zoo</title>
+    <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85beba6e-7a41-4fa2-88e5-8df1bf33c50d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200506143100" stop="20200506150000">
+    <title>Une saison au zoo</title>
+    <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="minutes">29</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85beba6e-7a41-4fa2-88e5-8df1bf33c50d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200506150000" stop="20200506150100">
+    <title>Une saison au zoo</title>
+    <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85beba6e-7a41-4fa2-88e5-8df1bf33c50d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200506150100" stop="20200506153300">
+    <title>Une saison au zoo</title>
+    <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="minutes">32</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85beba6e-7a41-4fa2-88e5-8df1bf33c50d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200506153300" stop="20200506160700">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
     <category lang="fr">jeu</category>
-    <length units="minutes">33</length>
+    <length units="minutes">34</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506160500" stop="20200506164000">
+  <programme channel="C187.api.telerama.fr" start="20200506160700" stop="20200506164000">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
     <category lang="fr">jeu</category>
-    <length units="minutes">35</length>
+    <length units="minutes">33</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1893,17 +2054,17 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506204400" stop="20200506205000">
+  <programme channel="C187.api.telerama.fr" start="20200506203700" stop="20200506204100">
     <title>Météo</title>
     <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
     <category lang="fr">météo</category>
-    <length units="minutes">6</length>
+    <length units="minutes">4</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506205000" stop="20200506205200">
+  <programme channel="C187.api.telerama.fr" start="20200506204100" stop="20200506204300">
     <title>Lotto et Joker</title>
     <desc lang="fr">Retrouvez les tirages du Joker et du Lotto.</desc>
     <category lang="fr">jeu</category>
@@ -1913,7 +2074,7 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506205200" stop="20200506211900">
+  <programme channel="C187.api.telerama.fr" start="20200506204300" stop="20200506211000">
     <title>L'Internet Show</title>
     <desc lang="fr">Dans cette émission hebdomadaire destinée aux jeunes adultes, Bénédicte Deprez anime des discussions autour des réseaux sociaux, ponctuée de nombreuses rubriques.</desc>
     <category lang="fr">magazine du multimédia</category>
@@ -1923,11 +2084,11 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506211900" stop="20200506223700">
+  <programme channel="C187.api.telerama.fr" start="20200506211000" stop="20200506222900">
     <title>Les héros du gazon</title>
     <desc lang="fr">Saison:1 - Le RFC Yvoir B, dernier club du classement de quatrième provinciale, est une des pires équipes de football de Wallonie. Mais les joueurs ont une chance à saisir pour élever leur niveau de jeu : désormais coachés par l'ancien Diable Rouge Leo Van der Elst, ils vont tout faire pour gagner un match. Une équipe les a suivis pendant leur préparation.</desc>
     <category lang="fr">téléréalité</category>
-    <length units="minutes">78</length>
+    <length units="minutes">79</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/417371bf-1470-4057-b577-d1b7d4bd0130.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
@@ -2087,10 +2248,11 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
   </programme>
   <programme channel="C377.api.telerama.fr" start="20200506151500" stop="20200506161000">
     <title>Mamans &amp; célèbres</title>
-    <desc lang="fr">Elles sont 10, elles sont célèbres, elles sont stars des réseaux sociaux. On les a connues candidates de télé-réalité, elles sont aujourd'hui devenues influenceuses mais avant tout mamans. Et pour la première fois, elles nous ouvrent les portes de leur quotidien pour découvrir les coulisses de leur vie de stars mais aussi leur vie de mamans. " Mamans et célèbres " va suivre ces 10 mamans : Stéphanie Clerbois, Liam Di Benedetto, Emilie Nef Naf, Julia Paredes, Wafa, Cindy Pomeyrol, Martika, Jesta et Benoit, Kelly Helard et Julie Ricci.</desc>
-    <category lang="fr">documentaire : téléréalité</category>
+    <desc lang="fr">Saison:1 - Elles sont 10, elles sont célèbres, elles sont stars des réseaux sociaux. On les a connues candidates de télé-réalité, elles sont aujourd'hui devenues influenceuses mais avant tout mamans. Et pour la première fois, elles nous ouvrent les portes de leur quotidien pour découvrir les coulisses de leur vie de stars mais aussi leur vie de mamans. " Mamans et célèbres " va suivre ces 10 mamans : Stéphanie Clerbois, Liam Di Benedetto, Emilie Nef Naf, Julia Paredes, Wafa, Cindy Pomeyrol, Martika, Jesta et Benoit, Kelly Helard et Julie Ricci.</desc>
+    <category lang="fr">téléréalité</category>
     <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2429985-7cb7-4f72-8ca4-f481abfe4900.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/94b687c1-b7ed-49e4-a34b-286706fc1dbe.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2098,10 +2260,11 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
   </programme>
   <programme channel="C377.api.telerama.fr" start="20200506161000" stop="20200506165500">
     <title>Mamans &amp; célèbres</title>
-    <desc lang="fr">Elles sont 10, elles sont célèbres, elles sont stars des réseaux sociaux. On les a connues candidates de télé-réalité, elles sont aujourd'hui devenues influenceuses mais avant tout mamans. Et pour la première fois, elles nous ouvrent les portes de leur quotidien pour découvrir les coulisses de leur vie de stars mais aussi leur vie de mamans. " Mamans et célèbres " va suivre ces 10 mamans : Stéphanie Clerbois, Liam Di Benedetto, Emilie Nef Naf, Julia Paredes, Wafa, Cindy Pomeyrol, Martika, Jesta et Benoit, Kelly Helard et Julie Ricci.</desc>
-    <category lang="fr">documentaire : téléréalité</category>
+    <desc lang="fr">Saison:1 - Elles sont 10, elles sont célèbres, elles sont stars des réseaux sociaux. On les a connues candidates de télé-réalité, elles sont aujourd'hui devenues influenceuses mais avant tout mamans. Et pour la première fois, elles nous ouvrent les portes de leur quotidien pour découvrir les coulisses de leur vie de stars mais aussi leur vie de mamans. " Mamans et célèbres " va suivre ces 10 mamans : Stéphanie Clerbois, Liam Di Benedetto, Emilie Nef Naf, Julia Paredes, Wafa, Cindy Pomeyrol, Martika, Jesta et Benoit, Kelly Helard et Julie Ricci.</desc>
+    <category lang="fr">téléréalité</category>
     <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2429985-7cb7-4f72-8ca4-f481abfe4900.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/94b687c1-b7ed-49e4-a34b-286706fc1dbe.jpg" />
+    <episode-num system="xmltv_ns">0..</episode-num>
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2998,7 +3161,7 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
   <programme channel="C892.api.telerama.fr" start="20200506174800" stop="20200506175000">
     <title>Un jour, une question</title>
     <sub-title>À quoi ça sert le cerveau?</sub-title>
-    <desc lang="fr">À quoi ça sert ? Ça veut dire quoi, ça ? C'est qui lui ? Pourquoi c'est comme ça ? Toutes les questions trouvent quotidiennement leur réponse sur France 4.</desc>
+    <desc lang="fr">À quoi ça sert ? Ça veut dire quoi, ça ? C'est qui lui ? Pourquoi c'est comme ça ? Toutes les questions trouvent quotidiennement leur réponse.</desc>
     <category lang="fr">emission jeunesse</category>
     <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/42577ce7-b0c2-4d8d-8cd7-77ed08d7e6b7.jpg" />
@@ -3277,10 +3440,10 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200506051500" stop="20200506052500">
+  <programme channel="C1280.api.telerama.fr" start="20200506051500" stop="20200506053000">
     <title>Ridder Muis</title>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3318,10 +3481,10 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200506061500" stop="20200506062000">
+  <programme channel="C1280.api.telerama.fr" start="20200506061500" stop="20200506062500">
     <title>Sisters</title>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3335,10 +3498,10 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200506063500" stop="20200506064000">
+  <programme channel="C1280.api.telerama.fr" start="20200506063500" stop="20200506064500">
     <title>Helden</title>
     <category lang="fr">magazine de société</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3676,6 +3839,14 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200506133500" stop="20200506134500">
+    <title>Machtige Mike</title>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C1280.api.telerama.fr" start="20200506134500" stop="20200506141000">
     <title>Tous en selle avec Bibi et Tina</title>
     <category lang="fr">série</category>
@@ -3841,11 +4012,29 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200506181500" stop="20200506185500">
+  <programme channel="C1280.api.telerama.fr" start="20200506180000" stop="20200506181500">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/88b88b09-1af1-4e76-8466-c06c9ac324d7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200506181500" stop="20200506190500">
     <title>Het journaal met VGT</title>
     <category lang="fr">magazine jeunesse</category>
-    <length units="minutes">40</length>
+    <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200506190500" stop="20200507040000">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">535</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/88b88b09-1af1-4e76-8466-c06c9ac324d7.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3902,7 +4091,7 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200506224000" stop="20200506225000">
+  <programme channel="C164.api.telerama.fr" start="20200506223200" stop="20200506224200">
     <title>Quel temps!</title>
     <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
     <category lang="fr">météo</category>
@@ -3913,7 +4102,7 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200506225000" stop="20200506225300">
+  <programme channel="C164.api.telerama.fr" start="20200506224200" stop="20200506224500">
     <title>Météo</title>
     <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
     <category lang="fr">météo</category>
@@ -3923,18 +4112,18 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200506225300" stop="20200506233400">
+  <programme channel="C164.api.telerama.fr" start="20200506224500" stop="20200506232700">
     <title>JT 19h30</title>
     <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">41</length>
+    <length units="minutes">42</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200506233400" stop="20200506233600">
+  <programme channel="C164.api.telerama.fr" start="20200506232700" stop="20200506232900">
     <title>43640966</title>
     <desc lang="fr">Pour mieux faire connaître aux familles les nombreux services gratuits que l'ONE met à leur disposition mais aussi les informer à propos de la santé et de l'éducation des enfants de 0 à 12 ans.</desc>
     <category lang="fr">magazine de société</category>
@@ -3944,7 +4133,7 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200506233600" stop="20200507002000">
+  <programme channel="C164.api.telerama.fr" start="20200506232900" stop="20200507001300">
     <title>On n'est pas des pigeons</title>
     <desc lang="fr">Présenté par Benjamin Maréchal, On n'est pas des pigeons ! décrypte les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire " pigeonner ". Les chroniqueurs dénichent les arnaques et les bons plans, et vous aident à boucler vos fins de mois.</desc>
     <category lang="fr">magazine du consommateur</category>
@@ -3988,41 +4177,41 @@ Avec 130 millions de recette en Amérique du Nord (à l’époque, un record), c
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506230600" stop="20200506231000">
+  <programme channel="C187.api.telerama.fr" start="20200506222900" stop="20200506223200">
     <title>Météo</title>
     <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
     <category lang="fr">météo</category>
-    <length units="minutes">4</length>
+    <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506231600" stop="20200506233000">
+  <programme channel="C187.api.telerama.fr" start="20200506223200" stop="20200506233000">
     <title>Max et Vénus</title>
     <sub-title>Le falafel façon Max - Le burger végétarien</sub-title>
     <desc lang="fr">Fanny Jandrain et Maximilien, entourés de leurs chroniqueuses, vous fixent rendez-vous sur La Deux pour leur émission culinaire : tendances et bonne humeur garanties !</desc>
     <category lang="fr">magazine culinaire</category>
-    <length units="minutes">14</length>
+    <length units="minutes">58</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200506233000" stop="20200507044100">
+  <programme channel="C187.api.telerama.fr" start="20200506233000" stop="20200507044200">
     <title>Boucle de nuit</title>
     <category lang="fr">emission spéciale</category>
-    <length units="minutes">311</length>
+    <length units="minutes">312</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200506234000" stop="20200507070000">
+  <programme channel="C377.api.telerama.fr" start="20200506234000" stop="20200507030000">
     <title>Télé-achat</title>
     <desc lang="fr">Tous vos produits préférés pour la cuisine, la salle de bain, votre voiture, votre bien-être, bref de quoi améliorer votre vie au quotidien, tout cela présenté en détail.</desc>
     <category lang="fr">magazine de télé-achat</category>
-    <length units="minutes">440</length>
+    <length units="minutes">200</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
     <previously-shown />
     <rating system="CSA">
