@@ -1,346 +1,257 @@
-- Start script at 04/05/2020 01:00:01-CEST in /home/admin/xmltv/scripts
+- Start script at 05/05/2020 01:00:01-CEST in /home/admin/xmltv/scripts
 - To avoid any git conflict we do a force pull first
 Récupération de origin
-HEAD est maintenant à 80e84a6 Apply post_treatment to fix missing France 5
+HEAD est maintenant à 2afecca Auto update TV guides (04/05/2020 01:00:01-CEST)
 - Remove xmltv files
 - Update raw 7 days guides (tv_guide_XX.xml files in raw fodler)
-getting listings: ###########################################Grabber process finished in 1649 seconds for 55 chans, 715 api calls : 700 api_casting, 14 api_grille, 1 api_init, 1057 cached api_casting
-getting listings: ###########################################Grabber process finished in 705 seconds for 8 chans, 330 api calls : 322 api_casting, 7 api_grille, 1 api_init, 110 cached api_casting
-[Mon May  4 01:39:17 2020] Fetching listings:   0%
-[Mon May  4 01:39:48 2020] Fetching listings:   0%
-[Mon May  4 01:41:35 2020] Fetching listings:   1%
-[Mon May  4 01:43:07 2020] Fetching listings:   2%
-[Mon May  4 01:44:48 2020] Fetching listings:   3%
-[Mon May  4 01:46:31 2020] Fetching listings:   4%
-[Mon May  4 01:48:19 2020] Fetching listings:   5%
-[Mon May  4 01:50:03 2020] Fetching listings:   6%
-[Mon May  4 01:51:33 2020] Fetching listings:   7%
-[Mon May  4 01:51:58 2020] Fetching listings:   8%
-[Mon May  4 01:53:39 2020] Fetching listings:   9%
-[Mon May  4 01:55:02 2020] Fetching listings:  10%
-[Mon May  4 01:56:42 2020] Fetching listings:  11%
-[Mon May  4 01:57:54 2020] Fetching listings:  12%
-[Mon May  4 01:59:35 2020] Fetching listings:  13%
-[Mon May  4 02:00:49 2020] Fetching listings:  14%
-[Mon May  4 02:01:58 2020] Fetching listings:  15%
-[Mon May  4 02:02:15 2020] Fetching listings:  16%
-[Mon May  4 02:03:26 2020] Fetching listings:  17%
-[Mon May  4 02:04:40 2020] Fetching listings:  18%
-[Mon May  4 02:06:02 2020] Fetching listings:  19%
-[Mon May  4 02:07:05 2020] Fetching listings:  20%
-[Mon May  4 02:08:06 2020] Fetching listings:  21%
-[Mon May  4 02:09:09 2020] Fetching listings:  22%
-[Mon May  4 02:11:54 2020] Fetching listings:  23%
-[Mon May  4 02:12:01 2020] Fetching listings:  24%
-[Mon May  4 02:12:57 2020] Fetching listings:  25%
-[Mon May  4 02:14:01 2020] Fetching listings:  25%
-[Mon May  4 02:15:05 2020] Fetching listings:  26%
-[Mon May  4 02:16:18 2020] Fetching listings:  27%
-[Mon May  4 02:17:23 2020] Fetching listings:  28%
-[Mon May  4 02:18:34 2020] Fetching listings:  29%
-[Mon May  4 02:19:17 2020] Fetching listings:  30%
-[Mon May  4 02:19:52 2020] Fetching listings:  31%
-[Mon May  4 02:22:12 2020] Fetching listings:  32%
-[Mon May  4 02:24:41 2020] Fetching listings:  33%
-[Mon May  4 02:26:50 2020] Fetching listings:  34%
-[Mon May  4 02:29:10 2020] Fetching listings:  35%
-[Mon May  4 02:31:36 2020] Fetching listings:  36%
-[Mon May  4 02:33:51 2020] Fetching listings:  37%
-[Mon May  4 02:36:09 2020] Fetching listings:  38%
-[Mon May  4 02:36:23 2020] Fetching listings:  39%
-Unable to retrieve web page for 178
-[Mon May  4 02:37:36 2020] Fetching listings:  40%
-[Mon May  4 02:38:43 2020] Fetching listings:  41%
-[Mon May  4 02:40:01 2020] Fetching listings:  42%
-[Mon May  4 02:41:12 2020] Fetching listings:  43%
-[Mon May  4 02:42:21 2020] Fetching listings:  44%
-[Mon May  4 02:44:11 2020] Fetching listings:  45%
+getting listings: ###########################################Grabber process finished in 1628 seconds for 55 chans, 703 api calls : 688 api_casting, 14 api_grille, 1 api_init, 1045 cached api_casting
+getting listings: ###########################################Grabber process finished in 733 seconds for 8 chans, 315 api calls : 307 api_casting, 7 api_grille, 1 api_init, 119 cached api_casting
+[Tue May  5 01:39:27 2020] Fetching listings:   0%
+[Tue May  5 01:39:47 2020] Fetching listings:   0%
+[Tue May  5 01:41:26 2020] Fetching listings:   1%
+[Tue May  5 01:43:11 2020] Fetching listings:   2%
+[Tue May  5 01:45:04 2020] Fetching listings:   3%
+[Tue May  5 01:46:42 2020] Fetching listings:   4%
+[Tue May  5 01:48:33 2020] Fetching listings:   5%
+[Tue May  5 01:50:06 2020] Fetching listings:   6%
+[Tue May  5 01:51:29 2020] Fetching listings:   7%
+[Tue May  5 01:51:44 2020] Fetching listings:   8%
+[Tue May  5 01:53:00 2020] Fetching listings:   9%
+[Tue May  5 01:54:28 2020] Fetching listings:  10%
+[Tue May  5 01:55:54 2020] Fetching listings:  11%
+[Tue May  5 01:57:07 2020] Fetching listings:  12%
+[Tue May  5 01:58:16 2020] Fetching listings:  13%
+[Tue May  5 01:59:38 2020] Fetching listings:  14%
+[Tue May  5 02:00:50 2020] Fetching listings:  15%
+[Tue May  5 02:01:11 2020] Fetching listings:  16%
+[Tue May  5 02:02:16 2020] Fetching listings:  17%
+[Tue May  5 02:03:21 2020] Fetching listings:  18%
+[Tue May  5 02:04:46 2020] Fetching listings:  19%
+[Tue May  5 02:06:00 2020] Fetching listings:  20%
+[Tue May  5 02:07:11 2020] Fetching listings:  21%
+[Tue May  5 02:08:21 2020] Fetching listings:  22%
+[Tue May  5 02:09:28 2020] Fetching listings:  23%
+[Tue May  5 02:09:36 2020] Fetching listings:  24%
+[Tue May  5 02:10:48 2020] Fetching listings:  25%
+[Tue May  5 02:12:07 2020] Fetching listings:  25%
+[Tue May  5 02:13:13 2020] Fetching listings:  26%
+[Tue May  5 02:14:13 2020] Fetching listings:  27%
+[Tue May  5 02:15:12 2020] Fetching listings:  28%
+[Tue May  5 02:15:58 2020] Fetching listings:  29%
+[Tue May  5 02:16:53 2020] Fetching listings:  30%
+[Tue May  5 02:17:34 2020] Fetching listings:  31%
+[Tue May  5 02:19:54 2020] Fetching listings:  32%
+[Tue May  5 02:22:17 2020] Fetching listings:  33%
+[Tue May  5 02:24:35 2020] Fetching listings:  34%
+[Tue May  5 02:26:57 2020] Fetching listings:  35%
+[Tue May  5 02:28:58 2020] Fetching listings:  36%
+[Tue May  5 02:31:13 2020] Fetching listings:  37%
+[Tue May  5 02:33:35 2020] Fetching listings:  38%
+[Tue May  5 02:33:48 2020] Fetching listings:  39%
+[Tue May  5 02:34:51 2020] Fetching listings:  40%
+[Tue May  5 02:36:10 2020] Fetching listings:  41%
+[Tue May  5 02:37:24 2020] Fetching listings:  42%
+[Tue May  5 02:38:38 2020] Fetching listings:  43%
+[Tue May  5 02:39:47 2020] Fetching listings:  44%
+[Tue May  5 02:41:56 2020] Fetching listings:  45%
+[Tue May  5 02:44:05 2020] Fetching listings:  46%
 No schedule found
-[Mon May  4 02:44:17 2020] Fetching listings:  46%
+[Tue May  5 02:44:07 2020] Fetching listings:  47%
 No schedule found
-[Mon May  4 02:44:20 2020] Fetching listings:  47%
+[Tue May  5 02:44:11 2020] Fetching listings:  48%
 No schedule found
-[Mon May  4 02:44:25 2020] Fetching listings:  48%
+[Tue May  5 02:44:15 2020] Fetching listings:  49%
 No schedule found
-[Mon May  4 02:44:26 2020] Fetching listings:  49%
+[Tue May  5 02:44:17 2020] Fetching listings:  50%
 No schedule found
-[Mon May  4 02:44:32 2020] Fetching listings:  50%
+[Tue May  5 02:44:21 2020] Fetching listings:  50%
 No schedule found
-[Mon May  4 02:44:35 2020] Fetching listings:  50%
+[Tue May  5 02:44:22 2020] Fetching listings:  51%
 No schedule found
-[Mon May  4 02:44:39 2020] Fetching listings:  51%
+[Tue May  5 02:44:24 2020] Fetching listings:  52%
 No schedule found
-[Mon May  4 02:44:41 2020] Fetching listings:  52%
-[Mon May  4 02:44:51 2020] Fetching listings:  53%
-[Mon May  4 02:45:12 2020] Fetching listings:  54%
-[Mon May  4 02:45:56 2020] Fetching listings:  55%
-[Mon May  4 02:46:31 2020] Fetching listings:  56%
+[Tue May  5 02:44:25 2020] Fetching listings:  53%
+[Tue May  5 02:44:30 2020] Fetching listings:  54%
 Unable to retrieve web page for 185
-[Mon May  4 02:47:18 2020] Fetching listings:  57%
-[Mon May  4 02:47:58 2020] Fetching listings:  58%
-[Mon May  4 02:48:14 2020] Fetching listings:  59%
-[Mon May  4 02:48:23 2020] Fetching listings:  60%
-[Mon May  4 02:48:56 2020] Fetching listings:  61%
-[Mon May  4 02:49:38 2020] Fetching listings:  62%
-[Mon May  4 02:50:23 2020] Fetching listings:  63%
-[Mon May  4 02:51:10 2020] Fetching listings:  64%
-[Mon May  4 02:52:03 2020] Fetching listings:  65%
-[Mon May  4 02:52:42 2020] Fetching listings:  66%
-[Mon May  4 02:53:19 2020] Fetching listings:  67%
-[Mon May  4 02:53:23 2020] Fetching listings:  68%
-[Mon May  4 02:54:05 2020] Fetching listings:  69%
-[Mon May  4 02:54:50 2020] Fetching listings:  70%
-[Mon May  4 02:55:20 2020] Fetching listings:  71%
-[Mon May  4 02:56:09 2020] Fetching listings:  72%
-[Mon May  4 02:56:50 2020] Fetching listings:  73%
-[Mon May  4 02:57:23 2020] Fetching listings:  74%
-[Mon May  4 02:58:00 2020] Fetching listings:  75%
-[Mon May  4 02:58:05 2020] Fetching listings:  75%
-[Mon May  4 02:58:35 2020] Fetching listings:  76%
-[Mon May  4 02:59:19 2020] Fetching listings:  77%
-[Mon May  4 03:00:04 2020] Fetching listings:  78%
-[Mon May  4 03:00:51 2020] Fetching listings:  79%
-[Mon May  4 03:01:40 2020] Fetching listings:  80%
-[Mon May  4 03:02:29 2020] Fetching listings:  81%
-[Mon May  4 03:02:55 2020] Fetching listings:  82%
-[Mon May  4 03:03:26 2020] Fetching listings:  83%
+[Tue May  5 02:45:09 2020] Fetching listings:  55%
+[Tue May  5 02:45:45 2020] Fetching listings:  56%
+[Tue May  5 02:46:36 2020] Fetching listings:  57%
+[Tue May  5 02:47:17 2020] Fetching listings:  58%
+[Tue May  5 02:47:33 2020] Fetching listings:  59%
+Unable to retrieve web page for 185
+[Tue May  5 02:47:39 2020] Fetching listings:  60%
+[Tue May  5 02:48:23 2020] Fetching listings:  61%
+[Tue May  5 02:49:20 2020] Fetching listings:  62%
+[Tue May  5 02:50:13 2020] Fetching listings:  63%
+[Tue May  5 02:51:08 2020] Fetching listings:  64%
+[Tue May  5 02:51:41 2020] Fetching listings:  65%
+[Tue May  5 02:52:23 2020] Fetching listings:  66%
+[Tue May  5 02:53:04 2020] Fetching listings:  67%
+[Tue May  5 02:53:06 2020] Fetching listings:  68%
+[Tue May  5 02:53:51 2020] Fetching listings:  69%
+[Tue May  5 02:54:26 2020] Fetching listings:  70%
+[Tue May  5 02:55:18 2020] Fetching listings:  71%
+[Tue May  5 02:55:56 2020] Fetching listings:  72%
+[Tue May  5 02:56:22 2020] Fetching listings:  73%
+[Tue May  5 02:56:52 2020] Fetching listings:  74%
+[Tue May  5 02:57:28 2020] Fetching listings:  75%
+[Tue May  5 02:57:33 2020] Fetching listings:  75%
+[Tue May  5 02:58:29 2020] Fetching listings:  76%
+[Tue May  5 02:59:13 2020] Fetching listings:  77%
+[Tue May  5 02:59:51 2020] Fetching listings:  78%
+[Tue May  5 03:00:45 2020] Fetching listings:  79%
+[Tue May  5 03:01:31 2020] Fetching listings:  80%
+[Tue May  5 03:02:04 2020] Fetching listings:  81%
+[Tue May  5 03:02:36 2020] Fetching listings:  82%
 Unable to retrieve web page for 1230
-[Mon May  4 03:05:04 2020] Fetching listings:  84%
-[Mon May  4 03:06:25 2020] Fetching listings:  85%
-[Mon May  4 03:07:57 2020] Fetching listings:  86%
-[Mon May  4 03:09:46 2020] Fetching listings:  87%
-[Mon May  4 03:11:19 2020] Fetching listings:  88%
-[Mon May  4 03:12:46 2020] Fetching listings:  89%
-[Mon May  4 03:13:07 2020] Fetching listings:  90%
-[Mon May  4 03:14:52 2020] Fetching listings:  91%
-[Mon May  4 03:16:28 2020] Fetching listings:  92%
-[Mon May  4 03:18:09 2020] Fetching listings:  93%
-[Mon May  4 03:19:50 2020] Fetching listings:  94%
-[Mon May  4 03:21:19 2020] Fetching listings:  95%
-[Mon May  4 03:22:47 2020] Fetching listings:  96%
-[Mon May  4 03:24:24 2020] Fetching listings:  97%
+Unable to retrieve web page for 1230
+Unable to retrieve web page for 1230
+[Tue May  5 03:04:05 2020] Fetching listings:  83%
+[Tue May  5 03:05:25 2020] Fetching listings:  84%
+[Tue May  5 03:06:50 2020] Fetching listings:  85%
+[Tue May  5 03:07:56 2020] Fetching listings:  86%
+[Tue May  5 03:09:14 2020] Fetching listings:  87%
+[Tue May  5 03:09:47 2020] Fetching listings:  88%
+[Tue May  5 03:11:20 2020] Fetching listings:  89%
+[Tue May  5 03:12:42 2020] Fetching listings:  90%
+[Tue May  5 03:14:02 2020] Fetching listings:  91%
+[Tue May  5 03:15:45 2020] Fetching listings:  92%
+Unable to retrieve web page for 1014
+[Tue May  5 03:17:20 2020] Fetching listings:  93%
+[Tue May  5 03:18:41 2020] Fetching listings:  94%
 Use of uninitialized value in concatenation (.) or string at /usr/share/perl5/XMLTV.pm line 2320.
-getting list of channels: ######***Channel |Sky Cinema Uno HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Cinema Due HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Tarantino Mania HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Cinema Action HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Cinema Suspense HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Cinema Romance HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Cinema Drama HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |#IoRestoACasa 1 HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |#IoRestoACasa 2 HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Premium Cinema HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Premium Cin.+24 HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Premium Energy HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Premium Emotion HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Premium Comedy HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Cine34| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Premium Cinema| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Premium Energy| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Premium Emotion| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Premium Comedy| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Cinema IoRestoACasa 1| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Cinema IoRestoACasa 2| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Discovery| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Discovery +1| for 'skylife' is not in channel_ids, should be updated.
-***Channel |NationalGeo| for 'skylife' is not in channel_ids, should be updated.
-***Channel |NationalGeo +1| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Discovery Sci| for 'skylife' is not in channel_ids, should be updated.
-***Channel |History HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |History +1| for 'skylife' is not in channel_ids, should be updated.
-***Channel |NatGeo Wild HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |I Vet di NGW| for 'skylife' is not in channel_ids, should be updated.
-***Channel |DoveTv| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Focus| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Food Network HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Motor Trend HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Motor Trend| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Sport Uno| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Sport Serie A HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Sport Football HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Sport Arena| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Sport Collection HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Sport NBA| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Sport MotoGP| for 'skylife' is not in channel_ids, should be updated.
-***Channel |DAZN1| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Roma TV| for 'skylife' is not in channel_ids, should be updated.
-***Channel |GINX Esports TV| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Horse TV HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |RAI Sport| for 'skylife' is not in channel_ids, should be updated.
-***Channel |MS MOTORTV| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Milan TV| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Inter TV| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Lazio Style Ch| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Torino Channel| for 'skylife' is not in channel_ids, should be updated.
-***Channel |CACCIA e Pesca| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Caccia e PESCA| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Sport| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Wimbledon 6 HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Sport Uno HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Sport Serie A| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Meteo24| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Class CNBC| for 'skylife' is not in channel_ids, should be updated.
-***Channel |RAI News| for 'skylife' is not in channel_ids, should be updated.
-***Channel |TG NORBA 24| for 'skylife' is not in channel_ids, should be updated.
-***Channel |BFC| for 'skylife' is not in channel_ids, should be updated.
-***Channel |TRM h24| for 'skylife' is not in channel_ids, should be updated.
-***Channel |San Marino RTV| for 'skylife' is not in channel_ids, should be updated.
-***Channel |CNN Intl.| for 'skylife' is not in channel_ids, should be updated.
-***Channel |France 24 English HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Al Jazeera Intl. HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |RT HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |i24news| for 'skylife' is not in channel_ids, should be updated.
-***Channel |France 24 Francais HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |RT Doc HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |DeAKids +1| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Nick Jr| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Nick Jr +1| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Nickelodeon +1| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Boomerang +1| for 'skylife' is not in channel_ids, should be updated.
-***Channel |TeenNick| for 'skylife' is not in channel_ids, should be updated.
-***Channel |DeAJunior| for 'skylife' is not in channel_ids, should be updated.
-***Channel |-frisbee-| for 'skylife' is not in channel_ids, should be updated.
-***Channel |CARTOONITO DTT| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Radio Monte Carlo| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Radio Italia TV HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |RADIONORBA TV| for 'skylife' is not in channel_ids, should be updated.
-***Channel |RTL 102.5 HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |RADIOFRECCIA HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Uno +1| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Maratone| for 'skylife' is not in channel_ids, should be updated.
-***Channel |FoxLife +1| for 'skylife' is not in channel_ids, should be updated.
-***Channel |FoxCrime +1| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Premium Crime HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Crime + Inv. HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |TV8 HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Premium Stories HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Blaze HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Premium Action HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Comedy +1| for 'skylife' is not in channel_ids, should be updated.
-***Channel |LEI| for 'skylife' is not in channel_ids, should be updated.
-***Channel |LaF| for 'skylife' is not in channel_ids, should be updated.
-***Channel |NOVE| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Canale 20 HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |cielo HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Paramount Network| for 'skylife' is not in channel_ids, should be updated.
-***Channel |La 5| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Real Time +1| for 'skylife' is not in channel_ids, should be updated.
-***Channel |GIALLO HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |TOPcrime| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Spike| for 'skylife' is not in channel_ids, should be updated.
-***Channel |DMAX HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |DMAX+1| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Mediaset Italia Due| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Sky Atlantic| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Premium Action| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Premium Crime| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Premium Stories| for 'skylife' is not in channel_ids, should be updated.
-***Channel |TV8| for 'skylife' is not in channel_ids, should be updated.
-***Channel |cielo| for 'skylife' is not in channel_ids, should be updated.
-***Channel |GIALLO| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Italia 1 HD| for 'skylife' is not in channel_ids, should be updated.
-***Channel |Canale 5 DTT| for 'skylife' is not in channel_ids, should be updated.
+getting list of channels: ######VERBOSE: Cannot get skylife's channel list (http://guidatv.sky.it/app/guidatv/contenuti/data/grid/grid_cinema_channels.js). Site \n at ./tv_grab_it/tv_grab_it line 1386.
 ############***Channel |Premium Stories| for 'mediaset_guidatv' is not in channel_ids, should be updated.
 ################################
-getting listings: ##############I couldn't fetch data for channel rainews.guidatv.sky.it, day 2 from any backend!!
-####I couldn't fetch data for channel raipremium.guidatv.sky.it, day 2 from any backend!!
+getting listings: errore get_nice at ./tv_grab_it/tv_grab_it line 2963.
+I couldn't fetch data for channel www.la7.it, day 0 from any backend!!
+I couldn't fetch data for channel rainews.guidatv.sky.it, day 0 from any backend!!
+#I couldn't fetch data for channel raisport.guidatv.sky.it, day 0 from any backend!!
+###I couldn't fetch data for channel raipremium.guidatv.sky.it, day 0 from any backend!!
+###errore get_nice at ./tv_grab_it/tv_grab_it line 2963.
+I couldn't fetch data for channel www.la7.it, day 1 from any backend!!
+I couldn't fetch data for channel rainews.guidatv.sky.it, day 1 from any backend!!
+#I couldn't fetch data for channel raisport.guidatv.sky.it, day 1 from any backend!!
+###I couldn't fetch data for channel raipremium.guidatv.sky.it, day 1 from any backend!!
+###errore get_nice at ./tv_grab_it/tv_grab_it line 2963.
+I couldn't fetch data for channel www.la7.it, day 2 from any backend!!
+I couldn't fetch data for channel rainews.guidatv.sky.it, day 2 from any backend!!
+#I couldn't fetch data for channel raisport.guidatv.sky.it, day 2 from any backend!!
+###I couldn't fetch data for channel raipremium.guidatv.sky.it, day 2 from any backend!!
 ###errore get_nice at ./tv_grab_it/tv_grab_it line 2963.
 I couldn't fetch data for channel www.la7.it, day 3 from any backend!!
 I couldn't fetch data for channel rainews.guidatv.sky.it, day 3 from any backend!!
-##########################I couldn't fetch data for channel raiscuola.rai.it, day 6 from any backend!!
+#I couldn't fetch data for channel raisport.guidatv.sky.it, day 3 from any backend!!
+####I couldn't fetch data for channel raipremium.guidatv.sky.it, day 3 from any backend!!
+##errore get_nice at ./tv_grab_it/tv_grab_it line 2963.
+I couldn't fetch data for channel www.la7.it, day 4 from any backend!!
+#I couldn't fetch data for channel rainews.guidatv.sky.it, day 4 from any backend!!
+I couldn't fetch data for channel raisport.guidatv.sky.it, day 4 from any backend!!
+####I couldn't fetch data for channel raipremium.guidatv.sky.it, day 4 from any backend!!
+##errore get_nice at ./tv_grab_it/tv_grab_it line 2963.
+I couldn't fetch data for channel www.la7.it, day 5 from any backend!!
+#I couldn't fetch data for channel rainews.guidatv.sky.it, day 5 from any backend!!
+I couldn't fetch data for channel raisport.guidatv.sky.it, day 5 from any backend!!
+####I couldn't fetch data for channel raipremium.guidatv.sky.it, day 5 from any backend!!
+##errore get_nice at ./tv_grab_it/tv_grab_it line 2963.
+I couldn't fetch data for channel www.la7.it, day 6 from any backend!!
+#I couldn't fetch data for channel rainews.guidatv.sky.it, day 6 from any backend!!
+I couldn't fetch data for channel raisport.guidatv.sky.it, day 6 from any backend!!
+####I couldn't fetch data for channel raipremium.guidatv.sky.it, day 6 from any backend!!
+I couldn't fetch data for channel raiscuola.rai.it, day 6 from any backend!!
 ###
 - Use python script to post treat tv guides (UTC time, split, merge, ...)
 * Processing of be country:
 	- Write corrected full xmltv file in tv_guide_be.xml
 	- Write corrected full xmltv file in tv_guide_be_local.xml
 	- Write one day xmltv files:
-		* Write day 20200503 in tv_guide_be_20200503.xml
 		* Write day 20200504 in tv_guide_be_20200504.xml
 		* Write day 20200505 in tv_guide_be_20200505.xml
 		* Write day 20200506 in tv_guide_be_20200506.xml
 		* Write day 20200507 in tv_guide_be_20200507.xml
 		* Write day 20200508 in tv_guide_be_20200508.xml
 		* Write day 20200509 in tv_guide_be_20200509.xml
-		* Write day 20200503 in tv_guide_be_local_20200503.xml
+		* Write day 20200510 in tv_guide_be_20200510.xml
 		* Write day 20200504 in tv_guide_be_local_20200504.xml
 		* Write day 20200505 in tv_guide_be_local_20200505.xml
 		* Write day 20200506 in tv_guide_be_local_20200506.xml
 		* Write day 20200507 in tv_guide_be_local_20200507.xml
 		* Write day 20200508 in tv_guide_be_local_20200508.xml
 		* Write day 20200509 in tv_guide_be_local_20200509.xml
+		* Write day 20200510 in tv_guide_be_local_20200510.xml
 * Processing of fr country:
 	- Write corrected full xmltv file in tv_guide_fr.xml
 	- Write corrected full xmltv file in tv_guide_fr_local.xml
 	- Write one day xmltv files:
-		* Write day 20200503 in tv_guide_fr_20200503.xml
 		* Write day 20200504 in tv_guide_fr_20200504.xml
 		* Write day 20200505 in tv_guide_fr_20200505.xml
 		* Write day 20200506 in tv_guide_fr_20200506.xml
 		* Write day 20200507 in tv_guide_fr_20200507.xml
 		* Write day 20200508 in tv_guide_fr_20200508.xml
 		* Write day 20200509 in tv_guide_fr_20200509.xml
-		* Write day 20200503 in tv_guide_fr_local_20200503.xml
+		* Write day 20200510 in tv_guide_fr_20200510.xml
 		* Write day 20200504 in tv_guide_fr_local_20200504.xml
 		* Write day 20200505 in tv_guide_fr_local_20200505.xml
 		* Write day 20200506 in tv_guide_fr_local_20200506.xml
 		* Write day 20200507 in tv_guide_fr_local_20200507.xml
 		* Write day 20200508 in tv_guide_fr_local_20200508.xml
 		* Write day 20200509 in tv_guide_fr_local_20200509.xml
+		* Write day 20200510 in tv_guide_fr_local_20200510.xml
 * Processing of fr_tnt country:
 	- Write corrected full xmltv file in tv_guide_fr_tnt.xml
 	- Write corrected full xmltv file in tv_guide_fr_tnt_local.xml
 	- Write one day xmltv files:
-		* Write day 20200503 in tv_guide_fr_tnt_20200503.xml
 		* Write day 20200504 in tv_guide_fr_tnt_20200504.xml
 		* Write day 20200505 in tv_guide_fr_tnt_20200505.xml
 		* Write day 20200506 in tv_guide_fr_tnt_20200506.xml
 		* Write day 20200507 in tv_guide_fr_tnt_20200507.xml
 		* Write day 20200508 in tv_guide_fr_tnt_20200508.xml
 		* Write day 20200509 in tv_guide_fr_tnt_20200509.xml
-		* Write day 20200503 in tv_guide_fr_tnt_local_20200503.xml
+		* Write day 20200510 in tv_guide_fr_tnt_20200510.xml
 		* Write day 20200504 in tv_guide_fr_tnt_local_20200504.xml
 		* Write day 20200505 in tv_guide_fr_tnt_local_20200505.xml
 		* Write day 20200506 in tv_guide_fr_tnt_local_20200506.xml
 		* Write day 20200507 in tv_guide_fr_tnt_local_20200507.xml
 		* Write day 20200508 in tv_guide_fr_tnt_local_20200508.xml
 		* Write day 20200509 in tv_guide_fr_tnt_local_20200509.xml
+		* Write day 20200510 in tv_guide_fr_tnt_local_20200510.xml
 * Processing of uk country:
 	- Write corrected full xmltv file in tv_guide_uk.xml
 	- Write corrected full xmltv file in tv_guide_uk_local.xml
 	- Write one day xmltv files:
-		* Write day 20200503 in tv_guide_uk_20200503.xml
 		* Write day 20200504 in tv_guide_uk_20200504.xml
 		* Write day 20200505 in tv_guide_uk_20200505.xml
 		* Write day 20200506 in tv_guide_uk_20200506.xml
 		* Write day 20200507 in tv_guide_uk_20200507.xml
 		* Write day 20200508 in tv_guide_uk_20200508.xml
 		* Write day 20200509 in tv_guide_uk_20200509.xml
-		* Write day 20200503 in tv_guide_uk_local_20200503.xml
+		* Write day 20200510 in tv_guide_uk_20200510.xml
 		* Write day 20200504 in tv_guide_uk_local_20200504.xml
 		* Write day 20200505 in tv_guide_uk_local_20200505.xml
 		* Write day 20200506 in tv_guide_uk_local_20200506.xml
 		* Write day 20200507 in tv_guide_uk_local_20200507.xml
 		* Write day 20200508 in tv_guide_uk_local_20200508.xml
 		* Write day 20200509 in tv_guide_uk_local_20200509.xml
+		* Write day 20200510 in tv_guide_uk_local_20200510.xml
 * Processing of it country:
 	- Write corrected full xmltv file in tv_guide_it.xml
 	- Write corrected full xmltv file in tv_guide_it_local.xml
 	- Write one day xmltv files:
-		* Write day 20200503 in tv_guide_it_20200503.xml
 		* Write day 20200504 in tv_guide_it_20200504.xml
 		* Write day 20200505 in tv_guide_it_20200505.xml
 		* Write day 20200506 in tv_guide_it_20200506.xml
 		* Write day 20200507 in tv_guide_it_20200507.xml
 		* Write day 20200508 in tv_guide_it_20200508.xml
 		* Write day 20200509 in tv_guide_it_20200509.xml
-		* Write day 20200503 in tv_guide_it_local_20200503.xml
+		* Write day 20200510 in tv_guide_it_20200510.xml
 		* Write day 20200504 in tv_guide_it_local_20200504.xml
 		* Write day 20200505 in tv_guide_it_local_20200505.xml
 		* Write day 20200506 in tv_guide_it_local_20200506.xml
 		* Write day 20200507 in tv_guide_it_local_20200507.xml
 		* Write day 20200508 in tv_guide_it_local_20200508.xml
 		* Write day 20200509 in tv_guide_it_local_20200509.xml
+		* Write day 20200510 in tv_guide_it_local_20200510.xml
 * Merge all country tv guides in tv_guide_all.xml
 * Merge all country tv guides in tv_guide_all_local.xml
-- Add log file if needed at 04/05/2020 03:29:35-CEST
+- Add log file if needed at 05/05/2020 03:22:12-CEST
 - Push changes
