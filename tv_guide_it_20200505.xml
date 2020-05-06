@@ -3,6 +3,16 @@
   <channel id="www.la7.it">
     <display-name>La7</display-name>
   </channel>
+  <channel id="rainews.guidatv.sky.it">
+    <display-name>RAI News</display-name>
+    <display-name>508</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/895_home.png" />
+  </channel>
+  <channel id="raisport.guidatv.sky.it">
+    <display-name>RAI Sport</display-name>
+    <display-name>227</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/807_home.png" />
+  </channel>
   <channel id="www.raiuno.rai.it">
     <display-name>Rai 1</display-name>
   </channel>
@@ -23,6 +33,8 @@
   </channel>
   <channel id="raipremium.guidatv.sky.it">
     <display-name>Rai Premium</display-name>
+    <display-name>5025</display-name>
+    <icon src="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6623_home.png" />
   </channel>
   <channel id="raiscuola.rai.it">
     <display-name>Rai Scuola</display-name>
@@ -36,4 +48,282 @@
   <channel id="yoyo.raisat.it">
     <display-name>Yoyo</display-name>
   </channel>
+  <programme channel="www.la7.it" start="20200505225000" stop="20200505230000">
+    <title lang="it">Tg La7</title>
+    <desc lang="it">Le notizie d'attualita' e...</desc>
+    <category lang="it">notiziario</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="www.la7.it" start="20200505230000" stop="20200505234000">
+    <title lang="it">Otto e mezzo</title>
+    <sub-title lang="it">Ep. 193</sub-title>
+    <desc lang="it">Condotto da...</desc>
+    <category lang="it">talk show</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="www.la7.it" start="20200505234000" stop="20200506020000">
+    <title lang="it">L'aria che tira</title>
+    <sub-title lang="it">Ep. 162</sub-title>
+    <desc lang="it">Myrta Merlino...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200505220000" stop="20200505223000">
+    <title lang="it">News</title>
+    <desc lang="it">Notizie, i fatti ed i...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200505223000" stop="20200505225500">
+    <title lang="it">News + Rassegna stampa</title>
+    <desc lang="it">La rassegna stampa delle...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200505225500" stop="20200505230000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Informazioni sul tempo...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200505230000" stop="20200505233000">
+    <title lang="it">News</title>
+    <desc lang="it">Notizie, i fatti ed i...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200505233000" stop="20200505235500">
+    <title lang="it">News + Approfondimento</title>
+    <desc lang="it">News, approfondimenti e...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rainews.guidatv.sky.it" start="20200505235500" stop="20200506000000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Informazioni sul tempo...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="raisport.guidatv.sky.it" start="20200505220000" stop="20200506000000">
+    <title lang="it">Memory</title>
+    <desc lang="it">Riviviamo il meglio dello...</desc>
+    <category lang="it">sport</category>
+    <category lang="it">sport</category>
+  </programme>
+  <programme channel="raigulp.rai.it" start="20200505235500" stop="20200506002000">
+    <title lang="it">Geronimo Stilton</title>
+    <desc lang="it">S2 Ep12 Trappola per...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="raigulp.rai.it" start="20200505222000" stop="20200505224500">
+    <title lang="it">Fairy Tail</title>
+    <sub-title lang="it">Episodio 4</sub-title>
+    <desc lang="it">Elsa riesce a...</desc>
+    <category lang="it">telefilm</category>
+    <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 4</episode-num>
+    <episode-num system="xmltv_ns">.3.0/1</episode-num>
+  </programme>
+  <programme channel="raigulp.rai.it" start="20200505224500" stop="20200505231000">
+    <title lang="it">Le nuove avventure di Peter Pan</title>
+    <desc lang="it">S1 Ep7 Un nuovo Uncino -...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="raigulp.rai.it" start="20200505231000" stop="20200505235500">
+    <title lang="it">Heidi, bienvenida a casa</title>
+    <sub-title lang="it">Episodio 9</sub-title>
+    <desc lang="it">Le avventure di...</desc>
+    <category lang="it">telefilm</category>
+    <category lang="it">ragazzi e musica</category>
+    <episode-num system="onscreen">Episodio 9</episode-num>
+    <episode-num system="xmltv_ns">.8.0/1</episode-num>
+  </programme>
+  <programme channel="raimovie.rai.it" start="20200505223500" stop="20200506001000">
+    <title lang="it">The Alibi</title>
+    <desc lang="it">Regia di M. Checkowski,...</desc>
+    <category lang="it">commedia</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200505223000" stop="20200505231000">
+    <title lang="it">Good Witch</title>
+    <desc lang="it">S2 Qualcosa di diabolico....</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200505231000" stop="20200505235500">
+    <title lang="it">Good Witch</title>
+    <desc lang="it">S2 Qualcosa di diabolico....</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raipremium.guidatv.sky.it" start="20200505235500" stop="20200506004500">
+    <title lang="it">Lord &amp; Master</title>
+    <desc lang="it">S1 Ep9 Il pezzo scozzese...</desc>
+    <category lang="it">fiction</category>
+    <category lang="it">intrattenimento</category>
+  </programme>
+  <programme channel="raistoria.rai.it" start="20200505222500" stop="20200505223000">
+    <title lang="it">RaiNews24</title>
+    <desc lang="it">Le ultime notizie in...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="raistoria.rai.it" start="20200505223000" stop="20200505225000">
+    <title lang="it">Il giorno e la storia</title>
+    <desc lang="it">Una selezioni dei...</desc>
+    <category lang="it">storia</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="raistoria.rai.it" start="20200505233000" stop="20200506003000">
+    <title lang="it">Finche' dura la memoria: Piazzale Loreto</title>
+    <desc lang="it">Regia di D. Damiani; ITA...</desc>
+    <category lang="it">cinema</category>
+    <category lang="it">film</category>
+  </programme>
+  <programme channel="raistoria.rai.it" start="20200505225000" stop="20200505233000">
+    <title lang="it">Passato e Presente</title>
+    <desc lang="it">Santa Caterina da Siena -...</desc>
+    <category lang="it">storia</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200505235000" stop="20200505235500">
+    <title lang="it">Rai News notte</title>
+    <desc lang="it">Cronaca, politica,...</desc>
+    <category lang="it">news</category>
+    <category lang="it">informazione</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200505225000" stop="20200505235000">
+    <title lang="it">Barbra Streisand, nascita di una stella</title>
+    <desc lang="it">Un'icona intramontabile,...</desc>
+    <category lang="it">arte e cultura</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="rai5.rai.it" start="20200505235500" stop="20200506002500">
+    <title lang="it">Bon Jovi</title>
+    <sub-title lang="it">Smiths</sub-title>
+    <desc lang="it">Interviste,...</desc>
+    <category lang="it">musica</category>
+    <category lang="it">mondo e tendenze</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505220000" stop="20200505220500">
+    <title lang="it">Dixie's Simple Songs</title>
+    <desc lang="it">Le avvincenti avventure...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505220500" stop="20200505221000">
+    <title lang="it">Dixie's Simple Songs</title>
+    <desc lang="it">Le avvincenti avventure...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505221000" stop="20200505221500">
+    <title lang="it">Dixiland</title>
+    <sub-title lang="it">S2</sub-title>
+    <desc lang="it">Dixi e' un...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505221500" stop="20200505222000">
+    <title lang="it">Dixiland</title>
+    <sub-title lang="it">S2</sub-title>
+    <desc lang="it">Dixi e' un...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505222000" stop="20200505222500">
+    <title lang="it">Dixiland</title>
+    <sub-title lang="it">S2</sub-title>
+    <desc lang="it">Dixi e' un...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505222500" stop="20200505223000">
+    <title lang="it">Barbapapa'</title>
+    <sub-title lang="it">S2</sub-title>
+    <desc lang="it">Nel giardino di...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505223000" stop="20200505223500">
+    <title lang="it">Barbapapa'</title>
+    <sub-title lang="it">S2</sub-title>
+    <desc lang="it">Nel giardino di...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505223500" stop="20200505224000">
+    <title lang="it">Barbapapa'</title>
+    <sub-title lang="it">S2</sub-title>
+    <desc lang="it">Nel giardino di...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505224000" stop="20200505224500">
+    <title lang="it">Barbapapa'</title>
+    <sub-title lang="it">S2</sub-title>
+    <desc lang="it">Nel giardino di...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505224500" stop="20200505225000">
+    <title lang="it">Barbapapa'</title>
+    <sub-title lang="it">S2</sub-title>
+    <desc lang="it">Nel giardino di...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505225000" stop="20200505225500">
+    <title lang="it">Kit e Kate</title>
+    <desc lang="it">Kit e Kate amano molto la...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505225500" stop="20200505230000">
+    <title lang="it">Kit e Kate</title>
+    <desc lang="it">Kit e Kate amano molto la...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505230000" stop="20200505230500">
+    <title lang="it">Kit e Kate</title>
+    <desc lang="it">Kit e Kate amano molto la...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505230500" stop="20200505231500">
+    <title lang="it">Kit e Kate</title>
+    <desc lang="it">Kit e Kate amano molto la...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505231500" stop="20200505232000">
+    <title lang="it">Topo Tip</title>
+    <sub-title lang="it">S2</sub-title>
+    <desc lang="it">Il simpatico,...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505232000" stop="20200505233000">
+    <title lang="it">Topo Tip</title>
+    <sub-title lang="it">S2</sub-title>
+    <desc lang="it">Il simpatico,...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505233000" stop="20200505235500">
+    <title lang="it">La Melevisione</title>
+    <desc lang="it">Contenitore pomeridiano...</desc>
+    <category lang="it">bambini</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
+  <programme channel="yoyo.raisat.it" start="20200505235500" stop="20200506000000">
+    <title lang="it">Mofy</title>
+    <sub-title lang="it">S1</sub-title>
+    <desc lang="it">La graziosa...</desc>
+    <category lang="it">cartoni animati</category>
+    <category lang="it">ragazzi e musica</category>
+  </programme>
 </tv>
