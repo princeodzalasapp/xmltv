@@ -32,12 +32,29 @@
     <display-name>Ketnet</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
   </channel>
-  <programme channel="C23.api.telerama.fr" start="20200514235800 +0200" stop="20200515000000 +0200">
-    <title>Keno</title>
-    <category lang="fr">loterie</category>
-    <length units="minutes">2</length>
+  <programme channel="C23.api.telerama.fr" start="20200514231000 +0200" stop="20200515000800 +0200">
+    <title>La trêve</title>
+    <desc lang="fr">Saison:2 - Episode:9 - Après avoir découvert les innombrables manipulations dont Karim est l'auteur, Marjo comprend qu'il lui sera désormais impossible de lui accorder sa confiance. Elle prend alors la douloureuse décision de le dénoncer. Surtout, elle rejoint Yoann Peeters et lui propose de l'aider dans sa sulfureuse enquête. Pendant ce temps, l'étau se resserre sur le bourgmestre. Ses liens obscurs à la scierie commencent à se dessiner avec davantage de précision. Peeters parviendra-t-il à rassembler des preuves suffisamment parlantes pour permettre à la justice de faire prévaloir le droit ?...</desc>
+    <credits>
+      <director>Matthieu Donck</director>
+      <actor>Yoann Blanc</actor>
+      <actor>Guillaume Kerbusch</actor>
+      <actor>Jasmina Douieb</actor>
+      <actor>Catherine Salée</actor>
+      <actor>Jean-Henri Compère</actor>
+      <actor>Marcel Delval</actor>
+      <actor>Karim Barras</actor>
+      <writer>Stéphane Bergmans</writer>
+      <writer>Benjamin d'Aoust</writer>
+      <writer>Matthieu Donck</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">58</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6b2326a-0820-4725-8a49-00afa5c4a9c3.jpg" />
+    <episode-num system="xmltv_ns">1.8.</episode-num>
     <rating system="CSA">
-      <value>Tout public</value>
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
     </rating>
   </programme>
   <programme channel="C50.api.telerama.fr" start="20200514233000 +0200" stop="20200515050000 +0200">
@@ -51,11 +68,11 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200514234200 +0200" stop="20200515002900 +0200">
+  <programme channel="C164.api.telerama.fr" start="20200514234200 +0200" stop="20200515002600 +0200">
     <title>On n'est pas des pigeons</title>
     <desc lang="fr">Présenté par Benjamin Maréchal, On n'est pas des pigeons ! décrypte les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire " pigeonner ". Les chroniqueurs dénichent les arnaques et les bons plans, et vous aident à boucler vos fins de mois.</desc>
-    <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">47</length>
+    <category lang="fr">magazine magazine du consommateur</category>
+    <length units="minutes">44</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -75,7 +92,16 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200514233000 +0200" stop="20200515001500 +0200">
+  <programme channel="C187.api.telerama.fr" start="20200514235800 +0200" stop="20200515013000 +0200">
+    <title>Magazine selon annonce</title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">92</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C377.api.telerama.fr" start="20200514233000 +0200" stop="20200515003500 +0200">
     <title>Mistresses</title>
     <sub-title>Le crime était presque parfait</sub-title>
     <desc lang="fr">Saison:3 - Episode:8 - Alors qu'elle est chez Calista pour piéger son mari, Joss retrouve Luca mort. Effrayée et désorientée, elle fuit et se réfugie chez Karen avant d'appeler la police. Elle tente de joindre Calista en vain. Toutes deux sont ensuite interrogées par la police. Vivian est de retour et sent un malaise entre Karen et Alec. Ils finissent par se disputer violemment. Afin d'oublier leurs déboires sentimentaux, Harry et Mark décident de s'amuser un peu...</desc>
@@ -93,11 +119,12 @@
       <writer>Rina Mimoun</writer>
     </credits>
     <category lang="fr">série dramatique</category>
-    <length units="minutes">45</length>
+    <length units="minutes">65</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df5eab15-07b9-4100-904a-968ef910578c.jpg" />
     <episode-num system="xmltv_ns">2.7.</episode-num>
     <rating system="CSA">
-      <value>Tout public</value>
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
   <programme channel="C892.api.telerama.fr" start="20200514225700 +0200" stop="20200515003700 +0200">
@@ -142,9 +169,18 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515000000 +0200" stop="20200515001500 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515000800 +0200" stop="20200515001000 +0200">
+    <title>Keno</title>
+    <category lang="fr">loterie</category>
+    <length units="minutes">2</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20200515001000 +0200" stop="20200515002500 +0200">
     <title>Dagelijkse kost</title>
-    <category lang="fr">magazine de la gastronomie</category>
+    <sub-title>Ramen met zalm, shiitake, ei en noedels</sub-title>
+    <category lang="fr">magazine magazine de la gastronomie</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5b86aadc-ef7a-4529-93eb-a880f0482932.jpg" />
     <previously-shown />
@@ -152,7 +188,7 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515001500 +0200" stop="20200515003500 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515002500 +0200" stop="20200515004500 +0200">
     <title>Iedereen beroemd</title>
     <category lang="fr">magazine de société</category>
     <length units="minutes">20</length>
@@ -162,7 +198,7 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515003500 +0200" stop="20200515005000 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515004500 +0200" stop="20200515010000 +0200">
     <title>Het journaal</title>
     <category lang="fr">journal</category>
     <length units="minutes">15</length>
@@ -172,7 +208,7 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515005000 +0200" stop="20200515005500 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515010000 +0200" stop="20200515010500 +0200">
     <title>Het weer</title>
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
@@ -182,21 +218,21 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515005500 +0200" stop="20200515044500 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515010500 +0200" stop="20200515023500 +0200">
     <title>Villa Politica</title>
     <category lang="fr">magazine politique</category>
-    <length units="minutes">230</length>
+    <length units="minutes">90</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515044500 +0200" stop="20200515083000 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515023500 +0200" stop="20200515083000 +0200">
     <title>Journaallus</title>
     <sub-title>Doorlopende herhalingen</sub-title>
     <category lang="fr">journal</category>
-    <length units="minutes">225</length>
+    <length units="minutes">355</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -351,7 +387,8 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
   </programme>
   <programme channel="C23.api.telerama.fr" start="20200515121000 +0200" stop="20200515122500 +0200">
     <title>Dagelijkse kost</title>
-    <category lang="fr">magazine de la gastronomie</category>
+    <sub-title>Ramen met zalm, shiitake, ei en noedels</sub-title>
+    <category lang="fr">magazine magazine de la gastronomie</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5b86aadc-ef7a-4529-93eb-a880f0482932.jpg" />
     <previously-shown />
@@ -395,12 +432,44 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515133000 +0200" stop="20200515135500 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515133000 +0200" stop="20200515133500 +0200">
+    <title>Het weer</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20200515133500 +0200" stop="20200515140000 +0200">
     <title>Iedereen beroemd</title>
     <category lang="fr">magazine de société</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
     <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20200515140000 +0200" stop="20200515142000 +0200">
+    <title>De collega's</title>
+    <sub-title>De groentewinkel</sub-title>
+    <desc lang="fr">Saison:2 - Episode:11 -</desc>
+    <credits>
+      <director>Vincent Rouffaer</director>
+      <actor>René Verreth</actor>
+      <actor>Bob Van der Veken</actor>
+      <actor>Nellie Rosiers</actor>
+      <actor>Manu Verreth</actor>
+      <actor>Jaak Van Assche</actor>
+      <actor>Tuur De Weert</actor>
+      <actor>Mandus De Vos</actor>
+      <actor>Agnes De Nul</actor>
+      <actor>Jacky Morel</actor>
+    </credits>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">20</length>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -532,7 +601,8 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
   </programme>
   <programme channel="C23.api.telerama.fr" start="20200515181500 +0200" stop="20200515183000 +0200">
     <title>Dagelijkse kost</title>
-    <category lang="fr">magazine de la gastronomie</category>
+    <sub-title>Gegrild kalfsvlees met aardappelen "piccata"</sub-title>
+    <category lang="fr">magazine magazine de la gastronomie</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5b86aadc-ef7a-4529-93eb-a880f0482932.jpg" />
     <rating system="CSA">
@@ -557,7 +627,16 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515194000 +0200" stop="20200515200500 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515194000 +0200" stop="20200515195000 +0200">
+    <title>Iedereen beroemd</title>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20200515195000 +0200" stop="20200515201500 +0200">
     <title>Iedereen beroemd</title>
     <category lang="fr">magazine de société</category>
     <length units="minutes">25</length>
@@ -566,7 +645,7 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515200500 +0200" stop="20200515201000 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515201500 +0200" stop="20200515202000 +0200">
     <title>Het weer</title>
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
@@ -575,7 +654,7 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515201000 +0200" stop="20200515214500 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515202000 +0200" stop="20200515215500 +0200">
     <title>Brokenwood</title>
     <sub-title>Les raisins de la colère</sub-title>
     <desc lang="fr">Saison:1 - Episode:2 - Comme chaque année, Brokenwood est le théâtre d'un événement très attendu : le traditionnel concours viticole. Même Mike Shepherd, qui vient tout juste de faire l'acquisition d'une parcelle de vignoble, se réjouit d'assister à cet événement. Or, à la surprise générale, Amanda James, la grande favorite de la compétition, est détrônée par son rival, le viticulteur de la cave Bright Valley. Un véritable choc pour la jeune femme, habituée à recevoir les honneurs de ses pairs. Mais dès le lendemain, Paul Winterson, le président du concours, est retrouvé mort dans une cuve à fermentation au sein de l'établissement d'Amanda James. Mike Shepherd et Kristin Sims sont chargés de l'enquête...</desc>
@@ -603,7 +682,7 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515214500 +0200" stop="20200515223500 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515215500 +0200" stop="20200515224500 +0200">
     <title>Riviera</title>
     <sub-title>Renaissance</sub-title>
     <desc lang="fr">Saison:2 - Episode:4 - De retour en France, Georgina renforce son rôle dans la société en passant un accord avantageux avec le musée du Louvre. En parallèle, sa relation avec Noah s'intensifie. De son côté, Irina commence à toucher la vérité du doigt concernant Adam. Lorsque Georgina revient dans le Sud, les tensions avec Irina sont à leur comble et menacent l'avenir de la famille Clios...</desc>
@@ -629,7 +708,7 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515223500 +0200" stop="20200515225200 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515224500 +0200" stop="20200515230200 +0200">
     <title>Het journaal</title>
     <category lang="fr">journal</category>
     <length units="minutes">17</length>
@@ -638,7 +717,7 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515225200 +0200" stop="20200515225300 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515230200 +0200" stop="20200515230300 +0200">
     <title>Keno</title>
     <category lang="fr">loterie</category>
     <length units="minutes">1</length>
@@ -646,7 +725,7 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515225300 +0200" stop="20200515225500 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515230300 +0200" stop="20200515230500 +0200">
     <title>Tirage de l'Euro Millions</title>
     <category lang="fr">loterie</category>
     <length units="minutes">2</length>
@@ -655,7 +734,7 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515225500 +0200" stop="20200515230000 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515230500 +0200" stop="20200515231000 +0200">
     <title>Het weer</title>
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
@@ -665,7 +744,7 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200515230000 +0200" stop="20200516010000 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200515231000 +0200" stop="20200516011000 +0200">
     <title>Le solitaire</title>
     <desc lang="fr">A peine sorti de prison, un truand accepte un ultime gros coup avant de se ranger. Mais, avec la Mafia, rien n'est jamais assuré. James Caan agit avec la force tranquille et l'obstination d'un héros tragique. Habile technicien, Michael Mann, alors encore scénariste de séries comme Miami Vice, fera mieux, six ans plus tard, avec Le Sixième Sens. - Critique : Ultime gros coup avant de se ranger pour James Caan, qui agit avec la force tranquille et l’obstination d’un héros tragique. Habile technicien, Michael Mann, alors encore scénariste de séries, fera mieux, six ans plus tard, avec Le Sixième Sens.</desc>
     <credits>
@@ -998,7 +1077,7 @@ L’opposition de style entre le good cop et le bad cop est un classique, sinon 
     <title>Explore by Tom de Dorlodot</title>
     <sub-title>La Traversée de l'Atlantique en famille</sub-title>
     <desc lang="fr">C'est une aventure familiale que propose Tom de Dorlodot, parapentiste professionnel belge, qui entame une traversée de l'Atlantique à la voile, avec sa femme Sofia, et son fils, âgé de 11 mois. A bord, ils doivent lutter contre le mal de mer et les intempéries. Après deux semaines de mer, ils arrivent enfin dans les Antilles.</desc>
-    <category lang="fr">magazine de la nature</category>
+    <category lang="fr">magazine magazine de la nature</category>
     <length units="minutes">30</length>
     <premiere />
     <rating system="CSA">
@@ -1042,18 +1121,19 @@ Une fois de plus moulée dans une combinaison en latex, Scarlett Johansson incar
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200515002900 +0200" stop="20200515005400 +0200">
-    <title>Quel temps!</title>
+  <programme channel="C164.api.telerama.fr" start="20200515002600 +0200" stop="20200515004800 +0200">
+    <title>Quel temps !</title>
+    <sub-title>Partie 1</sub-title>
     <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
     <category lang="fr">météo</category>
-    <length units="minutes">25</length>
+    <length units="minutes">22</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200515005400 +0200" stop="20200515005800 +0200">
+  <programme channel="C164.api.telerama.fr" start="20200515004800 +0200" stop="20200515005200 +0200">
     <title>Météo</title>
     <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
     <category lang="fr">météo</category>
@@ -1063,7 +1143,7 @@ Une fois de plus moulée dans une combinaison en latex, Scarlett Johansson incar
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200515005800 +0200" stop="20200515013900 +0200">
+  <programme channel="C164.api.telerama.fr" start="20200515005200 +0200" stop="20200515013300 +0200">
     <title>JT 19h30</title>
     <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
     <category lang="fr">journal</category>
@@ -1074,18 +1154,18 @@ Une fois de plus moulée dans une combinaison en latex, Scarlett Johansson incar
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200515013900 +0200" stop="20200515022500 +0200">
+  <programme channel="C164.api.telerama.fr" start="20200515013300 +0200" stop="20200515021600 +0200">
     <title>On n'est pas des pigeons</title>
     <desc lang="fr">Présenté par Benjamin Maréchal, On n'est pas des pigeons ! décrypte les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire " pigeonner ". Les chroniqueurs dénichent les arnaques et les bons plans, et vous aident à boucler vos fins de mois.</desc>
-    <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">46</length>
+    <category lang="fr">magazine magazine du consommateur</category>
+    <length units="minutes">43</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200515022500 +0200" stop="20200515022900 +0200">
+  <programme channel="C164.api.telerama.fr" start="20200515021600 +0200" stop="20200515022000 +0200">
     <title>Météo</title>
     <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
     <category lang="fr">météo</category>
@@ -1096,11 +1176,11 @@ Une fois de plus moulée dans une combinaison en latex, Scarlett Johansson incar
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200515022900 +0200" stop="20200515043000 +0200">
+  <programme channel="C164.api.telerama.fr" start="20200515022000 +0200" stop="20200515043000 +0200">
     <title>JT 19h30</title>
     <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">121</length>
+    <length units="minutes">130</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -1127,32 +1207,73 @@ Une fois de plus moulée dans une combinaison en latex, Scarlett Johansson incar
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200515090000 +0200" stop="20200515103200 +0200">
+  <programme channel="C164.api.telerama.fr" start="20200515090000 +0200" stop="20200515103100 +0200">
     <title>C'est vous qui le dites</title>
     <desc lang="fr">Le rendez-vous interactif et piquant de VivaCité est diffusé chaque matin sur La Une. Au menu: humour, réactivité, débat et mauvaise foi autour d'un sujet d'actualité, animé par Benjamin Maréchal.</desc>
     <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">92</length>
+    <length units="minutes">91</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6f89853d-d20e-4584-b9e5-8c255a04823f.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200515103200 +0200" stop="20200515113800 +0200">
+  <programme channel="C164.api.telerama.fr" start="20200515103100 +0200" stop="20200515113100 +0200">
     <title>On n'est pas des pigeons</title>
     <desc lang="fr">Présenté par Benjamin Maréchal, On n'est pas des pigeons ! décrypte les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire " pigeonner ". Les chroniqueurs dénichent les arnaques et les bons plans, et vous aident à boucler vos fins de mois.</desc>
-    <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">66</length>
+    <category lang="fr">magazine magazine du consommateur</category>
+    <length units="hours">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200515121100 +0200" stop="20200515123600 +0200">
-    <title>Quel temps!</title>
+  <programme channel="C164.api.telerama.fr" start="20200515113100 +0200" stop="20200515120300 +0200">
+    <title>Demain nous appartient</title>
+    <desc lang="fr">Saison:1 - Episode:37 - Mathieu a trouvé une solution pour sauver le mas de la crise. Elisabeth veut quitter Léonard et le domaine. Maxime est en pleine crise d'adolescence. Chloé l'encourage à consulter un psychologue...</desc>
+    <credits>
+      <director>Benoît d'Aubert</director>
+      <director>Pierre Leix-Cote</director>
+      <director>Denis Thybaud</director>
+      <actor>Ingrid Chauvin</actor>
+      <actor>Laure Killing</actor>
+      <actor>Rodolphe Couthouis</actor>
+      <actor>Patrick Rocca</actor>
+      <actor>Clément Remiens</actor>
+      <actor>Lorie Pester</actor>
+      <actor>Charlotte Valandrey</actor>
+      <actor>Alexandre Brasseur</actor>
+      <writer>Frédéric Chansel</writer>
+      <writer>Laure de Colbert</writer>
+      <writer>Nicolas Durand-Zouky</writer>
+      <writer>Eline Le Fur</writer>
+      <writer>Sabine Cipolla</writer>
+    </credits>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">32</length>
+    <episode-num system="xmltv_ns">0.36.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200515120300 +0200" stop="20200515122600 +0200">
+    <title>Quel temps !</title>
+    <sub-title>Partie 1</sub-title>
     <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
     <category lang="fr">météo</category>
-    <length units="minutes">25</length>
+    <length units="minutes">23</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200515122600 +0200" stop="20200515123600 +0200">
+    <title>Quel temps !</title>
+    <sub-title>Partie 2</sub-title>
+    <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1208,22 +1329,72 @@ Une fois de plus moulée dans une combinaison en latex, Scarlett Johansson incar
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200515142500 +0200" stop="20200515151200 +0200">
+  <programme channel="C164.api.telerama.fr" start="20200515142500 +0200" stop="20200515151100 +0200">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">L'émission à succès de France télévisions animée par Sophie Davant permet, à qui le veut, de proposer un objet qu'il souhaite vendre. Une fois retenu, l'objet est expertisé par un spécialiste et proposé aux enchères à des acheteurs, qui sont au nombre de 5 et varient selon les émissions.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
-    <length units="minutes">47</length>
+    <length units="minutes">46</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C164.api.telerama.fr" start="20200515151100 +0200" stop="20200515160700 +0200">
+    <title>Call the Midwife</title>
+    <sub-title>Le choix de Cynthia</sub-title>
+    <desc lang="fr">Saison:4 - Episode:9 - Alors que Noël approche, Chummy et Trixie organise un concert. Pendant ce temps, Patsy conduit deux jeunes filles enceintes dans une maison d'accueil pour mères et bébés, qui semble mal être gérée. Cynthia est devant un dilemme concernant son avenir...</desc>
+    <credits>
+      <director>Juliet May</director>
+      <actor>Vanessa Redgrave</actor>
+      <actor>Jack Ashton</actor>
+      <actor>Judy Parfitt</actor>
+      <actor>Victoria Yeates</actor>
+      <actor>Pam Ferris</actor>
+      <actor>Helen George</actor>
+      <actor>Bryony Hannah</actor>
+      <actor>Charlotte Ritchie</actor>
+      <writer>Heidi Thomas</writer>
+      <writer>Heidi Thomas</writer>
+    </credits>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">56</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3276e60c-5643-4956-9967-6f11f47e165c.jpg" />
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200515160700 +0200" stop="20200515171200 +0200">
+    <title>Call the Midwife</title>
+    <sub-title>Le choix de Cynthia</sub-title>
+    <desc lang="fr">Saison:4 - Episode:10 - A l'approche de Noël, une épidémie de rougeole éclate...</desc>
+    <credits>
+      <director>Juliet May</director>
+      <actor>Vanessa Redgrave</actor>
+      <actor>Jack Ashton</actor>
+      <actor>Judy Parfitt</actor>
+      <actor>Victoria Yeates</actor>
+      <actor>Pam Ferris</actor>
+      <actor>Helen George</actor>
+      <actor>Bryony Hannah</actor>
+      <actor>Charlotte Ritchie</actor>
+      <writer>Heidi Thomas</writer>
+      <writer>Heidi Thomas</writer>
+    </credits>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3276e60c-5643-4956-9967-6f11f47e165c.jpg" />
+    <episode-num system="xmltv_ns">3.9.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C164.api.telerama.fr" start="20200515171200 +0200" stop="20200515175400 +0200">
-    <title>Un gars, un chef!</title>
+    <title>Un gars, un chef</title>
     <desc lang="fr">Les ingrédients de ce rendez-vous culinaire sont la simplicité, le dynamisme et la bonne humeur, en compagnie du chef Gerald Watelet et d'Adrien Devyver. Le duo de choc, soutenu par une belle brochette de chroniqueurs, promet une cuisine accessible et conviviale et des conseils en tout genre.</desc>
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">42</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b329c324-3f42-4627-978d-f89069e50beb.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1276,21 +1447,21 @@ Une fois de plus moulée dans une combinaison en latex, Scarlett Johansson incar
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200515183000 +0200" stop="20200515192200 +0200">
+  <programme channel="C164.api.telerama.fr" start="20200515183000 +0200" stop="20200515191700 +0200">
     <title>On n'est pas des pigeons</title>
     <desc lang="fr">Présenté par Benjamin Maréchal, On n'est pas des pigeons ! décrypte les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire " pigeonner ". Les chroniqueurs dénichent les arnaques et les bons plans, et vous aident à boucler vos fins de mois.</desc>
-    <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">52</length>
+    <category lang="fr">magazine magazine du consommateur</category>
+    <length units="minutes">47</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200515192200 +0200" stop="20200515193000 +0200">
+  <programme channel="C164.api.telerama.fr" start="20200515191700 +0200" stop="20200515193000 +0200">
     <title>Météo</title>
     <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
     <category lang="fr">météo</category>
-    <length units="minutes">8</length>
+    <length units="minutes">13</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1372,7 +1543,7 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
     <title>Le temps d'une histoire</title>
     <sub-title>Citizen Jane, l'Amérique selon Fonda</sub-title>
     <desc lang="fr">Peu d'icônes ont à ce point épousé les mythes et révélé les contradictions de leur pays : héritière du star-system hollywoodien et égérie du cinéma d'auteur français, star oscarisée et productrice engagée, féministe et reine de l'aérobic, activiste et femme d'affaires redoutable... En une vie, Jane Fonda aura réconcilié tous les visages de l'Amérique sans rien céder de son intégrité. A travers elle, ce film retrace aussi une histoire sociale et politique et fait le portrait d'un phénomène typiquement américain.</desc>
-    <category lang="fr">magazine historique</category>
+    <category lang="fr">magazine magazine historique</category>
     <length units="minutes">59</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2467f9f4-baae-449f-8180-7e66d631bd87.jpg" />
     <rating system="CSA">
@@ -1389,11 +1560,11 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200515234100 +0200" stop="20200516003000 +0200">
+  <programme channel="C164.api.telerama.fr" start="20200515234100 +0200" stop="20200516002700 +0200">
     <title>On n'est pas des pigeons</title>
     <desc lang="fr">Présenté par Benjamin Maréchal, On n'est pas des pigeons ! décrypte les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire " pigeonner ". Les chroniqueurs dénichent les arnaques et les bons plans, et vous aident à boucler vos fins de mois.</desc>
-    <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">49</length>
+    <category lang="fr">magazine magazine du consommateur</category>
+    <length units="minutes">46</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -1650,10 +1821,10 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
   </programme>
   <programme channel="C168.api.telerama.fr" start="20200515202500 +0200" stop="20200515211500 +0200">
     <title>Chicago Fire</title>
-    <sub-title>Move a Wall</sub-title>
-    <desc lang="fr">Saison:7 - Episode:17 - Après une intervention sur le lieu d'un incendie, Casey et Herrmann se disputent. Kidd et Severide ont des doutes sur un appel et mène des investigations.</desc>
+    <sub-title>Until the Weather Breaks</sub-title>
+    <desc lang="fr">Saison:7 - Episode:19 - Une forte tempête atteint Chicago et met à mal les moyens d'intervention de la caserne 51. Les secours prennent soin d'un enfant qui s'est perdu.</desc>
     <credits>
-      <director>Olivia Newman</director>
+      <director>Reza Tabrizi</director>
       <actor>Jesse Spencer</actor>
       <actor>Taylor Kinney</actor>
       <actor>Kara Killmer</actor>
@@ -1664,11 +1835,11 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <actor>Christian Stolte</actor>
       <writer>Michael Brandt</writer>
       <writer>Derek Haas</writer>
-      <writer>Derek Haas</writer>
+      <writer>Michael A O'Shea</writer>
     </credits>
     <category lang="fr">série dramatique</category>
     <length units="minutes">50</length>
-    <episode-num system="xmltv_ns">6.16.</episode-num>
+    <episode-num system="xmltv_ns">6.18.</episode-num>
     <premiere />
     <rating system="CSA">
       <value>-10</value>
@@ -1677,10 +1848,10 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
   </programme>
   <programme channel="C168.api.telerama.fr" start="20200515211500 +0200" stop="20200515220000 +0200">
     <title>Chicago Fire</title>
-    <sub-title>No Such Thing as Bad Luck</sub-title>
-    <desc lang="fr">Saison:7 - Episode:18 - Severide n'est pas satisfait du comportement de Cruz, qui n'a pas obéi à ses ordres pendant une intervention. Boden rencontre un vieil ami lors d'une opération.</desc>
+    <sub-title>Try Like Hell</sub-title>
+    <desc lang="fr">Saison:7 - Episode:20 - Severide et Boden enquêtent sur un incendie criminel aux graves conséquences. Mouch, Herrmann, Otis et Kidd font une découverte surprenante.</desc>
     <credits>
-      <director>Jann Turner</director>
+      <director>Stephen Cragg</director>
       <actor>Jesse Spencer</actor>
       <actor>Taylor Kinney</actor>
       <actor>Kara Killmer</actor>
@@ -1691,11 +1862,12 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <actor>Christian Stolte</actor>
       <writer>Michael Brandt</writer>
       <writer>Derek Haas</writer>
-      <writer>Michael Gilvary</writer>
+      <writer>Matt Whitney</writer>
+      <writer>Jamila Daniel</writer>
     </credits>
     <category lang="fr">série dramatique</category>
     <length units="minutes">45</length>
-    <episode-num system="xmltv_ns">6.17.</episode-num>
+    <episode-num system="xmltv_ns">6.19.</episode-num>
     <premiere />
     <rating system="CSA">
       <value>-10</value>
@@ -1703,32 +1875,6 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
     </rating>
   </programme>
   <programme channel="C168.api.telerama.fr" start="20200515220000 +0200" stop="20200515225500 +0200">
-    <title>Code Black</title>
-    <sub-title>Le poids des maux</sub-title>
-    <desc lang="fr">Saison:2 - Episode:13 - Guthrie occupe une nouveau poste au sein de l'hôpital. Parallèlement, il doit subir une opération à haut risque qui devrait soigner sa maladie de Parkinson. Cependant, le reste du personnel s'occupe de patients gravement blessés après un incendie qui s'est déclenché dans un appartement. Toutes les équipes sont débordées, mais s'efforcent de traiter les patients avec bienveillance et efficacité...</desc>
-    <credits>
-      <director>David Von Ancken</director>
-      <actor>William Allen Young</actor>
-      <actor>Rob Lowe</actor>
-      <actor>Boris Kodjoe</actor>
-      <actor>Emily Tyra</actor>
-      <actor>Marcia Gay Harden</actor>
-      <actor>Melanie Kannokada</actor>
-      <actor>Kathleen Rose Perkins</actor>
-      <actor>Jillian Murray</actor>
-      <writer>Michael Seitzman</writer>
-      <writer>Michael Seitzman</writer>
-    </credits>
-    <category lang="fr">série hospitalière</category>
-    <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7c6eca93-1361-4397-a954-96329e7194b6.jpg" />
-    <episode-num system="xmltv_ns">1.12.</episode-num>
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20200515225500 +0200" stop="20200515234500 +0200">
     <title>Code Black</title>
     <sub-title>Vertigo</sub-title>
     <desc lang="fr">Saison:2 - Episode:14 - Mario risque sa vie lorsqu'il suit Willis sur un chantier où deux frères sont restés bloqués dans une grue à près de cent mètres du sol. De son côté, Leanne traite la femme d'un orthopédiste exerçant au sein du Angels Memorial. La victime présente de mystérieuses blessures...</desc>
@@ -1748,8 +1894,35 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <writer>Brandon Guercio</writer>
     </credits>
     <category lang="fr">série hospitalière</category>
-    <length units="minutes">50</length>
+    <length units="minutes">55</length>
     <episode-num system="xmltv_ns">1.13.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20200515225500 +0200" stop="20200515234500 +0200">
+    <title>Code Black</title>
+    <sub-title>L'antre du diable</sub-title>
+    <desc lang="fr">Saison:2 - Episode:15 - Du fait de sa bonne connaissance des maladies exotiques, le docteur Ethan Willis parvient à diagnostiquer que la fièvre hémorragique qui frappe un patient pourrait avoir des conséquences gravissimes si elle venait à se propager. Sans délai, la salle des urgences de l'Angels Memorial est mise en quarantaine. Pour la direction et les autorités sanitaires, il est crucial d'éviter une épidémie virale. La santé de l'ensemble du personnel de l'établissement, tout comme celle des patients pourrait être compromise. Rapidement, plusieurs membres de l'équipe médicale développent d'inquiétants symptômes. L'état de Malaya Pineda se détériore de manière préoccupante...</desc>
+    <credits>
+      <director>David Von Ancken</director>
+      <actor>Rob Lowe</actor>
+      <actor>Marcia Gay Harden</actor>
+      <actor>Benjamin Hollingsworth</actor>
+      <actor>Jillian Murray</actor>
+      <actor>William Allen Young</actor>
+      <actor>Boris Kodjoe</actor>
+      <actor>Emily Tyra</actor>
+      <actor>Melanie Kannokada</actor>
+      <writer>Michael Seitzman</writer>
+      <writer>Corey Evett</writer>
+      <writer>Matthew S Partney</writer>
+    </credits>
+    <category lang="fr">série hospitalière</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/74fef47e-bbb4-455c-93ea-a87efa2a98ac.jpg" />
+    <episode-num system="xmltv_ns">1.14.</episode-num>
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
@@ -1787,60 +1960,57 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200515002300 +0200" stop="20200515002700 +0200">
-    <title>Météo</title>
-    <sub-title>14.05.2020-</sub-title>
-    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200515002700 +0200" stop="20200515013000 +0200">
-    <title>Magazine selon annonce</title>
-    <category lang="fr">magazine d'information</category>
-    <length units="minutes">63</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200515013000 +0200" stop="20200515073000 +0200">
+  <programme channel="C187.api.telerama.fr" start="20200515013000 +0200" stop="20200515073400 +0200">
     <title>Boucle de nuit</title>
-    <category lang="fr">emission spéciale</category>
-    <length units="hours">6</length>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">364</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200515073000 +0200" stop="20200515075800 +0200">
+  <programme channel="C187.api.telerama.fr" start="20200515073400 +0200" stop="20200515080100 +0200">
     <title>Fit Tonic</title>
     <sub-title>Fit Steffi Step</sub-title>
     <desc lang="fr">Boostez votre journée avec une séance de fitness ! Avec dynamisme et bonne humeur, Stéphanie Dermaux, notre experte " fitness ", entraîne littéralement les téléspectateurs à suivre 1/2 heure de gym au son d'une musique gaie et stimulante.</desc>
     <category lang="fr">fitness</category>
-    <length units="minutes">28</length>
+    <length units="minutes">27</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ce97d06b-b140-4946-9106-d4df40db8d7c.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200515075800 +0200" stop="20200515091800 +0200">
+  <programme channel="C187.api.telerama.fr" start="20200515080100 +0200" stop="20200515082700 +0200">
     <title>Fit Tonic</title>
     <sub-title>Fit gym douce</sub-title>
     <desc lang="fr">Boostez votre journée avec une séance de fitness ! Avec dynamisme et bonne humeur, Stéphanie Dermaux, notre experte " fitness ", entraîne littéralement les téléspectateurs à suivre 1/2 heure de gym au son d'une musique gaie et stimulante.</desc>
     <category lang="fr">fitness</category>
-    <length units="minutes">80</length>
+    <length units="minutes">26</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ce97d06b-b140-4946-9106-d4df40db8d7c.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200515091800 +0200" stop="20200515104900 +0200">
+  <programme channel="C187.api.telerama.fr" start="20200515082700 +0200" stop="20200515092200 +0200">
+    <title>Nus et culottés</title>
+    <sub-title>Objectif Ecosse</sub-title>
+    <desc lang="fr">Saison:3 - Nans et Mouts entament un nouveau voyage, direction l'Ecosse. Leur point de départ se situe loin de là, sur une plage de la pointe du Cotentin. Les deux aventuriers ont une idée en tête pour les guider : passer une nuit dans un manoir hanté du royaume sera leur récompense. Première étape du périple, la traversée de la Manche et l'arrivée sur le sol britannique, qui leur réserve bien des surprises. Au pays du kilt, les deux trublions tentent de s'introduire dans un manoir, lieu peuplé selon les légendes de nombreux fantômes. Mais leurs congénères humains vont-ils se montrer accueillants ?</desc>
+    <date>2015</date>
+    <category lang="fr">documentaire : aventures</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/11a45c81-877c-457e-a65e-71335a9dd393.jpg" />
+    <episode-num system="xmltv_ns">2..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200515092200 +0200" stop="20200515105300 +0200">
     <title>Le feu de la vengeance</title>
     <desc lang="fr">Bien que très amoureux l'un de l'autre, Hadley et Brian Warner viennent de traverser une période difficile. Afin de prendre un nouveau départ, ils partent en vacances avec leur fille de 17 ans dans un chalet de montagne. Ils font la connaissance d'un certain Al Paunovic, un homme accueillant et serviable...</desc>
     <credits>
@@ -1863,21 +2033,51 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200515115500 +0200" stop="20200515122700 +0200">
+  <programme channel="C187.api.telerama.fr" start="20200515105300 +0200" stop="20200515112400 +0200">
+    <title>Une saison au zoo</title>
+    <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
+    <date>2015</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="minutes">31</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5bf88941-de03-440a-a55d-b58379ec2fcd.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200515112400 +0200" stop="20200515115200 +0200">
+    <title>Bouge à la maison</title>
+    <desc lang="fr">Du lundi au vendredi, Manzul et Malik, coachs sportifs de formation, vous proposent des séances de sport et de fitness adaptées à tous les niveaux et pour tous les profils</desc>
+    <category lang="fr">fitness</category>
+    <length units="minutes">28</length>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200515115200 +0200" stop="20200515115600 +0200">
+    <title>Le moment Yoga</title>
+    <category lang="fr">fitness</category>
+    <length units="minutes">4</length>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200515115600 +0200" stop="20200515123100 +0200">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
     <category lang="fr">jeu</category>
-    <length units="minutes">32</length>
+    <length units="minutes">35</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200515122700 +0200" stop="20200515130200 +0200">
+  <programme channel="C187.api.telerama.fr" start="20200515123100 +0200" stop="20200515130200 +0200">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
     <category lang="fr">jeu</category>
-    <length units="minutes">35</length>
+    <length units="minutes">31</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1895,18 +2095,29 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200515133000 +0200" stop="20200515135500 +0200">
+  <programme channel="C187.api.telerama.fr" start="20200515133000 +0200" stop="20200515134700 +0200">
     <title>Au rythme de la vie</title>
     <desc lang="fr">Episode:6074 - Dans le quartier de Berlin-Mitte, des jeunes gens de tous horizons cherchent leur place dans l'existence et vivent d'intenses histoires d'amour.</desc>
     <category lang="fr">feuilleton sentimental</category>
-    <length units="minutes">25</length>
+    <length units="minutes">17</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0cba60da-efed-42b4-8f84-cf4754bd3c1e.jpg" />
     <episode-num system="xmltv_ns">.6073.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200515135500 +0200" stop="20200515152800 +0200">
+  <programme channel="C187.api.telerama.fr" start="20200515134700 +0200" stop="20200515135400 +0200">
+    <title>Fais-le</title>
+    <desc lang="fr">En collaboration avec la Fédération Wallonie-Bruxelles, la RTBF propose une nouvelle offre éducative à destination des enfants de 6 à 12 ans pour revoir les maths, le français et l'éveil. L'émission "Y'a pas école, on révise !" dure vingt minutes avec trois moments de révision entrecoupés de séquences ludiques et instructives et est animée par Gwenaelle Dekegeleer A voir le lundi, mercredi et vendredi à 15h00,en amorce du goûter, sur Ouftivi et sur AUVIO.</desc>
+    <category lang="fr">emission jeunesse</category>
+    <length units="minutes">7</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c0f8355-6d0c-4ed4-bcc2-a407556bb657.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200515135400 +0200" stop="20200515152800 +0200">
     <title>La vidéo de la honte</title>
     <desc lang="fr">Lexi, 17 ans, est le bouc émissaire de Carleigh, la fille la plus populaire du lycée. Un jour, Greg, l'ex-petit ami de Carleigh, parie avec un copain qu'il réussira à séduire Lexi, à passer la nuit avec elle et à la filmer. Lorsque Carleigh découvre la vidéo, elle l'envoie à tout le lycée...</desc>
     <credits>
@@ -1923,7 +2134,7 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <writer>Ken Sanders</writer>
     </credits>
     <category lang="fr">téléfilm dramatique</category>
-    <length units="minutes">93</length>
+    <length units="minutes">94</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/622e8847-8888-43ec-8712-55acfc247640.jpg" />
     <rating system="CSA">
       <value>-10</value>
@@ -1946,7 +2157,49 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200515183800 +0200" stop="20200515190800 +0200">
+  <programme channel="C187.api.telerama.fr" start="20200515162400 +0200" stop="20200515165500 +0200">
+    <title>Une saison au zoo</title>
+    <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
+    <date>2015</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="minutes">31</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5bf88941-de03-440a-a55d-b58379ec2fcd.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200515165500 +0200" stop="20200515172900 +0200">
+    <title>Une saison au zoo</title>
+    <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
+    <date>2015</date>
+    <category lang="fr">documentaire : animalier</category>
+    <length units="minutes">34</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5bf88941-de03-440a-a55d-b58379ec2fcd.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200515172900 +0200" stop="20200515180100 +0200">
+    <title>N'oubliez pas les paroles</title>
+    <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">32</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200515180100 +0200" stop="20200515183700 +0200">
+    <title>N'oubliez pas les paroles</title>
+    <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">36</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200515183700 +0200" stop="20200515190700 +0200">
     <title>Au rythme de la vie</title>
     <desc lang="fr">Episode:6074 - Dans le quartier de Berlin-Mitte, des jeunes gens de tous horizons cherchent leur place dans l'existence et vivent d'intenses histoires d'amour.</desc>
     <category lang="fr">feuilleton sentimental</category>
@@ -1957,7 +2210,7 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200515190800 +0200" stop="20200515193200 +0200">
+  <programme channel="C187.api.telerama.fr" start="20200515190700 +0200" stop="20200515193100 +0200">
     <title>Friends</title>
     <sub-title>Celui qui regardait la vidéo de l'accouchement</sub-title>
     <desc lang="fr">Saison:8 - Episode:15 - Phoebe tente de remonter le moral de Joey, totalement déprimé, en lui offrant le chien le plus gentil du monde. Ross, de son côté, a décidé de confesser à Mona que Rachel va vivre avec lui. Alors que Chandler et Monica passent une agréable Saint-Valentin, ils sont perturbés par le visionnage d'une cassette de l'accouchement d'une amie de Phoebe. Ils se demandent s'ils sont vraiment prêts à avoir un enfant...</desc>
@@ -1983,7 +2236,7 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200515193200 +0200" stop="20200515195700 +0200">
+  <programme channel="C187.api.telerama.fr" start="20200515193100 +0200" stop="20200515195600 +0200">
     <title>Friends</title>
     <sub-title>Celui qui avouait tout à Rachel</sub-title>
     <desc lang="fr">Saison:8 - Episode:16 - Ross a du mal à croire les déclarations de Joey concernant Rachel. Il le convainc néanmoins de tout avouer à celle-ci. Joey invite Rachel au restaurant pour lui déclarer sa flamme, mais elle pense qu'il s'agit d'une plaisanterie. De plus, elle ne partage pas ses sentiments et préfèrerait qu'ils restent amis. Phoebe, de son côté, pense avoir trouvé l'âme soeur de Monica et met tout en oeuvre pour que les deux êtres destinés à vivre ensemble pour la vie se rencontrent et tombent amoureux au premier regard...</desc>
@@ -2004,6 +2257,17 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
     <category lang="fr">série humoristique</category>
     <length units="minutes">25</length>
     <episode-num system="xmltv_ns">7.15.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200515195600 +0200" stop="20200515200300 +0200">
+    <title>DECIBELS la quotidienne</title>
+    <sub-title>Alex Lucas : Eyes Off You</sub-title>
+    <desc lang="fr">Décibels se décline aussi en quotidienne ! Retrouvez Alex Lucas du lundi au vendredi à 20h30 pour découvrir en sa compagnie l'histoire de ses chansons et bien plus...</desc>
+    <category lang="fr">magazine musical</category>
+    <length units="minutes">7</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/53f03499-1e38-4a03-a63e-df8ae7b78205.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2056,6 +2320,26 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
+  <programme channel="C187.api.telerama.fr" start="20200515220300 +0200" stop="20200515221100 +0200">
+    <title>Vews</title>
+    <desc lang="fr">Vews propose des vidéos d'actualité destinées au web. Elles apportent un regard différent sur l'info avec un ton direct et authentique. L'expérience se prolonge sous la forme d'un JT basé sur les vidéos de la journée, enrichies avec des directs, du décryptage et de la découverte.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">8</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5c5855b4-bff6-4630-8367-4c5bd7aaff4d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20200515221100 +0200" stop="20200515221600 +0200">
+    <title>Météo</title>
+    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C187.api.telerama.fr" start="20200515221600 +0200" stop="20200515231600 +0200">
     <title>Après demain</title>
     <desc lang="fr">Deux ans après le succès de son documentaire «Demain», Cyril Dion embarque avec lui son amie Laure Noualhat, enquêtrice sur les fronts de l'écologie et très sceptique sur la capacité des microinitiatives à avoir un réel impact face au dérèglement climatique. Ensemble, ils reviennent sur les initiatives que le documentaire a inspirées. Leur confrontation pleine d'humour les pousse dans leurs retranchements : qu'est-ce qui marche, qu'est-ce qui échoue ? Et si, finalement, tout cela obligeait les hommes à inventer un nouveau récit pour l'humanité ?</desc>
@@ -2070,7 +2354,7 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20200515231600 +0200" stop="20200515234900 +0200">
+  <programme channel="C187.api.telerama.fr" start="20200515231600 +0200" stop="20200515235000 +0200">
     <title>Nurse Jackie</title>
     <sub-title>Clean</sub-title>
     <desc lang="fr">Saison:7 - Episode:1 - Jackie est enfin libérée de prison. Ses proches, toutefois, semblent peu disposés à lui accorder leur confiance de nouveau. L'infirmière sait qu'il lui faudra plaider sa cause auprès d'Akalitus pour récupérer son job. Conscience de la difficulté de la tâche, Jackie se tourne alors vers Barry Wolfe, un avocat de haute volée. Carrie et Cooper, eux, s'efforcent de ne pas ébruiter la nouvelle de la grossesse...</desc>
@@ -2090,30 +2374,13 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <writer>Clyde Phillips</writer>
     </credits>
     <category lang="fr">série hospitalière</category>
-    <length units="minutes">33</length>
+    <length units="minutes">34</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/926f2553-819f-454a-9136-9d64886a00c8.jpg" />
     <episode-num system="xmltv_ns">6.0.</episode-num>
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200515234900 +0200" stop="20200515235000 +0200">
-    <title>Nus et culottés</title>
-    <sub-title>Objectif Ecosse</sub-title>
-    <desc lang="fr">Saison:3 - Nans et Mouts entament un nouveau voyage, direction l'Ecosse. Leur point de départ se situe loin de là, sur une plage de la pointe du Cotentin. Les deux aventuriers ont une idée en tête pour les guider : passer une nuit dans un manoir hanté du royaume sera leur récompense. Première étape du périple, la traversée de la Manche et l'arrivée sur le sol britannique, qui leur réserve bien des surprises. Au pays du kilt, les deux trublions tentent de s'introduire dans un manoir, lieu peuplé selon les légendes de nombreux fantômes. Mais leurs congénères humains vont-ils se montrer accueillants ?</desc>
-    <date>2015</date>
-    <category lang="fr">documentaire : aventures</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/11a45c81-877c-457e-a65e-71335a9dd393.jpg" />
-    <episode-num system="xmltv_ns">2..</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-    <star-rating>
-      <value>3/5</value>
-    </star-rating>
   </programme>
   <programme channel="C187.api.telerama.fr" start="20200515235000 +0200" stop="20200516002200 +0200">
     <title>Nurse Jackie</title>
@@ -2141,6 +2408,16 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C377.api.telerama.fr" start="20200515003500 +0200" stop="20200515023500 +0200">
+    <title>Luna Park</title>
+    <desc lang="fr">Chaque jour, " Luna Park " présente une série de jeux de durées variables sous la forme de questions / réponses adressées aux téléspectateurs. Ces jeux sont classés par catégories (culture générale, sports, santé, alimentation, histoire, géographie, vocabulaire, orthographe... etc). Ils sont dotés d'enjeux variables.</desc>
+    <category lang="fr">jeu</category>
+    <length units="hours">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C377.api.telerama.fr" start="20200515023500 +0200" stop="20200515050000 +0200">
@@ -2196,18 +2473,18 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200515151500 +0200" stop="20200515152000 +0200">
+  <programme channel="C377.api.telerama.fr" start="20200515151500 +0200" stop="20200515152500 +0200">
     <title>Martin bonheur</title>
     <desc lang="fr">Le chef cuisinier David Martin accueille les téléspectateurs dans la cuisine de sa maison pour leur faire goûter ses plats.</desc>
     <category lang="fr">magazine culinaire</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200515152000 +0200" stop="20200515152500 +0200">
+  <programme channel="C377.api.telerama.fr" start="20200515152500 +0200" stop="20200515153500 +0200">
     <title>Vie de mère</title>
     <sub-title>Les fiches médicales</sub-title>
     <desc lang="fr">Saison:2 - Episode:15 -</desc>
@@ -2216,7 +2493,7 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <writer>Véronique Gallo</writer>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9a127a94-857b-42a9-a7e6-255f40445b96.jpg" />
     <episode-num system="xmltv_ns">1.14.</episode-num>
     <previously-shown />
@@ -2224,7 +2501,7 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200515152500 +0200" stop="20200515154000 +0200">
+  <programme channel="C377.api.telerama.fr" start="20200515153500 +0200" stop="20200515155000 +0200">
     <title>Vie de mère</title>
     <sub-title>La sortie scolaire</sub-title>
     <desc lang="fr">Saison:2 - Episode:16 -</desc>
@@ -2240,7 +2517,7 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200515154000 +0200" stop="20200515162500 +0200">
+  <programme channel="C377.api.telerama.fr" start="20200515155000 +0200" stop="20200515163500 +0200">
     <title>Crazy Ex-Girlfriend</title>
     <sub-title>Mon fantôme de rêve</sub-title>
     <desc lang="fr">Saison:1 - Episode:15 - Dans l'avion qui l'emmène loin de West Covina, après avoir avalé un grand nombre de somnifères, Rebecca commence une thérapie avec son fantôme de rêve, qui n'est autre que le docteur Akopian. Elle fait une introspection de ses amours passées et des décisions qu'elle a prises. Rebecca pense que personne ne l'aime vraiment. Au même moment, ses nouveaux amis s'inquiètent de ne plus avoir de ses nouvelles...</desc>
@@ -2267,23 +2544,24 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200515162500 +0200" stop="20200515171500 +0200">
+  <programme channel="C377.api.telerama.fr" start="20200515163500 +0200" stop="20200515172000 +0200">
     <title>Friends Trip</title>
     <sub-title>Émission 17</sub-title>
     <desc lang="fr">Saison:4 - Pour cette 4ème édition, 12 aventuriers se retrouveront sur la magnifique île de Bali. Au volant d'une Jeep, ils sillonneront l'île à travers montages et rizières. Mais, cette année, les règles ont changé. Les candidats devront s'affronter dans une épreuve de départ individuelle. Les 4 meilleurs de l'épreuve seront désignés capitaines d'équipe et composeront donc leur propre escouade. Rouge, jaune, bleue ou noire, chaque team sera composée de 3 candidats. Entre amitié, stratégie et rivalité, sauront-ils faire les bons choix ?</desc>
     <category lang="fr">documentaire : téléréalité</category>
-    <length units="minutes">50</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2429985-7cb7-4f72-8ca4-f481abfe4900.jpg" />
     <episode-num system="xmltv_ns">3..</episode-num>
     <rating system="CSA">
-      <value>Tout public</value>
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200515171500 +0200" stop="20200515180500 +0200">
+  <programme channel="C377.api.telerama.fr" start="20200515172000 +0200" stop="20200515180500 +0200">
     <title>La bataille des couples</title>
     <desc lang="fr">En République Dominicaine, dans un endroit paradisiaque, 10 couples célèbres ont choisi de tester leur amour et de réaliser le rêve de leur vie. Qu'ils soient ensemble depuis peu ou depuis des années, ils sont tous persuadés que leurs sentiments sont solides et leur amour plus fort que tout. Ils ont tous le même objectif : devenir le couple de l'année et remporter jusqu'à 50.000 euros. Ce qui les unit aujourd'hui leur permettra-t-il de rester soudés face à la pression des épreuves ? Réussiront-ils à renforcer leur amour grâce aux coachings de Lucie ? Pour cette saison 2, les couples devront passer les 10 piliers de l'amour avant de disputer la demi-finale : solidarité, confiance, dévouement, franchise, complicité, tolérance, communication, fidélité, mystère et argent.</desc>
     <category lang="fr">documentaire : téléréalité</category>
-    <length units="minutes">50</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2429985-7cb7-4f72-8ca4-f481abfe4900.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -2301,12 +2579,12 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200515185500 +0200" stop="20200515195500 +0200">
+  <programme channel="C377.api.telerama.fr" start="20200515185500 +0200" stop="20200515201500 +0200">
     <title>Les reines du shopping</title>
     <sub-title>Maud : branchée avec un manteau long 5/5</sub-title>
     <desc lang="fr">Bonnie, Chrystèle, Sarah, Amal et Maud disposent de 450 euros pour trouver le look idéal afin d'être branchées avec un manteau long.</desc>
     <category lang="fr">jeu</category>
-    <length units="hours">1</length>
+    <length units="minutes">80</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -2337,7 +2615,8 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
     <length units="minutes">115</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/73e9e2d0-134c-4456-979a-f1ae4fb68988.jpg" />
     <rating system="CSA">
-      <value>Tout public</value>
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
     </rating>
     <star-rating>
       <value>1/5</value>
@@ -2365,7 +2644,8 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
     <episode-num system="xmltv_ns">1.9.</episode-num>
     <premiere />
     <rating system="CSA">
-      <value>Tout public</value>
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
     </rating>
   </programme>
   <programme channel="C377.api.telerama.fr" start="20200515230000 +0200" stop="20200515235000 +0200">
@@ -2390,10 +2670,11 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d99cb881-89b0-41aa-988d-3bfe38cb2b27.jpg" />
     <episode-num system="xmltv_ns">11.18.</episode-num>
     <rating system="CSA">
-      <value>Tout public</value>
+      <value>-16</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200515235000 +0200" stop="20200516004000 +0200">
+  <programme channel="C377.api.telerama.fr" start="20200515235000 +0200" stop="20200516010000 +0200">
     <title>Supernatural</title>
     <sub-title>Brindilles et ficelles</sub-title>
     <desc lang="fr">Saison:12 - Episode:20 - Alicia Banes contacte Mary Winchester pour obtenir son aide et retrouver sa mère, Tasha, portée disparue. Mais c'est Sam qui répond au téléphone et il emmène son frère dans cette aventure. Ensemble, ils partent aider Alicia et son frère jumeau, Max. Ce dernier a retrouvé Tasha, partie sur les traces d'une puissante et ancienne sorcière, mais elle n'est plus tout à fait la même. Mary, quant à elle, s'interroge sur les véritables motivations de l'organisation des Hommes de lettres...</desc>
@@ -2412,10 +2693,11 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <writer>Steve Yockey</writer>
     </credits>
     <category lang="fr">série fantastique</category>
-    <length units="minutes">50</length>
+    <length units="minutes">70</length>
     <episode-num system="xmltv_ns">11.19.</episode-num>
     <rating system="CSA">
-      <value>Tout public</value>
+      <value>-16</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
     </rating>
   </programme>
   <programme channel="C892.api.telerama.fr" start="20200515003700 +0200" stop="20200515012700 +0200">
@@ -2439,7 +2721,7 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
     </rating>
   </programme>
   <programme channel="C892.api.telerama.fr" start="20200515012900 +0200" stop="20200515055900 +0200">
-    <title>CQFD (Ce Qui Fait Débat)</title>
+    <title>CQFD (Ce qui fait débat)</title>
     <sub-title>CQFD (Ce Qui Fait Débat)</sub-title>
     <desc lang="fr">Du lundi au jeudi, un rendez-vous avec l'info : un fait du jour décrypté par Arnaud Ruyssen et Catherine Tonero, un face à face sur une question polémique, un débat contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, c'est toute l'actu de la semaine qui est analysée par Arnaud Ruyssen et ses invités.</desc>
     <category lang="fr">débat</category>
@@ -2863,16 +3145,6 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200515132900 +0200" stop="20200515135900 +0200">
-    <title>C'est pas sorcier</title>
-    <desc lang="fr">Le magazine jeunesse de la science et de la découverte qui, dans une formule mobile, part à la rencontre de nombreux témoins et propose un nouveau traitement de l'image. Jamy sort du camion pour s'installer dans un laboratoire mobile. Il met en évidence les observations de Fred et Sabine, grâce à des démonstrations réalisées depuis un lieu emblématique en lien avec le thème traité dans l'émission</desc>
-    <category lang="fr">magazine éducatif</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0cc49a02-b572-4020-ac3b-b6dab1c56aa3.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C892.api.telerama.fr" start="20200515135900 +0200" stop="20200515140600 +0200">
     <title>Oggy et les cafards</title>
     <sub-title>Mon empire pour une peluche</sub-title>
@@ -2945,16 +3217,6 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200515145000 +0200" stop="20200515145700 +0200">
-    <title>T'es où ?</title>
-    <desc lang="fr">Tania et Alex, âgés d'une vingtaine d'années, parcourent le monde et font partager leurs découvertes.</desc>
-    <category lang="fr">magazine jeunesse</category>
-    <length units="minutes">7</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C892.api.telerama.fr" start="20200515145700 +0200" stop="20200515150000 +0200">
     <title>CQFD</title>
     <sub-title>Comment les habits de pompiers résistent aux flammes ?</sub-title>
@@ -2974,30 +3236,6 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
     <category lang="fr">magazine jeunesse</category>
     <length units="minutes">28</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200515152800 +0200" stop="20200515153500 +0200">
-    <title>La chouette &amp; Cie</title>
-    <sub-title>Concours de légumes chouettants</sub-title>
-    <desc lang="fr">Saison:1 - Episode:35 - Les taupes organisent un concours du plus beau légume que le Mouton compte bien gagner avec une belle pomme de l'arbre de la Chouette. Son principal adversaire, Putois le jardinier, le ridiculise en montrant que des chenilles la rongent de l'intérieur. Comme Putois les emporte pour les utiliser comme anti-pucerons sur sa courgette, la Chouette met tout en oeuvre pour les récupérer...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">7</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7f20f8fc-343c-49db-88d2-929abe153cf7.jpg" />
-    <episode-num system="xmltv_ns">0.34.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200515153500 +0200" stop="20200515154700 +0200">
-    <title>La chouette &amp; Cie</title>
-    <sub-title>Sous le signe de chouettula</sub-title>
-    <desc lang="fr">Episode:36 - Il paraît que tous les 2 milliards d'années, si 18 planètes sont alignées, les chauve-souris peuvent se transformer en vampire. Apparemment, c'est le cas car la Chauve-souris n'est pas comme d'habitude : elle a l'air débile et lorsqu'elle joue à " chat ", sa victime se transforme à son tour, cherchant aussitôt quelqu'un d'autre pour jouer. La Chouette se retrouve seule, cernée par les vampires.</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">12</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7f20f8fc-343c-49db-88d2-929abe153cf7.jpg" />
-    <episode-num system="xmltv_ns">.35.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3034,17 +3272,6 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
     <length units="minutes">11</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/15033561-052c-4bed-af3c-84e65169b192.jpg" />
     <episode-num system="xmltv_ns">1.35.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200515162000 +0200" stop="20200515163300 +0200">
-    <title>C'est dans la boîte</title>
-    <sub-title>Rocky &amp; Lily - C'est dans la boîte !</sub-title>
-    <desc lang="fr">Chaque jour, Rocky et Lily reçoivent une nouvelle boîte sur le plateau. Mais que contient-elle? Un objet toujours surprenant qui les amène à nous faire découvrir des sujets très différents: l'histoire des emojis, le tri des poubelles, la musique électro, les gros mots. Avec eux, tout est possible.</desc>
-    <category lang="fr">emission jeunesse</category>
-    <length units="minutes">13</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c4046877-bf0b-4b3d-9ec7-a4546ce2b48c.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3136,37 +3363,13 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200515184000 +0200" stop="20200515185300 +0200">
-    <title>C'est dans la boîte</title>
-    <sub-title>Rocky &amp; Lily - C'est dans la boîte !</sub-title>
-    <desc lang="fr">Chaque jour, Rocky et Lily reçoivent une nouvelle boîte sur le plateau. Mais que contient-elle? Un objet toujours surprenant qui les amène à nous faire découvrir des sujets très différents: l'histoire des emojis, le tri des poubelles, la musique électro, les gros mots. Avec eux, tout est possible.</desc>
-    <category lang="fr">emission jeunesse</category>
-    <length units="minutes">13</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c4046877-bf0b-4b3d-9ec7-a4546ce2b48c.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C892.api.telerama.fr" start="20200515185300 +0200" stop="20200515190300 +0200">
     <title>Les Niouzz</title>
     <desc lang="fr">Tous les jours de la semaine, les Niouzz vous donnent rendez-vous pour faire le tour de l'info en 6 minutes, de manière dynamique et simplifiée.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine jeunesse</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6eb3cacb-2ba0-4299-946a-926e698dab22.jpg" />
     <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200515190300 +0200" stop="20200515193000 +0200">
-    <title>L'oreille des Kids</title>
-    <sub-title>Cités d'or</sub-title>
-    <desc lang="fr">Ta nouvelle émission urbaine. Des sports de rue au break dance en passant par le slam et le graffiti, tu es invité à regarder autrement les phénomènes de ton quotidien. A travers les témoignages d'enfants, les interventions de l'animateur, Christian Baumann, les explications de spécialistes complétées par une infographie attractive, nous t'invitons à mieux comprendre ton environnement.</desc>
-    <category lang="fr">magazine jeunesse</category>
-    <length units="minutes">27</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3194,17 +3397,6 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200515194800 +0200" stop="20200515195000 +0200">
-    <title>Un jour, une question</title>
-    <sub-title>C'est quoi le trafic d'animaux sauvages ?</sub-title>
-    <desc lang="fr">A quoi ça sert ? Ça veut dire quoi ? C'est qui ? Pourquoi c'est comme ça ? Les questions des enfants trouvent quotidiennement une réponse.</desc>
-    <category lang="fr">emission jeunesse</category>
-    <length units="minutes">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/42577ce7-b0c2-4d8d-8cd7-77ed08d7e6b7.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C892.api.telerama.fr" start="20200515195000 +0200" stop="20200515195300 +0200">
     <title>Ma vie dans l'espace</title>
     <sub-title>Teteri</sub-title>
@@ -3219,7 +3411,7 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
   <programme channel="C892.api.telerama.fr" start="20200515195300 +0200" stop="20200515200000 +0200">
     <title>Les Niouzz</title>
     <desc lang="fr">Tous les jours de la semaine, les Niouzz sont traduits en simultané en langue des signes.</desc>
-    <category lang="fr">magazine de société</category>
+    <category lang="fr">magazine jeunesse</category>
     <length units="minutes">7</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6eb3cacb-2ba0-4299-946a-926e698dab22.jpg" />
     <premiere />
@@ -3246,7 +3438,7 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
     </rating>
   </programme>
   <programme channel="C892.api.telerama.fr" start="20200515203700 +0200" stop="20200515210500 +0200">
-    <title>CQFD (Ce Qui Fait Débat)</title>
+    <title>CQFD (Ce qui fait débat)</title>
     <desc lang="fr">Du lundi au jeudi, un rendez-vous avec l'info : un fait du jour décrypté par Arnaud Ruyssen et Catherine Tonero, un face à face sur une question polémique, un débat contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, c'est toute l'actu de la semaine qui est analysée par Arnaud Ruyssen et ses invités.</desc>
     <category lang="fr">débat</category>
     <length units="minutes">28</length>
@@ -3279,7 +3471,7 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
     </rating>
   </programme>
   <programme channel="C892.api.telerama.fr" start="20200515230700 +0200" stop="20200515231300 +0200">
-    <title>KIOSK</title>
+    <title>KIOSK, le magazine des arts de la scène</title>
     <desc lang="fr">Présenté par Cindya Izzarelli, "Kiosk" met en avant, chaque semaine, les arts de la scène, invitant à suivre la création belge dans toute sa diversité.</desc>
     <category lang="fr">magazine culturel</category>
     <length units="minutes">6</length>
@@ -3821,7 +4013,7 @@ Cruchot amoureux n’est plus tout à fait Cruchot : la hargne trépignante, le 
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200515154500 +0200" stop="20200515161000 +0200">
     <title>Tous en selle avec Bibi et Tina</title>
-    <category lang="fr">série</category>
+    <category lang="fr">jeunesse</category>
     <length units="minutes">25</length>
     <rating system="CSA">
       <value>Tout public</value>
