@@ -108,15 +108,6 @@
     <display-name>Franceinfo</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/2111.png" />
   </channel>
-  <programme channel="C226.api.telerama.fr" start="20200525213000" stop="20200526040000">
-    <title>L'édition de la nuit</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">390</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d2411c34-9753-4a79-a718-40f41ae4cbed.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C1400.api.telerama.fr" start="20200525213500" stop="20200526040000">
     <title>Programmes de la nuit</title>
     <category lang="fr">programme indéterminé</category>
@@ -194,22 +185,64 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526072900" stop="20200526073000">
+  <programme channel="C4.api.telerama.fr" start="20200526040000" stop="20200526043000">
+    <title>Le 6h info</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200526043000" stop="20200526060000">
+    <title>Télématin</title>
+    <desc lang="fr">«Télématin» et la matinale de France info (canal 27) fusionnent.</desc>
+    <category lang="fr">magazine de services</category>
+    <length units="minutes">90</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200526060000" stop="20200526061500">
+    <title>Journal 08h00</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200526061500" stop="20200526072500">
+    <title>Télématin</title>
+    <desc lang="fr">«Télématin» et la matinale de France info (canal 27) fusionnent.</desc>
+    <category lang="fr">magazine de services</category>
+    <length units="minutes">70</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200526072500" stop="20200526073000">
     <title>Consomag</title>
     <sub-title>Les probiotiques sont-ils utiles à notre flore intestinale ?</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">1</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3219c4fe-8225-4751-8635-69baf13033c5.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526073000" stop="20200526075500">
+  <programme channel="C4.api.telerama.fr" start="20200526073000" stop="20200526080000">
     <title>Amour, gloire et beauté</title>
     <desc lang="fr">Episode:8036 - Alors que Wyatt a une bonne nouvelle à annoncer à Sally, Hope se bat pour réaliser ce qui lui semble juste. Pendant ce temps, Steffy fatigue sous le poids des responsabilités tandis que Liam se confie à son père...</desc>
     <category lang="fr">feuilleton sentimental</category>
-    <length units="minutes">25</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/82531d67-204e-421d-ab11-77190248cd13.jpg" />
     <episode-num system="xmltv_ns">.8035.</episode-num>
     <premiere />
@@ -217,7 +250,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526075500" stop="20200526084500">
+  <programme channel="C4.api.telerama.fr" start="20200526080000" stop="20200526085000">
     <title>La maison Lumni</title>
     <desc lang="fr">Entouré d'experts, Alex Goude reprend les notions essentielles des programmes scolaires, informe et divertit les 8-12 ans pendant la période du confinement.</desc>
     <category lang="fr">magazine éducatif</category>
@@ -227,7 +260,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526084500" stop="20200526091500">
+  <programme channel="C4.api.telerama.fr" start="20200526085000" stop="20200526092000">
     <title>Tout le monde a son mot à dire</title>
     <desc lang="fr">Une gymnastique quotidienne de l'esprit pour s'amuser avec la langue française et enrichir sa culture générale.</desc>
     <category lang="fr">jeu</category>
@@ -237,7 +270,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526091500" stop="20200526095000">
+  <programme channel="C4.api.telerama.fr" start="20200526092000" stop="20200526095500">
     <title>Les Z'amours</title>
     <desc lang="fr">Trois couples de candidats répondent à des questions censées évaluer la connaissance qu'ils ont de leurs partenaires respectifs. Les conjoints qui accordent le mieux leurs violons remportent la mise.</desc>
     <category lang="fr">jeu</category>
@@ -247,11 +280,11 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526095000" stop="20200526104000">
+  <programme channel="C4.api.telerama.fr" start="20200526095500" stop="20200526104000">
     <title>Tout le monde veut prendre sa place</title>
     <desc lang="fr">Un quiz, six candidats et, bien calé dans son fauteuil, un champion que tous rêvent de déloger. Chaque jour, un seul pourra se mesurer à lui et espérer devenir le nouveau champion.</desc>
     <category lang="fr">jeu</category>
-    <length units="minutes">50</length>
+    <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8b4569d-f743-48f5-a50f-167bdb483193.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -276,61 +309,63 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526113900" stop="20200526114000">
+  <programme channel="C4.api.telerama.fr" start="20200526113900" stop="20200526114400">
     <title>Météo 2</title>
     <category lang="fr">météo</category>
-    <length units="minutes">1</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bdc838b1-c330-48d4-81db-f5bf34dfbb81.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526114000" stop="20200526114400">
+  <programme channel="C4.api.telerama.fr" start="20200526114400" stop="20200526114500">
     <title>De la terre à l'assiette</title>
+    <sub-title>Magasin primeur</sub-title>
     <category lang="fr">magazine de services</category>
-    <length units="minutes">4</length>
+    <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526114400" stop="20200526114500">
-    <title>La p'tite librairie</title>
-    <desc lang="fr">François Busnel propose de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
-    <category lang="fr">magazine littéraire</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fc57f91-0267-47fe-b4ff-dc1a629f40a0.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526114500" stop="20200526115500">
+  <programme channel="C4.api.telerama.fr" start="20200526114500" stop="20200526114700">
     <title>Expression directe</title>
     <sub-title>FSU</sub-title>
     <desc lang="fr">Organisations syndicales, partis politiques, mais aussi mouvements d'entrepreneurs prennent la parole.</desc>
     <category lang="fr">magazine politique</category>
-    <length units="minutes">10</length>
+    <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0df7782b-4d99-48af-8a4e-5e0b7c3cd5bf.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526115500" stop="20200526130000">
+  <programme channel="C4.api.telerama.fr" start="20200526114700" stop="20200526115500">
+    <title>La p'tite librairie</title>
+    <sub-title>L'Odyssée</sub-title>
+    <desc lang="fr">François Busnel propose de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+    <category lang="fr">magazine littéraire</category>
+    <length units="minutes">8</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8fc57f91-0267-47fe-b4ff-dc1a629f40a0.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200526115500" stop="20200526130500">
     <title>Ça commence aujourd'hui</title>
     <sub-title>Il est parti avec la baby-sitter</sub-title>
     <desc lang="fr">Elles n'auraient jamais imaginé que leur conjoint partirait avec la nounou ; baby-sitters, elles sont tombées amoureuses du père des enfants qu'elles gardaient : deux points de vues s'affrontent, avec bienveillance et sans jugement.</desc>
     <category lang="fr">magazine de société</category>
-    <length units="minutes">65</length>
+    <length units="minutes">70</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a482f19d-e9a9-4fc0-b58f-c7b41c42b24e.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526130000" stop="20200526141500">
+  <programme channel="C4.api.telerama.fr" start="20200526130500" stop="20200526141500">
     <title>Je t'aime, etc.</title>
     <desc lang="fr">Tous les après-midis, Daphné Bürki parle d'amour, entourée de sa famille de journalistes, experts et chroniqueurs : de l'amour des autres à l'estime de soi en passant par la tendresse, le couple, la famille, l'amitié, la sexualité, la planète, ou encore les animaux. Dossiers et rubriques rythment ce rendez-vous à la fois divertissant et instructif.</desc>
     <category lang="fr">magazine de société</category>
-    <length units="minutes">75</length>
+    <length units="minutes">70</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0e7171be-68b7-4d70-8d7f-60e365ce952c.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -366,27 +401,17 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526160000" stop="20200526163500">
+  <programme channel="C4.api.telerama.fr" start="20200526160000" stop="20200526164000">
     <title>Tout le monde a son mot à dire</title>
     <desc lang="fr">Une gymnastique quotidienne de l'esprit pour s'amuser avec la langue française et enrichir sa culture générale.</desc>
     <category lang="fr">jeu</category>
-    <length units="minutes">35</length>
+    <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/afe0d872-6d33-4161-b816-f0dd54af071e.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526163500" stop="20200526170500">
-    <title>N'oubliez pas les paroles</title>
-    <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
-    <category lang="fr">jeu</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2387efc4-27c2-45a2-a1c5-90ea41b2a4a8.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526170500" stop="20200526174000">
+  <programme channel="C4.api.telerama.fr" start="20200526164000" stop="20200526171500">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
     <category lang="fr">jeu</category>
@@ -396,37 +421,55 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526174000" stop="20200526180000">
+  <programme channel="C4.api.telerama.fr" start="20200526171500" stop="20200526173500">
+    <title>N'oubliez pas les paroles</title>
+    <desc lang="fr">Les candidats chantent en karaoké accompagnés par un orchestre. Quand les mots s'effacent, seuls gagnent ceux qui se souviennent de toutes les paroles.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2387efc4-27c2-45a2-a1c5-90ea41b2a4a8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200526173500" stop="20200526180000">
     <title>Météo 2</title>
     <category lang="fr">météo</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bdc838b1-c330-48d4-81db-f5bf34dfbb81.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526180000" stop="20200526185000">
+  <programme channel="C4.api.telerama.fr" start="20200526180000" stop="20200526184700">
     <title>Journal 20h00</title>
     <category lang="fr">journal</category>
-    <length units="minutes">50</length>
+    <length units="minutes">47</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bd1abc04-6d1d-4258-b872-0f807edc3f48.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526185000" stop="20200526185300">
+  <programme channel="C4.api.telerama.fr" start="20200526184700" stop="20200526184800">
     <title>Météo 2</title>
     <category lang="fr">météo</category>
-    <length units="minutes">3</length>
+    <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bdc838b1-c330-48d4-81db-f5bf34dfbb81.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200526184800" stop="20200526185300">
+    <title>Au secours, bonjour !</title>
+    <desc lang="fr">Deux experts improvisés répondent chaque soir à différents appels vidéo de citoyens confinés. Avec beaucoup d'humour et de dérision, ils rassurent chacun d'entre eux sur leur nouveau quotidien en cette période troublée.</desc>
+    <length units="minutes">5</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C4.api.telerama.fr" start="20200526185300" stop="20200526185400">
     <title>Simplissime</title>
-    <sub-title>Le cake à la tomme de brebis et aux poivrons</sub-title>
+    <sub-title>Le cake a la tomme de brebis et aux poivrons</sub-title>
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
@@ -434,11 +477,21 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526185400" stop="20200526190000">
+  <programme channel="C4.api.telerama.fr" start="20200526185400" stop="20200526185500">
+    <title>Les échanges de légende</title>
+    <category lang="fr">magazine de services</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C4.api.telerama.fr" start="20200526185500" stop="20200526190000">
     <title>Basique, l'essentiel de la musique</title>
+    <sub-title>Bob Marley</sub-title>
     <desc lang="fr">Coup de projecteur sur l'actualité musicale, dans un format dynamique et accessible</desc>
     <category lang="fr">magazine musical</category>
-    <length units="minutes">6</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/65a8e3f0-77f3-428c-b46f-71af68a02cf2.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -456,12 +509,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526215000" stop="20200526225500">
+  <programme channel="C4.api.telerama.fr" start="20200526215000" stop="20200526231000">
     <title>ZAD, une vie à défendre</title>
     <desc lang="fr">Depuis des années les luttes syndicales et politiques ne se gagnent plus dans les rues mais en occupant le terrain dans les ZAD, des zones à défendre. Les Zadistes multiplient les actions pour protéger les terres, soucieux de s'affranchir des rapports de domination. Ce documentaire, réalisé au coeur des ZAD de Notre-Dame-des-Landes, de Bure en Moselle et de Kolbsheim en Alsace, suit le combat de Clara, Benji, Guillaume, Cécile ou encore Luca. Qu'ils soient black blocs, communistes libertaires, vegans, cultivateurs, ou enseignants en disponibilité, tous opposent l'écologie au productivisme capitaliste.</desc>
     <date>2020</date>
     <category lang="fr">documentaire : société</category>
-    <length units="minutes">65</length>
+    <length units="minutes">80</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c603cd74-e14c-457c-a41e-2028a6d6d25e.jpg" />
     <premiere />
     <rating system="CSA">
@@ -726,17 +779,17 @@ Classique dans la forme, le film est moderne sur le fond. Tant sur la représent
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200526102200" stop="20200526105800">
+  <programme channel="C34.api.telerama.fr" start="20200526102200" stop="20200526105900">
     <title>Clique</title>
     <desc lang="fr">Mouloud Achour renouvelle son émission et c'est l'occasion pour lui de multiplier les rencontres avec les talents du moment. L'émission est ponctuée de reportages. Des humoristes qu'on ne voit nulle part ailleurs sont aussi invités. "Clique" est conçue comme une émission curieuse de tout et de tout le monde.</desc>
     <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">36</length>
+    <length units="minutes">37</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/faa0e247-549b-4fd9-883f-7228ee7a68ca.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200526105800" stop="20200526114000">
+  <programme channel="C34.api.telerama.fr" start="20200526105900" stop="20200526114100">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc lang="fr">Présenté par le talentueux Jimmy Fallon, The Tonight Show, diffusé d'abord aux Etats-Unis, propose un moment unique : interviews décalées, gags délirants, parodies hilarantes, sketchs mythiques, défis rocambolesques. Une pléiade de stars est invitée chaque soir pour contribuer à ce grand moment de divertissement et d'humour.</desc>
     <category lang="fr">talk-show</category>
@@ -749,7 +802,7 @@ Classique dans la forme, le film est moderne sur le fond. Tant sur la représent
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200526114000" stop="20200526122200">
+  <programme channel="C34.api.telerama.fr" start="20200526114100" stop="20200526122300">
     <title>Killing Eve</title>
     <desc lang="fr">Saison:3 - Episode:3 - Villanelle est persuadée d'avoir tué l'agent Eve Polastri. L'assassin psychopathe se retrouve soudainement sans emploi, l'objet de son obsession ayant finalement disparu. Mais Eve, après avoir survécu, se cache de son entourage afin que personne ne découvre la vérité. Alors que les deux jeunes femmes ne sont pas amenées à ce recroiser, une mort choquante qui les touchent personnellement va entièrement faire basculer la situation. Désormais, plus personne n'est en sécurité.</desc>
     <credits>
@@ -771,7 +824,7 @@ Classique dans la forme, le film est moderne sur le fond. Tant sur la représent
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200526122200" stop="20200526130500">
+  <programme channel="C34.api.telerama.fr" start="20200526122300" stop="20200526130600">
     <title>Killing Eve</title>
     <desc lang="fr">Saison:3 - Episode:4 - Villanelle est persuadée d'avoir tué l'agent Eve Polastri. L'assassin psychopathe se retrouve soudainement sans emploi, l'objet de son obsession ayant finalement disparu. Mais Eve, après avoir survécu, se cache de son entourage afin que personne ne découvre la vérité. Alors que les deux jeunes femmes ne sont pas amenées à ce recroiser, une mort choquante qui les touchent personnellement va entièrement faire basculer la situation. Désormais, plus personne n'est en sécurité.</desc>
     <credits>
@@ -793,11 +846,11 @@ Classique dans la forme, le film est moderne sur le fond. Tant sur la représent
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200526130500" stop="20200526140100">
+  <programme channel="C34.api.telerama.fr" start="20200526130600" stop="20200526140300">
     <title>21 cm</title>
     <desc lang="fr">Saison:4 - Le magazine littéraire présenté d'Augustin Trapenard accueille les écrivains qui font l'actualité en France, mais aussi dans le reste du monde. Les auteurs ouvrent volontiers leurs portes à Augustin, qui leur retourne la politesse en les conviant chez lui, dans sa bibliothèque, la conversation se poursuivant même parfois à l'étranger.</desc>
     <category lang="fr">magazine littéraire</category>
-    <length units="minutes">56</length>
+    <length units="minutes">57</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/416f368c-adbb-4d65-b6ae-3998193e68ff.jpg" />
     <episode-num system="xmltv_ns">3..</episode-num>
     <previously-shown />
@@ -805,7 +858,7 @@ Classique dans la forme, le film est moderne sur le fond. Tant sur la représent
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200526140100" stop="20200526141600">
+  <programme channel="C34.api.telerama.fr" start="20200526140300" stop="20200526141800">
     <title>Rencontres de cinéma</title>
     <sub-title>Sibyl</sub-title>
     <desc lang="fr">Chaque dimanche, dans une atmosphère chaleureuse et conviviale, Laurent Weil reçoit les plus grandes stars françaises et internationales qui font l'actualité du septième art.</desc>
@@ -816,7 +869,7 @@ Classique dans la forme, le film est moderne sur le fond. Tant sur la représent
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200526141600" stop="20200526141800">
+  <programme channel="C34.api.telerama.fr" start="20200526141800" stop="20200526142000">
     <title>Opérations spéciales</title>
     <sub-title>Sibyl</sub-title>
     <category lang="fr">magazine du cinéma</category>
@@ -826,7 +879,7 @@ Classique dans la forme, le film est moderne sur le fond. Tant sur la représent
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200526141800" stop="20200526155600">
+  <programme channel="C34.api.telerama.fr" start="20200526142000" stop="20200526160100">
     <title>Sibyl</title>
     <desc lang="fr">Sibyl, psychanalyste, veut accomplir son rêve de devenir romancière. Aussi se débarrasse-t-elle de sa patientelle pour se consacrer à l'écriture. Seulement, une de ses patientes, Margot, la fascine : comédienne, elle vit une histoire avec son partenaire à l'écran, en couple avec leur réalisatrice... - Critique : De manière dense et rapide, la réalisatrice donne d’emblée à son héroïne un vécu, une épaisseur. Sibyl est une psychanalyste au passé tumultueux. Elle a rompu avec sa mère. Elle a connu la passion dévorante avec un homme, a sombré un temps dans l’alcool. Elle a suspendu son travail d’analyste pour se lancer dans un nouveau roman, mais peine à avancer. Une jeune actrice en détresse va changer la donne…
 
@@ -847,7 +900,7 @@ C’est l’appel de la fiction qui guide le film. Tout se met à dérailler, à
     </credits>
     <date>2019</date>
     <category lang="fr">film : comédie dramatique</category>
-    <length units="minutes">98</length>
+    <length units="minutes">101</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/245c345b-ed68-4053-b258-117564b0eac8.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -858,18 +911,9 @@ C’est l’appel de la fiction qui guide le film. Tout se met à dérailler, à
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200526155600" stop="20200526160100">
-    <title>Le plus</title>
-    <desc lang="fr">Cinéma, sport, séries, émissions…, avec LE PLUS découvrez en 3 minutes vos programmes sous un autre angle.</desc>
-    <category lang="fr">divertissement</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c74a485a-477d-48f3-af3f-2af2847eed67.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C34.api.telerama.fr" start="20200526160100" stop="20200526162900">
     <title>L'info du vrai</title>
+    <sub-title>Marseille ville test</sub-title>
     <desc lang="fr">En abordant un sujet d'actualité occupant de manière centrale le débat public, un documentaire permet à chacun d'enrichir son point de vue sur un monde en perpétuel changement.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="minutes">28</length>
@@ -888,32 +932,33 @@ C’est l’appel de la fiction qui guide le film. Tout se met à dérailler, à
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200526175700" stop="20200526180000">
+  <programme channel="C34.api.telerama.fr" start="20200526175700" stop="20200526180100">
     <title>Clique</title>
     <desc lang="fr">Mouloud Achour renouvelle son émission et c'est l'occasion pour lui de multiplier les rencontres avec les talents du moment. L'émission est ponctuée de reportages. Des humoristes qu'on ne voit nulle part ailleurs sont aussi invités. "Clique" est conçue comme une émission curieuse de tout et de tout le monde.</desc>
     <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">3</length>
+    <length units="minutes">4</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/faa0e247-549b-4fd9-883f-7228ee7a68ca.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200526180000" stop="20200526182300">
+  <programme channel="C34.api.telerama.fr" start="20200526180100" stop="20200526182200">
     <title>Groland le zapoï</title>
     <desc lang="fr">Le très flegmatique Jules-Edouard Moustic présente les meilleurs moments des émissions diffusées sur le bouquet satellite grolandais, d'après une sélection méticuleusement réalisée par Benoît Delépine, Gustave Kervern et Francis Kuntz. Ensemble, les experts débattent et commentent leur choix.</desc>
     <category lang="fr">divertissement-humour</category>
-    <length units="minutes">23</length>
+    <length units="minutes">21</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d03076b4-46d9-4488-a004-2bc64a43ca1e.jpg" />
     <rating system="CSA">
-      <value>Tout public</value>
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200526182300" stop="20200526190100">
+  <programme channel="C34.api.telerama.fr" start="20200526182200" stop="20200526190100">
     <title>Clique</title>
     <desc lang="fr">Mouloud Achour renouvelle son émission et c'est l'occasion pour lui de multiplier les rencontres avec les talents du moment. L'émission est ponctuée de reportages. Des humoristes qu'on ne voit nulle part ailleurs sont aussi invités. "Clique" est conçue comme une émission curieuse de tout et de tout le monde.</desc>
     <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">38</length>
+    <length units="minutes">39</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/faa0e247-549b-4fd9-883f-7228ee7a68ca.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1872,91 +1917,6 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526030500" stop="20200526031500">
-    <title>Nos voisins les pirates</title>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526031500" stop="20200526032000">
-    <title>Kikoriki</title>
-    <sub-title>Jeu de buts et but du jeu</sub-title>
-    <category lang="fr">série</category>
-    <length units="minutes">5</length>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526032000" stop="20200526033000">
-    <title>Kikoriki</title>
-    <sub-title>L'important dans la vie</sub-title>
-    <desc lang="fr">Saison:1 - Un mouton poète, un hérisson introverti, un corbeau philosophe, une chouette pleine de bon sens : tous ces animaux vivent de passionnantes aventures.</desc>
-    <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/76df7457-4eae-416a-bb8d-550d49824918.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526033000" stop="20200526033500">
-    <title>Kikoriki</title>
-    <sub-title>Un tournage de fous</sub-title>
-    <desc lang="fr">Saison:1 - Un mouton poète, un hérisson introverti, un corbeau philosophe, une chouette pleine de bon sens : tous ces animaux vivent de passionnantes aventures.</desc>
-    <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/76df7457-4eae-416a-bb8d-550d49824918.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526033500" stop="20200526034500">
-    <title>Kikoriki</title>
-    <sub-title>Le parfum-charme</sub-title>
-    <desc lang="fr">Saison:1 - Un mouton poète, un hérisson introverti, un corbeau philosophe, une chouette pleine de bon sens : tous ces animaux vivent de passionnantes aventures.</desc>
-    <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/76df7457-4eae-416a-bb8d-550d49824918.jpg" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526034500" stop="20200526034900">
-    <title>La science des soucis</title>
-    <sub-title>Quand t'as plus de papier !</sub-title>
-    <category lang="fr">série burlesque</category>
-    <length units="minutes">4</length>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526034900" stop="20200526035000">
-    <title>Un jour, une question</title>
-    <desc lang="fr">A quoi ça sert ? Ça veut dire quoi ? C'est qui ? Pourquoi c'est comme ça ? Les questions des enfants trouvent quotidiennement une réponse.</desc>
-    <category lang="fr">emission jeunesse</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/42577ce7-b0c2-4d8d-8cd7-77ed08d7e6b7.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526035000" stop="20200526040500">
-    <title>Nils Holgersson</title>
-    <sub-title>Le glouton</sub-title>
-    <desc lang="fr">Nils, garnement de 14 ans, vit à la ferme avec ses parents dans le sud de la Suède et passe le plus clair de son temps à chahuter les animaux. Transformé en lutin facétieux par l'elfe Athanor, qui veut le punir, il doit désormais vivre en miniature. En contrepartie, le garçon est doté de la faculté de communiquer avec les bêtes. Avec son fidèle destrier, Martin le jars, Nils entame une odyssée à travers le pays en compagnie d'une troupe d'oies sauvages en pleine migration...</desc>
-    <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C78.api.telerama.fr" start="20200526040500" stop="20200526041500">
     <title>Nils Holgersson</title>
     <sub-title>La tête dans les nuages</sub-title>
@@ -2170,7 +2130,7 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
     </rating>
   </programme>
   <programme channel="C78.api.telerama.fr" start="20200526070000" stop="20200526080000">
-    <title>Les cours Lumni - Primaire</title>
+    <title>Les cours Lumni - Collège</title>
     <sub-title>CP</sub-title>
     <desc lang="fr">En cette période de confinement, des professeurs de l'Education nationale se relaient pour dispenser un enseignement à distance aux élèves.</desc>
     <category lang="fr">magazine éducatif</category>
@@ -2181,7 +2141,7 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
     </rating>
   </programme>
   <programme channel="C78.api.telerama.fr" start="20200526080000" stop="20200526083000">
-    <title>Les cours Lumni - Primaire</title>
+    <title>Les cours Lumni - Collège</title>
     <sub-title>CE1</sub-title>
     <desc lang="fr">En cette période de confinement, des professeurs de l'Education nationale se relaient pour dispenser un enseignement à distance aux élèves.</desc>
     <category lang="fr">magazine éducatif</category>
@@ -2192,7 +2152,7 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
     </rating>
   </programme>
   <programme channel="C78.api.telerama.fr" start="20200526083000" stop="20200526090000">
-    <title>Les cours Lumni - Primaire</title>
+    <title>Les cours Lumni - Collège</title>
     <sub-title>CE2</sub-title>
     <desc lang="fr">En cette période de confinement, des professeurs de l'Education nationale se relaient pour dispenser un enseignement à distance aux élèves.</desc>
     <category lang="fr">magazine éducatif</category>
@@ -2203,7 +2163,7 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
     </rating>
   </programme>
   <programme channel="C78.api.telerama.fr" start="20200526090000" stop="20200526093000">
-    <title>Les cours Lumni - Primaire</title>
+    <title>Les cours Lumni - Collège</title>
     <sub-title>CM1</sub-title>
     <desc lang="fr">En cette période de confinement, des professeurs de l'Education nationale se relaient pour dispenser un enseignement à distance aux élèves.</desc>
     <category lang="fr">magazine éducatif</category>
@@ -2214,7 +2174,7 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
     </rating>
   </programme>
   <programme channel="C78.api.telerama.fr" start="20200526093000" stop="20200526100500">
-    <title>Les cours Lumni - Primaire</title>
+    <title>Les cours Lumni - Collège</title>
     <sub-title>CM2</sub-title>
     <desc lang="fr">En cette période de confinement, des professeurs de l'Education nationale se relaient pour dispenser un enseignement à distance aux élèves.</desc>
     <category lang="fr">magazine éducatif</category>
@@ -2372,7 +2332,7 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
     </rating>
   </programme>
   <programme channel="C78.api.telerama.fr" start="20200526140500" stop="20200526143500">
-    <title>Les cours Lumni - Lycée</title>
+    <title>Les cours Lumni - Collège</title>
     <desc lang="fr">En cette période de confinement, des professeurs de l'Education nationale se relaient pour dispenser un enseignement à distance aux élèves.</desc>
     <category lang="fr">magazine éducatif</category>
     <length units="minutes">30</length>
@@ -2476,22 +2436,22 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526165500" stop="20200526170800">
+  <programme channel="C78.api.telerama.fr" start="20200526165500" stop="20200526170500">
     <title>Power Players</title>
     <sub-title>Dans le noir</sub-title>
     <desc lang="fr">Garçon de neuf ans, Axel est capable de se transformer en jouet vivant. Avec ses alliés, les Power Players, il tente d'empêcher les super-vilains jouets de semer le chaos.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">13</length>
+    <length units="minutes">10</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526170800" stop="20200526170900">
+  <programme channel="C78.api.telerama.fr" start="20200526170500" stop="20200526170900">
     <title>Minikeums</title>
     <sub-title>Du gel pour Keva</sub-title>
     <desc lang="fr">Saison:2 - Programme jeunesse culte des années 90, les «Minikeums» sont de retour avec de nouveaux animateurs. Les cinq personnages, Keva, Riha, Loulou, Normy et Pog partagent leur passion pour les nouvelles technologies, la danse, le chant, la mode et le sport</desc>
     <category lang="fr">emission jeunesse</category>
-    <length units="minutes">1</length>
+    <length units="minutes">4</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4eb91730-5194-4cff-8f2e-51bf50ea28ab.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
     <rating system="CSA">
@@ -2510,22 +2470,22 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526171000" stop="20200526172500">
+  <programme channel="C78.api.telerama.fr" start="20200526171000" stop="20200526172000">
     <title>Coache-moi si tu peux</title>
     <sub-title>Canyon</sub-title>
     <category lang="fr">série</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <previously-shown />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526172500" stop="20200526173500">
+  <programme channel="C78.api.telerama.fr" start="20200526172000" stop="20200526173500">
     <title>Coache-moi si tu peux</title>
     <sub-title>Canyon</sub-title>
     <category lang="fr">série</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <previously-shown />
     <premiere />
     <rating system="CSA">
@@ -2543,24 +2503,24 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526174500" stop="20200526182000">
+  <programme channel="C78.api.telerama.fr" start="20200526174500" stop="20200526181500">
     <title>Une saison au zoo</title>
     <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
     <date>2019</date>
     <category lang="fr">documentaire : animalier</category>
-    <length units="minutes">35</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85beba6e-7a41-4fa2-88e5-8df1bf33c50d.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526182000" stop="20200526184500">
+  <programme channel="C78.api.telerama.fr" start="20200526181500" stop="20200526184500">
     <title>Une saison au zoo</title>
     <desc lang="fr">Une immersion au coeur du zoo de La Flèche, de jour comme de nuit, pour découvrir les aventures quotidiennes de ses nombreux animaux et de leurs soigneurs.</desc>
     <date>2019</date>
     <category lang="fr">documentaire : animalier</category>
-    <length units="minutes">25</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/85beba6e-7a41-4fa2-88e5-8df1bf33c50d.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2576,6 +2536,17 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C78.api.telerama.fr" start="20200526190000" stop="20200526190500">
+    <title>La p'tite librairie</title>
+    <sub-title>"L'Odyssée", d'Homère</sub-title>
+    <desc lang="fr">François Busnel propose de découvrir ou redécouvrir une oeuvre française ou étrangère : roman, essai, grand classique ou encore bande dessinée.</desc>
+    <category lang="fr">magazine littéraire</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/aa711843-89de-40bb-9203-3acc1a508aa2.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C78.api.telerama.fr" start="20200526190500" stop="20200526203000">
     <title>L'histoire secrète du débarquement</title>
     <desc lang="fr">A l'aube du 6 juin 1944, une immense armada prend d'assaut les plages de Normandie. Pour s'assurer la victoire qui permettra de libérer la France et une partie de l'Europe, les Alliés ont réussi un pari fou : tromper Hitler et les nazis sur le lieu et la date du Débarquement. Une vaste opération de désinformation qui a impliqué des agents doubles, des opérations commandos, une fausse armée et le sosie d'un célèbre général. Comment l'offensive militaire la plus importante de l'histoire a-telle été organisée ? Par qui a-t-elle été imaginée ? Comment le commandement nazi a-t-il été manipulé ? Grâce à des images d'archives rares et des reconstitutions saisissantes, ce documentaire fait revivre, de l’intérieur, les doutes, les rapports de force, les rebondissements, qui ont précédé le Jour J.</desc>
@@ -2587,12 +2558,12 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526203000" stop="20200526220500">
+  <programme channel="C78.api.telerama.fr" start="20200526203000" stop="20200526220000">
     <title>La vie au temps des gladiateurs</title>
     <desc lang="fr">Ce document propose une plongée dans la Rome antique, où se déroulaient régulièrement des combats de gladiateurs - littéralement, «combattants à l'épée». Documentées dès le IIIe siècle avant J.-C., ces joutes étaient un temps fort de la vie de la cité. Dans les amphithéâtres, la foule se pressait pour voir s'affronter des combattants professionnels, libres ou esclaves, parfois jusqu'à la mort. Des écoles dédiées à l'apprentissage de l'art du combat étaient présentes partout dans l'Empire, celles d'Aquilée et de Capoue étant parmi les plus réputées.</desc>
     <date>2018</date>
     <category lang="fr">documentaire : histoire</category>
-    <length units="minutes">95</length>
+    <length units="minutes">90</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/21eaa66b-df02-4467-95c3-e9c46f6b6c9f.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -2678,12 +2649,42 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526040000" stop="20200526041000">
+  <programme channel="C80.api.telerama.fr" start="20200526031000" stop="20200526033500">
+    <title>Plus belle la vie</title>
+    <desc lang="fr">Saison:11 - Episode:2815 - Guillaume boit le calice jusqu'à la lie. De son côté, Thérèse hésite jusqu'au dernier moment. Quant à Vincent, il fait une rencontre frappante...</desc>
+    <category lang="fr">feuilleton réaliste</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/865e9105-6cfb-4230-b49a-405657c65015.jpg" />
+    <episode-num system="xmltv_ns">10.2814.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200526033500" stop="20200526040000">
+    <title>Plus belle la vie</title>
+    <desc lang="fr">Saison:11 - Episode:2816 - Tandis que Djawad s'apprête à commettre l'irréparable, Guillaume charge Frémont d'une mission peu glorieuse. Quant à Babeth, elle blanchit de l'argent sale...</desc>
+    <category lang="fr">feuilleton réaliste</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/03fb760a-a12c-4297-a753-bee91515adae.jpg" />
+    <episode-num system="xmltv_ns">10.2815.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200526040000" stop="20200526040500">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Crétin 000 contre le fils de Dark lapin</sub-title>
     <desc lang="fr">Saison:4 - Episode:69 - Crétin 000 continue sa lutte contre Dark Lapin, accompagné de son nouvel assistant : Mini 000. Mais Mini, négligé par son mentor, se fait enrôler par Dark Lapin et devient l'instrument de sa revanche sur l'agent crétin…</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a7f28201-4fb1-41ff-a164-0ff68ac76461.jpg" />
     <episode-num system="xmltv_ns">3.68.</episode-num>
     <previously-shown />
@@ -2691,12 +2692,12 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526041000" stop="20200526041500">
+  <programme channel="C80.api.telerama.fr" start="20200526040500" stop="20200526041500">
     <title>Les lapins crétins : invasion</title>
     <sub-title>L'attaque des mouches crétines</sub-title>
     <desc lang="fr">Saison:4 - Episode:68 - Zak et les lapins ont enfin retrouvé le sous-marin. Mais ils ne se doutent pas qu'une créature mi-mouche, mi-crétine en a fait fuir tous ses habitants et les attend à l'intérieur...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92ba2ec4-8965-405d-ab7a-2ccea9d921b2.jpg" />
     <episode-num system="xmltv_ns">3.67.</episode-num>
     <rating system="CSA">
@@ -2716,12 +2717,12 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526042000" stop="20200526043000">
+  <programme channel="C80.api.telerama.fr" start="20200526042000" stop="20200526042500">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Fermière crétine</sub-title>
     <desc lang="fr">Saison:4 - Episode:61 - Un lapin fermière voit sa vache bien-aimée se faire aspirer dans le sous-marin par Mad et son assistant qui veulent la transformer en hamburger. Lapin fermière va voler à son secours, quitte à mettre le vaisseau sans dessus dessous…</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/eb41bdcc-7786-4d2a-98b8-3d56779d2949.jpg" />
     <episode-num system="xmltv_ns">3.60.</episode-num>
     <previously-shown />
@@ -2729,12 +2730,12 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526043000" stop="20200526043500">
+  <programme channel="C80.api.telerama.fr" start="20200526042500" stop="20200526043500">
     <title>Les lapins crétins : invasion</title>
     <sub-title>Crétin coq et le poussin perdu</sub-title>
     <desc lang="fr">Saison:4 - Episode:75 - Ils ne se souviennent de rien, ils ne comprennent rien, mais ils ne renoncent jamais : les lapins crétins font de leur quotidien un monde étonnant.</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/14c5fdfe-6173-4adc-84c4-b06c9144b449.jpg" />
     <episode-num system="xmltv_ns">3.74.</episode-num>
     <previously-shown />
@@ -2755,12 +2756,12 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526044500" stop="20200526050000">
+  <programme channel="C80.api.telerama.fr" start="20200526044500" stop="20200526045500">
     <title>Zip Zip</title>
     <sub-title>Gracie et Alphie</sub-title>
     <desc lang="fr">Saison:1 - Episode:29 - Comme toujours, Victoria tente de faire la sieste. Et comme toujours, les charmants-petits-voisins, Gracie et Alphie, font du bruit...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a0674390-615b-40ca-a8db-3304894962d2.jpg" />
     <episode-num system="xmltv_ns">0.28.</episode-num>
     <previously-shown />
@@ -2768,12 +2769,12 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526050000" stop="20200526051000">
+  <programme channel="C80.api.telerama.fr" start="20200526045500" stop="20200526051000">
     <title>Zip Zip</title>
     <sub-title>Chien super star</sub-title>
     <desc lang="fr">Saison:1 - Episode:30 -</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a0674390-615b-40ca-a8db-3304894962d2.jpg" />
     <episode-num system="xmltv_ns">0.29.</episode-num>
     <previously-shown />
@@ -2794,12 +2795,12 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526052000" stop="20200526053500">
+  <programme channel="C80.api.telerama.fr" start="20200526052000" stop="20200526053000">
     <title>Garfield &amp; Cie</title>
     <sub-title>Chassé croisé</sub-title>
     <desc lang="fr">Saison:1 - Episode:27 - C'est une journée comme les autres à la maison. Comme à son habitude, Garfield est vautré sur le fauteuil jusqu'à ce qu'il se retrouve happé par un tourbillon dimensionnel. Il est prisonnier d'un monde parallèle où les chats ont pris la place des humains...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/09b729af-d399-4844-a416-ad56e222103f.jpg" />
     <episode-num system="xmltv_ns">0.26.</episode-num>
     <previously-shown />
@@ -2807,12 +2808,12 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526053500" stop="20200526054500">
+  <programme channel="C80.api.telerama.fr" start="20200526053000" stop="20200526054500">
     <title>Garfield &amp; Cie</title>
     <sub-title>Charivari</sub-title>
     <desc lang="fr">Saison:1 - Episode:26 - Les infernales jumelles Drusilla et Minerva rendent visite à leur cousin Jon et, à peine arrivées, elles veulent jouer à toutes sortes de jeux avec Garfield...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">10</length>
+    <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/09b729af-d399-4844-a416-ad56e222103f.jpg" />
     <episode-num system="xmltv_ns">0.25.</episode-num>
     <previously-shown />
@@ -2820,12 +2821,12 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526054500" stop="20200526060000">
+  <programme channel="C80.api.telerama.fr" start="20200526054500" stop="20200526055500">
     <title>Garfield &amp; Cie</title>
     <sub-title>Les Egyptochats</sub-title>
     <desc lang="fr">Saison:1 - Episode:25 - Liz, revenue de son séjour en Egypte, est en visite chez Jon. Elle lui a rapporté un vieux miroir. Celui-ci est magique et abrite une porte vers un monde parallèle où les chats rêvent de reconquérir la planète...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/09b729af-d399-4844-a416-ad56e222103f.jpg" />
     <episode-num system="xmltv_ns">0.24.</episode-num>
     <previously-shown />
@@ -2833,12 +2834,12 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526060000" stop="20200526062000">
+  <programme channel="C80.api.telerama.fr" start="20200526055500" stop="20200526062000">
     <title>Scooby-Doo, Mystères Associés</title>
     <sub-title>La bataille des humongonautes</sub-title>
     <desc lang="fr">Saison:1 - Episode:9 - Quand deux monstres géants attaquent Crystal Cove, le maire demande de l'aide à Scoody-Doo et ses amis. Pendant ce temps, Sammy doit choisir entre sa relation avec Vera ou celle avec Scooby-Doo...</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/81957e55-b189-40f2-8aec-659b435fb0b0.jpg" />
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <rating system="CSA">
@@ -2871,12 +2872,12 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526064000" stop="20200526065500">
+  <programme channel="C80.api.telerama.fr" start="20200526064000" stop="20200526065000">
     <title>Les as de la jungle à la rescousse</title>
     <sub-title>Il faut sauver le petit tigre Junior</sub-title>
     <desc lang="fr">Saison:2 - Episode:33 - La jungle n'est pas toujours un endroit paisible. Les animaux qui la peuplent en savent quelque chose. Maurice, un manchot tigré, Batricia, une chauve-souris, Miguel, un gorille ou encore Gilbert, un tarsier, sont là pour assurer la sécurité de leurs amis. Pour les appeler, il suffit de tirer un signal d'alarme qui envoie de petits nuages de fumée au sommet d'un volcan.</desc>
     <category lang="fr">série d'animation</category>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/624e78f1-0b26-4e08-8d53-e9fa954af601.jpg" />
     <episode-num system="xmltv_ns">1.32.</episode-num>
     <previously-shown />
@@ -2884,7 +2885,7 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526065500" stop="20200526070500">
+  <programme channel="C80.api.telerama.fr" start="20200526065000" stop="20200526070000">
     <title>Les as de la jungle à la rescousse</title>
     <sub-title>SOS météorite</sub-title>
     <desc lang="fr">Saison:2 - Episode:34 - La jungle n'est pas toujours un endroit paisible. Les animaux qui la peuplent en savent quelque chose. Maurice, un manchot tigré, Batricia, une chauve-souris, Miguel, un gorille ou encore Gilbert, un tarsier, sont là pour assurer la sécurité de leurs amis. Pour les appeler, il suffit de tirer un signal d'alarme qui envoie de petits nuages de fumée au sommet d'un volcan.</desc>
@@ -2897,9 +2898,21 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526070500" stop="20200526071500">
+  <programme channel="C80.api.telerama.fr" start="20200526070000" stop="20200526071500">
     <title>Rocky Kwaterner</title>
     <sub-title>Coup de théâtre</sub-title>
+    <desc lang="fr">Une famille paisible, les Tikka, voit son quotidien perturbé à l'arrivée de Rocky, un enfant Cro-Magnon qui doit apprendre à vivre au XXIe siècle.</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fb2bf013-95a7-4d13-8ed5-cd5a844e5c30.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C80.api.telerama.fr" start="20200526071500" stop="20200526072500">
+    <title>Rocky Kwaterner</title>
+    <sub-title>Le collier</sub-title>
     <desc lang="fr">Une famille paisible, les Tikka, voit son quotidien perturbé à l'arrivée de Rocky, un enfant Cro-Magnon qui doit apprendre à vivre au XXIe siècle.</desc>
     <category lang="fr">jeunesse : dessin animé</category>
     <length units="minutes">10</length>
@@ -2909,23 +2922,11 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526071500" stop="20200526072900">
-    <title>Rocky Kwaterner</title>
-    <sub-title>Le collier</sub-title>
-    <desc lang="fr">Une famille paisible, les Tikka, voit son quotidien perturbé à l'arrivée de Rocky, un enfant Cro-Magnon qui doit apprendre à vivre au XXIe siècle.</desc>
-    <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">14</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fb2bf013-95a7-4d13-8ed5-cd5a844e5c30.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526072900" stop="20200526073000">
+  <programme channel="C80.api.telerama.fr" start="20200526072500" stop="20200526073000">
     <title>En sortant de l'école</title>
     <sub-title>Paul Verlaine : Oh triste, triste était mon âme</sub-title>
     <desc lang="fr">Voici 13 poèmes mis en mouvement et en couleur dans de très beaux, très tendres, dessins animés pour éclairer votre journée !</desc>
-    <length units="minutes">1</length>
+    <length units="minutes">5</length>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3053,7 +3054,7 @@ L’originalité de cette satire sociale, d’une noirceur stylisée, ne suffit 
     <desc lang="fr">Journal national du 12/13 pour connaître l'essentiel de l'actualité nationale à la mi-journée.</desc>
     <category lang="fr">journal</category>
     <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c40c0c86-1184-4f8b-9428-f9993b61e4d9.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3155,7 +3156,7 @@ La sauvagerie de Belmondo jeune n’est pas étrangère à la richesse du projet
     <desc lang="fr">Francois Busnel suggère au télépectateur la lecture d'un livre et d'un auteur pendant 1minute 30,</desc>
     <category lang="fr">magazine littéraire</category>
     <length units="minutes">9</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/aa711843-89de-40bb-9203-3acc1a508aa2.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3416,24 +3417,11 @@ La sauvagerie de Belmondo jeune n’est pas étrangère à la richesse du projet
   <programme channel="C111.api.telerama.fr" start="20200526014000" stop="20200526030000">
     <title>Arte regards</title>
     <sub-title>Confinement : le virus de la violence</sub-title>
-    <desc lang="fr">Pendant huit semaines, les Français ont été confinés. Un huis-clos qui a exacerbé les tensions dans les couples. Ce que les psychologues redoutaient s'est produit : les violences conjugales ont explosé. Selon les régions, on compte 30, 50 voire 80% d'appels à la police en plus.</desc>
+    <desc lang="fr">Partout en France, les associations de défenses des femmes multiplient les "mises en sécurité" dans leurs refuges ou dans des hôtels qui participent à cette lutte contre la violence domestique. Les signalements à la police passent désormais par la nouvelle plateforme voulue par le président Macron. A Guyancourt, nous avons pu filmer les policiers qui "chattent" avec les victimes de coups. 10 agents supplémentaires sont venus renforcer les effectifs face à une activité qui a doublé depuis le début du confinement. "ARTE Regards" a aussi passé plusieurs jours avec la sûreté départementale de Rennes. Ici les interventions de police secours ont presque doublé en avril. Au point que 5 à 6 personnes sont déférées chaque jour devant le parquet pour coups et blessures.</desc>
     <date>2020</date>
     <category lang="fr">documentaire : société</category>
     <length units="minutes">80</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c665549a-dcb5-4912-9cec-3d7ea1ae5600.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C111.api.telerama.fr" start="20200526030000" stop="20200526042000">
-    <title>Au coeur de la nuit</title>
-    <sub-title>Flake Lorenz et Joey Kelly</sub-title>
-    <desc lang="fr">Près de Cologne, en Allemagne, le claviériste Flake Lorenz rend visite au chanteur et guitariste Joey Kelly. C'est la première rencontre des deux artistes. Joey a fait partie du groupe de musique familial et intergénérationnel The Kelly Family, qui avait rencontré un immense succès dans les années 1990 en chantant l'amour et la paix. Flake vient, quant à lui, d'un groupe de punk est-berlinois, Feeling B, qu'il a quitté en 1994 avant d'intégrer le groupe de metal Rammstein. Malgré leurs différences, les deux hommes vont se découvrir des points communs inattendus.</desc>
-    <date>2019</date>
-    <category lang="fr">documentaire : culture</category>
-    <length units="minutes">80</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3632,7 +3620,7 @@ La sauvagerie de Belmondo jeune n’est pas étrangère à la richesse du projet
     <title>Invitation au voyage</title>
     <sub-title>L'Osaka de Tadao Ando / Angola / Albanie</sub-title>
     <desc lang="fr">Au sommaire :</desc>
-    <category lang="fr">magazine magazine du tourisme</category>
+    <category lang="fr">magazine du tourisme</category>
     <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ba9419fd-4aa9-4ae3-9aa1-132d35d8f914.jpg" />
     <premiere />
@@ -4647,30 +4635,20 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526015400" stop="20200526020000">
+  <programme channel="C160.api.telerama.fr" start="20200526015400" stop="20200526021900">
     <title>Infô soir</title>
     <desc lang="fr">Le journal s'appuie sur les neuf départements et territoires français des outre-mers pour mieux comprendre le monde et s'ouvrir à l'actualité internationale dans laquelle s'inscrivent ces régions.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">6</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526020000" stop="20200526022200">
-    <title>Journal Polynésie</title>
-    <desc lang="fr">Retrouvez toute l'actualité de Polynésie.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">22</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526022200" stop="20200526022900">
+  <programme channel="C160.api.telerama.fr" start="20200526021900" stop="20200526022600">
     <title>Outremer tout court</title>
-    <sub-title>La canne à sucre un vrai business model</sub-title>
+    <sub-title>Mayotte : La nuit des tortues</sub-title>
     <category lang="fr">documentaire : découvertes</category>
     <length units="minutes">7</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/67414d70-449a-4454-ad3e-c6d9b4c553c7.jpg" />
@@ -4678,7 +4656,28 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526022900" stop="20200526024700">
+  <programme channel="C160.api.telerama.fr" start="20200526022600" stop="20200526023200">
+    <title>Outremer tout court</title>
+    <sub-title>Mayotte : M'Bouzy, la réserve originelle</sub-title>
+    <category lang="fr">documentaire : découvertes</category>
+    <length units="minutes">6</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/67414d70-449a-4454-ad3e-c6d9b4c553c7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200526023200" stop="20200526023700">
+    <title>Outremer tout court</title>
+    <sub-title>Mayotte : le sel de Bandrélé</sub-title>
+    <category lang="fr">documentaire : découvertes</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/67414d70-449a-4454-ad3e-c6d9b4c553c7.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200526023700" stop="20200526025500">
     <title>Journal Wallis-et-Futuna</title>
     <desc lang="fr">Une couverture complète de l'actualité du jour qu'elle soit locale, régionale, nationale ou internationale.</desc>
     <category lang="fr">journal</category>
@@ -4688,18 +4687,38 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526024700" stop="20200526031500">
+  <programme channel="C160.api.telerama.fr" start="20200526025500" stop="20200526031600">
     <title>Journal Nouvelle-Calédonie</title>
     <category lang="fr">journal</category>
-    <length units="minutes">28</length>
+    <length units="minutes">21</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526043800" stop="20200526050300">
+  <programme channel="C160.api.telerama.fr" start="20200526040200" stop="20200526044400">
+    <title>Journal Réunion</title>
+    <desc lang="fr">Une couverture complète de l'actualité du jour qu'elle soit locale, régionale, nationale ou internationale.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">42</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200526044400" stop="20200526050600">
     <title>Journal Guyane</title>
     <desc lang="fr">Une couverture complète de l'actualité de La Guyane.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">22</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200526050600" stop="20200526053100">
+    <title>Journal Martinique</title>
+    <desc lang="fr">Suivez l'actualité de La Martinique.</desc>
     <category lang="fr">journal</category>
     <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
@@ -4707,17 +4726,7 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526050300" stop="20200526053400">
-    <title>Journal Martinique</title>
-    <desc lang="fr">Suivez l'actualité de La Martinique.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">31</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526053400" stop="20200526060300">
+  <programme channel="C160.api.telerama.fr" start="20200526053100" stop="20200526060000">
     <title>Journal Guadeloupe</title>
     <desc lang="fr">Un JT de décryptage qui, au-delà de l'information factuelle, se donne pour priorité d'expliquer le fait d'actualité du jour et d'anticiper sur les événements à venir, avec l'appui d'invités et de consultants. La rédaction propose ainsi un complément au dossier du jour, grâce à un sujet d'analyse et un retour sur les informations qui ont fait le buzz.</desc>
     <category lang="fr">journal</category>
@@ -4727,7 +4736,7 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526060300" stop="20200526060500">
+  <programme channel="C160.api.telerama.fr" start="20200526060000" stop="20200526060200">
     <title>Les livres de Lili</title>
     <sub-title>Jean Kévin</sub-title>
     <desc lang="fr">Saison:2 - Une invitation à la lecture proposée par des enfants à des enfants.</desc>
@@ -4740,7 +4749,7 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526060500" stop="20200526060800">
+  <programme channel="C160.api.telerama.fr" start="20200526060200" stop="20200526060500">
     <title>Les livres de Lili</title>
     <sub-title>Le secret du soir</sub-title>
     <desc lang="fr">Saison:2 - Une invitation à la lecture proposée par des enfants à des enfants.</desc>
@@ -4753,7 +4762,7 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526060800" stop="20200526061000">
+  <programme channel="C160.api.telerama.fr" start="20200526060500" stop="20200526060700">
     <title>Consomag</title>
     <sub-title>Les probiotiques sont-ils utiles à notre flore intestinale?</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
@@ -4765,7 +4774,7 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526061000" stop="20200526061500">
+  <programme channel="C160.api.telerama.fr" start="20200526060700" stop="20200526061200">
     <title>Tranches de vie</title>
     <sub-title>H. Cyrille, cuisinier, Guadeloupe</sub-title>
     <category lang="fr">documentaire : société</category>
@@ -4775,7 +4784,7 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526061500" stop="20200526062200">
+  <programme channel="C160.api.telerama.fr" start="20200526061200" stop="20200526061900">
     <title>Un look d'enfer</title>
     <desc lang="fr">Chaque semaine, deux duos s'affrontent. Ils sont mère et fille ou en couple, meilleures amies ou meilleurs amis et vont devoir endosser le temps d'une semaine le rôle de relookeurs et de relookés.</desc>
     <category lang="fr">divertissement</category>
@@ -4785,17 +4794,17 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526062200" stop="20200526065000">
+  <programme channel="C160.api.telerama.fr" start="20200526061900" stop="20200526064800">
     <title>De l'or sous la tôle</title>
     <desc lang="fr">Sébastien Sery a une passion : les cases créoles à retaper. Il a une connaissance parfaite des cases lontan, leur constitution, leur histoire, la façon de les revaloriser. Aujourd'hui, il met sa passion et son énergie au service de familles réunionnaises en détresse.</desc>
     <category lang="fr">documentaire : téléréalité</category>
-    <length units="minutes">28</length>
+    <length units="minutes">29</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7b5827b4-7b92-4af9-97f6-78b1170acfe4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526065000" stop="20200526074400">
+  <programme channel="C160.api.telerama.fr" start="20200526064800" stop="20200526074200">
     <title>Saint-Louis, une histoire calédonienne</title>
     <desc lang="fr">Saint-Louis est au coeur des interrogations sur l'avenir de la Nouvelle-Calédonie. Ce quartier de la banlieue de Nouméa abrite une tribu kanak dont les jeunes mènent des actions violentes contre les descendants de colons européens, les Caldoches. Ces derniers sont de plus en plus exaspérés par les actes de violence à leur encontre. «Si la situation de Saint-Louis ne s'améliore pas, le reste capotera», disent les leaders de toutes les communautés de l'île. Le reste, c'est la paix et le «destin commun» qui semblaient acquis depuis l'Accord de Matignon, en 1988.</desc>
     <date>2017</date>
@@ -4810,11 +4819,11 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526074400" stop="20200526074600">
+  <programme channel="C160.api.telerama.fr" start="20200526074200" stop="20200526074500">
     <title>Un jour, une question</title>
-    <desc lang="fr">Saison:6 - A quoi ça sert ? Ça veut dire quoi ? C'est qui ? Pourquoi c'est comme ça ? Les questions des enfants trouvent quotidiennement une réponse.</desc>
+    <desc lang="fr">Saison:6 - Ce dessin animé court a pour vocation d'expliquer aux enfants un sujet d'actualité, économique, politique ou social, en mêlant pédagogie et humour.</desc>
     <category lang="fr">emission jeunesse</category>
-    <length units="minutes">2</length>
+    <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/42577ce7-b0c2-4d8d-8cd7-77ed08d7e6b7.jpg" />
     <episode-num system="xmltv_ns">5..</episode-num>
     <previously-shown />
@@ -4822,45 +4831,45 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526074600" stop="20200526081200">
+  <programme channel="C160.api.telerama.fr" start="20200526074500" stop="20200526081000">
     <title>Les enfants de la mer</title>
     <sub-title>Une Réunionnaise en Aquitaine (1/2)</sub-title>
     <desc lang="fr">Nicolas Vanier met le cap sur le littoral aquitain, où l'attendent deux adolescents. Ceux-ci vont apprendre que ce sport véhicule les valeurs de protection des côtes et des mers. Autres approches concrètes de l'écologie avec la visite de parcs ostréicoles, puis celle d'un site classé mais menacé, la dune du Pilat. Enfin, la petite bande explore le domaine de Certes, à proximité du bassin d'Arcachon, classé «espace naturel sensible» et protégé par le Conservatoire du littoral.</desc>
     <date>2015</date>
     <category lang="fr">documentaire : environnement</category>
-    <length units="minutes">26</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff090401-04a6-4708-a460-fc90bb1b2e77.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526081200" stop="20200526084000">
+  <programme channel="C160.api.telerama.fr" start="20200526081000" stop="20200526083900">
     <title>Les enfants de la mer</title>
     <sub-title>Une Réunionnaise en Aquitaine (2/2)</sub-title>
     <desc lang="fr">Nicolas Vanier met le cap sur le littoral aquitain, où l'attendent deux adolescents. Ceux-ci vont apprendre que ce sport véhicule les valeurs de protection des côtes et des mers. Autres approches concrètes de l'écologie avec la visite de parcs ostréicoles, puis celle d'un site classé mais menacé, la dune du Pilat. Enfin, la petite bande explore le domaine de Certes, à proximité du bassin d'Arcachon, classé «espace naturel sensible» et protégé par le Conservatoire du littoral.</desc>
     <date>2015</date>
     <category lang="fr">documentaire : environnement</category>
-    <length units="minutes">28</length>
+    <length units="minutes">29</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff090401-04a6-4708-a460-fc90bb1b2e77.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526084000" stop="20200526093300">
+  <programme channel="C160.api.telerama.fr" start="20200526083900" stop="20200526093300">
     <title>Le monoi, un art de vivre tahitien</title>
     <desc lang="fr">Le monoï est l'emblème d'une identité, d'un art de vivre indissociable de la culture polynésienne. Symbole des îles et de la féminité, le monoï est le fruit d'un savoir-faire ancestral. Il constitue aujourd'hui un patrimoine inestimable, synonyme de douceur, de soleil, de beauté, de bien-être et d'exotisme. Son parfum de tiaré est à lui seul une invitation au voyage.</desc>
     <date>2018</date>
     <category lang="fr">documentaire : société</category>
-    <length units="minutes">53</length>
+    <length units="minutes">54</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e602ceb9-cab1-45e8-aef5-d3559cf666aa.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526093300" stop="20200526095600">
+  <programme channel="C160.api.telerama.fr" start="20200526093300" stop="20200526095800">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:85 - Alors que Gary est en pleine tempête amoureuse, Elizabeth tente de garder le moral, malgré les fêtes qui approchent. Quant à Jo, comment réagira-t-elle face aux mensonges de Sofia ?...</desc>
     <credits>
@@ -4875,7 +4884,7 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <writer>Toma de Matteis</writer>
     </credits>
     <category lang="fr">feuilleton policier</category>
-    <length units="minutes">23</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
     <episode-num system="xmltv_ns">0.84.</episode-num>
     <previously-shown />
@@ -4883,7 +4892,7 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526095600" stop="20200526102300">
+  <programme channel="C160.api.telerama.fr" start="20200526095800" stop="20200526102500">
     <title>Les témoins d'Outre-mer</title>
     <desc lang="fr">Les Témoins d'Outre-mer est un rendez-vous d'actualité quotidien et participatif sur l'Outre-mer. Résolument inscrit dans un écosystème digital, LTOM donne la parole à des contributeurs citoyens, qui témoignent, questionnent, interpellent grâce à une plateforme numérique et une application mobile dédiées. Chaque jour, une personnalité (politique, sportif, artiste, expert) réagit à ces contributions, et répond aux questions du journaliste de LTOM dans un face à face de dix minutes en plateau. Conçu dans une volonté de s'adresser autant à un public métropolitain qu'ultramarin, LTOM pose chaque jour un regard transversal et curieux sur un sujet d'actualité de l'Outre-mer.</desc>
     <category lang="fr">magazine d'actualité</category>
@@ -4893,65 +4902,65 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526102300" stop="20200526102600">
+  <programme channel="C160.api.telerama.fr" start="20200526102500" stop="20200526102900">
     <title>Si loin et si proche</title>
     <desc lang="fr">Témoignages-confessions emblématiques mettant en exergue la singularité des aspects de la culture des territoires d'Outre-mer confrontés au mode de vie métropolitain.</desc>
     <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">3</length>
+    <length units="minutes">4</length>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526102600" stop="20200526103300">
+  <programme channel="C160.api.telerama.fr" start="20200526102900" stop="20200526103500">
     <title>Infô Outremer</title>
     <category lang="fr">journal</category>
-    <length units="minutes">7</length>
+    <length units="minutes">6</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526103300" stop="20200526110500">
+  <programme channel="C160.api.telerama.fr" start="20200526103500" stop="20200526110500">
     <title>Voyages &amp; délices by Chef Kelly</title>
     <sub-title>Chocolat communion et pain beurré avec Floriane, 16 ans</sub-title>
     <desc lang="fr">Saison:2 - De l'Atlantique à l'océan Indien, du Pacifique à la mer des Caraïbes, la chef Kelly Rangama sillonne à nouveau tous les territoires en quête d'une gastronomie d'exception.</desc>
     <category lang="fr">magazine culinaire</category>
-    <length units="minutes">32</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3cafb117-f659-41ea-928d-96dbef60c65e.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526110500" stop="20200526113000">
+  <programme channel="C160.api.telerama.fr" start="20200526110500" stop="20200526112700">
     <title>Journal Guyane</title>
     <desc lang="fr">Une couverture complète de l'actualité de La Guyane.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">25</length>
+    <length units="minutes">22</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526113000" stop="20200526115900">
+  <programme channel="C160.api.telerama.fr" start="20200526112700" stop="20200526115800">
     <title>Journal Nouvelle-Calédonie</title>
     <category lang="fr">journal</category>
-    <length units="minutes">29</length>
+    <length units="minutes">31</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526115900" stop="20200526124500">
+  <programme channel="C160.api.telerama.fr" start="20200526115800" stop="20200526124100">
     <title>JT 12h30 Réunion</title>
     <category lang="fr">journal</category>
-    <length units="minutes">46</length>
+    <length units="minutes">43</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526124500" stop="20200526130600">
+  <programme channel="C160.api.telerama.fr" start="20200526124100" stop="20200526130200">
     <title>Journal Saint-Pierre-et-Miquelon</title>
     <desc lang="fr">Une couverture complète de l'actualité du jour qu'elle soit locale, régionale, nationale ou internationale.</desc>
     <category lang="fr">journal</category>
@@ -4962,17 +4971,17 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526130600" stop="20200526132600">
+  <programme channel="C160.api.telerama.fr" start="20200526130200" stop="20200526133000">
     <title>Journal Mayotte</title>
     <desc lang="fr">Découvrez l'actualité de Mayotte.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">20</length>
+    <length units="minutes">28</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e212da2e-d967-4667-bc66-1664f312acd8.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526132600" stop="20200526135300">
+  <programme channel="C160.api.telerama.fr" start="20200526133000" stop="20200526135700">
     <title>Chemins de l'Histoire</title>
     <sub-title>Les paquebots</sub-title>
     <category lang="fr">magazine historique</category>
@@ -4982,7 +4991,7 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526135300" stop="20200526141400">
+  <programme channel="C160.api.telerama.fr" start="20200526135700" stop="20200526141700">
     <title>Brooklyn Nine-Nine</title>
     <sub-title>Halloween V</sub-title>
     <desc lang="fr">Saison:5 - Episode:4 - Le commissariat s'apprête à vivre son cinquième Halloween. La chasse est ouverte. L'équipe a jusqu'à minuit pour se prêter au traditionnel jeu collectif. Qui sera le génie cette année ?...</desc>
@@ -5000,14 +5009,14 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <writer>Daniel J Goor</writer>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">21</length>
+    <length units="minutes">20</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7bf41a2c-ef6b-46cd-9ff7-ffe55d9626b6.jpg" />
     <episode-num system="xmltv_ns">4.3.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526141400" stop="20200526143400">
+  <programme channel="C160.api.telerama.fr" start="20200526141700" stop="20200526143800">
     <title>Brooklyn Nine-Nine</title>
     <sub-title>Poker menteur</sub-title>
     <desc lang="fr">Saison:5 - Episode:5 - Jake etTerry infiltrent un club de paris illégaux, manoeuvre destinée à arrêter Daniel Valdano, trafiquant d'armes. En apprenant aux deux policiers l'art du poker, Holt fait ressurgir son addiction au jeu. Charles investit dans un food-truck au passé sanglant, sans prévenir Amy, qui lui a prêté l'argent...</desc>
@@ -5027,14 +5036,14 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <writer>Carol Kolb</writer>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">20</length>
+    <length units="minutes">21</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0c4cccaa-96f1-45e6-b58a-e641ee79dc17.jpg" />
     <episode-num system="xmltv_ns">4.4.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526143400" stop="20200526145500">
+  <programme channel="C160.api.telerama.fr" start="20200526143800" stop="20200526150000">
     <title>Brooklyn Nine-Nine</title>
     <sub-title>Le manoir</sub-title>
     <desc lang="fr">Saison:5 - Episode:6 - Le Vautour refait surface, menaçant la tranquillité acquise par Jake et Amy. Parallèlement, Boyle et Rosa recherchent Sergent Peanut Butter, un cheval kidnappé dont Charles est plus ou moins jaloux. Holt lance un défi à Terry : être moins soucieux de son image...</desc>
@@ -5054,14 +5063,14 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <writer>Matt Lawton</writer>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">21</length>
+    <length units="minutes">22</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1ffb494e-38c9-4531-b5e1-4dffa0203fa6.jpg" />
     <episode-num system="xmltv_ns">4.5.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526145500" stop="20200526154100">
+  <programme channel="C160.api.telerama.fr" start="20200526150000" stop="20200526154800">
     <title>Love, Divina</title>
     <desc lang="fr">Saison:1 - Episode:2 - A sa grande surprise, Divina découvre qu'Irene est très riche et qu'elle est aussi la grand-mère de Felipe. Déterminée à aider sa nouvelle protégée, Irene lui demande de travailler pour elle en tant qu'assistante, au grand dam de Bianca. Mais Divina quitte la maison pour retrouver ses amis, qu'elle croit en danger...</desc>
     <credits>
@@ -5075,7 +5084,7 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <actor>Thelma Fardin</actor>
     </credits>
     <category lang="fr">série musicale</category>
-    <length units="minutes">46</length>
+    <length units="minutes">48</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d8d6af39-b9ea-49bf-a44b-0317beb271db.jpg" />
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <previously-shown />
@@ -5083,7 +5092,7 @@ Philippe Le Guay connaît ses classiques, Marivaux et le Renoir de La Règle du 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526154100" stop="20200526163000">
+  <programme channel="C160.api.telerama.fr" start="20200526154800" stop="20200526163000">
     <title>Love, Divina</title>
     <desc lang="fr">Saison:1 - Episode:3 - Après avoir recueilli la tribu dans sa maison, Felipe décide que sa présence dans la maison doit rester secrète, sans quoi ils risquent d'être renvoyés à l'orphelinat. 
 Felipe tente de se racheter après avoir manqué la première audition de Sofia, et lui promet de l'accompagner pour la seconde...</desc>
@@ -5098,7 +5107,7 @@ Felipe tente de se racheter après avoir manqué la première audition de Sofia,
       <actor>Thelma Fardin</actor>
     </credits>
     <category lang="fr">série musicale</category>
-    <length units="minutes">49</length>
+    <length units="minutes">42</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d8d6af39-b9ea-49bf-a44b-0317beb271db.jpg" />
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <rating system="CSA">
@@ -5127,39 +5136,59 @@ Felipe tente de se racheter après avoir manqué la première audition de Sofia,
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526163800" stop="20200526164100">
+  <programme channel="C160.api.telerama.fr" start="20200526163800" stop="20200526164200">
     <title>Les livres de Lili</title>
     <sub-title>Le secret de grand-père</sub-title>
     <desc lang="fr">Une invitation à la lecture proposée par des enfants à des enfants.</desc>
     <category lang="fr">magazine littéraire</category>
-    <length units="minutes">3</length>
+    <length units="minutes">4</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526164100" stop="20200526164400">
+  <programme channel="C160.api.telerama.fr" start="20200526164200" stop="20200526164700">
     <title>Rencontre</title>
     <sub-title>Sylvain Lorgnier : conteur</sub-title>
     <desc lang="fr">Trois minutes d'entretien avec des artistes de Nouvelle-Calédonie, dans les coulisses de leur création.</desc>
     <category lang="fr">magazine culturel</category>
-    <length units="minutes">3</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ea42280e-b75f-4f51-94f1-57c2a88a51c7.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526164400" stop="20200526170000">
+  <programme channel="C160.api.telerama.fr" start="20200526164700" stop="20200526165100">
+    <title>Tranches de vie</title>
+    <desc lang="fr">Retrouvez le portrait en vidéo d'un Ultramarin de l'hexagone.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200526165100" stop="20200526165600">
     <title>Ma terre pour demain</title>
     <sub-title>Estelle Poncet</sub-title>
     <category lang="fr">documentaire : environnement</category>
-    <length units="minutes">16</length>
+    <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/63142dea-2977-4f35-8562-bfccf0ef5b81.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526170000" stop="20200526172200">
+  <programme channel="C160.api.telerama.fr" start="20200526165600" stop="20200526170000">
+    <title>On se met au vert ?</title>
+    <sub-title>La tomate</sub-title>
+    <desc lang="fr">Petite série de programmes tutoriels et conviviaux sur le thème du jardinage à vocation alimentaire. Le but est d'occuper utilement la famille, mais cela pourrait être l'occasion de partager quelques connaissances élémentaires que nos vies urbanisés et nos modes de consommation nous ont fait perdre de vue. Renouer avec la connaissance des bonnes feuilles, fruits et légumes de nos jardins en commençant par des plantations faciles et rapidement rentables du point de vue nutritif (Giraumon, Plantain, Tomates, Persil etc.) Modules présentés sous forme de "motion design".</desc>
+    <category lang="fr">magazine de la nature</category>
+    <length units="minutes">4</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200526170000" stop="20200526172400">
     <title>Un si grand soleil</title>
     <desc lang="fr">Saison:1 - Episode:86 - Si la soirée de Noël s'annonce bien pour Manon, ce n'est pas le cas pour Julien, qui doit prendre une décision importante. Quant à Sofia, a-t-elle raison de garder le silence ?...</desc>
     <credits>
@@ -5174,14 +5203,14 @@ Felipe tente de se racheter après avoir manqué la première audition de Sofia,
       <writer>Toma de Matteis</writer>
     </credits>
     <category lang="fr">feuilleton policier</category>
-    <length units="minutes">22</length>
+    <length units="minutes">24</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dcd5e49f-db1a-4593-a9a6-a101cc4719d1.jpg" />
     <episode-num system="xmltv_ns">0.85.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526172200" stop="20200526174900">
+  <programme channel="C160.api.telerama.fr" start="20200526172400" stop="20200526175100">
     <title>Les témoins d'Outre-mer</title>
     <desc lang="fr">Les Témoins d'Outre-mer est un rendez-vous d'actualité quotidien et participatif sur l'Outre-mer. Résolument inscrit dans un écosystème digital, LTOM donne la parole à des contributeurs citoyens, qui témoignent, questionnent, interpellent grâce à une plateforme numérique et une application mobile dédiées. Chaque jour, une personnalité (politique, sportif, artiste, expert) réagit à ces contributions, et répond aux questions du journaliste de LTOM dans un face à face de dix minutes en plateau. Conçu dans une volonté de s'adresser autant à un public métropolitain qu'ultramarin, LTOM pose chaque jour un regard transversal et curieux sur un sujet d'actualité de l'Outre-mer.</desc>
     <category lang="fr">magazine d'actualité</category>
@@ -5192,19 +5221,28 @@ Felipe tente de se racheter après avoir manqué la première audition de Sofia,
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526174900" stop="20200526184100">
+  <programme channel="C160.api.telerama.fr" start="20200526175100" stop="20200526184400">
     <title>Polynésie, la face cachée des lagons</title>
     <desc lang="fr">La Polynésie française abrite l'un des plus grands ensembles de lagons coralliens au monde. Ces édifices millénaires constituent un monde à part, plein de secrets, à l'abri des regards. Un voyage aérien et sous-marin au coeur de la culture polynésienne et des savoirs-faire ancestraux permet d'en approcher les réalités.</desc>
     <date>2014</date>
     <category lang="fr">documentaire : découvertes</category>
-    <length units="minutes">52</length>
+    <length units="minutes">53</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/91cecc98-c5bf-4d3b-a800-0525608bbb84.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526184100" stop="20200526184500">
+  <programme channel="C160.api.telerama.fr" start="20200526184400" stop="20200526184800">
+    <title>Villa Karayib</title>
+    <desc lang="fr">Episode:67 - La quotidien de quatre jeunes étudiantes originaires des Antilles, de métropole et de la Côte d'Ivoire, qui partagent une colocation dans une villa en compagnie de la proriétaire des lieux.</desc>
+    <length units="minutes">4</length>
+    <episode-num system="xmltv_ns">.66.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C160.api.telerama.fr" start="20200526184800" stop="20200526185100">
     <title>Villa Karayib</title>
     <desc lang="fr">Saison:1 - Episode:9 - La quotidien de quatre jeunes étudiantes originaires des Antilles, de métropole et de la Côte d'Ivoire, qui partagent une colocation dans une villa en compagnie de la proriétaire des lieux.</desc>
     <credits>
@@ -5217,7 +5255,7 @@ Felipe tente de se racheter après avoir manqué la première audition de Sofia,
       <writer>Philippe Giangreco</writer>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">4</length>
+    <length units="minutes">3</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0742d007-2e28-4828-a706-f3453c13507e.jpg" />
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <previously-shown />
@@ -5225,7 +5263,7 @@ Felipe tente de se racheter après avoir manqué la première audition de Sofia,
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526184500" stop="20200526185500">
+  <programme channel="C160.api.telerama.fr" start="20200526185100" stop="20200526185700">
     <title>Villa Karayib</title>
     <desc lang="fr">Saison:1 - Episode:55 - La quotidien de quatre jeunes étudiantes originaires des Antilles, de métropole et de la Côte d'Ivoire, qui partagent une colocation dans une villa en compagnie de la proriétaire des lieux.</desc>
     <credits>
@@ -5238,14 +5276,14 @@ Felipe tente de se racheter après avoir manqué la première audition de Sofia,
       <writer>Philippe Giangreco</writer>
     </credits>
     <category lang="fr">série humoristique</category>
-    <length units="minutes">10</length>
+    <length units="minutes">6</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0742d007-2e28-4828-a706-f3453c13507e.jpg" />
     <episode-num system="xmltv_ns">0.54.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526185500" stop="20200526193600">
+  <programme channel="C160.api.telerama.fr" start="20200526185700" stop="20200526193800">
     <title>Shades of Blue : une flic entre deux feux</title>
     <sub-title>L'ombre de lui-même</sub-title>
     <desc lang="fr">Saison:3 - Episode:4 - Toujours obsédé par Harlee, Stahl revient à New York. Il prend contact avec Cole à qui il fait croire qu'il fait partie des Affaires internes. Il lui laisse entendre que Harlee s'est montrée très bavarde et coopérative. Stahl va jusqu'à convaincre Gina d'appeler le FBI. A sa demande, la prostituée prétend que Harlee fait une fixation sur Stahl et qu'elle a l'intention de le tuer. De son côté, Harlee veut faire tomber l'Unité de renseignements...</desc>
@@ -5273,7 +5311,7 @@ Felipe tente de se racheter après avoir manqué la première audition de Sofia,
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526193600" stop="20200526201600">
+  <programme channel="C160.api.telerama.fr" start="20200526193800" stop="20200526201900">
     <title>Shades of Blue : une flic entre deux feux</title>
     <sub-title>Briser les cordes</sub-title>
     <desc lang="fr">Saison:3 - Episode:5 - Harlee et Espada découvrent Tufo auprès de Wallace, qui est grièvement blessé. Tufo s'en veut terriblement de ne pas avoir empêché son frère d'aider Wozniak. Alors que Harlee est à l'hôpital avec ses collègues, Cristina est arrêtée par des membres de l'Unité de renseignements pour possession illégale de psychotropes. L'adolescente préfère faire appel à Wozniak plutôt qu'à sa mère pour la sortir de ce mauvais pas. Dans les couloirs de l'hôpital, Loman fait connaissance avec une jeune femme très séduisante. Après avoir flirté avec elle, il accepte de la suivre dans sa chambre d'hôtel...</desc>
@@ -5292,14 +5330,14 @@ Felipe tente de se racheter après avoir manqué la première audition de Sofia,
       <writer>Marta Gene Camps</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">40</length>
+    <length units="minutes">41</length>
     <episode-num system="xmltv_ns">2.4.</episode-num>
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526201600" stop="20200526205800">
+  <programme channel="C160.api.telerama.fr" start="20200526201900" stop="20200526210000">
     <title>Shades of Blue : une flic entre deux feux</title>
     <sub-title>Course contre la montre</sub-title>
     <desc lang="fr">Saison:3 - Episode:6 - Harlee et Wozniak tentent de réunir des preuves prouvant le lien entre l'Unité de renseignements et le cartel. Les deux agents, qui ont brisé le code d'honneur liant les policiers corrompus, se retrouvent confrontés aux conséquences de leurs décisions...</desc>
@@ -5315,14 +5353,14 @@ Felipe tente de se racheter après avoir manqué la première audition de Sofia,
       <writer>Adi Hasak</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">42</length>
+    <length units="minutes">41</length>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526205800" stop="20200526214000">
+  <programme channel="C160.api.telerama.fr" start="20200526210000" stop="20200526214300">
     <title>Shades of Blue : une flic entre deux feux</title>
     <sub-title>En plein coeur</sub-title>
     <desc lang="fr">Saison:3 - Episode:7 - Harlee, Wozniak et toute l'équipe payent le prix de l'arrestation de Bennett. Wozniak doit se battre pour que celui-ci reste derrière les barreaux pendant que Harlee tente de déjouer une machination. Ils sont tous sur la sellette...</desc>
@@ -5341,7 +5379,7 @@ Felipe tente de se racheter après avoir manqué la première audition de Sofia,
       <writer>Matthew V Lewis</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">42</length>
+    <length units="minutes">43</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0c0ad9a3-6045-4c53-ad6a-80306b05e2a5.jpg" />
     <episode-num system="xmltv_ns">2.6.</episode-num>
     <rating system="CSA">
@@ -5349,7 +5387,7 @@ Felipe tente de se racheter après avoir manqué la première audition de Sofia,
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526214000" stop="20200526223000">
+  <programme channel="C160.api.telerama.fr" start="20200526214300" stop="20200526223300">
     <title>Kepler(s)</title>
     <sub-title>L'embrasement</sub-title>
     <desc lang="fr">Saison:1 - Episode:3 - Après avoir découvert sa fille chez Mathias, l'ex petit ami violent de Lucie Martel, Kepler a laissé sortir Ragen. Le lendemain, il se réveille sur une plage et Mathias est retrouvé mort. Doutant de lui même, Kepler enquête sur sa nuit alors qu'Alice devient méfiante. Tout accuse Kepler. Par ailleurs, Kepler a perdu pied, les «passagers» ne communiquent plus avec lui. Il n'a plus de médicaments...</desc>
@@ -6064,6 +6102,15 @@ Le Mal triomphe, et que font Harry et ses potes ? Ils partent camper dans la for
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C226.api.telerama.fr" start="20200525233000" stop="20200526040000">
+    <title>L'édition de la nuit</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">270</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d2411c34-9753-4a79-a718-40f41ae4cbed.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C226.api.telerama.fr" start="20200526040000" stop="20200526070000">
     <title>La matinale</title>
     <desc lang="fr">Tous les matins, Clélie Mathias &amp; Romain Desarbres reçoivent un invité pendant le JT de 8h30 de #LaMatinale.</desc>
@@ -6150,20 +6197,11 @@ Le Mal triomphe, et que font Harry et ses potes ? Ils partent camper dans la for
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C226.api.telerama.fr" start="20200526204500" stop="20200526213000">
+  <programme channel="C226.api.telerama.fr" start="20200526204500" stop="20200526220000">
     <title>L'heure des pros 2</title>
     <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">45</length>
+    <length units="minutes">75</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C226.api.telerama.fr" start="20200526213000" stop="20200527040000">
-    <title>L'édition de la nuit</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">390</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d2411c34-9753-4a79-a718-40f41ae4cbed.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -6204,41 +6242,70 @@ Le Mal triomphe, et que font Harry et ses potes ? Ils partent camper dans la for
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200526023000" stop="20200526043000">
+  <programme channel="C234.api.telerama.fr" start="20200526023000" stop="20200526035900">
     <title>Les matins du Sénat</title>
     <desc lang="fr">"Les matins du Sénat" revient sur les moments forts de l'examen des textes dans l'hémicycle et des auditions en commission.</desc>
     <category lang="fr">débat parlementaire</category>
-    <length units="hours">2</length>
+    <length units="minutes">89</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6366bb8c-c9d3-4b77-b8cf-0dcac7561765.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200526043000" stop="20200526053300">
-    <title>Questions aux sénateurs</title>
+  <programme channel="C234.api.telerama.fr" start="20200526035900" stop="20200526043000">
+    <title>C'est ma place</title>
     <category lang="fr">magazine politique</category>
-    <length units="minutes">63</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/69bd309a-4d85-4234-a5c4-5cdb3ab1b713.jpg" />
+    <length units="minutes">31</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200526053300" stop="20200526060200">
+  <programme channel="C234.api.telerama.fr" start="20200526043000" stop="20200526052600">
+    <title>Questions aux sénateurs</title>
+    <category lang="fr">magazine politique</category>
+    <length units="minutes">56</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/69bd309a-4d85-4234-a5c4-5cdb3ab1b713.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C234.api.telerama.fr" start="20200526052600" stop="20200526053000">
+    <title>Alors on s'adapte</title>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C234.api.telerama.fr" start="20200526053000" stop="20200526055600">
     <title>C'est vous la France</title>
     <sub-title>La nouvelle ère des paysans</sub-title>
     <desc lang="fr">Le concours Terres d'Idées récompense des projets agricoles innovants et dynamiques, comme des fermes pédagogiques, du soutien à l'insertion sociale ou de nouveaux modèles d'élevage. Trois femmes, agricultrices françaises, participent à ce concours et esquissent les contours de l'agriculture française de demain, une agriculture positive et optimiste, loin des crises agricoles successives.</desc>
     <category lang="fr">documentaire : société</category>
-    <length units="minutes">29</length>
+    <length units="minutes">26</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6fdf1af4-5d02-4d7a-a327-0ac634d41fbd.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200526060200" stop="20200526070000">
+  <programme channel="C234.api.telerama.fr" start="20200526055600" stop="20200526055900">
+    <title>Alors on s'adapte</title>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C234.api.telerama.fr" start="20200526055900" stop="20200526070000">
     <title>Bonjour chez vous !</title>
     <category lang="fr">magazine politique</category>
-    <length units="minutes">58</length>
+    <length units="minutes">61</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9d788ded-0f84-46e1-b407-8cbfbebab925.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -6276,11 +6343,23 @@ Le Mal triomphe, et que font Harry et ses potes ? Ils partent camper dans la for
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200526090000" stop="20200526110200">
+  <programme channel="C234.api.telerama.fr" start="20200526090000" stop="20200526102900">
     <title>Les matins du Sénat</title>
     <desc lang="fr">"Les matins du Sénat" revient sur les moments forts de l'examen des textes dans l'hémicycle et des auditions en commission.</desc>
     <category lang="fr">débat parlementaire</category>
-    <length units="minutes">122</length>
+    <length units="minutes">89</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6366bb8c-c9d3-4b77-b8cf-0dcac7561765.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C234.api.telerama.fr" start="20200526102900" stop="20200526110200">
+    <title>Le mythe Philippe Seguin</title>
+    <desc lang="fr">Républicain acharné et gaulliste social, Philippe Seguin, député maire d’Epinal, sera ministre des affaires sociales de la première cohabitation en 1986, fervent combattant de la construction européenne, puis président de l’Assemblée nationale. Cassandre et colérique pour les uns, intransigeant et intègre pour les mêmes, il est aujourd’hui devenu un mythe, dont il convient de comprendre l’engagement.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire : politique</category>
+    <length units="minutes">33</length>
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -6311,68 +6390,131 @@ Le Mal triomphe, et que font Harry et ses potes ? Ils partent camper dans la for
     <category lang="fr">débat parlementaire</category>
     <length units="hours">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/69bd309a-4d85-4234-a5c4-5cdb3ab1b713.jpg" />
+    <new />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200526150000" stop="20200526173000">
+  <programme channel="C234.api.telerama.fr" start="20200526150000" stop="20200526153000">
     <title>Questions d'actualité, le debrief</title>
     <desc lang="fr">LCP prolonge la séance avec les députés : analyses et commentaires des questions au gouvernement.</desc>
     <category lang="fr">emission politique</category>
-    <length units="minutes">150</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e158d541-6933-493e-a161-ca4221e51c46.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200526173000" stop="20200526183000">
+  <programme channel="C234.api.telerama.fr" start="20200526153000" stop="20200526160000">
+    <title>C'est ma place</title>
+    <category lang="fr">magazine politique</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C234.api.telerama.fr" start="20200526160000" stop="20200526165900">
+    <title>Allons plus loin</title>
+    <category lang="fr">magazine politique</category>
+    <length units="minutes">59</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a2ace140-d198-4696-a5ff-4da047765782.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C234.api.telerama.fr" start="20200526165900" stop="20200526172900">
+    <title>C'est vous la France</title>
+    <sub-title>La nouvelle ère des paysans</sub-title>
+    <desc lang="fr">Le concours Terres d'Idées récompense des projets agricoles innovants et dynamiques, comme des fermes pédagogiques, du soutien à l'insertion sociale ou de nouveaux modèles d'élevage. Trois femmes, agricultrices françaises, participent à ce concours et esquissent les contours de l'agriculture française de demain, une agriculture positive et optimiste, loin des crises agricoles successives.</desc>
+    <category lang="fr">documentaire : société</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6fdf1af4-5d02-4d7a-a327-0ac634d41fbd.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C234.api.telerama.fr" start="20200526172900" stop="20200526173000">
+    <title>Demain la ville</title>
+    <sub-title>Demaine la ville sera... transformée</sub-title>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C234.api.telerama.fr" start="20200526173000" stop="20200526183200">
     <title>Ça vous regarde</title>
     <desc lang="fr">Chaque jour, "Ça vous regarde" propose d'expliquer et de partager l'information parlementaire pour la rendre plus attractive, plus claire, plus lisible. En invitant les internautes à poser des questions aux députés, experts ou personnalités présents sur le plateau, l'émission se veut le reflet des préoccupations citoyennes. Un thème au coeur de l'actualité est ainsi quotidiennement abordé et décliné sous plusieurs formes : reportage, chronique et débat. Un moyen d'en éclairer les différents aspects et d'entendre la variété des points de vue.</desc>
     <category lang="fr">magazine d'information</category>
-    <length units="hours">1</length>
+    <length units="minutes">62</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/99d0e162-2d90-4bc4-ae5a-2de71ad9fe1b.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200526183000" stop="20200526193000">
+  <programme channel="C234.api.telerama.fr" start="20200526183200" stop="20200526193000">
     <title>Algérie : les promesses de l'aube</title>
     <desc lang="fr">L’annonce d’un cinquième mandat du président Abdelaziz Bouteflika a été vécue comme l’humiliation de trop en Algérie. Depuis le 22 février 2019, sur tout le territoire, les Algériens manifestent et demandent un changement de système. Né sur les réseaux sociaux et impulsé par les jeunes, ce mouvement, d’une ampleur inédite, rassemble toute la société pour revendiquer démocratie et justice. Face à sa détermination, le pouvoir tergiverse, entre purge et tentatives de répression, pour maintenir le régime. Des Algériens engagés dans cette révolution témoignent, dressant le portrait d'une société en effervescence et tournée vers l'avenir.</desc>
     <date>2019</date>
     <category lang="fr">documentaire : géopolitique</category>
-    <length units="hours">1</length>
+    <length units="minutes">58</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/970277c7-809f-41a2-b600-badfe194abf1.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200526193000" stop="20200526210000">
+  <programme channel="C234.api.telerama.fr" start="20200526193000" stop="20200526200000">
     <title>DébatDoc</title>
+    <sub-title>La situation politique en Algérie</sub-title>
     <desc lang="fr">Les soirées DébatDoc, présentées par Jean-Pierre Gratien, s'invitent en prime time sur LCP. Chaque soir, un débat accompagne la diffusion d'un documentaire. En quête de sens, ce rendez-vous prend de la hauteur et lance les discussions pour prolonger le regard du réalisateur et répondre au questionnement soulevé.</desc>
     <category lang="fr">débat</category>
-    <length units="minutes">90</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d2449872-17b8-4353-ab07-32c6151f7e97.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200526210000" stop="20200526213000">
+  <programme channel="C234.api.telerama.fr" start="20200526200000" stop="20200526210000">
+    <title>Allons plus loin</title>
+    <category lang="fr">magazine politique</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a2ace140-d198-4696-a5ff-4da047765782.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C234.api.telerama.fr" start="20200526210000" stop="20200526212700">
     <title>Terra Terre</title>
     <sub-title>Trop de monde sur terre ?</sub-title>
     <desc lang="fr">Des invités provenant de différents horizons, qu'ils soient simples citoyens, professionnels ou élus, débattent de solutions qui pourraient améliorer les conditions environnementales et préserver la planète. Des reportages et des témoignages illustrent leurs propos. Agriculture bio, pollution, énergie, aucun sujet n'est oublié.</desc>
     <category lang="fr">magazine de l'environnement</category>
-    <length units="minutes">30</length>
+    <length units="minutes">27</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bf6bb3c2-b4ab-4166-b2d9-c1513bb470e1.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200526213000" stop="20200526223000">
+  <programme channel="C234.api.telerama.fr" start="20200526212700" stop="20200526213000">
+    <title>Alors on s'adapte</title>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C234.api.telerama.fr" start="20200526213000" stop="20200526223400">
     <title>Ça vous regarde</title>
     <desc lang="fr">Chaque jour, "Ça vous regarde" propose d'expliquer et de partager l'information parlementaire pour la rendre plus attractive, plus claire, plus lisible. En invitant les internautes à poser des questions aux députés, experts ou personnalités présents sur le plateau, l'émission se veut le reflet des préoccupations citoyennes. Un thème au coeur de l'actualité est ainsi quotidiennement abordé et décliné sous plusieurs formes : reportage, chronique et débat. Un moyen d'en éclairer les différents aspects et d'entendre la variété des points de vue.</desc>
     <category lang="fr">magazine d'information</category>
-    <length units="hours">1</length>
+    <length units="minutes">64</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/99d0e162-2d90-4bc4-ae5a-2de71ad9fe1b.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -6783,71 +6925,270 @@ Le Mal triomphe, et que font Harry et ses potes ? Ils partent camper dans la for
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526005300" stop="20200526040000">
+  <programme channel="C445.api.telerama.fr" start="20200526005300" stop="20200526013500">
     <title>Voyage au bout de la nuit</title>
     <sub-title>Nesrine lit Bel-Ami</sub-title>
     <category lang="fr">magazine littéraire</category>
-    <length units="minutes">187</length>
+    <length units="minutes">42</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526040000" stop="20200526043000">
+  <programme channel="C445.api.telerama.fr" start="20200526013500" stop="20200526013700">
+    <title>Les animaux de la 8</title>
+    <sub-title>La transhumance des dromadaires</sub-title>
+    <desc lang="fr">Les Animaux de la 8 est une émission animalière tourné en extérieur et est essentiellement consacrée au thème des animaux domestiques et des animaux de parc zoologique. Le magazine propose un autre regard sur le monde animalier et l'environnement et parcourt de façon précise un sujet, avec un temps de format assez long pour pouvoir faire plus qu'un rapide survol ou qu'une simple anecdote.</desc>
+    <category lang="fr">magazine animalier</category>
+    <length units="minutes">2</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526013700" stop="20200526014200">
+    <title>Les animaux de la 8</title>
+    <sub-title>A Chenonceau les chats sauvages ont pris le pouvoir</sub-title>
+    <desc lang="fr">Les Animaux de la 8 est une émission animalière tourné en extérieur et est essentiellement consacrée au thème des animaux domestiques et des animaux de parc zoologique. Le magazine propose un autre regard sur le monde animalier et l'environnement et parcourt de façon précise un sujet, avec un temps de format assez long pour pouvoir faire plus qu'un rapide survol ou qu'une simple anecdote.</desc>
+    <category lang="fr">magazine animalier</category>
+    <length units="minutes">5</length>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526014200" stop="20200526020900">
+    <title>Voyage au bout de la nuit</title>
+    <sub-title>Nesrine lit Bel-Ami</sub-title>
+    <category lang="fr">magazine littéraire</category>
+    <length units="minutes">27</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526020900" stop="20200526023400">
+    <title>Voyage au bout de la nuit</title>
+    <sub-title>Nesrine lit Bel-Ami</sub-title>
+    <category lang="fr">magazine littéraire</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526023400" stop="20200526025800">
+    <title>Voyage au bout de la nuit</title>
+    <sub-title>Nesrine lit Bel-Ami</sub-title>
+    <category lang="fr">magazine littéraire</category>
+    <length units="minutes">24</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526025800" stop="20200526032300">
+    <title>Voyage au bout de la nuit</title>
+    <sub-title>Nesrine lit Bel-Ami</sub-title>
+    <category lang="fr">magazine littéraire</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526032300" stop="20200526034800">
+    <title>Voyage au bout de la nuit</title>
+    <sub-title>Nesrine lit Bel-Ami</sub-title>
+    <category lang="fr">magazine littéraire</category>
+    <length units="minutes">25</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526034800" stop="20200526041500">
+    <title>Voyage au bout de la nuit</title>
+    <sub-title>Nesrine lit Bel-Ami</sub-title>
+    <category lang="fr">magazine littéraire</category>
+    <length units="minutes">27</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7fe004f9-7d57-469c-851b-85140b3a6846.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526041500" stop="20200526044200">
     <title>Gym direct</title>
+    <sub-title>100% fesssiers</sub-title>
     <desc lang="fr">De nouvelles personnalités invitées et toujours autant de vitalité incarnée par Sandrine Arcizet et son équipe de coachs du lundi au vendredi.</desc>
     <category lang="fr">fitness</category>
-    <length units="minutes">30</length>
+    <length units="minutes">27</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c68e7ce-c7bf-4d16-9e83-0463a7b293fd.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526043000" stop="20200526050000">
+  <programme channel="C445.api.telerama.fr" start="20200526044200" stop="20200526051100">
     <title>Gym direct</title>
+    <sub-title>Haut du corps</sub-title>
     <desc lang="fr">De nouvelles personnalités invitées et toujours autant de vitalité incarnée par Sandrine Arcizet et son équipe de coachs du lundi au vendredi.</desc>
     <category lang="fr">fitness</category>
-    <length units="minutes">30</length>
+    <length units="minutes">29</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c68e7ce-c7bf-4d16-9e83-0463a7b293fd.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526050000" stop="20200526064500">
+  <programme channel="C445.api.telerama.fr" start="20200526051100" stop="20200526054200">
     <title>Télé-achat</title>
     <category lang="fr">magazine de télé-achat</category>
-    <length units="minutes">105</length>
+    <length units="minutes">31</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526064500" stop="20200526104500">
+  <programme channel="C445.api.telerama.fr" start="20200526054200" stop="20200526061200">
+    <title>Télé-achat</title>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526061200" stop="20200526064300">
+    <title>Télé-achat</title>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">31</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526064300" stop="20200526070600">
+    <title>Télé-achat</title>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">23</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526070600" stop="20200526074300">
     <title>Les animaux de la 8</title>
-    <desc lang="fr">Les Animaux de la 8 est une émission animalière tourné en extérieur et est essentiellement consacrée au thème des animaux domestiques et des animaux de parc zoologique. Le magazine propose un autre regard sur le monde animalier et l'environnement et parcourt de façon précise un sujet, avec un temps de format assez long pour pouvoir faire plus qu'un rapide survol ou qu'une simple anecdote.</desc>
+    <sub-title>Escapade animalière dans le cotentin</sub-title>
+    <desc lang="fr">Le long de la Manche, entre terre et mer, Stéphanie, ancienne Parisienne, est bergère depuis plus de dix ans. Près de Granville, Elodie Ageron fait la connaissance de Brigitte et ses 19 ânes du Cotentin. Sur la plage de Surtainville, Sandrine Arcizet se retrouve au milieu d'une quinzaine de cockers, avant de rejoindre la ferme aux cinq saisons.</desc>
     <category lang="fr">magazine animalier</category>
-    <length units="hours">4</length>
+    <length units="minutes">37</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/45b66b7c-4e8c-4fbb-ab8e-f61660aac57c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526074300" stop="20200526081600">
+    <title>Les animaux de la 8</title>
+    <sub-title>En Belgique, à la découverte de drôles d'animaux</sub-title>
+    <desc lang="fr">En Belgique, Elodie Ageron et Sandrine Arcizet se rendent dans le zoo le plus fréquenté du pays, Pairi Daiza. Sandrine approche pour la première fois un diable de Tasmanie et découvre ensuite un oiseau géant du Nil, le bec-en-sabot. Les présentatrices caressent la petite Malee, une jeune éléphante d'à peine quatre mois. Toujours en Wallonie, à Charleroi, Sandrine se rend au Dog Pool, une piscine pour chiens. Dans les Flandres, à Haacht, Elodie suit un cheval de trait belge. Enfin au centre de Bruxelles, Elodie rend visite au prince Laurent de Belgique, dont la fondation vient en aide aux plus démunis et à leurs animaux de compagnie.</desc>
+    <category lang="fr">magazine animalier</category>
+    <length units="minutes">33</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/45b66b7c-4e8c-4fbb-ab8e-f61660aac57c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526081600" stop="20200526084900">
+    <title>Les animaux de la 8</title>
+    <sub-title>A Brest, dans les coulisses d'Océanopolis</sub-title>
+    <desc lang="fr">A Océanopolis, Jean plonge dans le grand bassin des requins pour nettoyer les vitres de l'aquarium. Sandrine Arcizet retrouve Christine au centre de soin des phoques. Elodie Ageron l'aide à contrôler le poids de Vénus, une vieille loutre d'Europe affectueuse. Les deux animatrices prêtent ensuite main forte aux soigneurs pour nourrir raies et manchots.</desc>
+    <category lang="fr">magazine animalier</category>
+    <length units="minutes">33</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/45b66b7c-4e8c-4fbb-ab8e-f61660aac57c.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526104500" stop="20200526113000">
-    <title>William à midi : première partie</title>
-    <desc lang="fr">À l'heure du déjeuner, les experts de William à Midi! livreront infos et conseils pour vous permettre d'être mieux avertis des pièges que tout consommateur doit affronter. L'émission débutera par un JT qui sera suivi de chroniques et reportages proposés par les experts de la consommation, de la santé, de la nutrition, du droit ou encore des animaux. Grâce à WAM, devenez des consommateurs exigeants en étant des téléspectateurs bien informés.</desc>
+  <programme channel="C445.api.telerama.fr" start="20200526084900" stop="20200526091900">
+    <title>Les animaux de la 8</title>
+    <sub-title>Phoque, poulpe et brebis : on part à Biarritz !</sub-title>
+    <desc lang="fr">Entre terre et océan, Elodie Ageron et Sandrine Arcizet découvrent les traditions basques et des animaux typiques du Sud-Ouest, comme les porcs basques ou la brebis manech à tête rousse.</desc>
+    <category lang="fr">magazine animalier</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/45b66b7c-4e8c-4fbb-ab8e-f61660aac57c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526091900" stop="20200526094900">
+    <title>Les animaux de la 8</title>
+    <sub-title>Escapade animalière dans les Côtes d'Armor</sub-title>
+    <desc lang="fr">Au large de Plougrescant, Sandrine Arcizet rencontre le navigateur Guirec Soudée et sa poule, qui l'a accompagné lors de son tour du monde à la voile. Elle fait ensuite un tour de roulotte tractée par un cheval de trait breton. De son côté, Elodie Ageron assiste à la première sortie de chiots Basset Hound à Trégastel. Puis, près de Saint-Brieuc, elle suit une vétérinaire de campagne.</desc>
+    <category lang="fr">magazine animalier</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7630d171-efc1-4a30-b3d2-9a4579adc03e.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526094900" stop="20200526102100">
+    <title>Les animaux de la 8</title>
+    <sub-title>100% chiens dans le Sud-Ouest</sub-title>
+    <desc lang="fr">Elodie Ageron et Sandrine Arcizet participent à un cani triathlon sur la côte landaise. Sur le cynodrome de Mont-de-Marsan, elles découvrent des lévriers aussi élégants que rapides. Sur la plage de Vieux-Boucau-les-Bains, le docteur Pondevie montre à Sandrine comme faire passer un test de QI à un chien. A Pau, Elodie assiste Hervé, toiletteur.</desc>
+    <category lang="fr">magazine animalier</category>
+    <length units="minutes">32</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/45b66b7c-4e8c-4fbb-ab8e-f61660aac57c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526102100" stop="20200526105400">
+    <title>Les animaux de la 8</title>
+    <sub-title>De Colmar à Mulhouse, à la découverte des animaux du Haut-Rhin !</sub-title>
+    <desc lang="fr">Au zoo de Mulhouse, Elodie Ageron approche Nanuq, une oursonne de 4 mois, avant de tenter de réaliser une échographie sur un lémurien. Sandrine Arcizet va à la rencontre de la panthère de l'amour, un félin menacé d'extinction. A Colmar, elle observe les cigognes du haut de la collégiale Saint-Martin, puis passe en cuisine pour confectionner des friandises pour chiens en forme de bretzel. Enfin, les deux présentatrices se retrouvent pour une balade sportive avec des chiens-loups tchécoslovaques.</desc>
+    <category lang="fr">magazine animalier</category>
+    <length units="minutes">33</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/45b66b7c-4e8c-4fbb-ab8e-f61660aac57c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526105400" stop="20200526105900">
+    <title>La minute mobilité</title>
+    <category lang="fr">magazine de services</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526105900" stop="20200526110400">
+    <title>JT</title>
+    <desc lang="fr">Un rendez-vous d'information synthétique, pour comprendre le monde et les enjeux du moment. Un décodage moderne de l'actualité en quinze minutes d'infos denses et pédagogiques.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526110400" stop="20200526115100">
+    <title>William à midi</title>
+    <desc lang="fr">Une émission présentée par William Leymergie. Dédiée aux problématiques de notre quotidien, la santé, les droits du citoyen, la consommation, la nutrition, la famille, la maiso, le jardin et les animaux. L'émission débute avec le JT de Caroline Delage. Grâce à WAM, devenez des consommateurs exigeants en étant des téléspectateurs bien informés.</desc>
     <category lang="fr">magazine de société</category>
-    <length units="minutes">45</length>
+    <length units="minutes">47</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64c9689e-5aff-4b5d-8ee9-a2262f87dd18.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526113000" stop="20200526120000">
-    <title>William à midi</title>
-    <desc lang="fr">Une émission présentée par William Leymergie. Dédiée aux problématiques de notre quotidien, la santé, les droits du citoyen, la consommation, la nutrition, la famille, la maiso, le jardin et les animaux. L'émission débute avec le JT de Caroline Delage. Grâce à WAM, devenez des consommateurs exigeants en étant des téléspectateurs bien informés.</desc>
+  <programme channel="C445.api.telerama.fr" start="20200526115100" stop="20200526122100">
+    <title>William à midi : première partie</title>
+    <desc lang="fr">À l'heure du déjeuner, les experts de William à Midi! livreront infos et conseils pour vous permettre d'être mieux avertis des pièges que tout consommateur doit affronter. L'émission débutera par un JT qui sera suivi de chroniques et reportages proposés par les experts de la consommation, de la santé, de la nutrition, du droit ou encore des animaux. Grâce à WAM, devenez des consommateurs exigeants en étant des téléspectateurs bien informés.</desc>
     <category lang="fr">magazine de société</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/64c9689e-5aff-4b5d-8ee9-a2262f87dd18.jpg" />
@@ -6856,7 +7197,7 @@ Le Mal triomphe, et que font Harry et ses potes ? Ils partent camper dans la for
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526120000" stop="20200526134500">
+  <programme channel="C445.api.telerama.fr" start="20200526122100" stop="20200526134500">
     <title>Inspecteur Barnaby</title>
     <sub-title>Une alliance maléfique</sub-title>
     <desc lang="fr">Saison:11 - Episode:5 - De la magie noire à la magie du spectacle, tout n'est qu'illusion. Le magicien Aloysius le sait bien et en a même fait un livre. C'est lors d'une de ses prestations que son assistante est assassinée. Barnaby et Jones sont chargés de l'enquête, et les suspects,  tous des adeptes du cercle magique, ne manquent pas. Les deux inspecteurs vont découvrir un monde occulte, gangréné par la convoitise et la haine, où sorcellerie et poison font bon ménage. Très vite Barnaby remarque que tous, coupables ou innocents, en savent plus long qu'ils n'en disent. Derrière les apparences se cache un terrible secret, bien gardé par toute la communauté...</desc>
@@ -6877,14 +7218,14 @@ Le Mal triomphe, et que font Harry et ses potes ? Ils partent camper dans la for
       <writer>Michael Russell</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">105</length>
+    <length units="minutes">84</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2f0051c0-a9c0-4e64-a7cc-8bde756eb72b.jpg" />
     <episode-num system="xmltv_ns">10.4.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526134500" stop="20200526151500">
+  <programme channel="C445.api.telerama.fr" start="20200526134500" stop="20200526135900">
     <title>Inspecteur Barnaby</title>
     <sub-title>La guerre des espions</sub-title>
     <desc lang="fr">Saison:12 - Episode:3 - Alors qu'il arbitre un match de cricket, Barnaby est troublé par l'apparition de Brenda, une ancienne collègue des services secrets. Elle lui apprend que la propriété Allenby, dirigée par sir Malcolm Frazer, sert de refuge à certains membres du service. Justement, un agent important étant attendu, Brenda souhaiterait que Barnaby vérifie les systèmes de sécurité. La mort d'un mouton, horriblement déchiqueté, fait croire à l'existence d'un monstre qui rôde dans la campagne. Mais lorsqu'un des joueurs, Geoffrey Larkin, est retrouvé sans vie, portant les mêmes blessures, Barnaby comprend qu'il ne s'agit pas d'un monstre mais d'un assassin, et qu'il hante toujours les environs...</desc>
@@ -6904,7 +7245,7 @@ Le Mal triomphe, et que font Harry et ses potes ? Ils partent camper dans la for
       <writer>Michael Aitkens</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">90</length>
+    <length units="minutes">14</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f97dd9d3-30d6-4d2f-8696-00a3595cc4dc.jpg" />
     <episode-num system="xmltv_ns">11.2.</episode-num>
     <previously-shown />
@@ -6913,7 +7254,7 @@ Le Mal triomphe, et que font Harry et ses potes ? Ils partent camper dans la for
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526151500" stop="20200526164500">
+  <programme channel="C445.api.telerama.fr" start="20200526135900" stop="20200526155000">
     <title>Inspecteur Barnaby</title>
     <sub-title>Crimes en grandeur nature</sub-title>
     <desc lang="fr">Saison:12 - Episode:5 - Quand Barnaby et Jones arrivent à Little Worthing, ils ne s'attendent pas à trouver un homme poignardé. Il s'agit d'un certain Richard Tanner qui, tel Gulliver le géant, a été attaché au sol par un entrelacs de cordelettes. A Little Worthing, le village miniature dirigé par les soeurs Harriet et Hilary Compton, est la seule attraction touristique. Le meurtre est ressenti par tous les habitants comme une catastrophe. Barnaby va interroger les femmes les plus proches de la victime : Jackie, la demi-soeur, Rebecca, la fiancée éconduite, et Christa, sa dernière conquête. Elles se détestent toutes. Au cours de la traditionnelle course de bateaux organisée avec entrain par tous les habitants, un nouveau meurtre est commis...</desc>
@@ -6934,7 +7275,7 @@ Le Mal triomphe, et que font Harry et ses potes ? Ils partent camper dans la for
       <writer>Peter Hammond</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">90</length>
+    <length units="minutes">111</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ade43bf9-1d8b-4f89-9bf0-b6eb58f05e7f.jpg" />
     <episode-num system="xmltv_ns">11.4.</episode-num>
     <previously-shown />
@@ -6942,51 +7283,60 @@ Le Mal triomphe, et que font Harry et ses potes ? Ils partent camper dans la for
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526164500" stop="20200526173500">
-    <title>C que du kif : première partie</title>
-    <desc lang="fr">Cyril Hanouna est de retour en plateau au cours de laquelle il revient, avec ses chroniqueurs, sur toutes les actus médias et insolites.</desc>
+  <programme channel="C445.api.telerama.fr" start="20200526155000" stop="20200526164400">
+    <title>C que du kif Darka</title>
     <category lang="fr">divertissement</category>
-    <length units="minutes">50</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c156953-a307-4ad4-bfa1-aced90395be7.jpg" />
+    <length units="minutes">54</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526164400" stop="20200526173600">
+    <title>C que du kif Darka</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">52</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526173500" stop="20200526181500">
+  <programme channel="C445.api.telerama.fr" start="20200526173600" stop="20200526181600">
     <title>C que du kif</title>
-    <desc lang="fr">Cyril Hanouna est de retour en plateau au cours de laquelle il revient, avec ses chroniqueurs, sur toutes les actus médias et insolites.</desc>
+    <desc lang="fr">Cyril Hanouna est de retour en plateau dans une émission au cours de laquelle il revient, avec ses chroniqueurs, sur toutes les actus médias et insolites.</desc>
     <category lang="fr">divertissement</category>
     <length units="minutes">40</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3c156953-a307-4ad4-bfa1-aced90395be7.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526181500" stop="20200526191500">
+  <programme channel="C445.api.telerama.fr" start="20200526181600" stop="20200526191900">
     <title>A prendre ou à laisser</title>
     <desc lang="fr">Tout au long de la partie, le candidat du jour ouvre une à une les boîtes pour n'en garder qu'une seule et tenter de gagner jusqu'à 250 000 euros.</desc>
     <category lang="fr">jeu</category>
-    <length units="hours">1</length>
+    <length units="minutes">63</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5952b788-0fc1-4aef-a3b7-af874da60fa0.jpg" />
     <new />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526191500" stop="20200526210000">
+  <programme channel="C445.api.telerama.fr" start="20200526191900" stop="20200526210000">
     <title>De Funès : 100 ans de rire</title>
     <desc lang="fr">En 2014, Louis de Funès aurait eu 100 ans. Avec plus de 17 millions de spectateurs, «La Grande Vadrouille» restera le plus grand succès du box-office français jusqu'à la sortie de «Titanic». De «Poisson d'avril» à «La Traversée de Paris» en passant par «Le Corniaud», entre archives et témoignages de personnalités, tels Elie Semoun, Claude Zidi ou Danièle Thompson, entre autres, portrait de Louis de Funès, mais aussi de Bourvil, avec qui il constitua un duo comique mémorable.</desc>
     <date>2014</date>
     <category lang="fr">documentaire : cinéma</category>
-    <length units="minutes">105</length>
+    <length units="minutes">101</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0d985134-483f-435d-9aa7-b46fd45055e0.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526210000" stop="20200526224000">
+  <programme channel="C445.api.telerama.fr" start="20200526210000" stop="20200526224300">
     <title>Le petit baigneur</title>
     <desc lang="fr">Fourchaume, constructeur de bateaux, a viré Castagnier… De Funès se vautre avec délice dans ce rôle de saligaud face à un Robert Dhéry lunaire et attachant. - Critique : André Castagnier crée des prototypes de bateaux pour l’exécrable et tyrannique constructeur Fourchaume. Sa dernière invention, un dériveur baptisé Le Petit Baigneur, gagne une course prestigieuse. Mais, lorsqu’un commanditaire italien se présente pour en acheter une quantité impressionnante, Castagnier a déjà été brutalement renvoyé par Fourchaume. Il ne reste plus à ce dernier qu’à employer la ruse et l’intimidation pour faire revenir son souffre-douleur et obtenir le juteux contrat.
 
@@ -7011,7 +7361,7 @@ Après Ah ! les belles bacchantes, Louis de Funès retrouve ses complices des Br
     </credits>
     <date>1968</date>
     <category lang="fr">film : comédie</category>
-    <length units="minutes">100</length>
+    <length units="minutes">103</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2b56b6cf-a1d3-4748-8bbf-0b89ff345d80.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -7998,10 +8348,10 @@ Après Ah ! les belles bacchantes, Louis de Funès retrouve ses complices des Br
   </programme>
   <programme channel="C481.api.telerama.fr" start="20200526070000" stop="20200526100000">
     <title>Le Live BFM</title>
-    <desc lang="fr">Au cours de ces trois heures d'information en continu, Roselyne Dubois et Damien Gourlet développent les sujets qui ont marqué l'actualité de la nuit et ceux qui naissent durant la matinée. Un "Non Stop" dynamique ponctué de séquences culture, du tout-images sport sans oublier un œil sur la météo.</desc>
+    <desc lang="fr">Chaque matin, Thomas Misrachi prend le temps de s'arrêter sur certains évènements de l'actualité du jour. Un moment de pédagogie et d'explications à l'aide de reportages et d'éléments visuels pour prendre du recul sur les faits et permettre aux téléspectateurs de mieux comprendre les événements.</desc>
     <category lang="fr">journal</category>
     <length units="hours">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0287c742-c384-403f-996d-1728b7f6cb7b.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/09712ac9-ae7d-4b70-9238-393e04dde93a.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -8231,6 +8581,53 @@ Après Ah ! les belles bacchantes, Louis de Funès retrouve ses complices des Br
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4f9b1476-a4c7-4daf-8dd0-26fef3a2552c.jpg" />
     <episode-num system="xmltv_ns">4.20.</episode-num>
     <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200526031000" stop="20200526033200">
+    <title>Oggy et les cafards</title>
+    <sub-title>Attention fragile</sub-title>
+    <desc lang="fr">Saison:5 - Episode:22 - Oggy, un gros matou bleu, placide et paresseux, n'aspire qu'à une vie tranquille pour pouvoir ronronner en paix. Hélas ! Trois cafards ont décidé de lui polluer l'existence. Ils se nomment Joey, Deedee et Marky, et s'appliquent à le faire tourner en bourrique.</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">22</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4f9b1476-a4c7-4daf-8dd0-26fef3a2552c.jpg" />
+    <episode-num system="xmltv_ns">4.21.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200526033200" stop="20200526033500">
+    <title>Le geste écolo de Gulli</title>
+    <sub-title>Une douche écolo</sub-title>
+    <category lang="fr">magazine de l'environnement</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bf6bb3c2-b4ab-4166-b2d9-c1513bb470e1.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200526033500" stop="20200526034700">
+    <title>Maya l'abeille 3D</title>
+    <sub-title>Willy prend la mouche</sub-title>
+    <desc lang="fr">Saison:1 - Episode:57 - Maya et Willy s'accusent mutuellement d'avoir grignoté des grains de pollens de la réserve. Pour faire la paix, Willy part seul dans la forêt chercher de nouveaux grains...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">12</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/155778dd-4b56-4f9a-84e7-520b0b99ba66.jpg" />
+    <episode-num system="xmltv_ns">0.56.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C482.api.telerama.fr" start="20200526034700" stop="20200526040000">
+    <title>Maya l'abeille 3D</title>
+    <sub-title>Reine d'un jour</sub-title>
+    <desc lang="fr">Saison:1 - Episode:58 - La reine prend un peu de repos et sa remplaçante est très inexpérimentée. La ruche est rapidement désorganisée : Maya et Willy interviennent...</desc>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">13</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d16d8bfe-79c1-4a5c-a312-9247b02bef06.jpg" />
+    <episode-num system="xmltv_ns">0.57.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -9784,7 +10181,7 @@ Après Ah ! les belles bacchantes, Louis de Funès retrouve ses complices des Br
     <sub-title>Un petit lifting</sub-title>
     <desc lang="fr">Saison:5 - Une voiture n'a pas forcément besoin d'être construite à partir de zéro pour avoir un super style. C'est le cas de la Nomad de 1955. L'équipe change le châssis et augmente les performances de ce véhicule pour lui donner les atouts qui lui manquaient.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5eae73af-43ad-48f4-a1f7-c63110a28e7c.jpg" />
     <episode-num system="xmltv_ns">4..</episode-num>
@@ -9798,7 +10195,7 @@ Après Ah ! les belles bacchantes, Louis de Funès retrouve ses complices des Br
     <sub-title>Une drôle de proposition</sub-title>
     <desc lang="fr">Saison:5 - La saison des salons automobiles est toujours une grande période de l'année pour l'équipe. Un salon de Stockton en Californie lui fait une demande intéressante. En plus d'apporter certaines de ses créations, Dave est sollicité pour faire partie du jury et pour remettre un prix spécial.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5cae5797-ae03-4b2d-bb42-d17b8547bdfc.jpg" />
     <episode-num system="xmltv_ns">4..</episode-num>
@@ -9812,7 +10209,7 @@ Après Ah ! les belles bacchantes, Louis de Funès retrouve ses complices des Br
     <sub-title>Une corvette unique</sub-title>
     <desc lang="fr">Saison:5 - Un amateur de Corvettes veut que son modèle de 1963 soit équipé d'un moteur LSX et d'une plus grosse transmission. Il souhaite aussi qu'on lui retire ses échappements latéraux et qu'on la repeigne d'une couleur unique.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5cae5797-ae03-4b2d-bb42-d17b8547bdfc.jpg" />
     <episode-num system="xmltv_ns">4..</episode-num>
@@ -9826,7 +10223,7 @@ Après Ah ! les belles bacchantes, Louis de Funès retrouve ses complices des Br
     <sub-title>Elle a tout d'une grande</sub-title>
     <desc lang="fr">Saison:5 - Un collectionneur est né la même année que sa Corvette de 1962. Il demande à Dave d'améliorer certaines de ses composantes. La voiture va être légèrement rallongée et le réservoir d'essence déplacé, en plus d'autres transformations nécessaires</desc>
     <date>2018</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5cae5797-ae03-4b2d-bb42-d17b8547bdfc.jpg" />
     <episode-num system="xmltv_ns">4..</episode-num>
@@ -9840,7 +10237,7 @@ Après Ah ! les belles bacchantes, Louis de Funès retrouve ses complices des Br
     <sub-title>Une vieille connaissance</sub-title>
     <desc lang="fr">Saison:5 - Il y a quatre ans, Vinnie Massaro a apporté sa Charger au Kindig-It Design pour quelques améliorations mineures. Le résultat l'avait véritablement bluffé. Cette fois, il est de retour pour qu'on lui construise le Morpar le plus fou et le plus furieux de la planète.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4c87a44b-9ce9-47c1-bb0f-fbcea2f5a98d.jpg" />
     <episode-num system="xmltv_ns">4..</episode-num>
@@ -9854,7 +10251,7 @@ Après Ah ! les belles bacchantes, Louis de Funès retrouve ses complices des Br
     <sub-title>Un modèle d'exception</sub-title>
     <desc lang="fr">Saison:5 - Le travail sur la Coronet de 1967 se poursuit. Le métal est peaufiné, la voiture est prête à être repeinte. Vinnie a mis tout son enthousiasme dans ce projet et Dave a réalisé son design le plus innovant à ce jour.</desc>
     <date>2018</date>
-    <category lang="fr">documentaire téléréalité</category>
+    <category lang="fr">documentaire : téléréalité</category>
     <length units="minutes">50</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5cae5797-ae03-4b2d-bb42-d17b8547bdfc.jpg" />
     <episode-num system="xmltv_ns">4..</episode-num>
@@ -10062,7 +10459,7 @@ Après Ah ! les belles bacchantes, Louis de Funès retrouve ses complices des Br
     </rating>
   </programme>
   <programme channel="C1401.api.telerama.fr" start="20200526185500" stop="20200526211500">
-    <title>Football : Coupe du monde (Coupe du monde)</title>
+    <title>Football : Coupe du monde (France / Croatie)</title>
     <category lang="fr">sport : football</category>
     <length units="minutes">140</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d92693cd-b1c0-44f2-a3ef-c749e6c9faef.jpg" />
@@ -10300,6 +10697,7 @@ Après Ah ! les belles bacchantes, Louis de Funès retrouve ses complices des Br
     <desc lang="fr">Versailles a vu se jouer bien des drames et des comédies : la journée des dupes, en 1630, les fêtes somptueuses de Louis XIV, mais aussi le sordide attentat contre Louis XV. Au fil de ses investigations, Franck Ferrand perce les zones d'ombre de ce grand palais, théâtre de l'Histoire de France.</desc>
     <category lang="fr">magazine historique</category>
     <length units="minutes">90</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/07a8966f-f744-44ea-912f-5060411436f3.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -11286,7 +11684,7 @@ Le scénario doit beaucoup à René Goscinny, alors rédacteur en chef de Pilote
   <programme channel="C1404.api.telerama.fr" start="20200526185000" stop="20200526185500">
     <title>Petits plats en équilibre</title>
     <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.</desc>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/44abc967-bf27-4f03-a2e9-5cee53327225.jpg" />
     <rating system="CSA">
@@ -11679,12 +12077,12 @@ Le scénario doit beaucoup à René Goscinny, alors rédacteur en chef de Pilote
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C4.api.telerama.fr" start="20200526225500" stop="20200527004500">
+  <programme channel="C4.api.telerama.fr" start="20200526231000" stop="20200527005500">
     <title>Lea Tsemel, avocate</title>
     <desc lang="fr">Lea Tsemel, avocate, défend depuis un demi-siècle la cause des Palestiniens. Ils sont syndicalistes ou féministes, lanceurs de pierres ou têtes pensantes de l'action armée. Depuis la dernière intifada, il y a aussi des mineurs : des gosses désespérés qui courent les rues armés de couteaux volés dans la cuisine de leur mère, pensant qu'ils deviendront des hommes en même temps que des martyrs.</desc>
     <date>2019</date>
-    <category lang="fr">documentaire justice</category>
-    <length units="minutes">110</length>
+    <category lang="fr">documentaire : justice</category>
+    <length units="minutes">105</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f906beff-8d58-438d-8b62-bfffd904995e.jpg" />
     <premiere />
     <rating system="CSA">
@@ -11695,7 +12093,7 @@ Le scénario doit beaucoup à René Goscinny, alors rédacteur en chef de Pilote
       <value>5/5</value>
     </star-rating>
   </programme>
-  <programme channel="C34.api.telerama.fr" start="20200526232100" stop="20200527004400">
+  <programme channel="C34.api.telerama.fr" start="20200526232100" stop="20200527004500">
     <title>Deux fils</title>
     <desc lang="fr">Joseph veut laisser tomber son métier de médecin pour devenir écrivain. Une jeune femme l'a persuadée qu'il avait du talent. Joachim assiste, impuissant, à la crise existentielle de son père. Le jeune homme ne se remet pas d'une rupture amoureuse et en néglige ses études de psychiatrie. Yvan, son jeune frère collégien et en pleine crise mystique, assiste à la débacle de sa famille et se met à boire. L'arrivée d'une jeune femme dans la vie de Joachim pourrait changer la donne. De son côté, Joseph, malgré son manque de talent, veut continuer à croire en ses rêves... - Critique : Sur l’affiche, dessinée par Floc’h, les deux fils tiennent leur père, miniaturisé, par la main. Comme des parents attentifs agrippent leur enfant dans une rue animée. Dans cette comédie douce-amère, tout en délicatesse, les adultes se comportent comme des enfants, et les adolescents brûlent les étapes de leur émancipation. Ravagé par la mort de son frère, Joseph (Benoît Poelvoorde) abandonne son cabinet de médecin pour écrire un roman, persuadé, à tort, de marcher dans les pas de Tolstoï. Son fils aîné, Joachim (Vincent Lacoste), est à peine plus vaillant : torturé par sa dernière rupture amoureuse, il procrastine au lieu de travailler à sa thèse de psychiatrie. Yvan (Mathieu Capella, une révélation), le cadet, 13 ans, en pleine crise mystique, se met à boire en constatant avec angoisse l’effondrement de ses deux figures tutélaires.
 
@@ -11716,7 +12114,7 @@ Sur un canevas classique de film d’apprentissage et de reconstruction sentimen
     </credits>
     <date>2018</date>
     <category lang="fr">film : comédie dramatique</category>
-    <length units="minutes">83</length>
+    <length units="minutes">84</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a58f5fda-57bd-411e-b20e-948e74913325.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -11774,7 +12172,7 @@ Sur un canevas classique de film d’apprentissage et de reconstruction sentimen
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526220500" stop="20200526233500">
+  <programme channel="C78.api.telerama.fr" start="20200526220000" stop="20200526233000">
     <title>La vie au temps de Cro-Magnon</title>
     <desc lang="fr">Il y a 20 000 ans vivait l'homme de Cro-Magnon. L'un d'entre eux, Tashar, est un adolescent qui mène une vie paisible dans un clan dirigé par Chaleg. Un jour, il rencontre Yaline, une jeune femme d'un autre clan objet d'un troc conclu par Chaleg. Raconter l'histoire de cet adolescent préhistorique permet de se plonger dans ces âges farouches et découvrir la vie quotidienne des hommes de Cro-Magnon.</desc>
     <date>2019</date>
@@ -11786,11 +12184,11 @@ Sur un canevas classique de film d’apprentissage et de reconstruction sentimen
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526233500" stop="20200526235000">
+  <programme channel="C78.api.telerama.fr" start="20200526233000" stop="20200526234900">
     <title>Basique, les sessions</title>
     <desc lang="fr">Saison:2 - Un jeune talent ou un artiste confirmé se produit sur la scène du Bus Palladium et interprète trois titres, dont une reprise.</desc>
     <category lang="fr">magazine musical</category>
-    <length units="minutes">15</length>
+    <length units="minutes">19</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/53f03499-1e38-4a03-a63e-df8ae7b78205.jpg" />
     <episode-num system="xmltv_ns">1..</episode-num>
     <premiere />
@@ -11798,23 +12196,47 @@ Sur un canevas classique de film d’apprentissage et de reconstruction sentimen
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C78.api.telerama.fr" start="20200526235000" stop="20200526235500">
+  <programme channel="C78.api.telerama.fr" start="20200526234900" stop="20200526235000">
     <title>Consomag</title>
     <sub-title>Peut-on faire construire au bord de la mer ?</sub-title>
     <desc lang="fr">Une émission de l'Institut national de la consommation.</desc>
     <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">5</length>
+    <length units="minutes">1</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6601962c-b576-480d-b5c0-1af9267d3386.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C78.api.telerama.fr" start="20200526235000" stop="20200526235500">
+    <title>Soda</title>
+    <desc lang="fr">Episode:679 - Le quotidien d'Adam, 18 ans, avec ses parents, sa petite soeur diabolique, ses deux meilleurs amis, ses angoisses, ses rêves d'adolescent et ses plus grands défis : le monde des adultes et les filles.</desc>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">.678.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C78.api.telerama.fr" start="20200526235500" stop="20200527000000">
     <title>Soda</title>
-    <desc lang="fr">Episode:679 - Le quotidien d'Adam, 18 ans, avec ses parents, sa petite soeur diabolique, ses deux meilleurs amis, ses angoisses, ses rêves d'adolescent et ses plus grands défis : le monde des adultes et les filles.</desc>
+    <desc lang="fr">Le quotidien d'Adam, 18 ans, avec ses parents, sa petite soeur diabolique, ses deux meilleurs amis, ses angoisses, ses rêves d'adolescent et ses plus grands défis : le monde des adultes et les filles.</desc>
+    <credits>
+      <director>Nath Dumont</director>
+      <actor>Kev Adams</actor>
+      <actor>Guy Lecluyse</actor>
+      <actor>Laurence Oltuski</actor>
+      <actor>Syrielle Mejias</actor>
+      <actor>Alika Del Sol</actor>
+      <actor>William Lebghil</actor>
+      <actor>Gaël Cottat</actor>
+      <actor>Lucie Boujenah</actor>
+      <writer>Frank Bellocq</writer>
+      <writer>David Soussan</writer>
+      <writer>Kev Adams</writer>
+      <writer>Cyril Cohen</writer>
+    </credits>
     <category lang="fr">série humoristique</category>
     <length units="minutes">5</length>
-    <episode-num system="xmltv_ns">.678.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -11829,7 +12251,7 @@ Sur un canevas classique de film d’apprentissage et de reconstruction sentimen
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C80.api.telerama.fr" start="20200526223000" stop="20200527000700">
+  <programme channel="C80.api.telerama.fr" start="20200526223000" stop="20200527000800">
     <title>Inspecteur Lewis</title>
     <sub-title>De l'autre côté du miroir</sub-title>
     <desc lang="fr">Saison:3 - Episode:1 - Lewis et Hathaway enquêtent sur le meurtre d'une jeune immigrée tchèque, Marina Hartner, assassinée à l'aide d'un ancien miroir persan. Le meurtrier a signé son crime d'un énigmatique «Uqbara» avec le sang de sa victime. Hamid Jassim, professeur de religion comparée, informe Lewis que le miroir lui a été volé alors qu'il assistait au lancement du nouveau roman fantastique de Dorian Crane, un écrivain à succès. C'est alors que Lewis et Hathaway rencontrent le professeur Deering, l'oncle d'Alice Wishart, fiancée et muse de Dorian. Lorsqu'ils apprennent que le savant connaissait la victime, les deux policiers réalisent que Marina a peut-être été tuée par erreur, à la place d'Alice...</desc>
@@ -11850,7 +12272,7 @@ Sur un canevas classique de film d’apprentissage et de reconstruction sentimen
       <writer>Stephen Churchett</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">97</length>
+    <length units="minutes">98</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f6fdf6d5-2537-440e-aaf3-269e9c5f5ff0.jpg" />
     <episode-num system="xmltv_ns">2.0.</episode-num>
     <rating system="CSA">
@@ -11879,7 +12301,7 @@ Sur un canevas classique de film d’apprentissage et de reconstruction sentimen
   <programme channel="C111.api.telerama.fr" start="20200526234000" stop="20200527003500">
     <title>Arte reportage</title>
     <sub-title>Colombie / Nigeria / États-Unis</sub-title>
-    <desc lang="fr">À Bogota, la capitale, le chiffon rouge, d'abord symbole de la faim, est devenu l'étendard de la colère / C'est l'une des plus grandes catastrophes écologiques au monde : depuis plus d'un demi-siècle, une marée noire perpétuelle souille le delta du Niger / Après avoir combattu deux ans en Syrie aux côtés des Kurdes, Zafer Ronin est rentré chez lui, dans le Kansas.</desc>
+    <desc lang="fr">À Bogota, le chiffon rouge, d'abord symbole de la faim, est devenu l'étendard de la colère / C'est l'une des plus grandes catastrophes écologiques au monde : depuis plus d'un demi-siècle, une marée noire perpétuelle souille le delta du Niger / Après avoir combattu deux ans en Syrie aux côtés des Kurdes, Zafer Ronin est rentré chez lui, dans le Kansas.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="minutes">55</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d47d41b6-d374-4d23-91ad-9dc3b42ca90a.jpg" />
@@ -11962,7 +12384,7 @@ Sur un canevas classique de film d’apprentissage et de reconstruction sentimen
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526223000" stop="20200526231900">
+  <programme channel="C160.api.telerama.fr" start="20200526223300" stop="20200526232100">
     <title>Kepler(s)</title>
     <sub-title>Sous le projecteur</sub-title>
     <desc lang="fr">Saison:1 - Episode:4 - Alice a arrêté Kepler, mais la découverte du sens donné aux postures des statues, c'est-à-dire la référence à la statue des bourgeois de Calais de Rodin, et le fait que le tueur vise les parents de ses victimes, reforme le duo. Alice et Kepler comprennent que Mokart, le sous-préfet, sera la prochaine cible et sa fille la prochaine victime. Parallèlement, Kepler passe un pacte avec ses «passagers» pour qu'ils chassent le thérapeute. Il commence à composer avec eux, mais finit par reprendre ses médicaments...</desc>
@@ -11980,18 +12402,18 @@ Sur un canevas classique de film d’apprentissage et de reconstruction sentimen
       <writer>Yoann Legave</writer>
     </credits>
     <category lang="fr">série dramatique</category>
-    <length units="minutes">49</length>
+    <length units="minutes">48</length>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C160.api.telerama.fr" start="20200526231900" stop="20200527011900">
+  <programme channel="C160.api.telerama.fr" start="20200526232100" stop="20200527012200">
     <title>Questions au gouvernement</title>
     <sub-title>A l'Assemblée Nationale</sub-title>
     <desc lang="fr">Cette émission propose de revoir les moments forts de l'examen des textes dans l'hémicycle et des auditions en commission.</desc>
     <category lang="fr">débat parlementaire</category>
-    <length units="hours">2</length>
+    <length units="minutes">121</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a5a2b1f6-da50-43da-b10d-151dcb6c71d7.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -12095,12 +12517,31 @@ Sur un canevas classique de film d’apprentissage et de reconstruction sentimen
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C234.api.telerama.fr" start="20200526223000" stop="20200526233000">
+  <programme channel="C226.api.telerama.fr" start="20200526220000" stop="20200526233000">
+    <title>L'info du vrai</title>
+    <desc lang="fr">Le grand rendez-vous d'information qu'est "L'Info du vrai" a imposé son approche carrée de l'actualité. Grâce à ses invités, il distingue le sérieux de l'anecdotique, le vrai du faux. Yves Calvi se saisit de ce qui alimente les "Fake news" qui se propagent souvent sans contrôle. L'émission s'efforce d'offrir une mise au point sur la réalité.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">90</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/df258386-eab9-42f8-b9e3-80093c62749a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C226.api.telerama.fr" start="20200526233000" stop="20200527040000">
+    <title>L'édition de la nuit</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">270</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d2411c34-9753-4a79-a718-40f41ae4cbed.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C234.api.telerama.fr" start="20200526223400" stop="20200526233000">
     <title>Qatar, guerre d'influence sur l'Islam d'Europe</title>
     <desc lang="fr">Ce documentaire fait le point sur l'influence que certains responsables du Qatar tentent d'instaurer en Europe. En 2012, l'organisation non-gouvernementale Qatar Charity a ouvert un bureau à Londres. En 2017, un lanceur d'alerte dévoile des milliers de documents appartenant à cette importante ONG. Ces documents tendent à prouver que des sommes d'argent ont financé un programme d'institution islamique à l'échelle de l'Europe : mosquées, centres religieux, écoles, associations. Derrière ces financements se cache un objectif : renforcer le poids du Qatar en lien notamment avec les frères musulmans. Certains groupes djihadistes en bénéficieraient-ils aussi ?</desc>
     <date>2018</date>
     <category lang="fr">documentaire : géopolitique</category>
-    <length units="hours">1</length>
+    <length units="minutes">56</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a177463c-650e-4773-a04a-470714d54935.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -12112,7 +12553,8 @@ Sur un canevas classique de film d’apprentissage et de reconstruction sentimen
   </programme>
   <programme channel="C234.api.telerama.fr" start="20200526233000" stop="20200527000000">
     <title>DébatDoc</title>
-    <desc lang="fr">Les soirées DébatDoc, présentées par Jean-Pierre Gratien, s'invitent en prime time sur LCP. Chaque soir, un débat accompagne la diffusion d'un documentaire. En quête de sens, ce rendez-vous prend de la hauteur et lance les discussions pour prolonger le regard du réalisateur et répondre au questionnement soulevé.</desc>
+    <sub-title>Le Qatar finance-t-il l'islam radical ?</sub-title>
+    <desc lang="fr">Les thèmes sociaux, politiques ou économiques d'un documentaire sont débattus par des parlementaires, des acteurs de la société civile et des experts.</desc>
     <category lang="fr">débat</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d2449872-17b8-4353-ab07-32c6151f7e97.jpg" />
@@ -12146,13 +12588,25 @@ Sur un canevas classique de film d’apprentissage et de reconstruction sentimen
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C445.api.telerama.fr" start="20200526224000" stop="20200527040000">
-    <title>Programmes de la nuit</title>
-    <category lang="fr">programme indéterminé</category>
-    <length units="minutes">320</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+  <programme channel="C445.api.telerama.fr" start="20200526224300" stop="20200526224500">
+    <title>La minute mobilité</title>
+    <category lang="fr">magazine de services</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d303a3bf-21d9-477f-bca8-5844795803d5.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C445.api.telerama.fr" start="20200526224500" stop="20200527003200">
+    <title>Enquête sous haute tension</title>
+    <sub-title>Chauffards, bagarres et violences : 100 jours avec les gendarmes de l'Isère (n°3)</sub-title>
+    <desc lang="fr">Au sud de Vienne, la brigade territoriale de Roussillon, composée de 34 gendarmes, est chargée d'assurer l'ordre au quotidien. Cambriolages, trafic de stupéfiants, accidents, violences et outrages, ils sont sur tous les fronts. Les caméras suivent également les missions de leurs collègues du PSIG.</desc>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">107</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/315ae890-8ccb-4129-a445-1e4ef5620110.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
   <programme channel="C446.api.telerama.fr" start="20200526224500" stop="20200527043000">

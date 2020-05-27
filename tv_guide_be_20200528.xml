@@ -194,7 +194,7 @@
   <programme channel="C23.api.telerama.fr" start="20200528101000" stop="20200528102500">
     <title>Dagelijkse kost</title>
     <sub-title>Vegetarische caesarsandwich</sub-title>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5b86aadc-ef7a-4529-93eb-a880f0482932.jpg" />
     <previously-shown />
@@ -365,7 +365,7 @@
   <programme channel="C23.api.telerama.fr" start="20200528161500" stop="20200528163000">
     <title>Dagelijkse kost</title>
     <sub-title>Frambozentaart met limoenpudding en pistachenootjes</sub-title>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5b86aadc-ef7a-4529-93eb-a880f0482932.jpg" />
     <rating system="CSA">
@@ -572,14 +572,24 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C50.api.telerama.fr" start="20200528054000" stop="20200528060000">
+  <programme channel="C50.api.telerama.fr" start="20200528054000" stop="20200528055500">
     <title>Arc-en-Ciel</title>
     <sub-title>Dans la peau d'une autre</sub-title>
     <desc lang="fr">Saison:1 - Episode:47 - Hippauline apprend qu'il vaut mieux être bien dans sa peau, plutôt que de vouloir se glisser dans celle des autres...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">20</length>
+    <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fb2bf013-95a7-4d13-8ed5-cd5a844e5c30.jpg" />
     <episode-num system="xmltv_ns">0.46.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200528055500" stop="20200528060000">
+    <title>Yapaka, une vie de chien</title>
+    <desc lang="fr">Episode:4 -</desc>
+    <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+    <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -911,17 +921,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200527233400" stop="20200528002100">
-    <title>On n'est pas des pigeons</title>
-    <desc lang="fr">Présenté par Benjamin Maréchal, On n'est pas des pigeons ! décrypte les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire " pigeonner ". Les chroniqueurs dénichent les arnaques et les bons plans, et vous aident à boucler vos fins de mois.</desc>
-    <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">47</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C164.api.telerama.fr" start="20200528002100" stop="20200528002500">
     <title>Météo</title>
     <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
@@ -1000,16 +999,6 @@
     <length units="minutes">43</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5da63861-c2f5-4813-8e45-82a5756ddde3.jpg" />
     <episode-num system="xmltv_ns">.5553.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200528104300" stop="20200528105300">
-    <title>Quel temps !</title>
-    <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1324,11 +1313,12 @@
   </programme>
   <programme channel="C168.api.telerama.fr" start="20200528102500" stop="20200528103000">
     <title>Martin bonheur</title>
-    <desc lang="fr">Le Chef David Martin nous accueille dans la cuisine de sa maison. Il nous conseille sur les produits, les techniques de cuisson pour que cuisiner redevienne un vrai plaisir.</desc>
+    <sub-title>La pâte à beignets du Chef</sub-title>
+    <desc lang="fr">Le chef cuisinier David Martin accueille les téléspectateurs dans la cuisine de sa maison pour leur faire goûter ses plats.</desc>
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
-    <premiere />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1412,7 +1402,8 @@
   </programme>
   <programme channel="C168.api.telerama.fr" start="20200528141500" stop="20200528142500">
     <title>Martin bonheur</title>
-    <desc lang="fr">Le Chef David Martin nous accueille dans la cuisine de sa maison. Il nous conseille sur les produits, les techniques de cuisson pour que cuisiner redevienne un vrai plaisir.</desc>
+    <sub-title>La pâte à beignets du Chef</sub-title>
+    <desc lang="fr">Le chef cuisinier David Martin accueille les téléspectateurs dans la cuisine de sa maison pour leur faire goûter ses plats.</desc>
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
@@ -1545,17 +1536,6 @@ Le réalisateur sème, comme les cailloux du Petit Poucet, des références pour
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/eba5a0be-d0b6-4db8-9f38-b068c093b653.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200527234800" stop="20200528001900">
-    <title>Max et Vénus</title>
-    <sub-title>Blanquette de veau et de ris de veau</sub-title>
-    <desc lang="fr">Fanny Jandrain et Maximilien, entourés de leurs chroniqueuses, vous fixent rendez-vous sur La Deux pour leur émission culinaire : tendances et bonne humeur garanties !</desc>
-    <category lang="fr">magazine culinaire</category>
-    <length units="minutes">31</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2056,16 +2036,6 @@ Le réalisateur sème, comme les cailloux du Petit Poucet, des références pour
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C377.api.telerama.fr" start="20200528030000" stop="20200528070000">
-    <title>Télé-achat</title>
-    <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
-    <category lang="fr">magazine de télé-achat</category>
-    <length units="hours">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C377.api.telerama.fr" start="20200528070000" stop="20200528083000">
     <title>Shopping Hours</title>
     <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
@@ -2110,7 +2080,7 @@ Le réalisateur sème, comme les cailloux du Petit Poucet, des références pour
   </programme>
   <programme channel="C377.api.telerama.fr" start="20200528131500" stop="20200528132500">
     <title>Martin bonheur</title>
-    <sub-title>La pâte à beignets du chef</sub-title>
+    <sub-title>La pâte à beignets du Chef</sub-title>
     <desc lang="fr">Le chef cuisinier David Martin accueille les téléspectateurs dans la cuisine de sa maison pour leur faire goûter ses plats.</desc>
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">10</length>
@@ -2388,27 +2358,6 @@ Le réalisateur sème, comme les cailloux du Petit Poucet, des références pour
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200527231000" stop="20200528035900">
-    <title>Boucle de nuit</title>
-    <category lang="fr">programme indéterminé</category>
-    <length units="minutes">289</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200528035900" stop="20200528040700">
-    <title>Paf le chien</title>
-    <sub-title>La recrue</sub-title>
-    <desc lang="fr">Saison:1 - Episode:26 - Paf est un chien astucieux et bon acrobate. C'est le chien de Lola, une adorable petite fille. Il cache bien son jeu car en réalité il est un héros qui protège sa maitresse et sauve ses amis des attaques du terrible Tank et du trio de pigeons maléfiques.</desc>
-    <category lang="fr">jeunesse : dessin animé</category>
-    <length units="minutes">8</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c4e59dd-5eae-421f-ad0d-97fa478bff68.jpg" />
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C892.api.telerama.fr" start="20200528040700" stop="20200528041400">
@@ -3272,7 +3221,7 @@ boomerang qu'on vient de lui livrer. Agacées, les sisters parviennent à détou
       <actor>Vimala Pons</actor>
       <actor>Mehdi Djaadi</actor>
       <actor>Agnès Jaoui</actor>
-      <actor>Ramzy Bedia</actor>
+      <actor>Ramzy Bédia</actor>
       <actor>Laurent Capelluto</actor>
       <actor>Claudia Tagbo</actor>
       <actor>Camélia Jordana</actor>
@@ -3990,7 +3939,7 @@ boomerang qu'on vient de lui livrer. Agacées, les sisters parviennent à détou
   <programme channel="C23.api.telerama.fr" start="20200528221000" stop="20200528222500">
     <title>Dagelijkse kost</title>
     <sub-title>Frambozentaart met limoenpudding en pistachenootjes</sub-title>
-    <category lang="fr">magazine magazine de la gastronomie</category>
+    <category lang="fr">magazine de la gastronomie</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5b86aadc-ef7a-4529-93eb-a880f0482932.jpg" />
     <previously-shown />
@@ -4038,66 +3987,12 @@ boomerang qu'on vient de lui livrer. Agacées, les sisters parviennent à détou
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200528220100" stop="20200528224800">
-    <title>On n'est pas des pigeons</title>
-    <desc lang="fr">Présenté par Benjamin Maréchal, On n'est pas des pigeons ! décrypte les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire " pigeonner ". Les chroniqueurs dénichent les arnaques et les bons plans, et vous aident à boucler vos fins de mois.</desc>
-    <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">47</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C164.api.telerama.fr" start="20200528224800" stop="20200528225800">
     <title>Quel temps !</title>
     <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
     <category lang="fr">météo</category>
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200528225800" stop="20200528231100">
-    <title>OpinionS</title>
-    <sub-title>CSC</sub-title>
-    <desc lang="fr">OpinionS est un magazine sociétal qui laisse la parole aux grands partis politiques démocratiques présents en Belgique francophone et aux associations professionnelles tant patronales, comme la Fédération Wallonne de l'Agriculture et l'Union des Classes Moyennes, que syndicales, c'est-à-dire FGTB, CSC et CGSLB.</desc>
-    <category lang="fr">magazine politique</category>
-    <length units="minutes">13</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200528231100" stop="20200528231500">
-    <title>Météo</title>
-    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200528231500" stop="20200528235600">
-    <title>JT 19h30</title>
-    <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">41</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200528235600" stop="20200529004200">
-    <title>On n'est pas des pigeons</title>
-    <desc lang="fr">Présenté par Benjamin Maréchal, On n'est pas des pigeons ! décrypte les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire " pigeonner ". Les chroniqueurs dénichent les arnaques et les bons plans, et vous aident à boucler vos fins de mois.</desc>
-    <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">46</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -4116,7 +4011,8 @@ boomerang qu'on vient de lui livrer. Agacées, les sisters parviennent à détou
   </programme>
   <programme channel="C168.api.telerama.fr" start="20200528223500" stop="20200528224000">
     <title>Martin bonheur</title>
-    <desc lang="fr">Le Chef David Martin nous accueille dans la cuisine de sa maison. Il nous conseille sur les produits, les techniques de cuisson pour que cuisiner redevienne un vrai plaisir.</desc>
+    <sub-title>La pâte à beignets du Chef</sub-title>
+    <desc lang="fr">Le chef cuisinier David Martin accueille les téléspectateurs dans la cuisine de sa maison pour leur faire goûter ses plats.</desc>
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
