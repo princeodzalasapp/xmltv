@@ -32,10 +32,13 @@
     <display-name>Ketnet</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
   </channel>
-  <programme channel="C23.api.telerama.fr" start="20200601235900 +0200" stop="20200602000000 +0200">
-    <title>Keno</title>
-    <category lang="fr">loterie</category>
-    <length units="minutes">1</length>
+  <programme channel="C23.api.telerama.fr" start="20200601235500 +0200" stop="20200602000000 +0200">
+    <title>Dagelijkse kost</title>
+    <sub-title>Gelakte ribben met sweet chiliketchup</sub-title>
+    <category lang="fr">magazine magazine de la gastronomie</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5b86aadc-ef7a-4529-93eb-a880f0482932.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -46,18 +49,6 @@
     <category lang="fr">magazine de télé-achat</category>
     <length units="minutes">340</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200601235200 +0200" stop="20200602004100 +0200">
-    <title>On n'est pas des pigeons</title>
-    <sub-title>Best of</sub-title>
-    <desc lang="fr">Une compilation des meilleurs moments de la saison écoulée du magazine de la consommation de la RTBF. Décryptages des tendances, tests des nouveaux produits et services et informations pointues sont au programme d'"On n'est pas des pigeons".</desc>
-    <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">49</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -124,20 +115,29 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200602000000 +0200" stop="20200602001500 +0200">
+  <programme channel="C1280.api.telerama.fr" start="20200601223000 +0200" stop="20200602000500 +0200">
+    <title>Het mooiste van de wedstrijd</title>
+    <category lang="fr">emission musicale</category>
+    <length units="minutes">95</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/53f03499-1e38-4a03-a63e-df8ae7b78205.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20200602000000 +0200" stop="20200602001000 +0200">
     <title>Dagelijkse kost</title>
-    <category lang="fr">magazine de la gastronomie</category>
-    <length units="minutes">15</length>
+    <category lang="fr">magazine magazine de la gastronomie</category>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5b86aadc-ef7a-4529-93eb-a880f0482932.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20200602001500 +0200" stop="20200602003500 +0200">
+  <programme channel="C23.api.telerama.fr" start="20200602001000 +0200" stop="20200602003500 +0200">
     <title>Iedereen beroemd</title>
     <category lang="fr">magazine de société</category>
-    <length units="minutes">20</length>
+    <length units="minutes">25</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -282,7 +282,7 @@
   </programme>
   <programme channel="C23.api.telerama.fr" start="20200602122000 +0200" stop="20200602123500 +0200">
     <title>Dagelijkse kost</title>
-    <category lang="fr">magazine de la gastronomie</category>
+    <category lang="fr">magazine magazine de la gastronomie</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5b86aadc-ef7a-4529-93eb-a880f0482932.jpg" />
     <previously-shown />
@@ -496,7 +496,7 @@
   </programme>
   <programme channel="C23.api.telerama.fr" start="20200602181500 +0200" stop="20200602183000 +0200">
     <title>Dagelijkse kost</title>
-    <category lang="fr">magazine de la gastronomie</category>
+    <category lang="fr">magazine magazine de la gastronomie</category>
     <length units="minutes">15</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5b86aadc-ef7a-4529-93eb-a880f0482932.jpg" />
     <rating system="CSA">
@@ -645,27 +645,6 @@
     <length units="minutes">42</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/74c24372-bf07-46db-beb7-0b63ba657e79.jpg" />
     <episode-num system="xmltv_ns">1.8.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C50.api.telerama.fr" start="20200602050000 +0200" stop="20200602053000 +0200">
-    <title>De Journal</title>
-    <desc lang="fr">Suivez les actualités du journal télévisé en luxembourgeois.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C50.api.telerama.fr" start="20200602053000 +0200" stop="20200602063500 +0200">
-    <title>Télé-achat</title>
-    <desc lang="fr">Tous vos produits préférés pour la cuisine, la salle de bain, votre voiture, votre bien-être, bref de quoi améliorer votre vie au quotidien, tout cela présenté en détail.</desc>
-    <category lang="fr">magazine de télé-achat</category>
-    <length units="minutes">65</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1057,84 +1036,6 @@ Le débarquement (tourné en Corse !) et l’assaut de Sainte-Mère-Eglise, avec
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200602004100 +0200" stop="20200602005200 +0200">
-    <title>Quel temps !</title>
-    <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">11</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d6ab3575-c1d0-4572-8090-b2d813f99fc9.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200602005200 +0200" stop="20200602005500 +0200">
-    <title>Météo</title>
-    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200602005500 +0200" stop="20200602013600 +0200">
-    <title>JT 19h30</title>
-    <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">41</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200602013600 +0200" stop="20200602022400 +0200">
-    <title>On n'est pas des pigeons</title>
-    <sub-title>Best of</sub-title>
-    <desc lang="fr">Une compilation des meilleurs moments de la saison écoulée du magazine de la consommation de la RTBF. Décryptages des tendances, tests des nouveaux produits et services et informations pointues sont au programme d'"On n'est pas des pigeons".</desc>
-    <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">48</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200602022400 +0200" stop="20200602022700 +0200">
-    <title>Météo</title>
-    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200602022700 +0200" stop="20200602030800 +0200">
-    <title>JT 19h30</title>
-    <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">41</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/277044c2-0ee0-4c34-bdaf-7542e3746ab8.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200602030800 +0200" stop="20200602043000 +0200">
-    <title>43640966</title>
-    <sub-title>Marcher : Pas à pas ?</sub-title>
-    <desc lang="fr">Pour mieux faire connaître aux familles les nombreux services gratuits que l'ONE met à leur disposition mais aussi les informer à propos de la santé et de l'éducation des enfants de 0 à 12 ans.</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">82</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/92731c63-4502-49e1-bc4f-b0d984ede315.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C164.api.telerama.fr" start="20200602080000 +0200" stop="20200602090000 +0200">
     <title>Le 8-9</title>
     <desc lang="fr">Autour de Cyril une joyeuse bande composée de Jérôme de Warzée, Fabian Lecastel, Thibault Roland, Bruno Tummers, Cathy Immelen, David Jeanmotte et Jean-Luc Fonck vous réveille dans la bonne humeur. Chaque jour, une personnalité (artiste, chanteur, écrivain) est invitée à parler de son actualité.</desc>
@@ -1251,7 +1152,7 @@ Le débarquement (tourné en Corse !) et l’assaut de Sainte-Mère-Eglise, avec
   <programme channel="C164.api.telerama.fr" start="20200602134100 +0200" stop="20200602142600 +0200">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">L'émission à succès de France télévisions animée par Sophie Davant permet, à qui le veut, de proposer un objet qu'il souhaite vendre. Une fois retenu, l'objet est expertisé par un spécialiste et proposé aux enchères à des acheteurs, qui sont au nombre de 5 et varient selon les émissions.</desc>
-    <category lang="fr">magazine de l'art de vivre</category>
+    <category lang="fr">magazine magazine de l'art de vivre</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
     <rating system="CSA">
@@ -1261,7 +1162,7 @@ Le débarquement (tourné en Corse !) et l’assaut de Sainte-Mère-Eglise, avec
   <programme channel="C164.api.telerama.fr" start="20200602142600 +0200" stop="20200602151200 +0200">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
     <desc lang="fr">L'émission à succès de France télévisions animée par Sophie Davant permet, à qui le veut, de proposer un objet qu'il souhaite vendre. Une fois retenu, l'objet est expertisé par un spécialiste et proposé aux enchères à des acheteurs, qui sont au nombre de 5 et varient selon les émissions.</desc>
-    <category lang="fr">magazine de l'art de vivre</category>
+    <category lang="fr">magazine magazine de l'art de vivre</category>
     <length units="minutes">46</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
     <rating system="CSA">
@@ -1350,16 +1251,6 @@ Le débarquement (tourné en Corse !) et l’assaut de Sainte-Mère-Eglise, avec
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">51</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/159d914e-38fe-4e40-8be3-efd8bb535681.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20200602192100 +0200" stop="20200602193000 +0200">
-    <title>Météo</title>
-    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">9</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1514,7 +1405,7 @@ Le débarquement (tourné en Corse !) et l’assaut de Sainte-Mère-Eglise, avec
     <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
     <category lang="fr">magazine de télé-achat</category>
     <length units="minutes">65</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1616,7 +1507,7 @@ Le débarquement (tourné en Corse !) et l’assaut de Sainte-Mère-Eglise, avec
     <desc lang="fr">Saison:1 - Des centaines de pâtissiers amateurs viennent présenter le gâteau dont ils sont le plus fiers. Par région, ils le présentent à un professionnel, qui doit sélectionner le dessert qu'il pourra commercialiser.</desc>
     <category lang="fr">magazine culinaire</category>
     <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dfa478d-722c-4c44-af94-0887f22795bf.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -1651,7 +1542,7 @@ Le débarquement (tourné en Corse !) et l’assaut de Sainte-Mère-Eglise, avec
     <desc lang="fr">Saison:6 - " Chasseurs d'appart' " est la 1ère compétition d'agents immobiliers. Animée par Stéphane Plaza, elle oppose trois professionnels aux profils très différents. Pendant une semaine, ces derniers vont s'affronter dans la recherche du bien idéal pour un client commun. Ce dernier choisit ensuite le chasseur d'appartement qui aura le mieux répondu à ses attentes, lui offrant ainsi un point. Si le client dépose un dossier accepté par le vendeur, ce n'est pas un, mais trois points qu'obtient le chasseur immobilier. A la fin de la semaine, la finale qui oppose les deux agents ayant obtenu le plus de points. Le gagnant remporte la jolie somme de 3.000 euros. Stéphane, lui, commentera les visites des différents biens avec le professionnalisme et l'humour qu'on lui connaît.</desc>
     <category lang="fr">jeu</category>
     <length units="minutes">65</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3f1fb20f-12ab-4e2b-9e12-030d9cc2e502.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b6f33d6e-d1ee-46aa-86ef-90eb8ec1cdc8.jpg" />
     <episode-num system="xmltv_ns">5..</episode-num>
     <premiere />
     <rating system="CSA">
@@ -1875,38 +1766,6 @@ Le débarquement (tourné en Corse !) et l’assaut de Sainte-Mère-Eglise, avec
     <star-rating>
       <value>1/5</value>
     </star-rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200602015600 +0200" stop="20200602020300 +0200">
-    <title>Vews</title>
-    <desc lang="fr">Vews propose des vidéos d'actualité destinées au web. Elles apportent un regard différent sur l'info avec un ton direct et authentique. L'expérience se prolonge sous la forme d'un JT basé sur les vidéos de la journée, enrichies avec des directs, du décryptage et de la découverte.</desc>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">7</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5c5855b4-bff6-4630-8367-4c5bd7aaff4d.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200602020300 +0200" stop="20200602020700 +0200">
-    <title>Météo</title>
-    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20200602020700 +0200" stop="20200602071500 +0200">
-    <title>Boucle de la nuit</title>
-    <desc lang="fr">La Télé vous donne le pouls de l'actualité de votre région avec des équipes de reporters parcourant la Suisse romande et intervenant en direct du coeur de l'événement. Rediffusion des moments forts de la semaine.</desc>
-    <category lang="fr">programme indéterminé</category>
-    <length units="minutes">308</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
   </programme>
   <programme channel="C187.api.telerama.fr" start="20200602071500 +0200" stop="20200602074300 +0200">
     <title>Fit Tonic</title>
@@ -2482,7 +2341,7 @@ Le débarquement (tourné en Corse !) et l’assaut de Sainte-Mère-Eglise, avec
     <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
     <category lang="fr">magazine de télé-achat</category>
     <length units="minutes">90</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2feaeba-87d2-4f7e-83a6-7e3f72ef4dd3.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2820,16 +2679,6 @@ Le débarquement (tourné en Corse !) et l’assaut de Sainte-Mère-Eglise, avec
     <length units="minutes">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
     <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20200602014600 +0200" stop="20200602022000 +0200">
-    <title>CQFD (Ce qui fait débat)</title>
-    <desc lang="fr">Du lundi au vendredi, Arnaud Ruyssen et Catherine Tonero orchestrent un face à face contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, l'actualité de la semaine est analysée par Arnaud Ruyssen et ses invités.</desc>
-    <category lang="fr">débat</category>
-    <length units="minutes">34</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/80d9221f-3d1d-41a8-8fe3-d6abdcac1dfc.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3720,6 +3569,15 @@ Bertrand Tavernier avait situé son histoire « dans un avenir très proche, ver
     <category lang="fr">documentaire : société</category>
     <length units="minutes">74</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1140bbbb-6bdb-49cd-8a77-27060f473de2.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200602000500 +0200" stop="20200602060000 +0200">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">355</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/88b88b09-1af1-4e76-8466-c06c9ac324d7.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
