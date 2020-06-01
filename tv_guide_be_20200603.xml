@@ -32,10 +32,10 @@
     <display-name>Ketnet</display-name>
     <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
   </channel>
-  <programme channel="C1280.api.telerama.fr" start="20200602190500" stop="20200603040000">
+  <programme channel="C1280.api.telerama.fr" start="20200602210500" stop="20200603040000">
     <title>Pause</title>
     <category lang="fr">autre</category>
-    <length units="minutes">535</length>
+    <length units="minutes">415</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/88b88b09-1af1-4e76-8466-c06c9ac324d7.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
@@ -294,7 +294,7 @@
   </programme>
   <programme channel="C23.api.telerama.fr" start="20200603182000" stop="20200603184500">
     <title>7</title>
-    <category lang="fr">documentaire autre</category>
+    <category lang="fr">documentaire : autre</category>
     <length units="minutes">25</length>
     <rating system="CSA">
       <value>Tout public</value>
@@ -430,6 +430,27 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C50.api.telerama.fr" start="20200603030000" stop="20200603033000">
+    <title>De Journal</title>
+    <desc lang="fr">Suivez les actualités du journal télévisé en luxembourgeois.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C50.api.telerama.fr" start="20200603033000" stop="20200603043500">
+    <title>Télé-achat</title>
+    <desc lang="fr">Tous vos produits préférés pour la cuisine, la salle de bain, votre voiture, votre bien-être, bref de quoi améliorer votre vie au quotidien, tout cela présenté en détail.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5d26a793-e2ef-4ea7-80ec-8263b9fa6fed.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C50.api.telerama.fr" start="20200603043500" stop="20200603045500">
     <title>Heidi *2015</title>
     <sub-title>Le défi</sub-title>
@@ -535,7 +556,7 @@
   </programme>
   <programme channel="C50.api.telerama.fr" start="20200603074000" stop="20200603094000">
     <title>Shopping Hours</title>
-    <desc lang="fr">Tous vos produits préférés pour la cuisine, la salle de bain, votre voiture, votre bien-être, bref de quoi améliorer votre vie au quotidien, tout cela présenté en détail.</desc>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
     <category lang="fr">magazine de télé-achat</category>
     <length units="hours">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d83d171c-78fa-407d-a3fd-163c94f14f5d.jpg" />
@@ -808,7 +829,7 @@ Louis Guichard</desc>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200602232100" stop="20200603000200">
+  <programme channel="C164.api.telerama.fr" start="20200602232800" stop="20200603000900">
     <title>JT 19h30</title>
     <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
     <category lang="fr">journal</category>
@@ -818,27 +839,27 @@ Louis Guichard</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200603000200" stop="20200603002400">
+  <programme channel="C164.api.telerama.fr" start="20200603000900" stop="20200603003000">
     <title>Questions en prime</title>
     <category lang="fr">magazine d'information</category>
-    <length units="minutes">22</length>
+    <length units="minutes">21</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8c54e999-6001-4506-b435-58301e6ea2e4.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200603002400" stop="20200603011000">
+  <programme channel="C164.api.telerama.fr" start="20200603003000" stop="20200603011700">
     <title>On n'est pas des pigeons</title>
     <desc lang="fr">Présenté par Benjamin Maréchal, On n'est pas des pigeons ! décrypte les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire " pigeonner ". Les chroniqueurs dénichent les arnaques et les bons plans, et vous aident à boucler vos fins de mois.</desc>
     <category lang="fr">magazine du consommateur</category>
-    <length units="minutes">46</length>
+    <length units="minutes">47</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6601962c-b576-480d-b5c0-1af9267d3386.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200603011000" stop="20200603011300">
+  <programme channel="C164.api.telerama.fr" start="20200603011700" stop="20200603012000">
     <title>Météo</title>
     <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
     <category lang="fr">météo</category>
@@ -849,11 +870,11 @@ Louis Guichard</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200603011300" stop="20200603035900">
+  <programme channel="C164.api.telerama.fr" start="20200603012000" stop="20200603035900">
     <title>JT 19h30</title>
     <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
     <category lang="fr">journal</category>
-    <length units="minutes">166</length>
+    <length units="minutes">159</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -871,17 +892,17 @@ Louis Guichard</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200603070000" stop="20200603083100">
+  <programme channel="C164.api.telerama.fr" start="20200603070000" stop="20200603083200">
     <title>C'est vous qui le dites</title>
     <desc lang="fr">Le rendez-vous interactif et piquant de VivaCité est diffusé chaque matin sur La Une. Au menu: humour, réactivité, débat et mauvaise foi autour d'un sujet d'actualité, animé par Benjamin Maréchal.</desc>
     <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">91</length>
+    <length units="minutes">92</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6f89853d-d20e-4584-b9e5-8c255a04823f.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200603083100" stop="20200603092700">
+  <programme channel="C164.api.telerama.fr" start="20200603083200" stop="20200603092800">
     <title>On n'est pas des pigeons</title>
     <desc lang="fr">Présenté par Benjamin Maréchal, On n'est pas des pigeons ! décrypte les codes de la consommation et du marketing pour que chacun puisse faire son choix sans se faire " pigeonner ". Les chroniqueurs dénichent les arnaques et les bons plans, et vous aident à boucler vos fins de mois.</desc>
     <category lang="fr">magazine du consommateur</category>
@@ -891,7 +912,7 @@ Louis Guichard</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200603092700" stop="20200603095400">
+  <programme channel="C164.api.telerama.fr" start="20200603092800" stop="20200603095500">
     <title>Demain nous appartient</title>
     <desc lang="fr">Saison:1 - Episode:50 - La police se lance sur les traces d'Eddy, tandis qu'Elisabeth fait tout pour la devancer. Lucas s'inquiète de la disparition d'Audrey...</desc>
     <credits>
@@ -920,7 +941,7 @@ Louis Guichard</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200603095400" stop="20200603095700">
+  <programme channel="C164.api.telerama.fr" start="20200603095500" stop="20200603095800">
     <title>43640966</title>
     <sub-title>Grossesse - Le tabac?</sub-title>
     <desc lang="fr">Conseils et astuces pour devenir des parents "exemplaires".</desc>
@@ -932,11 +953,11 @@ Louis Guichard</desc>
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200603095700" stop="20200603103800">
+  <programme channel="C164.api.telerama.fr" start="20200603095800" stop="20200603103800">
     <title>Les feux de l'amour</title>
     <desc lang="fr">Episode:5306 - Dylan emmène Sharon, Mariah, Faith et Sully faire du camping. Faith trouve l'activité agréable et accepte volontiers de partir pêcher le dîner avec Dylan...</desc>
     <category lang="fr">feuilleton sentimental</category>
-    <length units="minutes">41</length>
+    <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5da63861-c2f5-4813-8e45-82a5756ddde3.jpg" />
     <episode-num system="xmltv_ns">.5305.</episode-num>
     <rating system="CSA">
@@ -995,25 +1016,27 @@ Louis Guichard</desc>
   </programme>
   <programme channel="C164.api.telerama.fr" start="20200603114100" stop="20200603122700">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
-    <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
+    <desc lang="fr">L'émission à succès de France télévisions animée par Sophie Davant permet, à qui le veut, de proposer un objet qu'il souhaite vendre. Une fois retenu, l'objet est expertisé par un spécialiste et proposé aux enchères à des acheteurs, qui sont au nombre de 5 et varient selon les émissions.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
     <length units="minutes">46</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
+    <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200603122700" stop="20200603131500">
+  <programme channel="C164.api.telerama.fr" start="20200603122700" stop="20200603131400">
     <title>Affaire conclue, tout le monde a quelque chose à vendre</title>
-    <desc lang="fr">Parce que les maisons sont remplies de babioles insolites qui ne demandent qu'à trouver acquéreurs, Sophie Davant accompagne les propriétaires d'objets tout au long des étapes susceptibles de les mener à la vente.</desc>
+    <desc lang="fr">L'émission à succès de France télévisions animée par Sophie Davant permet, à qui le veut, de proposer un objet qu'il souhaite vendre. Une fois retenu, l'objet est expertisé par un spécialiste et proposé aux enchères à des acheteurs, qui sont au nombre de 5 et varient selon les émissions.</desc>
     <category lang="fr">magazine de l'art de vivre</category>
-    <length units="minutes">48</length>
+    <length units="minutes">47</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5be72c07-bf14-4d86-b8dd-34fd0da836b8.jpg" />
+    <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200603131500" stop="20200603151600">
+  <programme channel="C164.api.telerama.fr" start="20200603131400" stop="20200603151400">
     <title>Brokenwood</title>
     <sub-title>Pour l'amour du golf</sub-title>
     <desc lang="fr">Saison:1 - Episode:3 - Un mercredi matin, les membres fondateurs du club de golf, qui se retrouvent pour leur sortie hebdomadaire, croisent Adele Stone, la propriétaire des lieux. Le visage rouge et gonflé, elle suffoque, avant de disparaître. Lorsque les joueurs la retrouvent un peu plus tard, Adele Stone est morte. Mike Shepherd et Kristin Sims entrent en scène pour tenter d'élucider ce décès si brutal, et pour le moins suspect. Les deux policiers pensent qu'il pourrait s'agir d'un homicide par empoisonnement. Dès lors, ils dressent une liste de suspects potentiels, exclusivement dans l'entourage de la victime...</desc>
@@ -1033,7 +1056,7 @@ Louis Guichard</desc>
       <writer>James Griffin</writer>
     </credits>
     <category lang="fr">série policière</category>
-    <length units="minutes">121</length>
+    <length units="hours">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/86d77b44-24aa-4e7a-8334-645f944d5680.jpg" />
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <rating system="CSA">
@@ -1041,12 +1064,22 @@ Louis Guichard</desc>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20200603151600" stop="20200603155500">
+  <programme channel="C164.api.telerama.fr" start="20200603151400" stop="20200603155200">
     <title>Un gars, un chef</title>
     <desc lang="fr">Les ingrédients de ce rendez-vous culinaire sont la simplicité, le dynamisme et la bonne humeur, en compagnie du chef Gerald Watelet et d'Adrien Devyver. Le duo de choc, soutenu par une belle brochette de chroniqueurs, promet une cuisine accessible et conviviale et des conseils en tout genre.</desc>
     <category lang="fr">magazine culinaire</category>
-    <length units="minutes">39</length>
+    <length units="minutes">38</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fd1b39b2-2e90-43b9-9b1b-4458648191c3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200603155200" stop="20200603155500">
+    <title>La minute d'Adrien</title>
+    <sub-title>Croque Sucré</sub-title>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fec55851-118b-4b03-a3d3-9fca65bf6fbe.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1099,6 +1132,16 @@ Louis Guichard</desc>
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C164.api.telerama.fr" start="20200603172300" stop="20200603173000">
+    <title>Météo</title>
+    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">7</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C164.api.telerama.fr" start="20200603173000" stop="20200603181100">
     <title>JT 19h30</title>
     <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
@@ -1124,6 +1167,17 @@ Louis Guichard</desc>
     <category lang="fr">météo</category>
     <length units="minutes">5</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c1daa841-dbf0-4dc4-a096-feba716c0035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20200603182200" stop="20200603194100">
+    <title>#Investigation</title>
+    <sub-title>Smur : immersion avec les urgentistes de l'extrême - L'étrange affaire du faux Magritte</sub-title>
+    <desc lang="fr">Au sommaire: "L'étrange affaire du faux Magritte". - "La Méthadone en rue, la gélule qui ne pardonne pas".</desc>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">79</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6172e2b6-ec4d-4d48-ae3d-e01ee1de45a5.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2365,21 +2419,53 @@ Pourtant, l’art hollywoodien de raconter les histoires opère ensuite. La situ
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200602235400" stop="20200603002000">
+  <programme channel="C892.api.telerama.fr" start="20200602234700" stop="20200603002700">
+    <title>JT 19h30</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7de0fb1c-d452-42a8-ad43-5c27dddef2b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200603002700" stop="20200603003000">
+    <title>Météo internationale</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ff420106-f5cd-474d-93b8-813b0c03b835.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200603003000" stop="20200603010000">
     <title>CQFD (Ce qui fait débat)</title>
     <desc lang="fr">Du lundi au jeudi, un rendez-vous avec l'info : un fait du jour décrypté par Arnaud Ruyssen et Catherine Tonero, un face à face sur une question polémique, un débat contradictoire de 25 minutes opposant acteurs de terrain, observateurs et commentateurs de l'actualité. Le vendredi, c'est toute l'actu de la semaine qui est analysée par Arnaud Ruyssen et ses invités.</desc>
     <category lang="fr">débat</category>
-    <length units="minutes">26</length>
+    <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/80d9221f-3d1d-41a8-8fe3-d6abdcac1dfc.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C892.api.telerama.fr" start="20200603002000" stop="20200603035900">
+  <programme channel="C892.api.telerama.fr" start="20200603010000" stop="20200603035900">
     <title>Boucle de nuit</title>
     <category lang="fr">programme indéterminé</category>
-    <length units="minutes">219</length>
+    <length units="minutes">179</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20200603035900" stop="20200603040700">
+    <title>Paf le chien</title>
+    <sub-title>Bague à part</sub-title>
+    <desc lang="fr">Episode:37 - La bague que papa veut offrir à maman tombe dans l'évier. Paf va aider à la récupérer avant que les Guanos ne la volent.</desc>
+    <category lang="fr">jeunesse : dessin animé</category>
+    <length units="minutes">8</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c4e59dd-5eae-421f-ad0d-97fa478bff68.jpg" />
+    <episode-num system="xmltv_ns">.36.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2825,6 +2911,7 @@ Pourtant, l’art hollywoodien de raconter les histoires opère ensuite. La situ
     <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/da5b869d-40b6-418d-9c34-f90dfa668649.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3241,7 +3328,7 @@ Pourtant, l’art hollywoodien de raconter les histoires opère ensuite. La situ
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200603041500" stop="20200603042500">
     <title>Twirlywoos</title>
-    <category lang="fr">jeunesse : dessin animé marionnettes</category>
+    <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <rating system="CSA">
       <value>Tout public</value>
@@ -3410,7 +3497,7 @@ Pourtant, l’art hollywoodien de raconter les histoires opère ensuite. La situ
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200603071500" stop="20200603072500">
     <title>Twirlywoos</title>
-    <category lang="fr">jeunesse : dessin animé marionnettes</category>
+    <category lang="fr">série d'animation</category>
     <length units="minutes">10</length>
     <rating system="CSA">
       <value>Tout public</value>
@@ -3805,7 +3892,7 @@ Pourtant, l’art hollywoodien de raconter les histoires opère ensuite. La situ
   </programme>
   <programme channel="C1280.api.telerama.fr" start="20200603163000" stop="20200603165000">
     <title>Down the Road Ketnet</title>
-    <category lang="fr">documentaire autre</category>
+    <category lang="fr">documentaire : autre</category>
     <length units="minutes">20</length>
     <rating system="CSA">
       <value>Tout public</value>
@@ -3908,11 +3995,20 @@ Pourtant, l’art hollywoodien de raconter les histoires opère ensuite. La situ
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
     </rating>
   </programme>
-  <programme channel="C1280.api.telerama.fr" start="20200603195000" stop="20200604040000">
-    <title>Pause</title>
-    <category lang="fr">autre</category>
-    <length units="minutes">490</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/88b88b09-1af1-4e76-8466-c06c9ac324d7.jpg" />
+  <programme channel="C1280.api.telerama.fr" start="20200603195000" stop="20200603213000">
+    <title>Het mooiste van de wedstrijd</title>
+    <category lang="fr">emission musicale</category>
+    <length units="minutes">100</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/53f03499-1e38-4a03-a63e-df8ae7b78205.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200603213000" stop="20200603220500">
+    <title>Het mooiste van de wedstrijd</title>
+    <category lang="fr">emission musicale</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/53f03499-1e38-4a03-a63e-df8ae7b78205.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -4114,6 +4210,15 @@ Pourtant, l’art hollywoodien de raconter les histoires opère ensuite. La situ
     <category lang="fr">programme indéterminé</category>
     <length units="minutes">279</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/652662c9-c14e-4f8a-9175-f29a6bd0112e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20200603220500" stop="20200604040000">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">355</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/88b88b09-1af1-4e76-8466-c06c9ac324d7.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
